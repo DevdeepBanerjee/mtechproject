@@ -1,0 +1,5001 @@
+type,name
+Crop,Paddy
+Crop,Rice
+Crop,Cotton
+Crop,Bajra
+Crop,Pearl Millet
+Crop,Jowar
+Crop,Sorghum
+Crop,Wheat
+Crop,Chickpea
+Crop,Gram
+Crop,Sunflower
+Crop,Barley
+Crop,Maize
+Crop,Sugarcane
+Pest,Locust
+Pest,Aphids
+Pesticide,Malathion
+Pesticide,Endosulfan
+State,Andhra Pradesh
+Season,Kharif
+Season,Rabi
+Season,Zaid
+State,Jammu And Kashmir
+Location,Central Plateau Region
+Location,Himalayan And Desert Areas
+Crop,Oilseeds
+Crop,Pulses
+Crop,Vegetables
+Crop,Fodder
+Location,Kashmir Valley
+Location,Ladakh
+Season,Sub-Tropical
+Season,Intermediate
+Season,Temperate
+Crop,Food Grains
+Irrigation,Irrigation
+FarmerPractice,Economic Survey Of J&K 2014-15
+District,Jammu
+State,J&K
+Soil,Soil
+FarmerPractice,Conservation Agriculture
+Pesticide,Gypsum
+Soil,Sodic Soils
+Disease,Waterlogging
+Nutrient,Npk
+Pesticide,Pesticides
+Fertilizer,Fertilizer
+Location,Jammu Region
+State,Punjab
+State,Haryana
+Country,India
+Crop,Apple
+Crop,Basmati Rice
+Pesticide,Herbicides
+Pesticide,Fungicides
+Pesticide,Insecticides
+FarmerPractice,Integrated Pest Management
+FarmerPractice,Integrated Nutrient Management
+FarmerPractice,Sustainable Agriculture
+Fertilizer,Chemical Fertilizers
+Nutrient,Rhizobium
+Irrigation,Shahpurkandi Dam Project
+Location,Kandi Areas
+Location,Ladakh Region
+District,Samba
+District,Kathua
+FarmerPractice,Animal Husbandry
+FarmerPractice,Fisheries
+FarmerPractice,Horticulture
+FarmerPractice,Plantation
+FarmerPractice,Integrated Organic Farming System (Iofs)
+Crop,Cereals
+Crop,Fruits
+Fertilizer,Vermincompost
+Soil,Healthy Soil
+Fertilizer,Mineral Fertilizer
+Soil,Agro-Ecosystem
+Crop,Rajmash
+Crop,Potato
+Crop,Red Rice
+Crop,Walnut
+Crop,Ginger
+Crop,Turmeric
+Crop,Saffron
+Crop,Spices
+FarmerPractice,Organic Farming
+Pesticide,Agrochemicals
+Weather,Environment
+Weather,Climate Change
+Nutrient,Nutrients
+Pest,Rice Stem Borer
+Pest,Brinjal Fruit Borer
+Pest,Caseworm
+Pest,Mango Stem Borer
+Pest,Red Hairy Caterpillar
+Pest,Mango Hoppers
+Pest,Chilli Thrips
+Pest,Mealy Bug
+Pest,Coconut Slug Caterpillar
+Pest,Brown Plant Hopper
+Pest,Rice Gall Midge
+Fertilizer,Fertilizers
+State,Kerala
+FarmerPractice,Integrated Pest Management (Ipm)
+FarmerPractice,Integrated Disease Management (Idm)
+FarmerPractice,Integrated Pest And Disease Management (Ipdm)
+FarmerPractice,Protected Cultivation
+FarmerPractice,Hydroponics
+FarmerPractice,Aquaponics
+Fertilizer,Biofertilizers
+Pesticide,Neem Oil
+Pesticide,Bordeaux Mixture
+Fertilizer,Panchagavya
+Fertilizer,Dasagavya
+Fertilizer,Fish Amino Acid
+Fertilizer,Egg Amino Acid
+Biocontrol_agent,Trichoderma
+Biocontrol_agent,Pseudomonas
+FarmerPractice,Soil Less Cultivation
+Fertilizer,Bio-Fertilizers
+Nutrient,Mycorrhizae
+FarmerPractice,Integrated Pest And Disease Management
+Pest,Pests
+Disease,Diseases
+Nutrient,Plant Health
+Nutrient,Food Safety
+Nutrient,Food Security
+Location,Agro-Based Industries
+Location,Economy
+FarmerPractice,Koch'S Postulates
+FarmerPractice,E-Crop Doctor
+FarmerPractice,Plant Disease Forecasting
+Pest,Insects
+Disease,Fungus
+Disease,Bacteria
+Disease,Virus
+Disease,Mycoplasma
+Soil,Abiotic Factors
+Pest,Pest Outbreak
+FarmerPractice,Plant Pathology
+Disease,Algae
+Symptom,Chlorosis
+Symptom,Yellowing
+Symptom,Damping Off
+Disease,Bacterial Blight Of Paddy
+Nutrient,Economic Threshold Level
+Nutrient,Economic Injury Level
+Pest,Thrips
+Pest,Bugs
+FarmerPractice,Economic Threshold Level
+FarmerPractice,Economic Injury Level
+FarmerPractice,Integrated Disease Management
+FarmerPractice,Weed Management
+Pesticide,Tridemorph
+Pesticide,Hexaconazole
+Pesticide,Contaf 5 Ec
+Pesticide,Mancozeb
+Fertilizer,Neem Cake
+Pesticide,Pseudomonas
+Pesticide,Beauvaria Bassiana
+Pesticide,Metarrhizium Anisopliae
+Pesticide,Carbaryl
+Disease,Panama Wilt
+Disease,Quick Wilt
+Disease,Stem Bleeding
+Disease,Bud Rot
+Pest,Red Palm Weevil
+Pest,Rhinoceros Beetle
+Pest,Coconut Leaf Caterpillar
+Pest,Button Mealy Bugs
+Pest,Coreid Bugs
+Pest,Mites
+Pest,Rodents
+Crop,Sun Hemp
+Crop,Cowpea
+Pesticide,Trichoderma
+Fertilizer,Cowdung
+Fertilizer,Neemcake
+Disease,Leafspot
+Pesticide,Coc
+Pesticide,Bleaching Powder
+Pesticide,Carbendazim
+Pesticide,Metarrhizium
+Pesticide,Nanma
+Pesticide,Menma
+Disease,Bunchy Top
+Disease,Banana Bract Mosaic
+Disease,Banana Streak Mosaic
+Disease,Sigatoka
+Pesticide,Lecanicilium Lecani
+Fertilizer,Lime
+Crop,Pepper Vines
+Fertilizer,Trichoderma Enriched Organic Manure
+Pesticide,Pseudomonas Fluorescens
+Pesticide,Bm
+Pesticide,Copper Fungicides
+Pesticide,Potassium Phosphonate
+Pesticide,Quinalphos
+Pesticide,Dimethoate
+Pesticide,Bacillus Macerans
+Crop,Eupatorium
+Pest,Fruit Fly
+Pest,Coffee Berry Borer
+Fertilizer,Ash
+Pest,Rice Meal Moth
+Pesticide,Aluminium Phosphide
+Pesticide,Methyl Bromide
+Nutrient,Trichoderma
+Crop,Andrographis
+Crop,Papaya Leaf
+Fertilizer,Cows Urine
+Crop,Garlic
+Crop,Bittergourd
+Crop,Coconut
+Crop,Brinjal
+Crop,Rose
+Crop,Orchids
+Crop,Anthurium
+Pest,Locusts
+Pest,Grasshoppers
+Pest,Mealy Bugs
+Pest,Jassids
+Pest,Pod Fly
+Pest,American Serpentine Leaf Miner
+Pest,Caterpillars
+Crop,Chilli
+Pest,Hoppers
+Crop,Vegetable Crops
+Pest,Chilli Aphids
+Pest,Whitefly
+Crop,Cucurbits
+Crop,Amaranthus
+Pesticide,Copper Sulphate
+Pesticide,Quick Lime
+Fertilizer,Cow Dung
+Fertilizer,Cow Ghee
+Fertilizer,Cow'S Urine
+Fertilizer,Cow Milk
+Fertilizer,Cow'S Curd
+Fertilizer,Tender Coconut Water
+Fertilizer,Jaggery
+Crop,Poovan Banana
+Crop,Azadirachta Indica
+Crop,Calotropis Sp
+Crop,Tephrosia Purpurea
+Crop,Vitex Negundo
+Crop,Datura Metel
+Crop,Jatropha Curcas
+Crop,Adathoda Vasica
+Crop,Pongamia Pinnata
+Bio-fertilizer,Rhizobium
+Bio-fertilizer,Bradyrhizobium
+Bio-fertilizer,Azorhizobium
+Bio-fertilizer,Azospirillum
+Bio-fertilizer,Blue-Green Algae
+Crop,Azolla
+Bio-fertilizer,Bacillus
+Bio-fertilizer,Aspergillus
+Bio-fertilizer,Penicillium
+Bio-fertilizer,Trichoderma
+Bio-fertilizer,Amf
+Bio-fertilizer,Frateuria Aurentia
+Fertilizer,Compost
+Fertilizer,Vermicompost
+Fertilizer,Biofertilizer
+Disease,Trichoderma Spp.
+Pesticide,Methyl Eugenol
+Pesticide,Cue Lure
+Pesticide,Ddvp
+Pesticide,Bacillus Thuringiensis
+Pesticide,Bacillus Macerance
+Pesticide,Nuclear Polyhedrosis Virus
+Pesticide,Cytoplasmic Polyhedrosis Virus
+Pesticide,Baculovirus
+Pest,Insect Pests
+Pest,Fruit Flies
+Pest,Lepidopteran
+Pest,Dipteran
+Pest,Coleopteran
+Pest,Root-Knot Nematode
+Crop,Perennial Crops
+Crop,Cucurbitaceous Crops
+Crop,Solanaceous Crops
+Crop,Mango
+Crop,Guava
+Crop,Papaya
+Crop,Citrus
+Crop,Cucumber
+Crop,Gherkin
+Crop,Melon
+Crop,Pumpkin
+Crop,Bitter Gourd
+Crop,Snake Gourd
+FarmerPractice,Sprayer
+Pesticide,Spray Fluid
+FarmerPractice,Nozzle
+FarmerPractice,Boom
+FarmerPractice,Knapsack Sprayer
+FarmerPractice,Bucket Sprayer
+FarmerPractice,Foot Sprayer
+FarmerPractice,Pneumatic Sprayers
+FarmerPractice,Compression Knapsack Sprayer
+FarmerPractice,Power Operated Sprayers
+FarmerPractice,Ulv Sprayer
+FarmerPractice,Duster
+FarmerPractice,Granular Applicator
+FarmerPractice,Air-Assisted Electrostatic Sprayers
+FarmerPractice,Fogging Machine
+FarmerPractice,Vision Guided Spraying System
+FarmerPractice,Gps Guided System
+Pest,Automatic Traps
+Pest,Remote Triggered Trap
+Pest,Pot Traps
+Pest,Snap Trap
+Pest,Glues
+Crop,Crop
+Pest,Rice Field Rats
+Pesticide,Botanicals
+Pesticide,Bio-Pesticides
+FarmerPractice,Fertigation
+Crop,Tomato
+Crop,Capsicum
+Crop,Salad Cucumber
+Fertilizer,Fym
+Soil,Red Soil
+Soil,Rice Husk
+Soil,Perlite
+Soil,Cocopeat
+Crop,Exotic Ornamental Plants
+Soil,Vermiculite
+FarmerPractice,Plastic Mulching
+FarmerPractice,Ipdm
+Fertilizer,Bonemeal
+Pesticide,Formaldehyde
+Pesticide,Methylbromide
+Irrigation,Drip Irrigation
+Irrigation,Microirrigation
+Pesticide,Trichoderma Viride
+Pesticide,Carbosulfan
+Fertilizer,19:19:19
+Fertilizer,12:6:18
+Fertilizer,Urea
+Fertilizer,Magnesium Nitrate
+Fertilizer,Ferrous Sulphate
+Fertilizer,Zinc Sulphate
+Fertilizer,Borax
+Pest,Chrysoperla Carnea
+Pest,Lecanicilium Lecanii
+Pest,Beauvaria Bassiana
+Pest,Phytoseiulus Persimilis
+Fungus,Trichoderma Viride
+Pesticide,Wettable Sulphur
+Crop,Portulaca Oleracea
+Pest,Tobacco Caterpillar
+Pesticide,Neem
+Pesticide,Emamectin Benzoate
+Pesticide,Chlorantranilipole
+Pesticide,Thiamethoxam
+Location,Kerala
+Fish,Tilapia
+Fish,Carp
+Nutrient,Ph
+Crop,Lettuce
+Crop,Broccoli
+Crop,Spinach
+Crop,Mint
+Crop,Ladies Finger
+Crop,Flowers
+Disease,Pesticide Residue
+Pesticide,Pesticide
+Pesticide,Insecticide
+Pesticide,Fungicide
+Pesticide,Herbicide
+Pesticide,Arsenicals
+Pesticide,Fluorides
+Pesticide,Organophosphorus Compounds
+Pesticide,Hydrogen Cyanide
+Pesticide,Heavy Oils
+Pesticide,Mercury
+Pesticide,Nicotine
+Pesticide,Imidacloprid
+Pesticide,Acetamiprid
+Pesticide,Cartap Hydrochloride
+Pesticide,Spinosad
+Pesticide,Emamectin
+Pesticide,Fipronil
+Pesticide,Indoxacarb
+Pesticide,Flubendiamide
+Pesticide,Chlorantraniliprole
+Pesticide,Fernoxone
+Pesticide,Bavistin
+Pesticide,Hinosan
+Pesticide,Indofil M-4
+Disease,Cancer
+Pest,Pest
+Pesticide,Pesticide Adjuvant
+Pesticide,Pesticide Formulation
+Pesticide,Pesticide Toxicity
+FarmerPractice,Pesticide Handling
+Crop,Agricultural Products
+Pesticide,Fernoxone 80% Wsp
+Pesticide,Bavistin 50 Wp
+Pesticide,Hinosan 50 Ec
+Pesticide,Indofil M -4 5 75% Wp
+Pesticide,Blitox 50 Wp
+Crop,Coconut Palms
+Pesticide,Pesticide Residue
+Pesticide,Carbaryl-1-Naphthyl -Methylcarbamate
+Pesticide,Ddt
+Pesticide,Aldrin
+Pesticide,Endrin
+Pesticide,Chlordane
+Pesticide,Heptachlor
+FarmerPractice,Good Agricultural Practices (Gap)
+FarmerPractice,Organic Certification
+Pesticide,Chemical Hazards
+Pesticide,Residual Toxicity
+Pesticide,Maximum Residue Limit
+Pesticide,Waiting Period
+FarmerPractice,Good Agricultural Practices
+Irrigation,Water
+Nutrient,Nutrient Deficiency
+FarmerPractice,Kissan Kerala Information System
+FarmerPractice,Karshikajalakam
+FarmerPractice,Fertilizer Advisor
+FarmerPractice,Pest Doctor
+FarmerPractice,Irrigation Advisor
+FarmerPractice,Crop Health Decision Support System
+FarmerPractice,Oushadham
+Crop,Rubber
+Location,Panchayats Of Kerala
+FarmerPractice,Community Radio
+District,Wayanad District
+FarmerPractice,Precision Farming
+FarmerPractice,Global Positioning System
+FarmerPractice,Geographic Information Systems
+Crop,Banana
+Crop,Tapioca
+Crop,Pineapple
+FarmerPractice,Krishibhavans
+FarmerPractice,Agriclinics And Agri Business Centers
+Fertilizer,Rkvy
+Disease,Plant Pathogens
+Soil,Soil Health
+FarmerPractice,Crop Insurance
+Fertilizer,Fertigation
+Crop,Okra
+Crop,Cassava
+Pest,Fall Armyworm
+Pest,Stem Borer
+Pest,Shoot Fly
+Pest,Tuta Absoluta
+Pest,Thrips Parvispinus
+Pest,Helicoverpa Armigera
+Pest,Creontiades Biseratense
+Pest,Earias Vittella
+Pest,Aphis Gossypii
+Pest,Bemisia Tabaci
+Pest,Spodoptera Frugiperda
+Pest,Aceria Guerreronis
+Pest,Mealybugs
+State,Karnataka
+State,Tamil Nadu
+State,Maharashtra
+State,Gujarat
+Season,Summer
+Crop,Asiatic Cotton
+Crop,Upland Cotton
+Crop,Hybrid Cotton
+Pest,American Bollworm
+Pest,Pink Bollworm
+Pest,Spotted Bollworm
+Pest,Leaf-Eating Caterpillar
+Crop,Bt Cotton
+Pesticide,Bollgard Ii
+Pest,Mealybug
+Crop,Tomatoes
+Pest,Fruit Borers
+Pest,Whiteflies
+Pest,Serpentine Leaf Miners
+Pest,South American Tomato Pinworm
+State,Odisha
+Pest,Scirtothrips Dorsalis
+Pest,Cassava Whitefly
+Pest,Cassava Scale
+Pest,Variegated Grasshoppers
+Pest,Phenacoccus Manihoti
+Pest,Fistulococcus Pokfulamensis
+Pest,Red Palm Weevils
+Pest,Black-Headed Caterpillars
+Pest,Rhinoceros Beetles
+Pest,Coconut Mites
+Pest,Rugose Spiralling Whitefly
+Location,Pollachi
+District,Salem
+District,Namakkal
+FarmerPractice,Smart Agriculture Equipment
+Pesticide,Agricultural Sprayers
+Pesticide,Mini Sprayers
+Pesticide,Trailer Mounted Sprayers
+Pesticide,Tractor Mounted Sprayers
+Fertilizer,Manure Spreader
+Location,Jammu Province
+Crop,Barely
+Crop,Peas
+Crop,Oil Seeds
+Crop,Roots And Tuber Vegetables
+Crop,Leafy And Tuber Vegetables
+Crop,Toria
+Crop,Mustard
+Fertilizer,Green Manure
+Soil,Fertility Of Soil
+Irrigation,Irrigation Facilities
+Nutrient,Hyv Seeds
+Crop,Lucerne
+Crop,Fodder Crops
+District,Udhampur
+State,Jammu & Kashmir
+Pesticide,Captafol
+Pesticide,Butachlor
+Pesticide,Pretilachlor
+Pesticide,Lindane
+Pesticide,Carbofuran
+Pesticide,Methyl Parathion
+Pesticide,Chlorpyriphos
+Pesticide,Zineb
+Fertilizer,F.Y.M.
+Fertilizer,Dap
+Nutrient,N
+Nutrient,P
+Soil,Clay To Clay Loam Soils
+Soil,Deep Black Loamy And Light Soils
+FarmerPractice,High Yielding Varieties
+Pesticide,Chlorpyriphos 20Ec
+Crop,Iet-1410
+Crop,China-1039
+Crop,Ratna
+Crop,Tawi
+Crop,Jaya
+Crop,Pr-113
+Crop,Rr-8585
+Crop,Basmati-370
+Crop,Dhaincha
+Fertilizer,D.A.P.
+Fertilizer,Znso4
+Fertilizer,Mop
+Pest,Trichoderma Viridi
+Fertilizer,Feso4
+Crop,Rice Straw
+Crop,Wheat Straw
+FarmerPractice,Leaf Colour Chart
+Pesticide,Anilophos
+Pesticide,Ethoxy Sulfuron
+Pesticide,Bispyribac Sodium
+Pesticide,Penoxulam
+Pesticide,Acephate
+Pesticide,Betacyfluthrin
+Pesticide,Propiconazole
+Pesticide,Copper Oxychloride
+Disease,Khaira Disease
+Disease,Brown Leaf-Spot
+Disease,Bacterial Leaf Blight
+Disease,Bacterial Leaf Streak
+Disease,Sheath Blight
+Disease,Sheath Rot
+Disease,Blast
+Pest,Thread Worms
+Pest,Leaf Hoppers
+Pest,Plant Hoppers
+Pest,Grass Hopper
+Disease,Zinc Deficiency
+Disease,Pyricularia Oryzae
+Pesticide,Thiram
+Pesticide,Tricyclazole
+Soil,Clay Loam Soil
+Location,Jammu Division
+District,Doda
+District,Rajouri
+District,Poonch
+Season,April
+Season,March
+Season,July
+FarmerPractice,Paddy Hand Transplanter
+FarmerPractice,Drum Seeder
+Pesticide,Pyrozosulphuron
+Nutrient,K
+Crop,Ganga Safed 2 (Gs-2)
+Crop,Vivek Maize Hybrid -25
+Crop,Vivek Qpm-9
+Crop,Vijay
+Crop,C-6 (Shalimar)
+Crop,C-2
+Crop,Composite (Trikuta)
+Crop,Composite C-8
+Pesticide,Captan
+Location,Jammu
+Pesticide,Carboxin
+Fertilizer,Single Super Phosphate
+Disease,Zn Deficiency
+Pesticide,Atrazine
+Pesticide,Pendimethalin
+Pesticide,Fluchloralin
+Pesticide,Methyl Demeton
+Pesticide,Cypermethrin
+Pesticide,Deltamethrin
+Pesticide,Dichlorvos
+Pest,Hairy Caterpillars
+Pest,Maize Cut Worm
+State,Jammu
+Disease,Sclerospora Graminicola
+Disease,Claviceps Microcephala
+Disease,Tolyposporium Penicillarial
+Fertilizer,Znso4 Heptahydrate
+Fertilizer,Znso4 Monohydrate
+Fertilizer,Di Ammonium Phosphate
+Crop,Athatoda Vasica
+FarmerPractice,Trap Crop
+FarmerPractice,Intercropping
+FarmerPractice,Seed Treatment
+FarmerPractice,Crop Rotation
+FarmerPractice,Land Preparation
+FarmerPractice,Water Management
+Pesticide,Cartap
+Disease,Phyllody
+Disease,Bacterial Blight
+Crop,Cheena
+Crop,Salan
+Crop,Kangni
+Crop,Punjab No-1
+Crop,M-13
+Crop,Jl-24
+Soil,Sandy Loam
+Soil,Marginal Soils
+Irrigation,Rainfed
+Season,Monsoon
+Season,May
+Season,June
+Nutrient,Zn Deficiency
+Crop,Groundnut
+Crop,Mash
+Crop,Moong
+Crop,Soybean
+Disease,Tikka Disease
+Disease,Stem Rot
+Pest,Leaf Miner
+Pest,White Grub
+Pest,Termites
+Pesticide,Carbendazium
+Nutrient,Rhizobium Culture
+Nutrient,Phosphorus
+Fertilizer,Gypsum
+Fertilizer,Single Super Phosphate (Ssp)
+FarmerPractice,Tawi Plough
+FarmerPractice,Desi Plough
+FarmerPractice,Disc Harrow
+FarmerPractice,Planking
+Location,Sub-Tropical Area
+Location,Intermediate Area
+Location,Higher Hills
+Location,Temperate Region
+Weather,Hot And Humid Climate
+Soil,Water Logging
+Crop,Bragg
+Crop,Clark-6
+Crop,Pb-1
+Nutrient,Jaggery
+Crop,Sunhemp
+Pest,Hairy Caterpillar
+Pest,Flea Beetle
+Pest,White Fly
+Crop,C-152
+Crop,Ps-42
+Crop,Culture-1
+Disease,Anthracnose
+Disease,Angular Leaf Spot
+Disease,Floury Leaf Spot
+Crop,Ec-4216
+Crop,Hf-642-1
+Crop,Type-2
+Crop,Cowpeas
+Crop,Guara
+Crop,Teosite
+Crop,Chari
+Crop,Nappier
+Crop,Pioneer Jowar
+Crop,Teosinte
+Location,Jammu & Kashmir
+Irrigation,Irrigated
+Soil,Light Soils
+Soil,Fertile Loamy Soil
+Nutrient,Mimosine
+Crop,Green Fodder
+Crop,Velvent Beans
+Fertilizer,Super-Phosphate
+Crop,Grasses
+Pest,Weeds
+Crop,Berseem
+Crop,Oat
+Crop,Paddy Straw
+Crop,Bajra Stovers
+Soil,Grassland
+Crop,Parkinsonia
+Crop,Opuntia
+Crop,Ipomea
+Pest,Lantana
+Crop,Euphorbia
+Crop,Napier
+Crop,Setaria
+Crop,Cenchrus
+Crop,Saccharum
+Crop,Silage
+Crop,Hybrid Napier
+Crop,Steria
+Disease,Red Rot
+Disease,Collectotrichum Falcatum
+Location,Kashmir
+Season,Rainy Season
+Season,February
+Season,Dec.-Jan.
+Season,May-June
+Season,July-Aug.
+Season,10-12 Months
+Soil,Clay Loam
+Disease,Fusarium Oxysporum F. Sp. Gladioli
+Pesticide,Agallol
+Pesticide,Trichoderma Spp.
+Fertilizer,Diammonium Phosphate
+Fertilizer,Murate Of Potash
+Fertilizer,Farm Yard Manure
+Crop,Ratoon Crop
+Disease,Blight
+Crop,Mushroom
+Season,August
+Season,September
+Season,October
+Season,November
+Season,December
+Season,January
+State,Bihar
+Location,Eastern States
+Location,Southern States
+Location,Northern States
+Location,Western States
+Disease,Covid-19
+Crop,Agriculture
+Crop,Livestock
+Crop,Forestry
+Crop,Fisheries
+FarmerPractice,Green Revolution
+FarmerPractice,White Revolution
+FarmerPractice,Gene Revolution
+FarmerPractice,Blue Revolution
+Nutrient,Agri-Gdp
+Nutrient,Farmers' Welfare
+Organization,Nabard
+Organization,Department Of Economic Analysis And Research
+Crop,High Yielding Varieties
+FarmerPractice,Soil Health Cards Scheme
+State,Assam
+State,Jharkhand
+State,Chhattisgarh
+Crop,Millets
+Crop,Jute
+Crop,Mesta
+Crop,Tea
+Crop,Coffee
+Crop,Castor
+Crop,Sesamum
+Crop,Rapeseed & Mustard
+Crop,Linseed
+Pest,Agri Labourers
+Pest,Agri Workers
+Crop,Pigeon Pea
+Crop,Black Gram
+Location,Western Region
+Location,North Eastern States
+Location,Southern Region
+Location,Central States
+Weather,Droughts
+Weather,Severe Cyclonic Storms
+Nutrient,Agriculture Credit
+FarmerPractice,Micro Irrigation
+Fertilizer,High Yield Varieties
+FarmerPractice,Cold Storage Structures
+Crop,Sticky Rice
+Crop,Wakro Oranges
+Crop,Kiwi Fruit
+Crop,Mandarin
+Crop,Black Pepper
+Crop,Lemon Grass
+Crop,Bamboo
+Crop,Cane
+Crop,Broom Grass
+Crop,Asparagus
+Crop,Celery
+Crop,Bell Pepper
+Crop,Sweet Corn
+Crop,Green Beans
+Crop,Lima Beans
+Crop,Gherkins
+Crop,Medicinal Plants
+Crop,Aromatic Plants
+FarmerPractice,Dairy
+Soil,Ground Water
+FarmerPractice,Rainwater Harvesting
+FarmerPractice,Agroforestry
+Crop,Horticulture
+FarmerPractice,Cooperative Farming
+FarmerPractice,Collective Farming
+FarmerPractice,Producers Organizations
+FarmerPractice,Contract Farming
+Irrigation,Micro Irrigation
+FarmerPractice,Energy Efficient Water Pumping Devices
+FarmerPractice,High Efficiency Pumping System
+FarmerPractice,Solar Pumping Systems
+FarmerPractice,Post-Harvest Management
+FarmerPractice,Crop Diversification
+Nutrient,Soil Nutrients
+FarmerPractice,Institutional Credit
+Crop,Coarse Grains
+Nutrient,Humus
+State,Goa
+Crop,Sugar Cane
+Crop,Cashew
+Crop,Mangoes
+Crop,Jackfruits
+Crop,Bananas
+Crop,Pineapples
+Crop,Condiments
+Crop,Date Palms
+Crop,Sapota
+FarmerPractice,Fpos
+FarmerPractice,Tractors
+FarmerPractice,Rotavator
+FarmerPractice,Laser Leveller
+FarmerPractice,Harvester
+FarmerPractice,Fpo Policy
+FarmerPractice,Farm Mechanisation
+FarmerPractice,Food Processing Sector
+FarmerPractice,Co-Operative Model
+State,Himachal Pradesh
+Crop,Temperate Fruits
+Crop,Citrus Fruits
+Country,Jammu & Kashmir
+Crop,Almond
+Crop,Litchi
+Crop,Phalsa
+Crop,Ber
+Location,Jammu And Kashmir
+Crop,Pear
+Crop,Peach
+Crop,Plum
+Crop,Apricot
+Crop,Cherry
+Location,Jharkhand
+Crop,Ranchi Local
+Crop,Tasar Silk
+Crop,Freshwater Fish
+FarmerPractice,Floriculture
+Nutrient,Green Fodder
+Nutrient,Dry Fodder
+Nutrient,Concentrate Feed
+FarmerPractice,Poultry
+Livestock,Sheep
+Livestock,Goat
+Livestock,Pig
+State,Madhya Pradesh
+FarmerPractice,Integrated Farming System
+Irrigation,Artificial Recharge Structures
+Irrigation,Rain Water Harvesting
+FarmerPractice,Dryland Farming
+FarmerPractice,High-Tech Agriculture
+Crop,Cash Crops
+Crop,Coriander
+Crop,Chili
+FarmerPractice,Aquaculture
+Disease,Soil Erosion
+Weather,Drought
+Crop,Onions
+Crop,Mandarin Oranges
+Crop,Pomegranates
+Crop,Alphonso Mangoes
+Crop,Seedless Grapes
+State,Manipur
+Location,Rice Bowl
+Crop,Giant Kew
+Crop,Queen
+Crop,Passion Fruit
+Crop,Agar
+Crop,Fish
+Crop,Meat
+Crop,Milk
+Crop,Eggs
+Disease,Floods
+Disease,Submergence
+Disease,Landsides
+Location,Loktak Lake
+State,Meghalaya
+District,East Khasi Hills
+District,Ri Bhoi
+District,Khasi Hills
+District,West Jaintia
+District,East Jaintia
+Location,Northeast India
+FarmerPractice,Agro-Processing
+Soil,Agro-Climatic Conditions
+Crop,Cashewnut
+Crop,Arecanut
+Crop,Orange
+Crop,Jackfruit
+State,Mizoram
+State,Nagaland
+State,Rajasthan
+State,Sikkim
+FarmerPractice,Shifting Cultivation
+FarmerPractice,Organic By Design
+FarmerPractice,Organic By Default
+FarmerPractice,Sericulture
+Soil,Soil Erosion
+Soil,Loamy Sand
+Soil,Silty Clay Loam
+Irrigation,Rainfed Condition
+Crop,Buckwheat
+Crop,Large Cardamom
+Crop,Mandarin Orange
+Crop,Bean
+Crop,Garden Pea
+Crop,Radish
+State,Telangana
+State,Tripura
+FarmerPractice,Rainfed Agriculture
+Fertilizer,Seeds
+Crop,Seeds
+Crop,Hybrid Paddy
+FarmerPractice,System Of Rice Intensification (Sri)
+Crop,Lemon
+Crop,Cashew Nut
+Crop,Cabbage
+Crop,Cauliflower
+Crop,Watermelon
+Crop,French Bean
+Crop,Cow Pea
+Crop,Gourds
+Irrigation,Artificial Recharge
+Location,Bundelkhand
+State,Uttarakhand
+District,North Tripura
+District,Dhalai
+District,South Tripura
+District,Sepahijala
+Crop,Herbal Plants
+Crop,Pig
+Crop,Poultry
+Crop,Honey
+Crop,Onion
+Crop,Organic Fish
+FarmerPractice,Artificial Insemination
+FarmerPractice,Cold Storage
+FarmerPractice,Agri-Logistics
+FarmerPractice,Sampada Yojana
+FarmerPractice,Amar Dhan Amar Chatal
+Soil,Brackish Water
+FarmerPractice,Cage Culture
+FarmerPractice,Pen Culture
+Crop,Fresh Water Prawn
+Nutrient,Institutional Credit
+State,Uttar Pradesh
+Season,June -July
+Season,September -October
+Crop,Rapeseed
+Nutrient,Water
+FarmerPractice,Pradhan Mantri Krishi Sinchayee Yojana
+Nutrient,Water Productivity
+Nutrient,Water-Use Efficiency
+Crop,Tur/Arhar
+Crop,Rapeseed-Mustard
+Water,Freshwater
+State,West Bengal
+State,Uttarkhand
+FarmerPractice,Drip
+FarmerPractice,Solar Irrigation
+FarmerPractice,Artificial Recharge Structures
+District,District
+State,State
+Weather,Rainfall
+Weather,Evapo-Transpiration
+Soil,Water Scarcity
+Crop,Tur
+Nutrient,Irrigation Water Productivity
+Country,China
+Country,Bangladesh
+Country,Vietnam
+Location,Indus River
+Location,Krishna River
+Location,Yellow River
+District,Dindigul
+District,Tikamgarh
+Season,Season 1
+Season,Season 2
+Season,Boro
+Soil,Groundwater
+Soil,Surface Water
+Location,Konkan Belt
+Nutrient,Economic Water Productivity
+Nutrient,Farm Harvest Prices
+FarmerPractice,Precision Irrigation
+FarmerPractice,System Of Rice Intensification
+Disease,Water Stress
+FarmerPractice,Minimum Support Price
+FarmerPractice,Solar-Powered Pumps
+Disease,Soil Moisture Stress
+State,Up
+District,Moga
+District,Ludhiana
+District,Mukatsar
+District,Sangrur
+Season,Spring
+Season,Winter
+FarmerPractice,Farm Ponds
+FarmerPractice,Sprinkler Irrigation
+Crop,Improved Varieties
+Fertilizer,Fertilization
+Country,Usa
+Country,Brazil
+Location,Eu
+Country,Ukraine
+Country,Argentina
+Country,Mexico
+Fertilizer,Fertiliser
+FarmerPractice,Cimmyt
+Soil,Rainfed
+FarmerPractice,Farm Harvest Price
+District,Jaipur
+District,Rajgarh
+District,Kurnool
+District,Latur
+Nutrient,0.63 Kg/M3
+Nutrient,0.52 Kg/M3
+Nutrient,1.11 Kg/M3
+Nutrient,2.13 Kg/M3
+Nutrient,3.5 Times
+Nutrient,10 Cm-15 Cm
+Nutrient,0.27 Kg/M3
+Nutrient,Rs 21.1/M3
+Nutrient,Rs 53.4/M3
+Nutrient,0.14 To 3.23 Kg/M3
+Nutrient,2.66 Million Tonnes
+Nutrient,683 Kg/Hectare
+Nutrient,656 Kg
+Nutrient,4.8 Million Tonnes
+Nutrient,695.3 Kg/Ha
+District,Kanpur Dehat
+District,Bundelkhand
+District,Rohilkhand
+Soil,Residual Soil Moisture
+Soil,Light Textured Soils
+Location,Saurashtra
+Nutrient,500 Mm
+Nutrient,"1,250 Mm"
+Nutrient,100 Mm
+Nutrient,150 Mm
+Nutrient,400-500 Mm
+Water,16.01 Km 3
+Water,15.55 Km 3
+Nutrient,1.42 T/Ha
+Nutrient,2.23 T/Ha
+Nutrient,1.32 T/Ha
+Nutrient,1151 Kg/Ha
+Nutrient,2144 Kg/Ha
+Season,10-15 Days
+Irrigation,8-9 Light Irrigations
+Irrigation,11-12 Irrigations
+FarmerPractice,Micro-Sprinklers
+FarmerPractice,Sprinklers
+District,Sri Ganganagar
+District,Mahendragarh
+District,Bhind
+Weather,Monsoon
+FarmerPractice,Drip Irrigation
+Soil,Heavy Soils
+FarmerPractice,Physical Water Productivity
+FarmerPractice,Economic Water Productivity
+Location,Central Zone
+Location,Southern Zone
+FarmerPractice,Rainfed
+FarmerPractice,Flood Irrigation
+District,Hoshiarpur
+District,Gurdaspur
+FarmerPractice,Surface Irrigation
+Season,2016-17
+FarmerPractice,Water Productivity Report
+Irrigation,Surface Irrigation
+Irrigation,Micro-Irrigation
+Water,Rainwater
+Nutrient,Electricity
+FarmerPractice,Solar Pumps
+FarmerPractice,Water Users Association
+Crop,Pulse
+Crop,Oilseed
+Country,Israel
+Location,North Africa
+Location,West Asia
+Crop,Edible Oils
+Crop,Oil Palm
+Crop,Knolkhol
+Crop,French Beans
+Location,Himalayan Mountains
+District,Budgam
+District,Anantnag
+FarmerPractice,Polyhouse
+Crop,Off Season Vegetables
+Location,Delhi
+Location,Manipur
+FarmerPractice,Human Labour
+FarmerPractice,Polyhouses
+Crop,Off-Season Vegetables
+Crop,Main-Season Vegetables
+Fertilizer,Manure
+Season,2014-15
+FarmerPractice,Bullock Labour
+Soil,Rental Value Of Land
+Region,Kashmir
+Region,Ladakh
+FarmerPractice,Vegetable Processing Units
+FarmerPractice,Transportation Facilities
+FarmerPractice,Packing Material
+FarmerPractice,Storage Facilities
+Nutrient,Quality Seeds
+Weather,Market Conditions
+Seed,Quality Seeds
+Crop,Seedling
+FarmerPractice,Packing And Transportation Facilities
+Soil,Alluvium-Derived Soils
+Soil,Khaddar
+Soil,Hangar
+Soil,Calcareous Soil
+Soil,Loamy Soil
+Nutrient,Organic Matter
+Crop,Moong Bean
+Crop,Lentil
+Crop,Bengal Gram
+Crop,Pea
+Crop,Sesame
+Crop,Tobacco
+Crop,Chillies
+Crop,Green Peas
+State,U.P.
+Season,2020
+Crop,Betel
+Irrigation,Energy Efficient Pumps
+FarmerPractice,Mechanization
+FarmerPractice,Crop Residue Management
+Season,Mid-November
+Crop,Soyabean
+Crop,Red Chillies
+Location,Lasalgaon
+District,Nashik
+Fertilizer,Natural Fertilizer
+Pesticide,Natural Pesticide
+Location,Mysuru
+Organization,Hopcoms
+Crop,Ratnagiri Alphonso
+Crop,Badam
+Crop,Raspuri
+Crop,Saindoora
+Crop,Mallika
+Crop,Daseri
+Crop,Kesar
+Crop,Malagoa
+Crop,Valaja
+Crop,Imam Pasand
+Crop,Rumali
+Crop,Beans
+Crop,Carrots
+FarmerPractice,Poly-House Farming
+FarmerPractice,Greenhouse Technology
+FarmerPractice,High-Density Planting
+District,Mysuru
+District,Mandya
+District,Chamarajanagar
+District,Ramanagaram
+District,Chickballapur
+District,Doddaballapur
+District,Shivamogga
+District,Khammam
+Location,Koyambedu
+Location,Aswaraopeta
+Location,Garimellapadu
+Location,Sattupalli
+Location,Yerrupalem
+Location,Penuballi
+Location,Khammam Rural
+Location,Dindigul
+Location,Theni
+Location,Udumalpet
+Location,Champagne
+Location,Paris
+Location,New York
+Location,London
+Country,France
+Weather,Weather
+Crop,Black Tea
+Crop,Orchard Crops
+Location,Jalandhar
+Country,Kenya
+Country,Sri Lanka
+District,Drought-Hit Districts
+Season,South-West Monsoon
+Weather,Heat Wave
+Weather,La Nina
+Weather,El Nino
+Irrigation,Long-Term Irrigation Fund
+FarmerPractice,Intertek
+Location,Gujarat
+FarmerPractice,Irrigation Fund
+Disease,Drought
+Location,Punjab Agricultural University
+Country,Angola
+Location,Ohio State University
+Crop,Corn
+Crop,Dussehri Mango
+Crop,Genetically Modified Crops
+Weather,Storm
+Weather,High Speed Winds
+FarmerPractice,Comprehensive Agriculture Information System
+District,Jhansi
+District,Mau
+District,Unnao
+District,Meerut
+District,Etawah
+District,Gonda
+Crop,Transgenic Crops
+Crop,Gm Mustard
+Crop,Urad
+Weather,Excess Rainfall
+Disease,Water Logging
+Pest,Pink Ball Worm
+FarmerPractice,Broad Bed And Furrows (Bbf) Technology
+Pest,Dimond Back Moth
+Pest,Apple Leaf Blotch Miner
+Pest,Mango Soft Scale
+Pest,Cassava Mealybug
+Pest,Rugose Spiraling Whitefly
+Pest,Tomato Leafminer
+Crop,Brassicaceae
+FarmerPractice,Micro-Irrigation
+FarmerPractice,Water Harvesting
+Disease,Algae Eutrophication
+Weather,Climatic Change
+Nutrient,N:P:K Ratio
+FarmerPractice,Marginal Farmers
+FarmerPractice,Fragmented Land Holdings
+FarmerPractice,Inm
+FarmerPractice,Ipm
+FarmerPractice,Natural Farming
+Pest,Yellow Stem Borer
+Pest,Pink Stem Borer
+Pest,Bph
+Disease,Lepidoptera
+Disease,Pyralidae
+Disease,Noctuidae
+Season,2025
+Soil,44-Million-Hectare
+Nutrient,97 Million Tonnes
+Pest,Paddy Stemborer
+Pest,Scirpophaga Incertulas
+Pest,Trichogramma Japonicum
+Pesticide,Bacillus Thuringiensis Var Kurstaki
+Pesticide,Neem Seed Kernel Extract
+Crop,Tnau Lfr 831311
+Crop,Cauveri
+Crop,Akash
+Crop,Tkm 6
+Pest,Trichogramma Chilonis
+Pesticide,Nske
+Pest,Myllocerus Sp.
+Pesticide,Phorate
+Crop,Lab Lab
+Pest,Calocoris Angustatus
+Pest,Mylabris Pustulata
+Pesticide,Demeton
+Pesticide,Neem Azal
+Pest,Sesamia Inferens
+Pest,Earhead Bug
+Pest,Blister Beetle
+Pest,Cotton Bollworms
+Pest,Green Bollworm
+Pest,Cotton Aphid
+Pest,Thrips Tabaci
+Pest,Trichogramma Spp.
+Pest,Coccinella Sp.
+Pest,Menochilus Sexmaculata
+Pest,Goniozus Spp.
+Pest,Empoasca Kerri
+Disease,Aspergillus Flavus
+Crop,Mung Bean
+Fertilizer,Rice Straw
+FarmerPractice,Light Traps
+FarmerPractice,Mulching
+Fertilizer,Nitrogenous Fertilizers
+Disease,Peanut Stripe Virus
+Disease,Groundnut Rosette Virus Complex
+Disease,Peanut Bud Necrosis
+Pest,Serratia Marcescens
+Pesticide,Quinolphos
+Pesticide,Phosalone
+Pest,Spodoptera Litura
+Pest,Leaf Hopper (Jassids)
+Pest,Amrasca Biguttula
+Pest,Parakeet
+Pest,Psittacula Krameri
+Pest,Gram Pod Borer
+Disease,Magnoporthe Grisea
+Disease,Helminthsporium Oryzae
+Disease,Helminthosporium
+Disease,Curvularia
+Disease,Alternaria
+Disease,Fusarium
+Disease,Puccinia Penniseti
+Location,Tamil Nadu
+Pesticide,Tricyclozole
+Pesticide,Metominostrobin
+Pesticide,Azoxystrobin
+Pesticide,Metalaxyl
+Pesticide,P. Fluorescens
+Fertilizer,Cowdung Extract
+Fertilizer,Prosopis Leaf Powder
+Fertilizer,Ipomoea Leaf Powder
+Pesticide,Fenazaquin
+Pesticide,Aureofungin
+Pesticide,Eucalyptus Leaf Extract
+Pesticide,Bacillus Subtilis
+Pesticide,T. Viride
+Disease,Fusarium Oxysporum F.Sp.Udum
+Disease,Helminthosporium Nodulosum
+Disease,Leveillula Taurica
+Disease,Cercospora Canescens
+Disease,Maydis Leaf Blight
+Disease,Downy Mildew
+Disease,Rust
+Crop,Tnau Maize Hybrid Co-6
+Crop,Vbn 4
+Crop,Vbn 6
+Crop,Vbn 7
+Crop,Redgram
+Nutrient,Potash
+Pesticide,Trifloxystrobin
+Pesticide,Tebuconazole
+Pest,T. Viride
+Pesticide,Difenaconazole
+Pesticide,Krexoxym Methyl
+Pest,Bacillus Subtilis
+Pest,Trichoderma Viride
+Pest,T.Harzianum
+Pest,P. Fluorescens
+Pesticide,Monocrotophos
+Crop,Coconut Leaves
+Disease,Puccinia Helianthi
+Disease,Alternaria Leaf Spot
+Disease,Root Rot
+Fertilizer,Castor Cake
+Fertilizer,Mustard Cake
+Disease,Pseudomonas Plantarii
+Disease,Seedling Blight
+Disease,Pseudomonas Avenae
+Disease,P. Syringaepv. Panici
+Disease,Bacterial Brown Stripe
+Disease,Xanthomonas Oryzae Pv. Oryzicola
+Disease,Halo Blight
+Disease,Pseudomonas Fuscovaginae
+Disease,Sheath Brown Rot
+Pesticide,Kasugamycin
+Pesticide,Vitavax
+Fertilizer,Iron Compounds
+Pesticide,Streptocycline
+Pesticide,Oxytetracycline
+Country,Japan
+Location,West Africa
+Location,Asia
+Location,South America
+Location,Central Africa
+Location,Madagascar
+Weather,Tropical Regions
+Weather,Temperate Regions
+Disease,Pseudomonas Syringae Pv Syringae
+Disease,Grain Rot
+Disease,Pseudomonas Glumae
+Disease,Erwinia Herbicola
+Disease,Foot Rot
+Disease,Erwinia Chrysanthemi
+Disease,Xanthomonas Translucens
+Disease,Peppery Leaf Spot
+Disease,Varnish Spot
+Disease,Corky Root
+Disease,Bacterial Pith Necrosis
+Disease,Common Bacterial Blight
+Disease,Black Leg
+Location,Japan
+Location,Korea
+Location,Taiwan
+Country,Philippines
+Country,Australia
+Country,Hungary
+Country,Chile
+Weather,"Cool, Wet, Windy Conditions"
+Weather,High Relative Humidity
+FarmerPractice,Dry Heat Treatment
+FarmerPractice,Field Sanitation
+FarmerPractice,Genetic Resistance
+Disease,Bacterial Diseases
+Pesticide,Bactericides
+Weather,Humidity
+Irrigation,Overhead Irrigation
+District,Dharmapuri
+Biofertilizer,Azospirillum
+Biofertilizer,Phosphobacteria
+Biofertilizer,Azophos
+Pesticide,Pyrazosulfuron Ethyl
+Fertilizer,Super Phosphate
+FarmerPractice,Precision Agriculture
+FarmerPractice,Conventional Farming
+FarmerPractice,Integrated Weed Management
+FarmerPractice,Drip Fertigation
+FarmerPractice,Transplanting
+FarmerPractice,Direct Wet Seeding
+Crop,Rainfed Rice
+Crop,Semi-Dry Rice
+Crop,Upland Rice
+Fertilizer,Green Leaf Manure
+Fertilizer,Rock Phosphate
+Fertilizer,Cuso4
+Microorganism,Methylobacterium Sp.
+Crop,Short Duration Rice
+Crop,Medium Duration Rice
+Crop,Long Duration Rice
+Soil,Saline Soils
+Location,Wetlands
+Location,Cauvery Delta Zone
+Nutrient,Zn
+Nutrient,S
+Nutrient,Fe
+Nutrient,Cu
+Nutrient,Mg
+Pesticide,"2,4 Dee"
+Pesticide,Pretilachor
+Pesticide,Bensulfuron Methyl
+Pesticide,Oxadiazon
+Pesticide,"2,4-D"
+Pesticide,Chlorimuron Methyl
+Pesticide,Metsulfuron Methyl
+Crop,Sunnhemp
+Crop,Kolinchi
+Crop,Daincha
+Crop,Sesbania Aculeata
+Crop,Sesbania Rostrata
+FarmerPractice,Field Water Tube
+FarmerPractice,Alternate Wetting And Drying Irrigation
+FarmerPractice,Puddling
+FarmerPractice,Dry Ploughing
+FarmerPractice,Laser Leveling
+FarmerPractice,Cono-Weeder
+FarmerPractice,Hand Weeding
+FarmerPractice,Mechanical Weeding
+Nutrient,Inorganic Nitrogen
+Pest,Echinochloa Crusgalli
+Pest,Panicum Repens
+Pest,Eclipta Alba
+Pest,Monochoria Vaginalis
+Pesticide,Cycocel
+Pesticide,Kaolin
+Nutrient,Kcl
+Nutrient,Znso4
+Nutrient,Feso4
+Fertilizer,Azospirillum
+Fertilizer,Phosphobacteria
+District,Kanchipuram
+District,Tiruvallur
+District,Pudukottai
+District,Ramanathapuram
+District,Virudhunagar
+District,Sivagangai
+District,Kanyakumari
+FarmerPractice,Rainfed Rice
+FarmerPractice,Semi-Dry Rice
+Nutrient,P2O5
+Nutrient,K2O
+Fertilizer,Tnau Rainfed Rice Mn Mixture
+Crop,Pmk (R) 3
+District,Tiruvarur
+District,Nagapattinam
+Season,Kuruvai
+Season,Samba
+Season,Thaladi
+Crop,Blackgram
+Fertilizer,Npk
+Pesticide,Azophosmet
+Nutrient,Moisture
+Nutrient,Nitrogen
+Fertilizer,Rice Bran
+Fertilizer,Rice Polishing
+FarmerPractice,Parboiling
+Crop,Puffed Rice
+Crop,Flaked Rice
+Crop,Quick Cooking Rice
+Crop,Expanded Rice
+Pesticide,Bran Oil
+Crop,Rice Bran Oil
+Nutrient,Oryzanol
+Nutrient,Tocotrienol
+Biofertilizer,Psb
+Pesticide,Azadirachtin
+Pest,Nilaparvata Lugens
+Biocontrol_agent,Pseudomonas Fluorescens
+Disease,Brown Spot
+Disease,Drechslera Oryzae
+Pesticide,Propineb
+Pesticide,Picoxystrobin
+Pesticide,Pseudomonas Fluorescens Tnau
+Disease,Sarocladium Oryzae
+Pesticide,Ipomoea Leaf Powder
+Pesticide,Prosopis Leaf Powder
+Disease,Rhizoctonia Solani
+Pesticide,Flusilazole
+Pesticide,Iprodione
+Pesticide,Pencycuron
+Pesticide,Thifluzamide
+Disease,Ustiloginoidea Virens
+Fertilizer,Cow Dung Extract
+Fertilizer,Bleaching Powder
+Pesticide,Copper Hydroxide
+Fertilizer,Kcl
+Fertilizer,Halogen Mixture
+Fertilizer,Halopolymer
+Disease,Chlorotic Symptoms
+Nutrient,Azospirillum
+Nutrient,Phosphobacteria
+Pesticide,Ga 3
+Nutrient,Zinc Sulphate
+Nutrient,Micronutrient Mixture
+Soil,Red Sandy Loam
+Season,Irrigated
+Season,Rainfed
+Crop,Pulse Crop
+Fertilizer,Azophos
+Pesticide,Pe Atrazine
+Nutrient,Potassium Dihydrogen Phosphate
+Disease,Puccinia Purpurea
+Disease,Ergot
+Disease,Sphacelia Sorghi
+Disease,Peronosclerospora
+Disease,Head Mould
+Disease,Aspergillus
+Disease,Phoma
+District,Theni
+District,Tirunelveli
+District,Thoothukudi
+District,Tiruchirapalli
+District,Erode
+District,Coimbatore
+Season,South West Monsoon
+Season,North East Monsoon
+Crop,Rainfed Sorghum
+Fertilizer,Cotton Seed Kernel Powder
+Disease,Peronosclerospora Sorghi
+Disease,Macrophomina Phaseolina
+Disease,Sphacelotheca Sorghi
+Soil,Salt Solution
+Soil,Common Salt
+Season,Winter Season
+Season,October - November
+Season,June - July
+Pest,Shootfly
+Crop,Cumbu
+Fertilizer,Mnso4
+Pesticide,Common Salt
+Disease,Claviceps Fusiformis
+Disease,Puccinia Substriata
+Soil,Soil Moisture
+Irrigation,Irrigation Channels
+Season,Rainfed Conditions
+FarmerPractice,Direct Sown Crop
+FarmerPractice,Transplanted Crop
+Crop,Co (Cu) 9
+Crop,Tnau-Cumbu Hybrid-Co 9
+Crop,Co 10
+Nutrient,Cuso4
+Nutrient,Azophos
+Pesticide,Oxyfluorfen
+Crop,Seedlings
+Crop,Earheads
+Pesticide,Pe Oxyfluorfen
+Pesticide,"2,4-Dee"
+Pesticide,"2,4-D Na Salt"
+Crop,Ragi
+Crop,Finger Millet
+Soil,Glomus Fasciculatum
+Weather,450-500 Mm
+Nutrient,10%
+Nutrient,12%
+Nutrient,15%
+Nutrient,40:20:20 Kg/Ha
+Soil,3 Cm
+FarmerPractice,30X10 Cm
+FarmerPractice,22.5 X 10 Cm
+FarmerPractice,4-5 Lakhs Per Ha
+Nutrient,10 Kg/Ha
+Nutrient,25 G/Kg Seed
+Nutrient,0.5 Kg/Ha
+Nutrient,0.05 Kg/Ha
+Season,3 Das
+Season,20 Das
+Season,10 Th
+Season,20 Th
+Season,15 Th
+Season,17 Th
+Season,30 Th
+Season,32 Nd
+Season,21 Days
+Season,6 Hours
+Season,2 Days
+Soil,1:1 Ratio
+Soil,3 M
+Pesticide,Iprobenphos
+Fertilizer,Cacl2
+Fertilizer,Sulphur
+Disease,Crazy Top
+Weather,Moisture Stress
+Weather,Excessive Moisture
+Location,Southern Districts
+Soil,Vertisols
+Pesticide,Tnau Maize Maxim
+Pesticide,Beauveria Bassiana
+Disease,Puccinia Sorghi
+Disease,Exserohilum Turcicum
+Disease,Helminthosporium Maydis
+Pesticide,Kresoxim-Methyl
+Pesticide,Cyproconazole
+Pesticide,Difenoconazole
+Fertilizer,Tnau Mn Mixture
+Crop,Grain Sorghum
+Crop,Bajra Napier
+FarmerPractice,Solar Light Trap
+FarmerPractice,Sex Pheromone Traps
+FarmerPractice,Chisel Plough
+Fertilizer,Fym Or Compost
+Fertilizer,Composted Coir Pith
+FarmerPractice,Spacing
+FarmerPractice,Harvesting
+FarmerPractice,Seed Storage
+Pesticide,Tetrazolium Chloride
+Pesticide,Halogen Mixture
+Pesticide,Caocl 2
+Pesticide,Caco 3
+Crop,Albizzia Amara
+Pesticide,Imidachloprid
+Fertilizer,Micronutrient Mixture
+Fertilizer,Znso 4
+Fertilizer,Boric Acid
+Nutrient,Psb
+Pest,Pseudomonas Fluorescens
+Nutrient,Rhizobial Culture
+Nutrient,Pgpr
+Crop,Small Millets
+Crop,Co(Rg) 7
+Crop,Vamban (Rg) 3
+Crop,Co 6
+Crop,Co 8
+Crop,Vamban 2
+Crop,Lrg 41
+Pesticide,Imazethapyr
+Pesticide,Quizalofop Ethyl
+Nutrient,Naa
+Nutrient,Salicylic
+Fertilizer,Calcium Chloride
+Nutrient,Phosphobacterium
+Fertilizer,Composted Coirpith
+Pesticide,Rhizobium
+Disease,Yellow Mosaic
+Disease,Leaf Crinkle
+Disease,Leaf Curl
+Disease,Rhizoctonia Bataticola
+Pesticide,Naa
+Pesticide,Salicylic Acid
+Pesticide,Tnau Pulse Wonder
+Nutrient,Micronutrients
+Crop,Greengram
+Crop,Rice Fallow Pulses
+Location,Delta Area
+District,Pattukottai
+District,Tanjore
+Season,Jan.-Feb.
+Disease,Uromyces Appendiculatus
+Disease,Geminivirus
+Pest,Beauveria Bassiana
+Nutrient,Salicylic Acid
+Nutrient,Brassinoloid
+Fertilizer,Tnau Pulse Wonder
+District,Tanjore District
+Pest,Bruchid
+Pesticide,Chlorothalonil
+Nutrient,Pseudomonas Fluorescens
+Nutrient,T. Asperellum
+Fertilizer,Tnau Micro Nutrient Mixture
+Fertilizer,Caocl2
+Fertilizer,Caco3
+Biofertilizer,Rhizobial Culture
+Crop,Bengalgram
+Disease,Fusarium Oxysporum F. Sp. Ciceri
+Biocontrol_agent,Trichoderma Viride
+Location,Coimbatore
+Location,Erode
+Location,Salem
+Location,Namakkal
+Location,Dharmapuri
+Fertilizer,Naa
+Fertilizer,Salicylic Acid
+Location,North Western Zone
+Season,South-West
+Season,North-East
+Soil,Rice Fallows
+Pesticide,Imazythypur
+Disease,Bud Blight
+Pest,Thrips Palmi
+Crop,Sword Bean
+Pest,Spotted Pod Borer
+Pest,Blue Butterflies
+Pest,Blister Beetles
+Disease,Yellow Mosaic Virus
+Fertilizer,Ammonium Sulphate
+Nutrient,Borax
+Nutrient,Calcium
+Nutrient,Sulphur
+Soil,Moisture
+Disease,Khadhasty Malady
+Pest,Pod Scab Nematode
+Pesticide,Planofix
+Fertilizer,Coir Pith
+Fertilizer,Fe Edta
+Crop,Co7
+Crop,Alr3
+Crop,Co2
+Crop,Co4
+Crop,Tmv2
+Crop,Alg320
+Fertilizer,Tnau Groundnut Rich
+Pesticide,Rhizobial Culture Tnau14
+Crop,Bold Seed Varieties
+Soil,Calcareous Soils
+Fertilizer,Rhizobial Culture Tnau14
+Soil,Rice Kanji
+Nutrient,Dap
+Nutrient,Ammonium Sulphate
+Pest,Amsacta Albistriga
+Pesticide,Metiram
+Pesticide,Pyraclostrobin
+Pesticide,Sulphur
+Pesticide,Bitertanol
+Disease,Groundnut Bud Necrosis Virus
+Pest,Frankliniella Schultzeii
+Nutrient,Cacl2
+Pesticide,Mh
+Pesticide,T. Asperellum
+Pest,Orosius Albicinctus
+Crop,Gingelly
+Nutrient,Azotobacter
+Fertilizer,Manganese Sulphate
+Pest,Microplitis Maculipennis
+Pesticide,Chlorpyrifos
+Pesticide,Profenophos
+Pesticide,Thiodicarb
+Pest,Trialeurodes Ricini
+Pest,Conogethus Punctiferalis
+Nutrient,Kh2Po4
+Crop,Samai
+Crop,Small Onion
+Location,Kalrayan Hills
+Location,Javadhu Hills
+Location,Yelagiri Hills
+Pesticide,Profenofos
+Fertilizer,Kh2Po4
+Disease,Tobacco Streak Virus
+Disease,Rhizopus Sp
+Disease,Charcoal Rot
+Disease,Head Rot
+Disease,Necrosis Virus Disease
+Pesticide,Boric Acid
+Fertilizer,Superphosphate
+Fertilizer,Muriate Of Potash
+Nutrient,Am Fungi
+Crop,Wild Indigo
+Crop,Calapagonium
+Crop,Napier Grass
+Crop,Guinea Grass
+Location,Pollachi Tract
+District,Kanyakumari District
+Crop,Vanilla
+Crop,Pepper
+Crop,Cocoa
+Crop,Nutmeg
+Pesticide,Glyphosate
+Fertilizer,Organic Manure
+Nutrient,Gypsum
+Nutrient,Magnesium Sulphate
+Fertilizer,Tnau Coconut Tonic
+Pest,Leaf Caterpillar
+Location,Coconut Gardens
+Location,Eastern Region
+Month,November
+Month,May
+Month,August
+Month,January
+Fertilizer,Copper Sulphate
+Fertilizer,Ammonium Molybdate
+Pesticide,"2, 4-D"
+Pesticide,Methyldematon
+Disease,Basal Stem Rot
+Crop,High Yielding Coconut Palms
+Crop,Seednuts
+FarmerPractice,Nursery
+FarmerPractice,Drainage
+Soil,Ph
+Crop,Germination
+Fertilizer,Mgso4
+Fertilizer,Epsum Salt
+Nutrient,Potassium
+Nutrient,Magnesium
+Nutrient,Iron
+Nutrient,Manganese
+Nutrient,Copper
+Nutrient,Zinc
+Pesticide,"2, 4-5-T"
+Pesticide,Dalapon
+Pesticide,Tca
+Pesticide,Paraquat
+Season,Summer Months
+Crop,Young Palms
+Crop,Functional Leaves
+Crop,Bunches
+Crop,Female Inflorescences
+Crop,Male Inflorescence
+Nutrient,Leaf Area
+FarmerPractice,Drainage Channels
+Soil,Permeability
+Soil,Top Soil
+Fertilizer,Green Leaves
+Disease,Leaf Malformations
+Disease,Little Leaf
+Disease,Orange Frond
+Disease,Chlorosis
+Disease,Necrosis
+FarmerPractice,Ablation
+Pesticide,Baculovirus Oryctusvirus
+Pesticide,Metarhizium Anisopliae
+Disease,Pestalotiopsis
+Nutrient,Fresh Fruit Bunches (Ffb)
+Location,Little Andamans
+Crop,Adult Palms
+FarmerPractice,Drought Resistance
+FarmerPractice,Weeding
+FarmerPractice,Pruning
+Crop,Oilpalm
+Disease,Root Rot Disease
+Fertilizer,Multi K
+Soil,Gunnies
+Irrigation,Drip Irrigation System
+Soil,Rainfed Conditions
+FarmerPractice,Bamboo
+FarmerPractice,Tractor
+FarmerPractice,Country Plough
+FarmerPractice,Spacings
+Crop,Kapas
+Pesticide,Trifloxy Salfuron
+District,Madurai
+Crop,Fuzzy Seeds
+Crop,Delinted Seeds
+Crop,Hybrid
+Crop,Variety
+Location,Thirumangalam
+Location,Sattur
+Location,Kovilpatti
+Crop,Lra 5166
+Crop,Svpr 2
+Crop,Kc 2
+Crop,Kc 3
+Crop,K 11
+Pesticide,Pyrithiobac Sodium
+Pest,Helicoverpa
+Pest,Chelonus Blackburnii
+Pesticide,Imida Cloprid
+Pesticide,Diflubenzuron
+Pesticide,Novaluron
+Pesticide,Spinetoram
+Crop,Bhendi
+Disease,Boll Rot
+Disease,Cercospora Gossypii
+Disease,Damping Off
+Disease,Fusarium Wilt
+Nutrient,Bacillus Subtilis
+Nutrient,Trichoderma Asperellum
+Pest,Yellow Mite
+Pest,Verticillium Lecanii
+Disease,Fusarium Oxysporum F. Sp. Vasinfectum
+Pest,Trichoderma Asperellum
+Fertilizer,Mussoorie Rock Phosphate
+Fertilizer,Pressmud
+Season,Winter Crop
+Season,Summer Crop
+District,Cuddalore
+District,Sirugamani
+District,Melalathur
+Nutrient,Ca
+Fertilizer,Psb
+Pesticide,Oxyflurofen
+Nutrient,Boron
+Fertilizer,Rhizobium
+Fertilizer,Gluconacetobacter Diazotrophicus
+Pest,Cyperus Rotandus
+Pest,Shoot Borer
+Disease,Nitrogen Deficiency
+Disease,Phosphorus Deficiency
+Disease,Potassium Deficiency
+Disease,Iron Deficiency
+Disease,Boron Deficiency
+Disease,Sett Rot
+Disease,Smut
+Disease,Grassy Shoot Disease
+Biofertilizer,Gluconacetobacter Diazotrophicus
+Soil,Sandy Soil
+Irrigation,Irrigated Condition
+FarmerPractice,Drip Fertigation System
+Irrigation,Sprinkler Irrigation
+FarmerPractice,Biofertilizer Treatment
+Pesticide,Chlorantraniprole
+Pest,Isotima Javensis
+Pest,Ceratovacuna Lanigera
+Pest,Dipha Aphidivora
+Pest,Micromus
+Pest,Coccinellids
+Pesticide,Verticillium Lecanii
+Crop,Tropical Sugarbeet
+Soil,Clayey Loam
+Nutrient,Sugar
+Crop,Cauvery
+Crop,Indus
+Crop,Shubhra
+Location,Syngenta India Ltd.
+Location,Pune
+Crop,Fodder Maize
+Crop,Fodder Cowpea
+Crop,Kolukattai Grass
+Crop,Stylosanthes Scabra
+Crop,Desmanthus
+Crop,Cumbu Napier Hybrid Grass
+Crop,Bajra Naiper Hybrid Grass
+Pesticide,Znso4
+Fertilizer,Bone Meal
+Nutrient,Mineral Mixture
+Nutrient,Supernatant Clear Lime Water
+Season,October To January
+Soil,Well Drained Black Cotton Soils
+Soil,Alkaline Soils
+Location,Cib&Rc
+Pesticide,Sulphuric Acid
+Crop,Mushrooms
+Crop,Button Mushroom
+Crop,Oyster Mushroom
+Crop,Paddy Straw Mushroom
+Crop,Milky Mushroom
+Season,October-November
+Irrigation,Irrigated Conditions
+Irrigation,Rainfed Conditions
+Soil,Agricultural Residues
+Soil,Agro-Residues
+Soil,Potato Dextrose Agar
+Fertilizer,Calcium Carbonate
+Fertilizer,Tnau Biomineralizer
+Microorganism,Azotobacter
+Microorganism,Azospirillum
+Microorganism,Pseudomonas
+Microorganism,Phosphobacteria
+Fertilizer,Biocompost
+Soil,Coir Dust
+Fertilizer,Poultry Manure
+Microorganism,Pleurotus Sajor-Caju
+Microorganism,Bacillus
+Microorganism,Trichoderma
+Fertilizer,Earthworm Castings
+FarmerPractice,Vermicomposting
+Crop,Crop Residues
+Crop,Weed Biomass
+Crop,Vegetable Waste
+Crop,Leaf Litter
+Crop,Hotel Refuse
+Crop,Waste From Agro-Industries
+Crop,Biodegradable Portion Of Urban And Rural Wastes
+Crop,Cattle Dung
+Crop,Biogas Slurry
+Pest,African Earthworm
+Pest,Red Worms
+Pest,Composting Worm
+Fertilizer,Untreated Distillery Effluent
+Fertilizer,Phosphogypsum
+Fertilizer,Iron Pyrites
+Fertilizer,Elemental Sulphur
+Fertilizer,Press-Mud
+Fertilizer,Farmyard Manure
+Fertilizer,Coir Dust
+Fertilizer,Green Manures
+Fertilizer,Blue Green Algae
+District,Karur District
+District,Vellore District
+Crop,Typha Latifolia
+Crop,Pharagmitis Australis
+Crop,Cyperus Pangorei
+Pest,Uzi Fly
+Pesticide,Benzoic Acid
+Pesticide,Sampoorna
+Pesticide,Dithane M 45
+Disease,Aspergillosis
+Crop,Mulberry
+Crop,Aegle Marmelos
+Crop,Thuja Orientalis
+Crop,Psoralea Corylifolia
+Crop,Plectranthus Amboinicus
+Crop,Teak
+Crop,Ailanthus
+Crop,Kadam
+Pesticide,Triazophos
+Fertilizer,Ssp
+Fertilizer,Micro Nutrient Mixture
+Soil,Coir Pith
+Soil,Coconut Sheaths
+Soil,Rice Straw
+FarmerPractice,Silvicultural Thinning
+FarmerPractice,Nutrient Management
+Crop,Briquettes
+Crop,Biomass
+Crop,Melia Dubia
+Crop,Neolamarkia Cadamba
+Crop,Swietenia Macrophylla
+Crop,Melia Volkensii
+Crop,Red Gram
+FarmerPractice,Pigeon
+FarmerPractice,Goat
+FarmerPractice,Fishery
+FarmerPractice,Biogas
+Location,Forest College And Research Institute
+Soil,0.75 Acre
+Weather,200°C
+Nutrient,40 Percentage
+Nutrient,10-12 Percent
+Fertilizer,Recycled Poultry Manure
+Fertilizer,Recycled Fishpond Silt
+Fertilizer,Poultry Dropping
+Fertilizer,Goat Droppings
+Fertilizer,Pigeon Droppings
+Crop,C. Glaucus
+Crop,E. Officinalis
+Crop,Cenchrus Setigerus
+Crop,Stylosanthes Hamata
+Crop,Pillipesara
+Soil,Salinity
+Soil,Sodicity
+Soil,Acidity
+Soil,Nutrient Toxicities
+Fertilizer,Bio-Compost
+Nutrient,Mop
+District,Pudukkottai
+Location,Ooty
+Location,Kodaikkanal
+Location,Yercaud
+Location,Western Zone
+Location,Aduthurai
+Soil,Sandy Soils
+Soil,Clay Soils
+Soil,Hard Pan
+Soil,Surface Crusting
+Soil,Chemical Constraints
+Soil,Physical Constraints
+Soil,Alfisols
+Soil,High Permeable Red Soils
+FarmerPractice,Conventional Cropping
+FarmerPractice,Duck-Cum-Fish Culture
+FarmerPractice,Cropping System
+Soil,River Sand
+Soil,Red Loam Soil
+Soil,Black Soil
+Pest,Aphid
+Location,Tnau
+District,Aruppukottai
+District,Paramakudi
+District,Muthukulathur
+District,Thiruvadanai
+District,Sathur
+District,Srivilliputhur
+District,Kovilpatti
+District,Vilathikulam
+District,Sankarankovil
+District,Srivaikuntam
+District,Udumalpet
+District,Dharapuram
+District,Palladam
+District,Gobichettipalayam
+District,Bhavani
+District,Avinashi
+District,Uthamapalayam
+District,Palani
+District,Kodaikanal
+District,Vedasandur
+District,Dindugul
+District,Nilakottai
+District,Usilampatti
+District,Thirumangalam
+District,Periakulam
+District,Karur
+District,Tiruchendur
+District,Nanguneri
+District,Ambasamudram
+District,Thiruthuraipoondi
+District,Lalgudi
+District,Musiri
+Crop,Nuts
+Crop,Tall (East Coast)
+Crop,Dwarf (Yellow)
+Crop,Tall X Dwarf
+Crop,Dwarf X Tall
+Pest,Eriophyid Mite
+Location,Cauvery Basin
+Crop,Adt 43
+FarmerPractice,Biomass Gas Stove
+FarmerPractice,Downdraft Gasifier
+FarmerPractice,Solar Tunnel Dryer
+Fertilizer,Biogas
+Fertilizer,Bio-Diesel
+Disease,Black Or Stem Rust
+Disease,Puccinia Graminis Tritici
+Crop,Barberry
+Pest,Uredospores
+Pest,Teliospores
+Pesticide,Propioconazole
+Crop,Pbw 343
+Crop,Pbw 550
+Crop,Pbw 17
+Crop,Kalyan Sona
+Crop,S227
+Crop,Pv18
+Crop,Hd2021
+Crop,Hd4513
+Crop,Hd4519
+Disease,Helminthosporium Leaf Spot
+Disease,Helminthosporium Spp.
+Disease,Culmiculous Smut
+Pest,Diatraea Dyari
+Pesticide,Triademefon
+Crop,Co 62198
+Crop,Co 7704
+Crop,Co 8001
+Crop,Co 8201
+Crop,Erianthus Fulvus
+Crop,Saccharum Spontaneum
+Crop,Sorghum Vulgare
+Crop,S. Halepense
+Crop,S. Robustum
+Crop,Imperata Arundinacea
+Crop,Cyperus Dilatatus
+Crop,Pearlmillet
+Crop,Green Manure Crops
+Irrigation,Irrigation Water
+Weather,Rain
+Weather,High Day Temperature
+Weather,Low Humidity
+Soil,Low Soil Moisture
+Fertilizer,Excess Doses Of Nitrogenous Fertilizers
+Crop,Fingermillet
+Disease,Sugarcane Mosaic Potyvirus
+Disease,Phytoplasma
+Disease,Damping-Off
+Disease,Leaf Spot
+Disease,Fusarium Oxysporum F.Sp. Vasinfectum
+Pest,Matsumuratettix Hiroglyphicus
+Pest,Melanaphis Sacchari
+Pest,Rhopalosiphum Maidis
+Pest,Rhopalosiphum Maydis
+Pest,Colletotrichum Capsici
+Pesticide,Blitox
+Pesticide,Blue Copper
+FarmerPractice,Aerated Steam Therapy
+FarmerPractice,Selecting Disease Free Setts
+FarmerPractice,Rogueing Infected Plants
+FarmerPractice,Growing Resistant Varieties
+FarmerPractice,Removing And Burning Affected Plants
+FarmerPractice,Spraying
+FarmerPractice,Continuous Ratooning
+FarmerPractice,Selecting Seed Material From Disease Free Areas
+Pesticide,Copper Oxy Chloride
+Pest,Meloidogyne Incognita
+Pest,Myllocerus Pustulatus
+Nutrient,Fusaric Acid
+Soil,20-30˚C
+Soil,Heavy Black Soils
+Fertilizer,Nitrogen
+Fertilizer,Phosphatic Fertilizers
+Crop,Aristolachia Bractiata
+Crop,Hibiscus Diversifolius
+Crop,Thumbergia Thespesioides
+Crop,Eriodendron Anfructuosum
+Crop,Jatropha Curcus
+Crop,Trigonella Polycerata
+Crop,Coconuts
+Crop,Dry Fruits
+Crop,Fresh Vegetables
+Crop,Fresh Fruits
+Crop,Groundnuts
+Country,Nepal
+Location,Africa
+Weather,Climate Variability
+Soil,Soil Quality
+Irrigation,Irrigation Infrastructure
+FarmerPractice,Food Security
+Crop,Rabi Crops
+Crop,Kharif Crops
+Crop,Soya Bean
+State,Arunachal Pradesh
+State,Andhra Pradesh + Telangana
+Crop,Musa Textilis
+Crop,Medicago Sativa
+Crop,Prunus Dulcis
+Crop,Pimpinella Anisum
+Crop,Malus Sylvestris
+Crop,Prunus Armeniaca
+Crop,Areca Catechu
+Crop,Arracacia Xanthorrhiza
+Crop,Maranta Arundinacea
+Crop,Cynara Scolymus
+Crop,Asparagus Officinalis
+Crop,Persea Americana
+Season,Pre Monsoon
+Season,Post Monsoon
+Crop,Chicken
+Crop,Beef
+Crop,Mutton
+Crop,Pork
+Crop,High Yielding Variety Of Seeds
+Crop,Agro-Based Items
+Crop,Cereal
+Crop,Sugar
+Crop,Edible Oil
+Crop,Coarse Cereals
+Soil,Rain-Fed Areas
+FarmerPractice,Agricultural Production
+Nutrient,Plant Nutrition
+District,Deoria
+FarmerPractice,Green Manuring
+FarmerPractice,Technological Innovation
+Location,Malwa Plateau
+Location,Vindhyan Plateau
+District,Ujjain
+District,Raisen
+Weather,Electricity Supply
+Pest,Termite
+Pest,Rat
+Disease,Leaf Blight
+Weed,Phalaris Minor
+Pesticide,Carbandazim
+Nutrient,Hyvs
+Pesticide,Weedicide
+Pest,Girdle Beetle
+Pest,Caterpillar
+Disease,Mosaic
+Disease,Wilt
+FarmerPractice,Hand-Weeding
+Pesticide,Thairum
+Soil,Black Cotton Soil
+Season,Early Varieties
+Season,Mid Varieties
+Storage,Kachha House
+Storage,Pucca House
+Pest,Rodent
+FarmerPractice,Post Harvest Technology
+Location,Central Narmada Valley
+FarmerPractice,Threshing
+FarmerPractice,Winnowing
+FarmerPractice,Storage
+FarmerPractice,Sun Drying
+FarmerPractice,Fumigation
+FarmerPractice,Rat Guards
+Disease,Weight Loss
+FarmerPractice,Application Equipment
+FarmerPractice,Pest Management
+FarmerPractice,Pest Behaviour
+Nutrient,Spray Droplet Size
+Nutrient,Pesticide Active Ingredient
+FarmerPractice,Calibration
+FarmerPractice,Nozzles
+Soil,Water
+Soil,Air
+Soil,Oils
+Pesticide,Spray Liquid
+FarmerPractice,Foot Operated Sprayers
+FarmerPractice,Rocking Sprayers
+FarmerPractice,High Pressure Hydraulic Sprayers
+FarmerPractice,Motorized Knapsack Sprayer
+FarmerPractice,Mist Blower
+FarmerPractice,Ulv Spraying
+FarmerPractice,L.V Spraying
+FarmerPractice,High Volume Sprayers
+FarmerPractice,Hand Operated Hydraulic Pump
+FarmerPractice,Hydraulic Nozzle
+FarmerPractice,Adjustable Type Hydraulic Nozzle
+FarmerPractice,Bamboo Lance
+FarmerPractice,Two-Stroke Petrol Engine
+FarmerPractice,Air Blast Nozzle
+Pesticide,Spray Droplets
+Pesticide,Spray Solution
+FarmerPractice,Spray Tank
+FarmerPractice,Pressure Regulator
+FarmerPractice,Gaseous Energy Nozzle
+Weather,Cross-Wind
+FarmerPractice,Controlled Droplet Application
+FarmerPractice,Electrostatic Spraying System
+Crop,Rubber Plantation
+FarmerPractice,Two Stroke 35 Cc Engine
+FarmerPractice,Dust Hopper
+FarmerPractice,Wet Dusting Attachment
+FarmerPractice,Dust Discharge Outlet
+FarmerPractice,Battery Operated Model Of Ulv Sprayer
+FarmerPractice,Spray Head
+FarmerPractice,Spinning Disc
+FarmerPractice,High Volume Spraying
+FarmerPractice,Low Volume Spraying
+Pesticide,Pesticide Dust
+FarmerPractice,Spray Nozzle
+Pesticide,Spray Particles
+FarmerPractice,Pesticide Application
+FarmerPractice,Spray Tank Pressurisation
+FarmerPractice,Tractor Mounted Air Carrier Sprayers
+FarmerPractice,Thermal Foggers
+FarmerPractice,Fogging Machines
+Pest,Pesticide Drift
+Weather,Wind Velocity
+Weather,Temperature
+FarmerPractice,Electrodyne Sprayer
+Pesticide,Dusting Powders
+FarmerPractice,Dryland Agriculture
+FarmerPractice,Hydraulic Nozzles
+FarmerPractice,Corona Charging
+FarmerPractice,Contact Charging
+FarmerPractice,Induction Charging
+FarmerPractice,Pesticide Dust Application
+FarmerPractice,Wet Dusting
+Pest,Brown Plant Hoppers
+FarmerPractice,Wick Applicator
+FarmerPractice,Swing Sack Applicator
+Pesticide,Pesticide Granules
+Pesticide,Dust
+Crop,Dryland Crops
+Pesticide,Fungicide Xy 50 Wp
+Pesticide,2D Abc Dust Formulation
+Nutrient,Active Ingredient
+Nutrient,Ppm
+Pesticide,Kerosene Oil
+Pesticide,Sae 30 Oil
+Pesticide,Emery Paper
+Pesticide,Cotton Waste
+Pesticide,Packing Rope
+Pesticide,Winding/Locking Wire
+Pesticide,Sharp Needle
+FarmerPractice,Plant Protection Equipment
+Pesticide,S.A.E. 30 Oil
+FarmerPractice,Knapsack Sprayers
+FarmerPractice,Cut-Off Devices
+FarmerPractice,Lances
+FarmerPractice,2-Stroke Petrol Engine
+FarmerPractice,4-Stroke Petrol Engine
+Pest,Spark Plug
+Pest,Air Cleaner
+Pest,Carburetor
+Pest,Fuel Cock
+Pest,Piston
+Pest,Rings
+Pest,Liners
+Pest,Crankshaft
+Pest,Bearings
+Pest,Valves
+Crop,Quality Seeds
+FarmerPractice,Honey-Bee Keeping
+FarmerPractice,Fodder Intensification
+Crop,Quality Saffron
+District,Srinagar
+Disease,Fungi
+Disease,Viruses
+Location,Agro-Ecosystem
+Nutrient,Economic Threshold (Et)
+Nutrient,Economic Injury Level (Eil)
+Pesticide,Turmeric
+Pesticide,Tulsi
+Fertilizer,Cow Urine
+Fertilizer,Ghee
+Fertilizer,Lemon
+Fertilizer,Methi
+Fertilizer,Bael
+Fertilizer,Curd
+Fertilizer,Asafoetida
+Fertilizer,Mint
+Pesticide,Vijay Neem
+Fertilizer,Neem Coated Urea
+Crop,Pigeonpea
+Pesticide,Castor Oil
+Pesticide,Mustard Oil
+Pesticide,Ghee
+Pesticide,Lemon
+Crop,Methi
+Crop,Bael
+Pesticide,Curd
+Pesticide,Asafoetida
+Pesticide,Mint
+Pest,Neem
+Pest,Early Stem Borer
+Crop,Grain
+Soil,Stubble
+Crop,Notchi
+Crop,Pungam
+Crop,Malai Vembu
+Crop,Thumbai
+Location,North Goa
+FarmerPractice,Tatho
+Pest,Nematodes
+Pest,Insect
+Disease,Virus-Like Organisms
+Weather,Wind
+FarmerPractice,Human Activity
+Location,Uttarakhand
+Weather,Floods
+Weather,Landslides
+Weather,Harsh Winters
+FarmerPractice,National Innovations In Climate Resilient Agriculture
+FarmerPractice,Dairy Farming
+FarmerPractice,Goat Farming
+FarmerPractice,Sheep Farming
+FarmerPractice,Poultry Farming
+Disease,Climate Change
+Soil,Glaciers
+Soil,Silty Loam
+District,Bageshwar
+District,Tehri Garhwal
+Irrigation,Water Bodies
+Irrigation,Community Ponds
+FarmerPractice,Vegetable Production
+Irrigation,Rainwater Harvesting Tanks
+FarmerPractice,Bunds
+Irrigation,Jalkunds
+FarmerPractice,Low-Cost Mushroom Unit
+Crop,Cucumbers
+Crop,Peppers
+Crop,Leafy Greens
+Disease,Moisture Stress
+Weather,Frost
+Weather,Untimely Rains
+Weather,Hails
+FarmerPractice,Vl Polytunnel
+Crop,Shalimar Rice-4 (Sr-4)
+Disease,Blast Disease
+Pest,Apple Blotch Leaf Miner (Ablm)
+Crop,Drought Tolerant Maize-1 (Dtm-1)
+Crop,Pusa-1509
+Crop,Gobhi Sarson
+Location,Nicra
+Crop,Fodder Oats
+Crop,Kdfm-1
+Disease,Yellow Vein Mosaic
+Disease,Ectoparasitic Infestations
+Disease,Mastitis
+Disease,Skin Infection
+Disease,Pica
+Disease,Milk Fever
+Disease,Ketosis
+Pesticide,Fenbendazole
+Pesticide,Ivermectin
+FarmerPractice,Cow Mats
+District,Champawat
+Location,Bandipora
+Season,2023
+Season,2022-23
+Soil,Cold Arid Region
+Weather,Scant Rainfall Zones
+FarmerPractice,Drought Proofing
+Crop,Maize Fodder
+Location,Nicra Villages
+District,Bandipora
+Nutrient,Oxygen
+Disease,Pathogen
+Disease,Necrotic Diseases
+Disease,Soft Rot Diseases
+Disease,Apple Scab
+Disease,Venturia Inaequalis
+Disease,Sclerotinia Sclerotiorum
+Disease,Claviceps Purpurea
+Pest,Rice Thrips
+Pesticide,Lambda-Cyhalothrin
+Pesticide,Buprofezin
+Pest,Brevennia Rehi
+State,Orissa
+Country,Thailand
+Crop,Echinocloa
+Crop,Ipomoea
+Crop,Prosopis
+Pest,Rice Hispa
+Pest,Dicladispa Armigera
+Pest,Armigera
+Location,Bangladesh
+Location,Burma
+Location,Southern China
+Location,West Malaysia
+Location,Nepal
+Country,Pakistan
+Location,Sumatra
+Location,Thailand
+Location,West Iran
+Pesticide,Bhc
+Pest,Oxya Nitidula
+Pest,Hydronomidus Molitar
+Pest,Arthrodeis Sp.
+Pest,Platygaster Oryzae
+Pest,Sorghum Shootfly
+Pest,Atherigona Soccata
+Pesticide,Cecidogen
+Pest,Grain Midge
+Pest,Slug Caterpillar
+Pest,Leaf Roller
+Pest,Discolor
+Pest,Helicoverpa Sp.
+Pesticide,Npv
+FarmerPractice,Sex Pheromone Trap
+FarmerPractice,Fishmeal Traps
+Fertilizer,Starch
+Country,Malaysia
+Country,Taiwan
+Country,Burma
+Location,South East Asia
+Country,Korea
+Country,Indonesia
+Pest,Ash Weevil
+Pest,Wheat Gall Nematode
+Pest,Hopper
+Pest,Pyrilla Perpusilla
+Pest,Wheat Bug
+Pest,Wheat Thrips
+Pest,Cut Worms
+Pest,Pink Borer
+Pesticide,Imidaclorpid
+Pesticide,Malathion 50 Ec
+Pesticide,Phosalone 50 Ec
+Pesticide,Dimethoate 30 Ec
+Pesticide,Endosulfan 35 Ec
+Location,South India
+Pest,Anticarsia Irrotata
+Pest,Leaf Cutter Bee
+Pest,Etiella Zinckenella
+Pest,Bracon Lebetor
+Pest,Bracon Hebetor
+Pest,Eublemma Hemirrhoda
+Crop,Lentils
+Pest,Beetle
+Pesticide,Neem Seed Kernel Powder
+Pesticide,Rhinolure
+Crop,Date Palm
+Pest,Root Grub
+Pest,Oligonychus Indicus
+Pest,Raoiella Indica
+Pest,Leucopholis Burmeisteri
+Fertilizer,Potash
+Soil,Clay
+Soil,Mud
+Soil,Manure
+FarmerPractice,Toddies
+FarmerPractice,Clean Cultivation
+FarmerPractice,Deep Ploughing
+FarmerPractice,Early Sowing
+FarmerPractice,Soil Raking
+FarmerPractice,Seed Pelleting
+FarmerPractice,Aggregation Pheromone Traps
+FarmerPractice,Root Feeding
+FarmerPractice,Pupation
+Season,Harvest
+Crop,Areca
+Location,Karnataka
+Pest,Root Grubs
+Pest,Inflorescence Caterpillar
+Pest,Tirathaba Mundella
+Pest,Pentatomid Bug
+Pest,Halymorpha Marmorea
+Crop,Safflower
+Pest,Pupae
+Pest,Larvae
+Pest,Maggots
+Nutrient,Honeydew
+Pest,Leaf Webber
+Pest,Gall Fly
+Pest,Leaf Hopper
+Pest,Spodoptera Exigua
+Pest,Eublemma Rivula
+Pest,Chromatomyia Horticola
+Pest,Retithrips Syriacus
+Fertilizer,Nske
+Location,Indo-Gangetic Plains
+Crop,Cruciferous Vegetables
+Pest,Apanteles Glomeratus
+Pest,Gall-Midge
+Crop,Brassica Crops
+Disease,Nematospora Gossypii
+Fertilizer,Carbofuran
+Pest,Red Cotton Bug
+Pest,Cotton Bollworm
+Pest,H. Armigera
+Pest,Earias Insulana
+Crop,G 27
+Crop,Ld 135
+Crop,Lohit
+Crop,Abadhita
+Crop,Mcu 7
+Crop,Sujata
+Crop,Digvijay
+Crop,Sanguineum
+Pest,Top Borer
+Pest,Early Shoot Borer
+Pest,Internode Borer
+Pest,Gurdaspur Borer
+Pest,Stalk Borer
+Pest,Beet Armyworm
+Pesticide,Endosulfan 35Ec
+Pest,Jute Stem Weevil
+Crop,Capsularis
+Fertilizer,Phorate
+Pest,Neocatolaccus Nupserhae
+Pest,Norbanus Acuminatus
+Pest,Laphygma Exigua
+Pest,Semilooper
+Pest,Plusia Signata
+Pest,Mango Mealy Bug
+Pest,Mango Nut Weevil
+Pest,Caterpillar Pests
+Crop,Neelam
+Crop,Humayudin
+Pest,Bactrocera Dorsalis
+Crop,Avocado
+Crop,Melons
+Crop,Jack Fruit
+Crop,Strawberry
+Pest,Fruit Sucking Moth
+Pest,Drosicha Mangifera
+Pest,Apoderus Tranquebarious
+Pest,Citrus Blackfly
+Pest,Citrus Rust Mite
+Pesticide,Dicofol
+Pest,Grub
+Pest,Hypatima Haligramma
+Pesticide,Methylparathion
+Pesticide,Dichlorvas
+Pesticide,Methomyl
+Pest,Cryptoleamus Montrouzieri
+Pest,Scymnus Craccivora
+Pest,Spalgis Epius
+Crop,Abutilon
+Crop,Acalypha
+Crop,Vernonia
+Crop,Convolvulus
+Disease,Sooty Mould Fungus
+Disease,Mycoplasma Disease
+Disease,Lethal Yellowing
+Pest,Encarsia
+Pest,Chilocorus Nigrita
+Pest,Chilomenus Sexmaculatus
+Pesticide,Fish Oil Rosin Soap
+Crop,Zizyphus
+Crop,Pomegranate
+Crop,Bauhinia
+Crop,Loquat
+Crop,Moringa
+Crop,Eugenia
+Crop,Aonla
+Crop,Tamarind
+Pest,Hadda Beetle
+Pest,Ash Weevils
+Pest,Leafhoppers
+Pest,Serpentine Leafminer
+Crop,Pusa Purple Round
+Crop,Arka Kusumakar
+Crop,Doli -5
+Disease,Muranai Disease
+Pest,Aceria Cajani
+Pest,Aceria Sorghi
+Pest,Aceria Oryzae
+Pest,Amblyseius Ovalis
+Pesticide,Carbon Disulphide
+Pesticide,Chloroform
+Pesticide,Petrol
+Disease,Bud Necrosis
+Pest,Polyphagodorsonemous Latus
+Pest,Shoot And Fruit Borer
+Pest,Fruit Borer
+Disease,Tomato Leaf Curl
+Disease,Pea Mosaic Virus
+Pest,Pea Aphid
+Crop,Ae 57
+Crop,Pms 8
+Crop,Parkins Long Green
+Crop,Pkx 9275
+Crop,Karnual Special
+Pesticide,B.T Formulation
+Pesticide,Dipel
+Disease,Sooty Mould
+Disease,Chilli Powdery Mildew
+Fertilizer,Thiram
+Fertilizer,Captan
+Fertilizer,Ziram
+Fertilizer,Wettable Sulphur
+Fertilizer,Zineb
+Disease,Soft Rot Fungus
+Disease,Alternaria Rot
+Pest,Meloidogyne Javanica
+Pest,Scale Insects
+Weather,High Humidity
+Weather,High Moist Condition
+Season,Autumn
+Season,Oct
+Season,Dec
+Disease,Blossom-End Rot
+Disease,Powdery Mildew
+Disease,Brown Rot
+Pest,Cestius Phycytis
+Pest,Empoasca Devastans
+Pest,Hishimonas Phycitis
+Pesticide,Metasystox
+Fertilizer,Trichoderma Viride
+Pesticide,Pcnb
+Crop,Fennel
+Crop,Datura
+Crop,Vinca Rosea
+Crop,Kufri Sindhuri
+Crop,Kufri Bahar
+Crop,Kufri Chamatkar
+Crop,Kufri Jyothi
+Crop,Kufri Muthu
+Crop,Kufri Swarna
+Crop,Parbhani Kranti
+Crop,Arka Abhay
+Crop,Arka Anamika
+Crop,Varsha Uphar
+Crop,Seed Tubers
+Disease,R. Solanacearum
+Crop,Muskmelon
+Disease,Fusarium Oxysporum F. Sp. Melonis
+Disease,Fusarium Oxysporum F. Sp. Niveum
+Pesticide,Thiophanate-Methyl
+Pest,Cucumber Beetles
+Pest,Striped Cucumber Beetle
+Pest,12-Spotted Cucumber Beetle
+Season,Season
+Soil,Crop Residue
+Crop,Cucurbit
+Disease,Alternaria Blight
+Disease,Beet Curly Top Virus
+Pest,Myzus Persicae
+Pest,Aphid Fabae
+Disease,Tobacco Mosaic Virus
+Disease,Xanthomonas Campestris Pv. Campestris
+Disease,Club Root
+Nutrient,Oospores
+Nutrient,Zoospores
+Disease,Black Rot
+Pesticide,Sodium Hypochlorite
+Crop,Egg Plant
+Crop,Ground Nut
+Fertilizer,Trisodium Phosphate
+Disease,Tomato Mosaic Virus
+Disease,Spotted Wilt Virus
+Pest,Frankliniella Schultzi
+Pest,F. Occidentalis
+Weather,Moisture
+Weather,Warm Weather
+Weather,Rainy Weather
+Disease,Early Blight
+Disease,Alternaria Solani
+Disease,Cucumber Mosaic Virus
+Disease,Erysiphe Polygonii
+Disease,Cercospora Leaf Spot
+Disease,Cercospora Sp.
+Fertilizer,Copper Oxychloride
+Pesticide,Sulfur
+Crop,Southern Peas
+Disease,Sclerotia
+Disease,Mycelium
+Disease,Penicillium
+Disease,Chlamydospores
+Disease,Oospores
+Disease,Basidiospores
+Pesticide,Aureofunginsol
+Pest,Stephanitis Typica
+Disease,Botryodiplodia Palmarum
+Disease,M. Grisea
+Disease,Leaf Blast
+Disease,Nodal Blast
+Disease,Neck Blast
+Disease,Helminthosporium Oryzae
+Disease,Bipolaris Oryzae
+Disease,Cochliobolus Miyabeanus
+Disease,Cercospora Janseana
+Pesticide,Edifenphos
+Pesticide,Neem Seed Kernal Extract
+Crop,Panicle
+Season,Seedling Stage
+Season,Post Transplanting Tillering Stage
+Season,Neck Emergence Stage
+Disease,False Smut
+Disease,Ustilaginoidea Virens
+Disease,Udbatta Disease
+Disease,Ephelis Oryzae
+Disease,Bakanae Disease
+Disease,Fusarium Moniliforme
+Pesticide,P.Fluorescens
+Crop,Mansarovar
+Crop,Swarau Dhan
+Crop,Pankaj
+Crop,Ir 20
+Crop,Pankhari203
+Crop,Bm66
+Crop,Bm68
+Crop,Latisail
+Crop,Ambemohar102
+Crop,Kamod253
+Crop,Ir50
+Crop,Co45
+Crop,Leersia Spp.
+Crop,Plantago Najor
+Crop,Paspalum Dictum
+Crop,Cyanodon Dactylon
+Crop,Echinochloa Crusgalli
+Crop,Panicum Miliaceaum
+Weather,High Temperature
+Weather,Cloudy Weather
+FarmerPractice,Burning Of Stubbles
+FarmerPractice,Hot Water Treatment
+FarmerPractice,Clipping Of Tip Of The Seedling
+Disease,Rice Grassy Stunt Tenuivirus
+Pesticide,Phosphamidon
+Pesticide,Fenthinon
+Disease,Rice Tungro Disease
+Crop,Ir62
+Crop,Ir64
+Pesticide,Ziram
+Crop,Heteropogen Centortus
+Disease,Ustilago Nuda Tritici
+Disease,Karnal Bunt
+Disease,Puccinia Recondita F. Sp. Tritici
+Pest,S. Asiatica
+Pest,S. Densiflora
+Symptom,Honey Dew
+Symptom,Black Teliospores
+Symptom,Brown Smut Spores
+Disease,Grain Mould
+Weather,High Rainfall
+Weather,Cool Night Temperature
+Season,November - December
+Location,Northern Hills
+Disease,Fusarium Sp
+Disease,Sclerotinia Rot
+Disease,Molya Disease
+Pest,Heterodera Avenae
+Crop,Wcc-75
+Crop,Co (Cu)9
+Disease,Gloeocercospora Sp.
+Crop,Oats
+Crop,Green Gram
+Crop,Varagu
+Crop,Sudan Grass
+Crop,Johnson Grass
+Crop,Co1
+Crop,Coh1
+Crop,Coh2
+Crop,Sn-65
+Crop,Sws-8029
+Crop,Diva
+Crop,Zenit
+Crop,Oxalis Corniculata
+Crop,Euchlaena Mexicana
+Pest,Perigrimus Maidis
+Soil,Chlamydospores
+Soil,Sclerotia
+Soil,Free Water
+Weather,Low Temperature
+FarmerPractice,Monoculturing
+FarmerPractice,Successive Ratoon Cropping
+FarmerPractice,Long Crop Rotation
+FarmerPractice,Rogue Out Infected Plants
+FarmerPractice,Grow Resistant Varieties
+Pest,Cane Borer
+Nutrient,Boran
+Weather,Dry Weather
+Weather,Prolonged Rainfall
+Location,Disease-Free Area
+Crop,Collateral Hosts
+Crop,Zea Mays
+Crop,Pennisetum Americanum
+Crop,Eleusine Indica
+Crop,Setaria Lutescens
+Crop,Stenotaphrum Secondatum
+Crop,Digitaria Didactyla
+Crop,Saccharum Spontaneum L.
+Crop,S. Barberi
+Disease,Pythium Aphanidermatum
+Disease,Pythium Debaryanum
+Disease,Pythium Graminicola
+Disease,Pythium Ultimum
+Disease,Sugarcane White Leaf
+FarmerPractice,Hot Water
+Crop,Suguna
+Crop,Sudarshan
+Disease,Post-Emergence Damping Off
+Soil,Mycelium
+Soil,Oospores
+Pest,Rootknot Nematodes
+Pest,Meloidogyne Incognita Var. Acrita
+Disease,Frog-Eye Spot
+Nutrient,Alternin
+Pesticide,Maneb
+Pesticide,Benomyl
+Disease,Tobacco Mosaic Tobamovirus
+Pest,Broom Rape
+Pest,Orobanche Cernua Var. Desertorum
+Fertilizer,T.Harzianum
+Pesticide,Allyl Alcohol
+Crop,Bougainvillea
+Crop,Basella Alba
+Crop,Tmv Rr2
+Crop,Tmv Rr 2A
+Crop,Tmv Rr3
+Crop,Moth Bean
+Disease,Groundnut Rosette Assistor Virus
+Disease,Groundnut Rosette Virus
+Disease,Groundnut Rosette Satellites
+Pest,Aphis Craccivora
+Pest,A. Gossipii
+Pest,T. Tabaci
+Pest,Frankliniella Sp.
+Disease,Phytophthora Parasitica
+Weather,Low Soil Moisture
+Weather,High Soil Temperature
+Weather,Prolonged Rainy Season
+FarmerPractice,Water Logging
+FarmerPractice,Heavy Seed Rate
+FarmerPractice,Intercropping With Red Gram
+Crop,Jyothi
+Crop,Jwala
+Crop,Gch-4
+Crop,Dch-30
+Crop,Shb 145
+Pesticide,Karathane
+Pesticide,Calixin
+Pesticide,Iprodion
+Pesticide,Oxytetracycline Hydrochloride
+Pesticide,Streptomycin Sulphate
+Soil,Weed Hosts
+Weather,Cool Winter Climate
+Weather,Prolonged Drought
+FarmerPractice,Deep Summer Ploughing
+FarmerPractice,Proper Spacing
+FarmerPractice,Remove And Destroy Diseased Plants
+FarmerPractice,Avoid Water Logging
+FarmerPractice,Burning Of Crop Debris
+Crop,Brassica Campestris Var. Toria
+Crop,B. Rapa
+Crop,Cicer Arietinum
+Crop,Crotalaria Sp.
+Crop,Trifolium Sp.
+Crop,Arachis Hypogaea
+Pesticide,Thirnet 10G
+Pesticide,Phorate 10 G
+Disease,Colletotrichum Sp.
+Disease,Colletotrichum Capsici
+Disease,A. Niger
+Disease,Rhizopus Nigricans
+Disease,Nematospora Nagpuri
+Disease,Botryodiplodia Sp.
+Disease,Fusarium Udum
+Disease,Uromyces Phaseoli Typica
+Crop,Vbn-1
+Crop,Pdu 10
+Crop,Ic12/2
+Crop,Plu 322
+Disease,Colletotrichum Lindemuthianum
+Weed,Aristolochia Bracteata
+Weed,Digera Arvensis
+Weather,Cool And Wet Seasons
+FarmerPractice,Disease Free Seed
+Disease,Narrow Brown Leaf Spot
+Weather,Moist Weather
+Weather,Rainy Days
+Weather,Low Night Temperature
+Nutrient,Excessive Nitrogen
+Pest,Nephotettix Virescens
+Pest,Nephotettix Cinct
+Pesticide,Phosphomidan
+Crop,Co25
+Crop,Co26
+Crop,Pusa 44
+Crop,Wg 377
+Disease,Black Rust
+Disease,Brown Rust
+Disease,Yellow Rust
+Disease,Crerebella Sorghivulgaris
+Soil,Spores
+Nutrient,Honey Dew
+Weather,Wet Weather
+Soil,High Soil Moisture
+Season,Early Flowering
+Disease,A.Triticina
+Disease,B.Sorokiniana
+Disease,A.Alternate
+Crop,Cenchrus Ciliaris
+Crop,C. Setigerus
+Soil,Conidia
+FarmerPractice,Treat The Seeds
+FarmerPractice,Spray The Crop
+Disease,Maize Mosaic Potyvirus
+Disease,Colletotrichum Falcatum
+Disease,Physalospora Tucumanensis
+Pesticide,Emisan
+Weather,High Soil Moisture
+Weather,Frequent Rainfall
+Disease,Necrotic Areas
+Disease,Conidiophores
+Disease,Conidia
+Pesticide,Thiophanate Methyl
+Disease,Mosaic Burn
+Pesticide,Kerosene
+FarmerPractice,Decoy Or Trap Crops
+Crop,Alr 1
+Crop,Arachis Marginata
+Crop,A. Nambyquarae
+Crop,A. Prostrate
+Weather,Heavy Rainfall
+FarmerPractice,Deep Sowing
+FarmerPractice,Removal Of Infected Plants
+FarmerPractice,Destruction Of Plant Debris
+Disease,A. Flavus
+Crop,Euphorbia Obtusifolia
+Crop,E.Geniculata
+Crop,E.Marginata
+Disease,Fusarium Oxysporum F.Sp. Sesami
+Fertilizer,Well Rotten Manures
+Soil,Low-Lying And Ill Drained Soils
+Weather,Dry Humid Weather
+Weather,Low Relative Humidity
+Weather,Continuous Rainy Weather
+Weather,Day Temperature Of 25.5° To 30.5°C
+Irrigation,Copious Irrigation
+FarmerPractice,Clean Cultivation And Field Sanitation
+FarmerPractice,Planting In Mid-September
+Disease,"Hyaline, Septate Mycelium"
+Disease,Cleistothecia
+Disease,Ascospores
+Disease,Obligate Parasite
+Soil,Plant Debris
+Pesticide,Strephocyclin
+Disease,Pleomorphic Mycoplasma
+Pest,Jassid
+Disease,Anthracnose -Colletotrichum Sp.
+Fertilizer,Thirnet
+Disease,Disease
+Season,Cool And Wet Seasons
+Soil,Infected Plant Tissues
+Soil,Infected Plant Debris
+Disease,Acrocylindrium Oryzae
+Crop,Simhapuri
+Crop,Bala
+Crop,Bam 10
+Crop,Ir-20
+Crop,Tellahamsa
+Crop,Kakatiya
+Location,Godavari Delta
+District,Nellore
+District,Chittor
+Weather,25-30 °C
+Weather,80%
+Weather,93-99%
+Weather,15-20 °C
+Disease,Cercospora Oryzae
+Location,Surinam
+Disease,Kresek Disease
+District,Godavari
+Crop,Mtu 9992
+Crop,Swarna
+Crop,Ajaya
+Crop,Ir 42
+Crop,Ir 50
+Crop,Ir 54
+Crop,Mashuri
+Crop,Iet 4141
+Crop,Iet 1444
+Crop,Iet 2508
+Crop,Chinsura Boro
+Pesticide,Agrimycin
+Location,Philippines
+State,U.P
+State,Mp
+State,Ap
+Crop,Ir 8
+Crop,Padma
+Crop,Krishna
+Crop,Jagannath
+Disease,Tungro
+Disease,Penyakitmerah
+Disease,Rtbv
+Disease,Rtsv
+Disease,Colletotrichum Graminicola
+State,Delhi
+Crop,Spv 162
+Crop,Csv 17
+Crop,Texas Milo
+Crop,Tift Sudan
+Soil,Oxalis Corniculata
+Crop,Csh 5
+Crop,Spv 13
+Crop,81
+Crop,126
+Crop,Psh 1
+Crop,Ck 60 A
+Pest,Cerebella Sorghivulgaris
+Disease,Fusarium Semitectum
+Disease,F.Moniliforme
+Disease,C. Lunata
+Crop,Gmrp 4
+Crop,Gmrp 9
+Crop,Gmrp 13
+Crop,Csv 15
+Crop,S. Halapense
+Crop,S. Sudanens
+Crop,E-36-1
+Crop,Csv 5
+Crop,Csh 7-R
+Crop,Spv 126
+Crop,Spv 193
+Location,Andhra Pradesh
+District,Warangal
+District,Karimnagar
+District,Medak
+District,Nizamabad
+District,Adilabad
+District,Ranga Reddy
+Pest,Striga
+Crop,Dhm-1
+Crop,Dhm-103
+Crop,Dhm 105
+Crop,Ganga Safed-2
+Disease,Peronosclerospora Sacchari
+Crop,Sorghum Bicolor
+Crop,Sorghum Halapense
+Crop,Digitaria Sanguinalis
+Crop,Dmr-5
+Crop,Ganaga Ii
+Pesticide,Apron 35Sd
+Pesticide,Metalaxyl Mz
+Pesticide,Ridomil Mz
+Crop,Hb 3
+Crop,Bj 104
+Crop,Rt 814-3
+Crop,Pt 826/4
+Crop,Pt 829/5
+District,Chittoor
+State,A.P
+Crop,Dc 7
+Crop,Mpp 7131
+Crop,Mpp 7108
+Crop,Ratnagiri
+Crop,Padmavati
+Crop,Gowtami
+Crop,Godavari
+Pest,Rophalosiphum Maydis
+Disease,Black Stem Rust
+State,M.P
+State,W.B
+Location,Eastern Parts Of U.P
+Location,Nilgiri
+Location,Pulney Hills
+Crop,Thalictrum
+Crop,Berberis
+Crop,Mahonia
+Crop,Kalyanasona
+Crop,Sonalika
+Crop,Choti Lerma
+Crop,Lerma Rojo
+Crop,Safed Lerma
+Crop,Np 700
+Crop,Np 800
+Pesticide,Plantavax
+Crop,Isopyrum Fumaroides
+Pesticide,Rh-124
+Pesticide,Dithiocarbamates
+Crop,Sonara-64
+Location,Karnal
+Location,Nilgiris
+Pest,Agropyron Semicostatum
+Pest,Bromus Catharaticus
+Pest,Bromus Japonicus
+Pest,Hordeum Murinum
+Crop,Pv 18
+Crop,Wg 307
+Crop,Hd 450
+Pesticide,Copper Carbonate
+Disease,Tundu Disease
+Crop,Co.25
+Crop,Arnautka
+Crop,E6160
+Crop,K7340
+Disease,Corynebacterium
+Disease,Xanthomonas Campestris Pv. Malvacearum
+Fertilizer,Sodium Chloride
+State,A.P.
+Country,Ussr
+Weather,20-30 0 C
+Weather,30-40 0 C
+Weather,85 Per Cent
+Disease,Cercospora Gossypina
+Disease,Phakopsora Uredia
+Season,North-East Monsoon
+Soil,Low Lying And Ill-Drained Soils
+Soil,Heavy Soils With Alkaline Reaction
+FarmerPractice,Disease Resistant Varieties
+FarmerPractice,Removal Of Infected Plant Debris
+Crop,Gramma Grass
+District,Srikakulam
+District,Vishakapatnam
+Crop,Co 6907
+Crop,Co 7219
+Crop,Co 8013
+Crop,Co 8021
+Crop,Co 7706
+Crop,Co A 7602
+Crop,Co A 89082
+Crop,Co A 89085
+Crop,87 A 397
+Crop,Co T 8201
+Crop,Co 6806
+Crop,Co 62175
+Disease,Grassy Shoot
+State,Tn
+Disease,Sugarcane Mosaic Virus
+Disease,Black Shank
+Pest,Aphis Maidis
+Pest,Longiunguis Sacchari
+Pest,M. Indosacchari
+Pest,Proutista Moesta
+Crop,Stenooaphorum Secondatum
+Crop,S. Berberi
+Crop,Co 419
+Season,Winter Months
+Pesticide,T. Harzianum
+Disease,Nicotiana Virus I
+Pest,Orobanche
+Disease,Cercosporidium
+Crop,Turnip
+Disease,Cercospora Arachidicola
+Disease,Cercospora Personatum
+Crop,Arachis Glabarata
+Pest,Parthenium Hysterophorous
+Pest,Frankliniella Schultzei
+Disease,Alternaria Sesami
+Location,Tirupati
+District,Anantapur
+FarmerPractice,Crop Rotation With Millets
+FarmerPractice,Intercropping With Bajra
+FarmerPractice,Spacing Of 15X15 Cm
+District,Chittoor District
+Disease,Erysiphe Cichoracearum
+Crop,Rajeshwari
+Crop,Si-1926
+Crop,Krr-2
+Disease,Bacterial Leaf Spot
+Pest,Pseudomonas Sasami
+Pest,Ralstonia Syringae Pv. Sesami
+Disease,Fusarium Oxysporum F.Sp. Ricini
+Fungicide,Trichoderma Viride
+Crop,Dch 32
+Crop,Dch 177
+Crop,Dch 519
+Crop,Gch 4
+Crop,Gch 5
+Crop,Gch 6
+Disease,Botrytis Ricini
+Disease,Sclerotinia Ricini
+Disease,Phytophthora Blight
+Disease,Stem Blight
+Crop,Bdn 1
+Crop,Icpl 150
+Crop,Icpl 288
+Crop,Icpl 304
+Crop,Kpbr 80-1-4
+State,M.P.
+District,Telangana
+Soil,Low-Lying Soils
+Soil,Acidic Soils
+Nutrient,High Nitrogen
+Weather,Warm Moist Weather
+Weather,Drizzling Rain
+Pesticide,Ridomyl Mz
+Disease,Fusarium Oxysporum F. Sp. Udum
+Crop,Asha (Icpl 87119)
+Crop,Maruti (Icp 8863)
+Crop,Lakshmi (Icpl 85063)
+Crop,Durga (Icpl 84031)
+Crop,Prg 100
+Crop,Prg 158
+Crop,Muktha
+Crop,Prabhat
+Crop,Sharada
+Crop,Iccv 10
+Disease,Protomycopsis Patelii
+Crop,Lgg 407
+Crop,Lgg 450
+Crop,Lgg 421
+Crop,Wgg 295
+Crop,Pusa 105
+Disease,Angular Black Spot Disease
+Pesticide,Pseudonomas Fluorescens
+Fertilizer,Gliricidia Maculate
+Weather,30 0 C
+Season,Dry Season
+Irrigation,Canals
+Irrigation,Tube Wells
+FarmerPractice,Pagrexco
+FarmerPractice,Smallholder Farmers
+FarmerPractice,Climate-Resilient Agricultural Systems
+FarmerPractice,Agriculture Innovation
+FarmerPractice,Farm Mechanization
+FarmerPractice,Modern Technologies
+Technology,Blockchain Technology
+Technology,Remote Sensing
+Technology,Drone
+Technology,Artificial Intelligence
+Technology,Machine Learning
+FarmerPractice,Weather Risk Management
+Crop,Crop Diversity
+FarmerPractice,Agriculture Advisory Services
+Location,Agriculture Ecosystem
+Weather,Satellite Imagery
+Weather,Weather Data
+Soil,Soil Data
+Location,Agro Climatic Zone
+Soil,Fallow Land
+FarmerPractice,Mixed Cropping
+FarmerPractice,Plant Row Spacing Ratios
+Nutrient,Crop Yield Prediction
+Nutrient,Crop Acreage Estimation
+Weather,Weather Pattern
+FarmerPractice,Sowing
+Nutrient,Crop Health
+Department,Agriculture Department
+FarmerPractice,Mobile Application
+FarmerPractice,Satellite Data
+FarmerPractice,Blockchain Platform
+Pest,Desert Locust
+Pest,Schistocerca Gregaria
+Pest,Bombay-Locust
+Pest,Patanga Succincta
+Pest,Migratory Locust
+Crop,Calotropis Procera
+Crop,Melia Azedarach
+Crop,Datura Stramonium
+Location,Faridabad
+Pest,Amsacta Moorei
+Pest,Spilarctia Obliqua
+Crop,Glwra
+Crop,Mung
+Crop,Math
+Crop,Chilies
+Pest,Red Pumpkin-Beetle
+Pest,Blue Pumpkin-Beetle
+Pest,Red Vegetable Mite
+Crop,Fig
+Soil,Vegetable Matter
+Location,Northwestern India
+Pesticide,Dimethoate 30Ec
+Pesticide,Oxydemeton Methyl 25Ec
+Disease,Chaetothyrium Mangiferae
+Pest,Mango Mealybug
+Pest,Drosicha Mangiferae
+Pesticide,Methyl Parathion 50 Ec
+Pesticide,Carbaryl 50 Wp
+Pest,Batocera Rufomaculata
+Pest,Batocera Rubus
+Pesticide,Quinalphos 25 Ec
+Pest,Trichogramma Evanescens
+Pest,Telenomus Sp
+Pest,Brachymerria Sp
+Season,April-May
+Season,October-January
+Location,Northwestern Part Of India
+Pesticide,Dd-136
+Pesticide,Neem Seed Extract
+Pesticide,Dichlorvos 76 Ec
+Pesticide,Monocrotofos 36 Sl
+Pest,Anar Butterfly
+Pest,Virachola Isocrates
+Pest,Deudorix Isocrates
+Pest,Carpomyia Visuviana
+Crop,Zizyphus Mauritiana
+Crop,Z. Jujube
+Crop,Z. Sativa
+Pesticide,Chloropyrifos 20 Ec
+Pest,San Jose Scale
+Pest,Quadraspidiotus Perniciosus
+Pest,Eriosoma Lanigerum
+Crop,Crab-Apple
+Crop,Hawthorn
+Pesticide,Oxy De Meton Methyl
+Pesticide,Malathion 50Ec
+Pesticide,Cypermethrin 25Ec
+Pest,Aphididae
+Pest,Coccinella Septumpunctata
+Pest,Seed Midge
+Pest,Dasyneura Leguminicola
+Crop,Clover
+Pest,Rice Weevil
+Pest,Sitophilus Oryzae
+Pest,Lesser Grain Borer
+Pest,Rhyzopertha Dominica
+Pest,Gram Dhora
+Pest,Callosobruchus Chinensis
+Pest,Mung Dhora
+Pest,Callosobruchus Analis
+Pest,Angoumois Grain Moth
+Pest,Sitotroga Cerealella
+Pest,Red Rust Floor Beetle
+Pest,Tribolium Castaneum
+Pest,Khapra Beetle
+Pest,Trogoderma Granarium
+Pest,Rice Moth
+Pest,Corcyra Cephalonica
+Pest,Almond Moth
+Pest,Ephestia Cautella
+Pest,Indian Meal Moth
+Pest,Plodia Interpunctella
+Crop,Flower Buds
+Crop,Jasmine
+Fertilizer,Activated Kaolin
+Fertilizer,Neem Seed Kernels
+Fertilizer,Acorus Calamus
+Pest,Birds
+Pest,Rats
+Pest,House Mouse
+Pest,House Rat
+Pest,Brown Rat
+Soil,Pusa Bin
+FarmerPractice,Bulk Storage
+FarmerPractice,Silo
+Pesticide,Isofenphos
+Pesticide,Fenvalerate
+Pesticide,Fenitrothion
+Pesticide,Trichlorphon
+District,Kurukshetra
+District,Yamunanagar
+District,Karnal
+District,Sonipat
+District,Rohtak
+District,Faridabad
+District,Panipat
+Season,April-June
+Pesticide,Dursban
+Pest,Gram Pod-Borer
+Crop,Mungbean
+Crop,Urdbean
+Pest,Mustard Aphid
+Pest,Mustard Sawfly
+Pest,Painted Bug
+Crop,Cruciferous Plants
+Pest,Epiricania Melanoleuca
+Pest,Epipyrops Melanoleuca
+Pest,Menochilus Sexmaculatus
+Pest,Lschiodon Javana
+Pesticide,Trizophos
+Season,February-March
+Location,Tropical And Subtropical Regions
+Crop,Lablab
+Crop,Til
+State,Maharastra
+Crop,American Cotton
+Pesticide,Formothion
+Pesticide,Oxydemeton Methyl
+Pest,B. Tabaci
+Disease,Cotton Leaf Curl
+Disease,Leaf Curl Disease Of Tobacco
+Disease,Vein Clearing Disease Of Okra
+Disease,Leaf Curl Of Sesame
+Crop,F1861
+Crop,F1378
+Crop,F846
+Crop,Lh1556
+Crop,Hybrid Lh144
+Pest,Pyrrhocoridae
+Pesticide,Formothion 25Ec
+Pesticide,Imidacloprid 200 Sl
+Pesticide,Acatamiprid 20Sp
+Pesticide,Thiamethoxam 25Wg
+Pest,Trichogramma Brasilience
+Pest,Tomato Fruit Borer
+Fertilizer,Nitrogen Fertilizers
+Crop,Hollyhock
+Crop,Kangi Buti
+Pest,Dysdercus Koennigii
+Pesticide,Acatamiprid
+Pesticide,Trichogramma Spp.
+Location,Northern India
+Pesticide,Quinolphos 25 Ec
+Pesticide,Deltamethrin 2.8 Ec
+Pesticide,Thiodicarb75 Sp
+Pesticide,Ethion 50 Ec
+Pesticide,Indaxocarb 14.5 Sc
+Pesticide,Spinosad 45 Sc
+Pesticide,Alphamethrin 10 Ec
+Pesticide,Chlozopyriphos 20Ec
+Crop,Juwar
+Pesticide,Fenthion
+Pesticide,Thiuram (Tmtd)
+Pest,Soft-Furred Field Rat
+Pest,Indian Gerbil
+Pest,Indian Field Mouse
+Location,North India
+Pest,Tatera Indica
+Pest,Mus Booduga
+Crop,Paddy Grains
+Season,Monsoons
+FarmerPractice,Removal Of Burrows
+FarmerPractice,Rodent Proof Containers
+FarmerPractice,Plastering Structure
+FarmerPractice,Trapping Of Rats
+Pest,Snakes
+Pest,Owls
+Pest,Eagles
+Pest,Mongooses
+Pest,Cats
+FarmerPractice,Sickle
+FarmerPractice,Combine Harvester
+FarmerPractice,Thresher
+FarmerPractice,Harrow
+FarmerPractice,Cultivator
+FarmerPractice,Hand Hoe
+FarmerPractice,Zero Till Ferti Seed Drill
+FarmerPractice,Ridge Planter
+FarmerPractice,Khurpi
+FarmerPractice,Hand Weeder
+FarmerPractice,Power Tiller
+FarmerPractice,Laser Leveler
+FarmerPractice,Leveler
+FarmerPractice,Seed-Cum-Fertilizer Drill
+FarmerPractice,Seed Drill
+Pesticide,Agro Chemicals
+Weather,Water
+Pesticide,Imidachlorprid
+Pest,Weevil
+Disease,Bunchy Top Disease
+Pesticide,Trithion
+Pesticide,Sulphur Dioxide
+Crop,Grape
+Location,Mysore
+Location,Punjab
+Crop,Grapes
+FarmerPractice,Packing
+FarmerPractice,Pre-Cooling
+Weather,Ethylene-Free Air
+Weather,Controlled Atmosphere
+Location,Himalayan Region
+Location,South Gujarat
+State,Mysore
+State,Madras
+Location,Coastal Region
+Location,Andaman And Nicobar Islands
+Location,Laccadive
+Location,Minicoy
+Location,Amindivi Islands
+Location,Northern Mountain Region
+Location,Northern Plains
+Location,Northern Rajasthan
+Location,Northeastern Region
+Location,Northeastern Borderland
+Location,Central Region
+Pest,Cattle
+Pest,Buffalo
+Pest,Sheep
+Pest,Goat
+Pest,Camel
+FarmerPractice,Fishing
+FarmerPractice,Slash-And-Burn Farming
+Crop,Sesame Seed
+Crop,Sweet Potatoes
+Crop,Castor Seed
+Pest,Goats
+Pest,Buffaloes
+Pest,Poultry
+Location,Konkan Coast
+Location,Konkan Region
+Location,Malabar And Kannara Region
+Location,Southeastern Region
+Location,Laccadive Islands
+Location,Minicoy Islands
+Location,Andaman Islands
+Location,Nicobar Islands
+Soil,Deccan Plateau
+Soil,Black Cotton Soils
+Soil,Coastal Sandy Soils
+Weather,"1,000 Mm"
+Weather,"2,000 Mm"
+Weather,"3,000 Mm"
+Weather,500 Mm
+Weather,750 Mm
+Weather,"1,400 Mm"
+Weather,"1,600 Mm"
+Soil,Fertile Soil
+Nutrient,High Yielding Varieties Of Seeds
+Location,Adilabad
+District,Ghazipur
+State,Iowa
+Crop,Sugarbeet
+Irrigation,Tubewell
+FarmerPractice,Co-Operative Society
+Crop,Jujube
+Crop,Dates
+Crop,Hemp
+Crop,Plantain
+Crop,Sandalwood
+Crop,Cattle
+Crop,Sheep
+Crop,Goat
+Crop,Elephant
+Location,Kaveri
+Location,Ganges
+Location,Narmada Valley
+Location,Bengal
+Location,Chennai
+Location,South Asia
+Location,Southeast Asia
+Location,Indus Valley Civilization
+Location,Grand Anicut Dam
+Location,Bhakra Dam
+Location,Rampur Canal
+Location,Chopani-Mando
+Location,Mahagara
+Location,Vindhyan Hills
+Location,Malabār Coast
+Location,Islamic Spain
+Location,Middle East
+FarmerPractice,Ayurveda
+FarmerPractice,Fallowing
+FarmerPractice,Systematic Ploughing
+FarmerPractice,Manuring
+FarmerPractice,Crop Protection
+Weather,Double Monsoons
+Weather,Summer Monsoons
+Weather,Winter Monsoons
+FarmerPractice,Yellow Revolution
+FarmerPractice,Operation Flood
+District,Thanjavur
+Season,1950S
+Season,1960S
+Season,1991
+Season,1990S
+Season,1970-1996
+Season,1973-2002
+State,Uttaranchal
+State,Tamilnadu
+State,Karnatak
+Location,Malwa
+Location,Sutlej River
+Irrigation,Deep Groundwater
+Soil,Seawater
+Disease,Theileriosis
+FarmerPractice,Bypass Protein Feed
+Fertilizer,Urea-Molasses Mineral Blocks
+Crop,Marine Fish
+Crop,Inland Fisheries
+Crop,Shrimps
+FarmerPractice,Brown Revolution
+District,Visakhapatnam
+Location,Araku Valley
+FarmerPractice,Rainbow Revolution
+Location,Vidarbha
+Irrigation,Water Resources
+Crop,Organic Coffee
+Crop,Cotton Flower
+Location,Vidarbha Region
+Irrigation,Irrigation Systems
+FarmerPractice,Apeda
+Crop,Processed Foods
+Fertilizer,Agricultural Subsidies
+Crop,Ridge Gourd
+Crop,Sponge Gourd
+Crop,Pointed Gourd
+Crop,Snap Melon
+Crop,Water Melon
+Crop,Winged Bean
+Crop,Jack Bean
+Crop,Satputia
+Crop,Spine Gourd
+Crop,Indian Lotus
+Crop,Indian Bean
+Crop,Cluster Bean
+FarmerPractice,Nutritional Security Revolution
+Location,North-Eastern Region
+Location,Gangetic Plains
+Location,Tarai Region
+Location,North Western/Indus Plain Region
+Location,Central Region/Plateau
+Location,Western And Eastern Peninsular Regions
+Disease,Biotic Stresses
+Disease,Abiotic Stresses
+Nutrient,Vitamin C
+Nutrient,Vitamin-B6
+Nutrient,Pro Vitamin A
+Nutrient,Folate
+Nutrient,Vitamin A
+Nutrient,Iodine
+Crop,Dark Purple Brinjal
+Crop,Traditional Leafy Vegetables
+Crop,Indigenous Vegetables
+Location,Neh Region
+District,Ramnagar
+Crop,Indigenous Vegetable Crops
+Crop,Ipomea Aquatica
+Crop,Enhydra Flactuans
+Disease,Anemia
+Disease,Vision Problems
+Disease,Skin Problems
+Disease,Digestive Irregularities
+Disease,Scurvy
+Disease,Wound Healing
+Disease,Intestinal Worms
+Disease,Type Ii Diabetes
+Nutrient,Β-Carotene
+Nutrient,Folic Acid
+Nutrient,Ascorbic Acid
+Crop,Traditional Vegetables
+Location,Local Markets
+Location,Eastern Ghats
+Location,Western Ghats
+Location,North West Himalayan Region
+Location,New Delhi
+FarmerPractice,Community Seed Production
+FarmerPractice,Seed Multiplication
+FarmerPractice,Contract Seed Growing
+FarmerPractice,Home Gardens
+Crop,Malabar Spinach
+Crop,Kangkong
+Crop,Eggplants
+Crop,Nightshade
+Crop,Solanum Nigrum
+Crop,Mentha Spp.
+Crop,Solanum Torvum
+Pest,Leucinodes Orbonalis
+Pesticide,Bicarbonate Wash
+Pesticide,2% Bicarbonate Wash
+Weather,Carbon Dioxide
+Location,Bengaluru
+Nutrient,Nutritional Aspects
+FarmerPractice,Molecular Marker Technology
+Soil,Gene Banks
+Soil,Field Gene Banks
+FarmerPractice,Cryopreservation
+Location,Eastern Himalyan Region
+Location,Western Himalyan Region
+Location,North West Himalyan Region
+Crop,Creeping Cucumber
+Crop,Momordica
+Crop,Colocasia Gigantea
+Crop,Lablab Bean
+Crop,Dolichos Bean
+Location,Assam-Mayanmar Region
+Location,North East India
+Location,Hawaii
+Country,United States Of America
+Location,Tropical Asia
+Location,Eastern India
+Location,Shivalik Hills
+Country,Mayanmar
+Location,Tropical America
+Location,Mediterranean Region
+Crop,Tropical Pumpkin
+Crop,Amaranth
+Crop,Sweet Potato
+Crop,Spider Plant
+Crop,Snapmelon
+Location,Southern Part Of India
+Nutrient,Genetic Diversity
+Nutrient,Nutritional Security
+Crop,Joy Weed
+Crop,Jangali Chaulai
+Crop,Amaranthus Spinosus
+Crop,Amaranthus Viridis
+Crop,Grain Amaranth
+Crop,Crepe Ginger
+Crop,Sahjan
+Crop,Moringa Oleifera
+Crop,Crotalaria Tetragona
+Crop,Water Spinach
+Country,Guatemala
+Country,Peru
+Country,Fiji
+Country,Hawaii
+Season,Rainy
+Weather,25 To 35ºc
+Weather,8ºc
+Crop,Vrws-1
+FarmerPractice,Upland Field
+Crop,Lotus
+Crop,Rhizome
+Country,Myanmar
+Season,March-April
+Nutrient,B
+Pesticide,Erythorbic Acid
+Pesticide,Citric Acid
+Crop,Tree Bean
+Soil,Leguminosae
+Season,Mid August
+Season,Mid October
+Country,Russia
+Location,Varanasi
+District,Barmer
+District,Churu
+District,Sriganganagar
+District,Nagaur
+District,Jalore
+District,Sikar
+District,Jaisalmer
+District,Bikaner
+District,Jhunjhunu
+District,Alwar
+District,Kutch
+District,Banaskantha
+District,Mehsana
+District,Sabarkantha
+District,Vadodara
+District,Ahmedabad
+District,Bhiwani
+District,Gurgaon
+District,Mahendragrh
+District,Rewari
+District,Bhatinda
+District,Ferozpur
+District,Muktsar
+District,Mansa
+District,Jodhpur
+District,Hisar
+District,Durgapura
+District,Durgajay
+Crop,Agaita Guara-111
+Crop,Agaita Guara-112
+Crop,Fs-277
+Crop,Hg-75
+Crop,Guara-80
+Crop,Hg-182
+Crop,Maru Guar
+Crop,Hfg-156
+Crop,Bundel Guar 1
+Crop,Bundel Guar 2
+Crop,Bundel Guar 3
+Crop,Pusa Navbahar
+Crop,Avani-117
+Crop,Dilojan-3
+Crop,Rsg 052
+District,Ganganagar
+District,Sirsa
+District,Ahmadabad
+Crop,Drumstick
+Crop,Momordica Dioica
+Crop,Coleus Aromaticus
+Crop,Agathi
+Crop,Hog Plum
+Crop,Yard Long Bean
+Crop,Ponavellari
+Crop,Amaranthus Spp.
+Crop,Chekkurmanis
+Crop,Basella
+Crop,Leafy Amaranth
+Crop,Chinese Spinach
+Crop,Spleen Amaranth
+Crop,A. Graecizans
+Crop,A. Viridis
+Crop,A. Spinosus
+Location,Indo-Burma Region
+Location,South-East Asia
+Location,Coastal Karnataka
+Location,North Eastern States Of India
+Crop,Basella Rubra
+Pest,Root Knot Nematode
+Crop,Mathipuli
+Crop,Erumapaval
+Crop,Madagalikka
+Crop,Pothupaval
+Location,Deccan Plateau
+Crop,Foetid Cassia
+Crop,Alternanthera
+Crop,Alternanthera Sessilis
+Crop,Kudangal
+Crop,Vallarai
+Crop,Solanum Macrocarpon
+Crop,Capsicum Frutescens
+Crop,Kachri
+Crop,Cucumis Callosus
+Crop,Cucumis Melo Var. Momordica
+Crop,Cucumis Lanatus
+Crop,Cucumis Melo Var. Utilissimus
+Crop,Praecitrullus Fistulosus
+Crop,Luffa Acutangula
+Crop,Cyamopsis Tetragonoloba
+Crop,Momordica Balsamina
+Crop,Coccinia Grandis
+Crop,Ahk-119
+Crop,Ahk-200
+Crop,Ah S-10
+Crop,Kmelon
+Crop,Ahs-82
+Crop,Mateera
+Crop,Bitter Apple
+Crop,Khejri
+Crop,Thar Manak
+Crop,Arya
+Crop,Round Melon
+Crop,Jhaar Karela
+Crop,Phog
+Crop,Khimp
+Location,Rajasthan
+Location,Thar Desert
+Soil,Arid Zone
+Crop,Long Melon
+Crop,Thar Sheetal
+Crop,Thar Karni
+Crop,Thar Tapish
+Crop,Ivy Gourd
+Crop,Thar Sundari
+Crop,Thar Rachit
+Crop,Indian Spinach
+Crop,Curry Leaf
+Crop,Purslane
+Location,Bikaner
+Location,Thar Deserts
+Season,August To January
+Crop,Leafy Vegetables
+Crop,Drumstick Leaves
+Crop,Brahmi Saag
+Crop,Indian Pennywort
+Crop,Water Pennywort
+Location,North Eastern Hilly Region
+Crop,Allium
+Crop,Shallots
+Crop,Ek-Dana-Lasun
+Dish,Sambhar
+Dish,Wazwan Kashmiri Cuisine
+Location,Mizoram
+Crop,Allium Chinense
+Crop,Allium Hookeri
+Crop,Allium Tuberosum
+Crop,Ja-Ut
+Crop,Maroi Napakpi
+Crop,Garlic Chives
+Crop,Cucumis Melo Var. Callosus
+Crop,Citrullus Lanatus
+Crop,Cymopsis Tetragonoloba
+Crop,Palak
+Crop,Amaranths
+Crop,Fenugreek
+Crop,Parkia Roxburghii
+District,Saurashtra
+Location,Coimbatore Plateau
+Location,Palni Hills
+Location,Madras
+Location,Western India
+Soil,Semi-Arid Region
+Soil,Semi-Arid Conditions
+Season,March-May
+Crop,Hymenodictyon Excelsum
+Crop,Cassia Tora
+Crop,Plukenetia Corniculata
+Crop,Sechium Edule
+Crop,Tricosanthes Dioica
+Crop,Murraya Koenigi
+Crop,Mustard Greens
+Crop,B. Juncea Var. Rugosa
+Crop,Uhfvr12-1
+Crop,Uhfvr12-2
+Crop,Doonagiri
+Crop,Spinacea Oleracea
+Crop,Cucurbita
+Crop,Pahari Marrow
+Crop,Khirboj
+Crop,Pahari Kheera
+Crop,Yardlong Bean
+Crop,Yam
+Crop,Taro
+Crop,Fiddlehead Ferns
+Crop,Allium Stracheyi
+Crop,Allium Victoralis
+Crop,Allium Govanianum
+Crop,Kakri
+Crop,Uhf Meetha Karela-1
+Crop,Uhf Cu 12-1
+Crop,Uhf/Chamsoor12-3
+Crop,Kotu
+Crop,Duck Wheat
+Crop,Indian Buckwheat
+Crop,Phaltora
+Crop,Ustak
+Nutrient,Proteins
+Nutrient,Fats
+Nutrient,Beta-Carotene
+Nutrient,Vitamins
+Nutrient,Minerals
+Nutrient,Starch
+Nutrient,Fiber
+Nutrient,Sodium
+Nutrient,Sulfur
+Location,North-Western Himalayan Region
+Soil,Excess Soil Moisture
+FarmerPractice,Indigenous Crops
+Crop,A. Victoralis
+Crop,A. Tuberosum
+Crop,Zimmu
+Crop,Chayote
+Crop,Kachnar
+Crop,Lungru
+Crop,Rumex Acetosella
+Crop,R. Hastatus
+Crop,R. Patientia
+Crop,R. Scutatus
+Crop,Cichorium Endivia
+Crop,Aro
+Location,Himachal Pradesh
+District,Kangra
+District,Mandi
+Location,North Eastern Region
+Location,Himalayas
+Location,Western Himalayas
+Location,South Pacific Islands
+Location,Oceania
+Location,East Africa
+Location,Caribbean
+Location,Americas
+Crop,Taro Leaves
+Crop,Taro Corms
+Crop,Gram Flour
+Crop,Mango Pulp
+Crop,Dal
+Nutrient,Phenolic Acids
+Nutrient,Sucrose
+Nutrient,Fructose
+Nutrient,Malic Acid
+Nutrient,Citric Acid
+Nutrient,Oxalic Acid
+Nutrient,Alcohol
+Crop,Colocasia
+Crop,Araceae
+Crop,Colocasia Esculenta
+Crop,Colocasia Esculenta Som Esculenta
+Crop,Colocasia Esculenta Som Antiquorum
+Crop,C. Affinis
+Crop,C. Fallax
+Crop,C. Gigantea
+Crop,C. Lihengiae
+Location,Trivandrum
+Location,Bhubaneswar
+Location,Jhum Fields
+Location,Homestead Gardens
+Location,Water Bodies
+Location,River Banks
+Location,Forests
+Location,Road Sides
+Crop,Alcohol
+Crop,Hfes
+Nutrient,Calcium Oxalate
+FarmerPractice,Biodegradable Plastics
+FarmerPractice,Postharvest Management
+Location,European Countries
+Fertilizer,Nitrogen Fertilizer
+Pesticide,Shellac
+Pest,Lacifer Lacca
+Crop,Eggplant
+Disease,Bacterial Load
+FarmerPractice,Dehydration
+FarmerPractice,Steeping Preservation
+FarmerPractice,Ready-To-Eat Convenience Vegetables
+Organization,Fssai
+Crop,Bassela
+Disease,Salmonella
+Disease,Shigella
+Disease,Escherichia Coli
+FarmerPractice,Pickling
+Location,Agro Parks
+Location,Nags
+Crop,Processed Vegetables
+Crop,Nutraceuticals
+FarmerPractice,Food Processing Industry
+FarmerPractice,Cold Chain Management
+Crop,Canavalia
+Crop,Cucumis Sativus
+Crop,Arrowhead
+Crop,Bamboo Shoot
+Crop,Foxnut
+Location,Meitei
+Location,Manipuri
+Fertilizer,Besan
+Pest,Fermented Fish
+FarmerPractice,Traditional Knowledge
+Crop,Wild Coriander
+Crop,Pea Flour
+Crop,Turmeric Leaves
+Crop,Banana Leaves
+Crop,Stink Bean
+Crop,Tree Mushroom
+Crop,Indian Penny Worth
+Crop,Fermented Fish
+Crop,Dried Yellow Peas
+Crop,Nonfermented Bamboo Shoot
+Crop,Chinese Chive
+Crop,Hooker Chives
+Crop,P. Olygonium Orientale
+Crop,Persicaria Posumba
+Crop,Stellaria Media
+Crop,Ooti
+Nutrient,Sodium Bicarbonate
+Crop,Chagem Pomba
+Crop,Water Mimosa
+Crop,Mustard Leaf
+Crop,Broad Bean
+Crop,Common Buckwheat
+Crop,Fagopyrum Tataricum
+Crop,Fagopyrum Esculentum
+Location,North-Eastern Hills
+Crop,Pako Fern
+Crop,Diplazium Esculentum
+Crop,Chenopodium Spp.
+Crop,Rumex Nepalensis
+Crop,Basella Spp.
+Nutrient,Protein
+Nutrient,Β Carotene
+Nutrient,Phytic Acid
+Nutrient,Tannins
+Crop,Panicum Miliaceum
+Crop,Panicum Sumatrense
+Crop,Paspalum Scorbiculatum
+Crop,Setaria Italica
+Location,America
+Location,New Guinea
+Crop,Dioscorea Spp.
+Crop,Tarad
+Crop,Yams
+Crop,Dioscorea Alata
+Crop,Chulai
+District,Kashmir
+District,Kumaon
+Crop,Cucurbitaceae
+Crop,Ash Gourd
+Crop,Longmelon
+Country,Greece
+Country,Italy
+Location,Tropical Africa
+Disease,Colon Cancer
+Disease,Diabetes Mellitus
+Disease,High Blood Cholesterol
+Disease,Dysentery
+Disease,Jaundice
+Disease,Respiratory Trouble
+Disease,Haemorrhoids
+Disease,Leprosy
+Nutrient,Kidney Function
+Nutrient,Digestive System
+Nutrient,Insulin
+Nutrient,Micro Nutrients
+Nutrient,Bioactive Compounds
+FarmerPractice,Culinary Preparations
+Crop,Trichosanthes Cucumerina
+Location,Assam-Bengal Region
+Crop,Trichosanthes Anguina
+Crop,Trichosanthes Dioica
+Crop,C. Melo Var. Flexuous
+Country,Afghanistan
+District,Western Uttar Pradesh
+City,Mumbai
+Crop,Momordica Subangulata
+Crop,Mamordica Dioica
+Crop,Solanum Melongena
+Crop,Cucurbitaceous Vegetables
+Crop,Bottle Gourd
+Crop,Hyacinth Bean
+Crop,Lablab Purpureus
+Crop,Canavalia Gladiate
+Crop,Canavalia Ensiformis
+Crop,Cow Peas
+Crop,Yam Bean
+Crop,Curcuma Longa
+Crop,Chenopodium Album
+Crop,Pusa Bathua-1
+Crop,Pusa Green
+Crop,Kashi Bathua-2
+Crop,Kashi Bathua-4
+Fertilizer,Micronutrients Solution (Multiplex)
+Nutrient,Phenolics
+Nutrient,Antioxidants
+Soil,Loam
+Soil,Saline-Sodic Soils
+Crop,Dwd-1
+Crop,Dwd-2 (Suhasini)
+Crop,Dwd-2
+Crop,Suhasini
+Crop,Senkaampu
+Crop,Vegetable Soybean
+Nutrient,Biochemical Traits
+Nutrient,Essential Oils
+FarmerPractice,Clonal Selection
+FarmerPractice,Mutation Breeding
+FarmerPractice,Polyploidy Breeding
+FarmerPractice,Climate Resilient Agriculture
+FarmerPractice,Multipurpose Agricultural Machine
+FarmerPractice,Seed Sowing
+FarmerPractice,Grass Cutting
+Irrigation,Water Drip Irrigation
+FarmerPractice,Soil Digging
+FarmerPractice,Soil Planning
+FarmerPractice,Ploughing
+Nutrient,12V Battery
+Pesticide,555 Motor
+Pesticide,10 Rpm Motor
+Pesticide,Wiper Motor
+Pesticide,Chain-Sprocket System
+Pesticide,20Mm Shaft
+Pesticide,Bearings
+Pesticide,Wheels
+Crop,Paddy (Rice)
+Crop,Bajra (Pearl Millet)
+Crop,Jowar (Sorghum)
+Crop,Red Gram (Tur/Arhar)
+Crop,Green Gram (Moong)
+Crop,Black Gram (Urad)
+Crop,Chickpea (Gram)
+Crop,Ridge Gourd (Tori)
+District,Guntur
+Crop,Mango (Banganapalle)
+Location,Indo-Gangetic Plain
+Soil,Arable Land
+FarmerPractice,Agriculture
+Disease,Famine
+Livestock,Buffalo
+Soil,Alluvial Soils
+Soil,Black Soils
+Soil,Red-To-Yellow Lateritic Soils
+Animal,Bovine
+Animal,Cattle
+Animal,Buffaloes
+Fish,Carps
+Fish,Sardine
+Fish,Mackerel
+Fish,Shrimp
+FarmerPractice,Icar
+Location,Igp
+Weather,Covid-19
+Soil,Lateritic Soils
+Crop,Mut1010
+Crop,Pusa Basmati 1
+Crop,Ornamental Plants
+Crop,Plantation Crops
+Crop,Bhagwa
+Crop,Kamalam
+Crop,Dragon Fruit
+Disease,Rinderpest
+Pesticide,H5N2 Diva Marker Vaccine
+Pesticide,Sheep Pox Vaccine
+Pesticide,Vlp-Based Ibd Vaccine
+Pesticide,Swine Fever Live Attenuated Vaccine
+Pesticide,Equine Influenza Vaccine
+Pesticide,Brucella Vaccine
+Pesticide,Thermo-Tolerant Type 'O' Fmd Vaccine
+Crop,Jayanti Rohu
+Crop,Carps
+Crop,Catfishes
+Crop,Freshwater Prawns
+Crop,Cirrhinus Reba
+Crop,Esomus Danricus
+Location,Nagarjuna Sagar Dam
+Nutrient,0.6 T Ha -1 Yr -1
+Nutrient,3.5 T Ha -1 Yr -1
+Nutrient,400 G Day -1
+Nutrient,300 G Day -1
+FarmerPractice,High Yielding Variety Programme
+FarmerPractice,National Agricultural Co-Operative Marketing Federation
+FarmerPractice,National Agricultural Technology Project
+FarmerPractice,Lab-To-Land Programme
+FarmerPractice,National Horticulture Board
+FarmerPractice,Comprehensive Crop Insurance Scheme
+FarmerPractice,Kisan Credit Card Scheme
+Vaccine,Bovine Theileria Schizont Vaccine
+Crop,Lok 1
+Crop,Hd 2329
+Crop,Aphr 1
+Crop,Pusa Basmati 1121
+Crop,Co-4
+Crop,Arka Rakshak
+Soil,Mridaparikshak
+Disease,H9N2 Virus
+Disease,Canine Distemper
+Vaccine,Brucella Abortus S19Δ
+Disease,Buffalo Pox
+Disease,African Horse Sickness
+Soil,Soil Organic Carbon Map
+Soil,Soil Fertility Maps
+Fertilizer,Gypsum-Based Technology
+Irrigation,Drip Fertigation
+FarmerPractice,Happy Seeder
+FarmerPractice,Zero Tillage Machine
+Location,National Agricultural Research Project
+Location,National Agricultural Technology Project
+Location,National Innovations On Climate Resilient Agriculture
+Location,Icar
+Location,Nabard
+Location,Nhb
+Location,Naas
+Location,Naip
+Location,Safal
+Location,Mera Gaon Mera Gaurav
+Location,E-Nam
+Location,Pm-Kisan Scheme
+Location,District Agricultural Contingency Plans
+Soil,Soil Health Cards
+Location,Climate-Friendly Villages
+Location,Agri-Innovate India Ltd.
+Location,Icar Institutes
+Location,State Agricultural Universities
+Location,Indian Agricultural Research Institute
+Location,Pantnagar
+Organization,Icar
+FarmerPractice,Kvk
+Organization,Cimmyt
+Organization,Irri
+Organization,Saarc
+Organization,Brics
+Organization,Bimstec
+Location,Anastu
+Location,Acare
+FarmerPractice,Pradhan Mantri Kisan Samman Nidhi
+Soil,Alkalinity
+Fertilizer,Nano-Fertilizers
+Irrigation,Micro-Irrigation Systems
+Fertilizer,Neem-Coated Urea
+Nutrient,Nitrogen Fixation
+FarmerPractice,Bio-Residue Management
+Crop,Horse Gram
+Crop,Date
+Crop,Gourd
+Crop,Flax
+Crop,Indigo
+Crop,Betel Nut
+Crop,Kidney Beans
+Crop,Barnyard Millet
+Crop,Proso Millet
+Crop,Foxtail Millet
+Crop,Carrot
+Crop,Artichoke
+Crop,Beetroot
+Crop,Rape
+Crop,Niger
+Crop,Cotton Seed
+Crop,Cardamom
+Crop,Citron
+Crop,Pine-Apple
+Crop,Silk
+Crop,Black Bean
+Crop,Sweet Pepper
+Crop,Squash
+Crop,Quinine
+Crop,Poppy
+Crop,Pusa-4
+Crop,Pusa-12
+Crop,Pusa-52
+Crop,Pusa 80-5
+Crop,Pusa-111
+Crop,B-4
+Location,Tutikandi
+Location,Shimla
+Location,Pusa
+Location,Bombay Presidency
+Location,United Provinces
+Location,Coastal Andhra
+Location,Malabar Coast
+Season,Wet Season
+Disease,Rust Diseases
+FarmerPractice,"Department Of Revenue, Agriculture And Commerce"
+FarmerPractice,Indian Council Of Agricultural Research
+Crop,Buffalo
+Nutrient,Milk
+Nutrient,Curd
+Nutrient,Ghee
+Nutrient,Panchagavya
+FarmerPractice,Arthashastra
+FarmerPractice,Veterinary Services
+FarmerPractice,Haya Ayurveda
+FarmerPractice,Gaja Ayurveda
+Crop,Cows
+Crop,Goats
+Crop,Horses
+Crop,Milch Animals
+Nutrient,Meat
+Nutrient,Wheat Flour
+Nutrient,Molasses
+Nutrient,Grain
+Nutrient,Green Grasses
+Crop,Alfalfa
+Crop,Bermuda Grass
+Disease,Cattle Plague
+Disease,Anthrax
+Disease,Hemorrhagic Septicemia
+Pesticide,Saltpeter
+Irrigation,Sakia
+Location,Hisar
+Location,Coach Bihar
+Location,Nagore
+Location,Delhi Sultanate
+Location,Mughal Empire
+Location,Chola Empire
+Location,Pala Empire
+Location,Kakatiya Dynasty
+Location,Rashtrakuta Dynasty
+Location,Pallava Dynasty
+Location,Western Chalukya Dynasty
+Season,Eastern Chalukya Period
+Season,Medieval Dynasties
+Season,Colonial Era
+FarmerPractice,Military Dairy Farms
+FarmerPractice,Cattle Breeding
+FarmerPractice,Dairy Processing
+FarmerPractice,Dairy Cooperatives
+Crop,Hariana
+Crop,Mysore Cattle
+Crop,Sind
+Crop,Gujarat
+Crop,Ongole
+Crop,Nagore
+Crop,Ayrshire
+Crop,Friesian
+Disease,Black-Quarter
+Crop,Ghee
+Crop,Butter
+Crop,Khoa
+Crop,Curd
+FarmerPractice,Kaira District Cooperative Milk Producers Union
+FarmerPractice,Gaushalas
+Weather,Climate
+Weather,Southwest Monsoon
+Weather,Flooding
+Weather,Heat
+Weather,Cold
+Weather,Freezing
+FarmerPractice,Indian Civil Veterinary Department
+FarmerPractice,Imperial Bacteriological Laboratory
+Location,Lahore
+Location,Mumbai
+Location,Calcutta
+Location,Bihar
+Location,Izatnagar
+Location,Bareilly
+Location,Bombay
+Location,Kanpur
+Location,Nagpur
+Season,1865-67
+Season,1940
+Season,1946
+Season,1880-1893
+Season,1947
+Season,Green Revolution
+Season,Late 1800S
+Season,Early Twentieth Century
+Season,Mid-Nineteenth Century
+Season,Post-Independence Era
+Location,Mohenjo-Daro
+Weather,Flood
+FarmerPractice,Irrigation
+Location,Saptasindhu
+FarmerPractice,Kautilya'S Arthasastra
+FarmerPractice,Manusmriti
+FarmerPractice,Ahar
+FarmerPractice,Pyne
+Irrigation,Tanks
+Irrigation,Reservoirs
+Irrigation,Wells
+Irrigation,Embankment
+Weather,Famine
+Crop,Opium
+Nutrient,Nutrient
+Location,Godavari
+Location,Krishna
+Location,Mahanadi
+Location,Brahmani
+Location,Baitarani
+Location,Subarnarekha
+Location,Kosi
+Location,Mauryan Empire
+Location,Harappan Civilization
+Season,Vedic Period
+Location,Mughal India
+Location,Vijayanagara Dynasty
+Country,Indian Agriculture
+Soil,Soils
+Nutrient,Plant Nutrients
+Soil,Organic Matter
+Soil,Humus
+Fertilizer,Potassium Carbonate
+Fertilizer,Composts
+Crop,Cynobacteria
+Crop,Blue Green Algae
+Crop,Rhizobium
+Crop,Biofortified Varieties
+Crop,Climate-Resilient Varieties
+Crop,Swarna Sub1
+Crop,Kharachia 65
+Crop,Jg14
+Disease,Rusts
+Disease,Blights
+Disease,White Rust
+Crop,Field Pea
+Crop,Flood Tolerant Swarna Sub1
+Crop,Salt Tolerant Kharachia 65
+Crop,Heat Tolerant Jg14
+Disease,Ug99
+Crop,High-Yielding Varieties
+FarmerPractice,Transgenic Technology
+FarmerPractice,Marker-Assisted Breeding
+FarmerPractice,Genome Editing
+Nutrient,Drought Tolerance
+Nutrient,Fusarium Wilt Resistance
+Nutrient,High Oleic Acid
+Nutrient,Kunitz Trypsin Inhibitor
+Crop,Swarna Sub 1
+Crop,Bgm 10216
+Crop,Mabc Wr Sa 1
+Crop,Pusa Jai Kisan
+Crop,Ganga Series
+Crop,Ranjit
+Crop,Deccan Hybrids
+Crop,Csh-1
+Crop,Sd 227
+Crop,C 306
+Crop,Wl 711
+Crop,Wh 147
+Crop,Up 262
+Crop,Hd 2189
+Crop,Hd 2009
+Crop,Sonara 64
+Crop,Lerma Rojo 64
+Crop,Huw 234
+Crop,Lok-1
+Crop,Hd 2285
+Crop,Up 2338
+Crop,Basmati
+Crop,Co 0238
+Crop,Improved Samba Mahsuri
+Crop,Improved Pusa Basmati 1
+Crop,Cr Dhan 310
+Crop,Cr Dhan 311
+Crop,Drr Dhan 45
+Crop,Drr Dhan 48
+Crop,Drr Dhan 49
+Crop,Chhattisgarh Zinc Rice 1
+Crop,Yamini
+Crop,Pusa Basmati 1509
+Location,Haryana
+Location,Uttar Pradesh
+FarmerPractice,Pulse Revolution
+FarmerPractice,Sugar Revolution
+Disease,Drought-Tolerant
+Disease,Disease-Tolerant
+Disease,Blast Resistance
+Nutrient,Fertilizer Responsiveness
+Crop,Bahadur
+Crop,Cr 1009
+Crop,Samba
+Crop,Telangana Sona
+Crop,Pusa Basmati 1718
+Crop,Hybrid Rice
+Crop,Hd 2967
+Crop,Hd 3086
+Crop,Dbw 187
+Crop,Dbw 222
+Crop,Hd 3226
+Crop,Wb 02
+Crop,Hpbw 1
+Crop,Ganga
+Crop,Kisan
+Crop,Amber
+Crop,Vikram
+Crop,Sona
+Crop,Jawahar
+Crop,Opaque-2
+Crop,Flory-2
+Crop,Shakti
+Crop,Rattan
+Crop,Protina
+Crop,Shakti1
+Crop,Lpch 2
+Crop,Lpch 3
+Crop,Pusa Hm4
+Crop,Gossypium Arboreum
+Crop,Gossypium Herbaceum
+Crop,Gossypium Hirsutum
+Crop,Gossypium Barbadense
+Crop,G. Cot Dh 7
+Crop,Ddh 2
+Crop,Surabhi
+Crop,Sumangala
+Crop,Suraj
+Crop,G. Cot. Dh 9
+Crop,G. Cot. 21
+Pest,Bacillus Thuringiensis
+Pest,Heliothis Bollworm
+FarmerPractice,Speed Breeding
+Location,Icar-Cicr
+Soil,Bacillus Thuringiensis
+Crop,Bollgard Ii-Roundup Ready Flex (Bgii-Rrf)
+Location,Delhi University'S Centre For Genetic Manipulation Of Crop Plants
+Crop,Aromatic Rice
+Crop,Beaten Rice/Poha Rice
+Crop,Parboiled Rice
+Crop,Medicinal Rice
+Crop,Black Rice
+Crop,High-Yielding Rice Cultivars
+Crop,Tuber Crops
+Crop,Medicinal And Aromatic Plants
+Crop,Honey Bee Rearing
+Irrigation,Irrigation Canal Networks
+Crop,High Yielding Varieties Of Seeds
+Crop,Amrapali
+Crop,Dogridge
+Location,European Union
+Country,Uae
+Country,Kuwait
+Country,Singapore
+Country,South Korea
+FarmerPractice,Tissue Culture
+FarmerPractice,Micro-Grafting
+FarmerPractice,Micro-Budding
+FarmerPractice,Aeroponics
+FarmerPractice,Canopy Management
+FarmerPractice,Rejuvenation Technology
+Nutrient,Dris
+Crop,Safed Musli
+Crop,Lemongrass
+Crop,Palmarosa
+Crop,Senna
+Crop,Anise
+Crop,Cinnamon
+FarmerPractice,Fruit Harvesters
+FarmerPractice,Grading Machines
+FarmerPractice,Cutting Machines
+FarmerPractice,Driers
+FarmerPractice,Sorters
+FarmerPractice,Pulpers
+Crop,Bhagawa
+Crop,Super-Bhagwa
+Crop,Ganesh
+Crop,Arakta
+Crop,Solapur Lal
+Crop,Kaveri Haritha
+Crop,Kaveri Saba
+Crop,Kaveri Kanya
+Crop,Hill Bananas
+Crop,Nendran
+Crop,Red Banana
+Crop,Kala Zeera
+Crop,Siddu
+Crop,Ravindra
+Disease,Tolcd
+Disease,Bacterial Wilt
+Disease,Bacterial Blight Disease
+Disease,Wilt Complex
+Disease,Sooty Blotch
+FarmerPractice,High Density Plantation
+Location,Himalayan States
+Soil,3.31 Lakh Ha
+Nutrient,7-8 T Oil Ha -1 Yr -1
+Nutrient,6-7 T Oil Ha -1 Yr -1
+Nutrient,35 Lakh Sprouts
+Nutrient,20 Crores
+Nutrient,"Rs. 40,000"
+Nutrient,20%
+Nutrient,5-10%
+Nutrient,10-15%
+Nutrient,7.5%
+Nutrient,6.8%
+Nutrient,17.2%
+Nutrient,382.17%
+Nutrient,279.15%
+Nutrient,70.12%
+Nutrient,122.91%
+Nutrient,30%
+Nutrient,40%
+Nutrient,25%
+Soil,2.1 Lakh Ha
+Nutrient,4.0 T Ha -1
+Nutrient,19 Kg/Plant
+Nutrient,100 T Ha -1
+Nutrient,15-20 Days
+Soil,6-8 M
+Nutrient,300 G
+Nutrient,72%
+Nutrient,24 0 Brix
+Nutrient,6-8 Days
+Nutrient,320.6 G
+Nutrient,220.80 G
+Nutrient,27.6 Ml
+Nutrient,23.60 Ml
+Nutrient,10-15 T Ha -1
+Nutrient,50-60 T Ha -1
+Nutrient,2.5 To 7.5 Kg Ha -1
+Nutrient,4 T Ha -1
+Nutrient,3.5:1
+Nutrient,2.5:1
+Disease,Tomato Leaf Curl Disease
+Crop,Kufri Jyoti
+Crop,Kufri Pukhraj
+Crop,Kufri Chipsona 1
+Crop,Kufri Sahayadri
+Crop,Kufri Karan
+Crop,Kufri Thar-3
+Crop,Kufri Manik
+Crop,Kalpa Raksha
+Crop,Kalpa Sree
+Crop,Kalpa Raj
+Crop,Kalpa Sankara
+Crop,H-226
+Crop,H-165
+Crop,Sree Apoorva
+Crop,Sree Athulya
+Crop,Sree Pavithra
+Crop,Sree Swarna
+Crop,Sree Jaya
+Crop,Sree Vijaya
+Crop,Sree Reksha
+Crop,Kishan
+Crop,Sree Kanaka
+Crop,Bhu Sona
+Crop,Bhu Krishna
+Crop,Bhu Swami
+Crop,Bhu Ja
+Crop,Bhu Kanthi
+Crop,Dmr-Nbs-5
+Disease,Late Blight
+Pest,Potato Cyst Nematode
+Crop,Neera
+Pesticide,Virgin Coconut Oil
+Crop,Potatoes
+Pesticide,Indo-Blightcast
+Disease,Fusarium Wilt Tr4
+Weather,Salinity
+Weather,Hailstorm
+Nutrient,Wool
+Crop,Turkey
+Crop,Guinea Fowl
+Pesticide,Haritdhara
+Pesticide,Tamarin Plus
+Pesticide,Avivatika
+FarmerPractice,Estrus Synchronization
+FarmerPractice,Embryo Transfer Technology
+FarmerPractice,Ovum Pick-Up & In-Vitro Fertilization
+FarmerPractice,Animal Cloning
+FarmerPractice,Crossbreeding
+Crop,Saanen
+Crop,Alpine
+Crop,Toggenberg
+Crop,Angora
+Crop,Sirohi
+Crop,Malpura
+Crop,Patanwadi
+Crop,Garole
+Crop,Avishaan
+Crop,Gmm
+Nutrient,Fec Bb Gene
+Crop,Jamunapari
+Crop,Beetal
+Crop,Black Bengal
+Crop,Assam Local
+Crop,Sangamneri
+Crop,Murrah
+Crop,Nili-Ravi
+Crop,Bhadawari
+Crop,Jaffarabadi
+Crop,Surti
+Crop,Pandharpuri
+Crop,Pashmina
+Crop,Chegu
+Crop,Changthangi
+Crop,Cari-Nirbheek
+Crop,Vanaraja
+Crop,Gramapriya
+Crop,Srinidhi
+Crop,Janapriya
+Crop,Vanashree
+Crop,Cari-Shyama
+Crop,Cari-Nirbhik
+Crop,Cari-Upcari
+Crop,Cari-Hitcari
+Crop,Pratapdhan
+Crop,Kamrupa
+Crop,Narmadanidhi
+Crop,Jharshim
+Crop,Himsamridhi
+FarmerPractice,Aicrp
+Season,Iv-Five-Year Plan
+Crop,Norwegian Goats
+Crop,Indian Goats
+Crop,Exotic Breeds
+Crop,Exotic Pigs
+Crop,Japanese Quail
+Crop,Barbari Goats
+Crop,Jamunapari Goat
+Crop,Pigs
+Crop,Mithun
+Crop,Camel
+Crop,Nicobari Indigenous Chicken
+FarmerPractice,National Bovine Genomic Centre
+Crop,Rape And Mustard
+Crop,Neem Seed Cake
+Crop,Karanja Seed Cake
+Crop,Castor Seed Cake
+Crop,Sal Seed Meal
+Crop,Mahua Seed Cake
+Crop,Ambadi Cake
+Crop,Mustard Cake
+Crop,Cottonseed Cake
+Crop,Korra
+Crop,Quality Protein Maize
+Nutrient,Vitamin E
+Fertilizer,Calcium Hydroxide
+Nutrient,Selenium
+Nutrient,Mn
+Nutrient,I
+Nutrient,Co
+Disease,Aflatoxin
+Crop,Moringa Leaves
+Crop,Neem Leaves
+Crop,Jack Leaves
+Crop,Spirulina
+Pest,Lactobacillus Acidophilus
+Pesticide,Poly Unsaturated Fatty Acid-Rich Vegetable Oil
+Pesticide,Activated Charcoal
+Pesticide,Ascorbic Acid
+Pesticide,Liver Tonic
+Pesticide,Herbal Vitamin C
+Pesticide,Gut Acidifiers
+Pesticide,Emulsifiers
+Pesticide,Tannins
+Pesticide,Saponin
+Pesticide,Essential Oils
+Disease,Mycotoxins
+Soil,Rumen
+FarmerPractice,Animal Feed Industry
+Location,Ndri
+Location,Cari
+Nutrient,Spirulina
+Crop,Murrah Buffalo
+Crop,Sahiwal
+Crop,Gir
+Crop,Red Sindhi
+Crop,Karan Fries
+Location,Allahabad
+Organization,Cari
+Organization,Ndri
+Organization,Circ
+Location,Meerut
+Crop,Egg
+FarmerPractice,Spermoscope
+FarmerPractice,Ai
+FarmerPractice,Moet
+FarmerPractice,Ivf
+FarmerPractice,Embryo Transfer
+FarmerPractice,Meat Processing
+FarmerPractice,Value-Added Products
+Crop,Zebu
+Crop,Karan-Fries
+Crop,Tharparkar
+Nutrient,Chromium Propionate
+Nutrient,Vit C
+Nutrient,Vit E
+Nutrient,Se
+Nutrient,Betain
+Fertilizer,Molasses
+Crop,Salem Black
+Crop,Osmanabadi
+Crop,Malabari
+Crop,Bidri
+Crop,Nandidurga
+Crop,Kanni Adu
+Crop,Kodi Adu
+Disease,Heat Stress
+Disease,Cold Stress
+Crop,Broiler
+Crop,Laying Hens
+Season,Summer Season
+Fertilizer,Potassium Chloride
+Fertilizer,Sodium Citrate
+Fertilizer,Sodium Dihydrogen Phosphate
+Fertilizer,Disodium Hydrogen Phosphate
+Fertilizer,Sodium Bicarbonate
+Fertilizer,Ashwagandha Extract
+Fertilizer,Turmeric Extract
+Fertilizer,Amla Powder
+Fertilizer,Betain Hydrochloride
+Fertilizer,Chromium
+Pest,Naked Neck
+Pest,Frizzle
+Weather,Thi
+Nutrient,Hsp-70
+Nutrient,Bdnf
+Crop,Carp
+Crop,Indian Major Carps
+Crop,Black Tiger Shrimp
+Crop,White-Leg Shrimp
+Crop,Penaeus Monodon
+Crop,Litopenaeus Vannamei
+Crop,Penaeus Indicus
+Crop,Cobia
+Crop,Pompano
+Crop,Seabass
+Crop,Grouper
+Crop,Milkfish
+Crop,Grey Mullet
+Crop,Pearl Spot
+Crop,Mussels
+Crop,Oysters
+Crop,Seaweeds
+Nutrient,Biofertilization
+Nutrient,Bioprospecting
+Nutrient,Genetic Engineering
+Nutrient,Transgenics
+Weather,Pollution
+Weather,Fishing Pressure
+Disease,Antibiotic Resistance
+Location,Nares
+Location,Mandapam Camp
+Location,Central Institute Of Fisheries Education
+Location,Central Institute Of Fisheries Technology
+Location,Central Institute Of Freshwater Aquaculture
+Location,Central Institute Of Brackishwater Aquaculture
+Location,Nrc On Coldwater Fisheries
+Location,National Bureau Of Fish Genetic Resources
+Location,Andaman & Nicobar
+Location,Lakshadweep
+District,Kollam
+River,Ganga
+Crop,Indian Major Carp
+Crop,Catfish
+Crop,Murrels
+Crop,Indian Oil Sardine
+Crop,Indian Mackerel
+Crop,Prawns
+FarmerPractice,Trawl Net
+Pesticide,Turtle Excluder Devices
+Pesticide,By-Catch Reduction Devices
+Pesticide,Square Mesh Cod-Ends
+Pesticide,Fisheye Brd
+Pesticide,Sieve Net Brd
+Pesticide,Juvenile Fish Excluder Cum Shrimp Sorting Device
+FarmerPractice,Fishing Ban
+FarmerPractice,Habitat Characterization And Protection
+FarmerPractice,Ranching
+Weather,Environmental Flow
+FarmerPractice,Fishing Crafts
+FarmerPractice,Mechanization Of Fishing Craft
+FarmerPractice,Fishing Gear
+Location,Ganga
+Location,Teesta
+Location,Cauvery
+Location,Kathojodi
+Location,Hooghly-Matlah Estuary
+Crop,Pangas Catfish
+Crop,Mahseers
+Crop,Snow Trout
+Crop,Brown Trout
+Crop,Rainbow Trout
+Crop,Common Carp
+Crop,Silver Carp
+Crop,Grass Carp
+Crop,Silver Barb
+Crop,African Catfish
+Crop,Striped Catfish
+Crop,Tilapia
+Crop,Red-Bellied Pacu
+Crop,Gift Tilapia
+FarmerPractice,Icar-Cifri
+FarmerPractice,National Mission For Clean Ganga
+FarmerPractice,National Fisheries Development Board
+Pesticide,Ovaprim
+Fertilizer,Cifabrood Tm
+Crop,Macrobrachium Rosenbergii
+Crop,M. Malcolmsonii
+Crop,M. Gangeticum
+Crop,Channa Striata
+Crop,C. Marulius

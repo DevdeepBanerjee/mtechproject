@@ -1,0 +1,5001 @@
+source,relation,target
+Paddy,GROWN_IN,Wheat
+Paddy,GROWN_IN,Andhra Pradesh
+Paddy,GROWN_IN,Jammu And Kashmir
+Paddy,GROWN_IN,Soil
+Paddy,GROWN_IN,Punjab
+Paddy,GROWN_IN,Haryana
+Paddy,GROWN_IN,India
+Paddy,GROWN_IN,Brown Plant Hopper
+Paddy,GROWN_IN,Kerala
+Paddy,GROWN_IN,Kerala
+Paddy,GROWN_IN,Tamil Nadu
+Paddy,GROWN_IN,Chhattisgarh
+Paddy,GROWN_IN,Goa
+Paddy,GROWN_IN,Jammu And Kashmir
+Paddy,GROWN_IN,Madhya Pradesh
+Paddy,GROWN_IN,Sikkim
+Paddy,GROWN_IN,Uttar Pradesh
+Paddy,GROWN_IN,Tamil Nadu
+Paddy,GROWN_IN,Bandipora
+Paddy,GROWN_IN,Punjab
+Paddy,GROWN_DURING,Kharif
+Paddy,GROWN_DURING,Irrigation
+Paddy,GROWN_DURING,Rainfed Agriculture
+Paddy,GROWN_DURING,Season
+Paddy,AFFECTED_BY,Rice Meal Moth
+Paddy,AFFECTED_BY,Sheath Blight
+Paddy,AFFECTED_BY,Heat Wave
+Paddy,AFFECTED_BY,Brown Spot
+Paddy,AFFECTED_BY,Ustiloginoidea Virens
+Paddy,CONTROLLED_BY,Malathion
+Paddy,CONTROLLED_BY,Irrigation
+Paddy,CONTROLLED_BY,Neem Oil
+Paddy,CONTROLLED_BY,Hexaconazole
+Paddy,CONTROLLED_BY,Mancozeb
+Paddy,CONTROLLED_BY,Neem Cake
+Paddy,CONTROLLED_BY,Carbendazim
+Paddy,CONTROLLED_BY,Aluminium Phosphide
+Paddy,CONTROLLED_BY,Methyl Bromide
+Paddy,CONTROLLED_BY,Pretilachlor
+Paddy,CONTROLLED_BY,Bispyribac Sodium
+Paddy,CONTROLLED_BY,Tricyclazole
+Paddy,CONTROLLED_BY,Pyrozosulphuron
+Paddy,CONTROLLED_BY,Livestock
+Paddy,CONTROLLED_BY,Dairy
+Paddy,CONTROLLED_BY,Ground Water
+Paddy,CONTROLLED_BY,Rainwater Harvesting
+Paddy,CONTROLLED_BY,Post-Harvest Management
+Paddy,CONTROLLED_BY,Crop Diversification
+Paddy,CONTROLLED_BY,Institutional Credit
+Paddy,CONTROLLED_BY,Institutional Credit
+Paddy,CONTROLLED_BY,Metominostrobin
+Paddy,CONTROLLED_BY,Azoxystrobin
+Paddy,CONTROLLED_BY,Aureofungin
+Paddy,CONTROLLED_BY,Tebuconazole
+Paddy,CONTROLLED_BY,Propineb
+Paddy,CONTROLLED_BY,Pseudomonas Fluorescens Tnau
+Paddy,CONTROLLED_BY,Flusilazole
+Paddy,CONTROLLED_BY,Iprodione
+Paddy,CONTROLLED_BY,Pencycuron
+Paddy,CONTROLLED_BY,Thifluzamide
+Paddy,CONTROLLED_BY,Copper Hydroxide
+Paddy,CONTROLLED_BY,Halogen Mixture
+Paddy,CONTROLLED_BY,Halopolymer
+Paddy,CONTROLLED_BY,Halogen Mixture
+Paddy,CONTROLLED_BY,Technological Innovation
+Paddy,CONTROLLED_BY,Thresher
+Paddy,CONTROLLED_BY,Reaper
+Paddy,CONTROLLED_BY,Reaper Binder
+Paddy,DEPENDS_ON,High Yielding Varieties
+Paddy,DEPENDS_ON,High Yielding Varieties
+Paddy,REQUIRES,Irrigation
+Paddy,REQUIRES,Gypsum
+Paddy,REQUIRES,Npk
+Paddy,REQUIRES,Fertilizers
+Paddy,REQUIRES,Water
+Paddy,REQUIRES,Znso4
+Paddy,REQUIRES,Feso4
+Paddy,REQUIRES,Gypsum
+Paddy,REQUIRES,Soil Nutrients
+Paddy,REQUIRES,Humus
+Paddy,REQUIRES,Water
+Paddy,REQUIRES,Znso4
+Paddy,REQUIRES,Feso4
+Paddy,REQUIRES,Npk
+Paddy,REQUIRES,Gypsum
+Paddy,REQUIRES,Znso4
+Rice,GROWN_IN,Andhra Pradesh
+Rice,GROWN_IN,Jammu And Kashmir
+Rice,GROWN_IN,Kashmir Valley
+Rice,GROWN_IN,Jammu
+Rice,GROWN_IN,Sodic Soils
+Rice,GROWN_IN,Punjab
+Rice,GROWN_IN,Haryana
+Rice,GROWN_IN,India
+Rice,GROWN_IN,Kathua
+Rice,GROWN_IN,Agro-Ecosystem
+Rice,GROWN_IN,Kerala
+Rice,GROWN_IN,Azolla
+Rice,GROWN_IN,Kerala
+Rice,GROWN_IN,Karnataka
+Rice,GROWN_IN,Tamil Nadu
+Rice,GROWN_IN,Odisha
+Rice,GROWN_IN,Jammu & Kashmir
+Rice,GROWN_IN,Jammu Division
+Rice,GROWN_IN,Jammu & Kashmir
+Rice,GROWN_IN,Bihar
+Rice,GROWN_IN,Agriculture
+Rice,GROWN_IN,Assam
+Rice,GROWN_IN,Jharkhand
+Rice,GROWN_IN,Chhattisgarh
+Rice,GROWN_IN,Jammu And Kashmir
+Rice,GROWN_IN,Jharkhand
+Rice,GROWN_IN,Madhya Pradesh
+Rice,GROWN_IN,Sikkim
+Rice,GROWN_IN,Telangana
+Rice,GROWN_IN,Uttar Pradesh
+Rice,GROWN_IN,West Bengal
+Rice,GROWN_IN,Bangladesh
+Rice,GROWN_IN,Tamil Nadu
+Rice,GROWN_IN,Puddling
+Rice,GROWN_IN,Tiruvarur
+Rice,GROWN_IN,Nagapattinam
+Rice,GROWN_IN,Eastern Region
+Rice,GROWN_IN,Nepal
+Rice,GROWN_IN,Arunachal Pradesh
+Rice,GROWN_IN,Agro-Ecosystem
+Rice,GROWN_IN,Thailand
+Rice,GROWN_IN,Bangladesh
+Rice,GROWN_IN,Burma
+Rice,GROWN_IN,Southern China
+Rice,GROWN_IN,West Malaysia
+Rice,GROWN_IN,Nepal
+Rice,GROWN_IN,Pakistan
+Rice,GROWN_IN,Sumatra
+Rice,GROWN_IN,Thailand
+Rice,GROWN_IN,West Iran
+Rice,GROWN_IN,Burma
+Rice,GROWN_IN,Indo-Gangetic Plains
+Rice,GROWN_IN,Andhra Pradesh
+Rice,GROWN_IN,Telangana
+Rice,GROWN_IN,Punjab
+Rice,GROWN_IN,Konkan Region
+Rice,GROWN_IN,Malabar And Kannara Region
+Rice,GROWN_IN,Southeastern Region
+Rice,GROWN_IN,Tamilnadu
+Rice,GROWN_IN,Agriculture
+Rice,GROWN_IN,Uttar Pradesh
+Rice,GROWN_IN,Azolla
+Rice,GROWN_IN,Oryza Sativa
+Rice,GROWN_IN,Insect Traps
+Rice,GROWN_IN,Salvinia Molesta
+Rice,GROWN_IN,North East Region
+Rice,GROWN_IN,Chattisgarh
+Rice,GROWN_DURING,Kharif
+Rice,GROWN_DURING,Jammu And Kashmir
+Rice,GROWN_DURING,Irrigation
+Rice,GROWN_DURING,Samba
+Rice,GROWN_DURING,Water
+Rice,GROWN_DURING,April
+Rice,GROWN_DURING,March
+Rice,GROWN_DURING,July
+Rice,GROWN_DURING,August
+Rice,GROWN_DURING,Jammu And Kashmir
+Rice,GROWN_DURING,Water
+Rice,GROWN_DURING,Season 1
+Rice,GROWN_DURING,Season 2
+Rice,GROWN_DURING,Winter
+Rice,GROWN_DURING,Kuruvai
+Rice,GROWN_DURING,Samba
+Rice,GROWN_DURING,Thaladi
+Rice,GROWN_DURING,August
+Rice,GROWN_DURING,Seedling Stage
+Rice,GROWN_DURING,Post Transplanting Tillering Stage
+Rice,GROWN_DURING,Neck Emergence Stage
+Rice,GROWN_DURING,Wet Season
+Rice,GROWN_DURING,Kharif Marketing Season
+Rice,AFFECTED_BY,Irrigation
+Rice,AFFECTED_BY,Integrated Pest Management
+Rice,AFFECTED_BY,Pests
+Rice,AFFECTED_BY,Stem Borer
+Rice,AFFECTED_BY,High Yielding Varieties
+Rice,AFFECTED_BY,Khaira Disease
+Rice,AFFECTED_BY,Brown Leaf-Spot
+Rice,AFFECTED_BY,Bacterial Leaf Blight
+Rice,AFFECTED_BY,Bacterial Leaf Streak
+Rice,AFFECTED_BY,Sheath Blight
+Rice,AFFECTED_BY,Sheath Rot
+Rice,AFFECTED_BY,Blast
+Rice,AFFECTED_BY,Zn Deficiency
+Rice,AFFECTED_BY,Bacterial Blight
+Rice,AFFECTED_BY,Zn Deficiency
+Rice,AFFECTED_BY,Blight
+Rice,AFFECTED_BY,October
+Rice,AFFECTED_BY,November
+Rice,AFFECTED_BY,December
+Rice,AFFECTED_BY,Drought
+Rice,AFFECTED_BY,Indus River
+Rice,AFFECTED_BY,Krishna River
+Rice,AFFECTED_BY,Yellow River
+Rice,AFFECTED_BY,Scirpophaga Incertulas
+Rice,AFFECTED_BY,Echinochloa Crusgalli
+Rice,AFFECTED_BY,Panicum Repens
+Rice,AFFECTED_BY,Eclipta Alba
+Rice,AFFECTED_BY,Monochoria Vaginalis
+Rice,AFFECTED_BY,Brown Spot
+Rice,AFFECTED_BY,Excessive Moisture
+Rice,AFFECTED_BY,November
+Rice,AFFECTED_BY,Brevennia Rehi
+Rice,AFFECTED_BY,Pink Borer
+Rice,AFFECTED_BY,High Humidity
+Rice,AFFECTED_BY,High Temperature
+Rice,AFFECTED_BY,Cloudy Weather
+Rice,AFFECTED_BY,Narrow Brown Leaf Spot
+Rice,AFFECTED_BY,Excessive Nitrogen
+Rice,AFFECTED_BY,Nephotettix Virescens
+Rice,AFFECTED_BY,Blast Resistance
+Rice,AFFECTED_BY,Rice Blast
+Rice,AFFECTED_BY,Disease Resistance
+Rice,AFFECTED_BY,Cnaphalocrocis Medinalis
+Rice,AFFECTED_BY,Leptocorisa Acuta
+Rice,AFFECTED_BY,Sogatella Furcifera
+Rice,AFFECTED_BY,Nephotettix Nigropictus
+Rice,AFFECTED_BY,Blb
+Rice,AFFECTED_BY,Xunthomonas Cumpestris Pv. Otyzae
+Rice,AFFECTED_BY,Nematode
+Rice,AFFECTED_BY,Planthoppers
+Rice,CONTROLLED_BY,Irrigation
+Rice,CONTROLLED_BY,Integrated Pest Management
+Rice,CONTROLLED_BY,Neem Oil
+Rice,CONTROLLED_BY,Mancozeb
+Rice,CONTROLLED_BY,Carbendazim
+Rice,CONTROLLED_BY,Pseudomonas Fluorescens
+Rice,CONTROLLED_BY,Thiamethoxam
+Rice,CONTROLLED_BY,Imidacloprid
+Rice,CONTROLLED_BY,Cartap Hydrochloride
+Rice,CONTROLLED_BY,Butachlor
+Rice,CONTROLLED_BY,Lindane
+Rice,CONTROLLED_BY,Carbofuran
+Rice,CONTROLLED_BY,Methyl Parathion
+Rice,CONTROLLED_BY,Chlorpyriphos
+Rice,CONTROLLED_BY,Zineb
+Rice,CONTROLLED_BY,Chlorpyriphos 20Ec
+Rice,CONTROLLED_BY,Anilophos
+Rice,CONTROLLED_BY,Ethoxy Sulfuron
+Rice,CONTROLLED_BY,Bispyribac Sodium
+Rice,CONTROLLED_BY,Penoxulam
+Rice,CONTROLLED_BY,Acephate
+Rice,CONTROLLED_BY,Betacyfluthrin
+Rice,CONTROLLED_BY,Propiconazole
+Rice,CONTROLLED_BY,Copper Oxychloride
+Rice,CONTROLLED_BY,Thiram
+Rice,CONTROLLED_BY,Tricyclazole
+Rice,CONTROLLED_BY,Crop Rotation
+Rice,CONTROLLED_BY,Green Revolution
+Rice,CONTROLLED_BY,Trichogramma Japonicum
+Rice,CONTROLLED_BY,Bacillus Thuringiensis Var Kurstaki
+Rice,CONTROLLED_BY,Trichogramma Chilonis
+Rice,CONTROLLED_BY,Nske
+Rice,CONTROLLED_BY,Bacillus Subtilis
+Rice,CONTROLLED_BY,Bacillus Subtilis
+Rice,CONTROLLED_BY,Monocrotophos
+Rice,CONTROLLED_BY,Streptocycline
+Rice,CONTROLLED_BY,Field Sanitation
+Rice,CONTROLLED_BY,Pseudomonas Fluorescens
+Rice,CONTROLLED_BY,Pseudomonas Fluorescens
+Rice,CONTROLLED_BY,Pseudomonas Fluorescens
+Rice,CONTROLLED_BY,Bacillus Subtilis
+Rice,CONTROLLED_BY,Nske
+Rice,CONTROLLED_BY,Carbofuran
+Rice,CONTROLLED_BY,Copper Oxychloride
+Rice,CONTROLLED_BY,Hot Water Treatment
+Rice,CONTROLLED_BY,Clipping Of Tip Of The Seedling
+Rice,CONTROLLED_BY,Phosphomidan
+Rice,CONTROLLED_BY,Green Revolution
+Rice,CONTROLLED_BY,Trichoderma Harzianum
+Rice,CONTROLLED_BY,Chaetomium Globosum
+Rice,CONTROLLED_BY,Bt
+Rice,CONTROLLED_BY,Tilt
+Rice,CONTROLLED_BY,Synchronized Establishment
+Rice,CONTROLLED_BY,Removal Of Weeds
+Rice,CONTROLLED_BY,Clipping Of Rice Seedlings Tips
+Rice,CONTROLLED_BY,Minimum Support Prices
+Rice,DEPENDS_ON,Irrigation
+Rice,DEPENDS_ON,Leaf Colour Chart
+Rice,DEPENDS_ON,Clay Loam Soil
+Rice,DEPENDS_ON,Rainfall
+Rice,DEPENDS_ON,Irrigation Water Productivity
+Rice,DEPENDS_ON,High Yielding Variety Of Seeds
+Rice,DEPENDS_ON,"1,000 Mm"
+Rice,DEPENDS_ON,"1,400 Mm"
+Rice,DEPENDS_ON,"1,600 Mm"
+Rice,REQUIRES,Irrigation
+Rice,REQUIRES,Soil
+Rice,REQUIRES,Npk
+Rice,REQUIRES,Nutrients
+Rice,REQUIRES,Azospirillum
+Rice,REQUIRES,Compost
+Rice,REQUIRES,Fym
+Rice,REQUIRES,Urea
+Rice,REQUIRES,Zinc Sulphate
+Rice,REQUIRES,Water
+Rice,REQUIRES,F.Y.M.
+Rice,REQUIRES,Clay To Clay Loam Soils
+Rice,REQUIRES,D.A.P.
+Rice,REQUIRES,Znso4
+Rice,REQUIRES,Feso4
+Rice,REQUIRES,Water
+Rice,REQUIRES,44-Million-Hectare
+Rice,REQUIRES,97 Million Tonnes
+Rice,REQUIRES,Azospirillum
+Rice,REQUIRES,Phosphobacteria
+Rice,REQUIRES,Kcl
+Rice,REQUIRES,Znso4
+Rice,REQUIRES,Feso4
+Rice,REQUIRES,Azospirillum
+Rice,REQUIRES,Phosphobacteria
+Rice,REQUIRES,Npk
+Rice,REQUIRES,Nitrogen
+Rice,REQUIRES,Kcl
+Rice,REQUIRES,Azospirillum
+Rice,REQUIRES,Phosphobacteria
+Rice,REQUIRES,Znso4
+Rice,REQUIRES,Azospirillum
+Rice,REQUIRES,Phosphobacteria
+Rice,REQUIRES,Irrigation Water
+Rice,REQUIRES,Nitrogen
+Rice,REQUIRES,Black Cotton Soils
+Rice,REQUIRES,Irrigation
+Rice,REQUIRES,Fertilizer Responsiveness
+Rice,REQUIRES,Xanthomonas Oryzae Pv. Oryzae
+Rice,REQUIRES,Xanthomonas Oryzae Pv. Oryzae
+Rice,REQUIRES,Weed Control
+Rice,REQUIRES,Timely Planting
+Rice,REQUIRES,Balanced Use Of Fertilizers
+Cotton,GROWN_IN,Andhra Pradesh
+Cotton,GROWN_IN,Punjab
+Cotton,GROWN_IN,India
+Cotton,GROWN_IN,Integrated Pest Management
+Cotton,GROWN_IN,Agro-Ecosystem
+Cotton,GROWN_IN,Whitefly
+Cotton,GROWN_IN,Karnataka
+Cotton,GROWN_IN,Tamil Nadu
+Cotton,GROWN_IN,Maharashtra
+Cotton,GROWN_IN,Gujarat
+Cotton,GROWN_IN,Groundnut
+Cotton,GROWN_IN,Bihar
+Cotton,GROWN_IN,Chhattisgarh
+Cotton,GROWN_IN,Western Region
+Cotton,GROWN_IN,Telangana
+Cotton,GROWN_IN,West Bengal
+Cotton,GROWN_IN,Gujarat
+Cotton,GROWN_IN,Spodoptera Litura
+Cotton,GROWN_IN,Tamil Nadu
+Cotton,GROWN_IN,Ramanathapuram
+Cotton,GROWN_IN,Virudhunagar
+Cotton,GROWN_IN,Tirunelveli
+Cotton,GROWN_IN,Thoothukudi
+Cotton,GROWN_IN,Thirumangalam
+Cotton,GROWN_IN,Sattur
+Cotton,GROWN_IN,Kovilpatti
+Cotton,GROWN_IN,Kovilpatti
+Cotton,GROWN_IN,Thirumangalam
+Cotton,GROWN_IN,Agro-Ecosystem
+Cotton,GROWN_IN,Orissa
+Cotton,GROWN_IN,Karnataka
+Cotton,GROWN_IN,Andhra Pradesh
+Cotton,GROWN_IN,Maharastra
+Cotton,GROWN_IN,North India
+Cotton,GROWN_IN,Punjab
+Cotton,GROWN_IN,Southeastern Region
+Cotton,GROWN_IN,Mughal India
+Cotton,GROWN_IN,Bt Varieties
+Cotton,GROWN_IN,Field Crops
+Cotton,GROWN_IN,Tractor-Mounted Sprayer
+Cotton,GROWN_DURING,Kharif
+Cotton,GROWN_DURING,Irrigation
+Cotton,GROWN_DURING,Summer
+Cotton,GROWN_DURING,April
+Cotton,GROWN_DURING,November
+Cotton,GROWN_DURING,December
+Cotton,GROWN_DURING,Winter
+Cotton,GROWN_DURING,November
+Cotton,GROWN_DURING,Dryland Agriculture
+Cotton,AFFECTED_BY,Insecticides
+Cotton,AFFECTED_BY,Pests
+Cotton,AFFECTED_BY,Whitefly
+Cotton,AFFECTED_BY,Helicoverpa Armigera
+Cotton,AFFECTED_BY,Mealybugs
+Cotton,AFFECTED_BY,Pink Bollworm
+Cotton,AFFECTED_BY,Leaf Hoppers
+Cotton,AFFECTED_BY,Red Rot
+Cotton,AFFECTED_BY,Excess Rainfall
+Cotton,AFFECTED_BY,Pink Ball Worm
+Cotton,AFFECTED_BY,Lepidoptera
+Cotton,AFFECTED_BY,Spodoptera Litura
+Cotton,AFFECTED_BY,B. Tabaci
+Cotton,AFFECTED_BY,Harsh Weather
+Cotton,AFFECTED_BY,Verticillium Wilt
+Cotton,AFFECTED_BY,Lepidoptera
+Cotton,CONTROLLED_BY,Pesticides
+Cotton,CONTROLLED_BY,Insecticides
+Cotton,CONTROLLED_BY,Neem Cake
+Cotton,CONTROLLED_BY,Carbendazim
+Cotton,CONTROLLED_BY,Pseudomonas Fluorescens
+Cotton,CONTROLLED_BY,Bacillus Thuringiensis
+Cotton,CONTROLLED_BY,Fym
+Cotton,CONTROLLED_BY,Drip Irrigation
+Cotton,CONTROLLED_BY,Pesticide
+Cotton,CONTROLLED_BY,Imidacloprid
+Cotton,CONTROLLED_BY,Chlorpyriphos
+Cotton,CONTROLLED_BY,Jute
+Cotton,CONTROLLED_BY,Drip Irrigation
+Cotton,CONTROLLED_BY,Flood Irrigation
+Cotton,CONTROLLED_BY,Azophos
+Cotton,CONTROLLED_BY,Azadirachtin
+Cotton,CONTROLLED_BY,Pseudomonas Fluorescens
+Cotton,CONTROLLED_BY,Azophos
+Cotton,CONTROLLED_BY,Azophos
+Cotton,CONTROLLED_BY,Pseudomonas Fluorescens
+Cotton,CONTROLLED_BY,Pseudomonas Fluorescens
+Cotton,CONTROLLED_BY,Dimethoate 30Ec
+Cotton,CONTROLLED_BY,Oxydemeton Methyl 25Ec
+Cotton,CONTROLLED_BY,Formothion 25Ec
+Cotton,CONTROLLED_BY,Imidacloprid 200 Sl
+Cotton,CONTROLLED_BY,Acatamiprid 20Sp
+Cotton,CONTROLLED_BY,Thiamethoxam 25Wg
+Cotton,CONTROLLED_BY,Bacillus Thuringiensis
+Cotton,CONTROLLED_BY,Bacillus Thuringiensis
+Cotton,CONTROLLED_BY,Minimum Support Prices
+Cotton,DEPENDS_ON,Rainfed
+Cotton,DEPENDS_ON,Rainfed
+Cotton,DEPENDS_ON,Rainfed
+Cotton,DEPENDS_ON,"1,000 Mm"
+Cotton,REQUIRES,Irrigation
+Cotton,REQUIRES,Gypsum
+Cotton,REQUIRES,Npk
+Cotton,REQUIRES,Fertilizer
+Cotton,REQUIRES,Gypsum
+Cotton,REQUIRES,Kcl
+Cotton,REQUIRES,Npk
+Cotton,REQUIRES,Nitrogen
+Cotton,REQUIRES,Kcl
+Cotton,REQUIRES,Tnau Mn Mixture
+Cotton,REQUIRES,Gypsum
+Cotton,REQUIRES,Mgso4
+Cotton,REQUIRES,Multi K
+Cotton,REQUIRES,Nitrogen
+Cotton,REQUIRES,Nitrogen Fertilizers
+Bajra,GROWN_IN,Andhra Pradesh
+Bajra,GROWN_IN,Jammu
+Bajra,GROWN_IN,Soil
+Bajra,GROWN_IN,Punjab
+Bajra,GROWN_IN,India
+Bajra,GROWN_IN,Kathua
+Bajra,GROWN_IN,Maharashtra
+Bajra,GROWN_IN,Jammu
+Bajra,GROWN_IN,Jammu
+Bajra,GROWN_IN,Rainfed
+Bajra,GROWN_IN,Irrigated
+Bajra,GROWN_IN,Western Region
+Bajra,GROWN_IN,Himachal Pradesh
+Bajra,GROWN_IN,Madhya Pradesh
+Bajra,GROWN_IN,Uttar Pradesh
+Bajra,GROWN_IN,Karnatak
+Bajra,GROWN_DURING,Kharif
+Bajra,GROWN_DURING,April
+Bajra,GROWN_DURING,July
+Bajra,GROWN_DURING,Wet Season
+Bajra,AFFECTED_BY,Pests
+Bajra,AFFECTED_BY,Stem Borer
+Bajra,CONTROLLED_BY,Animal Feed Industry
+Bajra,REQUIRES,Fym
+Bajra,REQUIRES,Urea
+Bajra,REQUIRES,Znso4 Heptahydrate
+Bajra,REQUIRES,Znso4 Monohydrate
+Bajra,REQUIRES,Di Ammonium Phosphate
+Pearl Millet,GROWN_IN,Andhra Pradesh
+Pearl Millet,GROWN_IN,Punjab
+Pearl Millet,GROWN_IN,India
+Pearl Millet,GROWN_DURING,Summer
+Pearl Millet,GROWN_DURING,July
+Pearl Millet,GROWN_DURING,June
+Pearl Millet,GROWN_DURING,September
+Pearl Millet,GROWN_DURING,October
+Pearl Millet,GROWN_DURING,November
+Pearl Millet,GROWN_DURING,December
+Pearl Millet,GROWN_DURING,November
+Pearl Millet,GROWN_DURING,Dryland Agriculture
+Pearl Millet,AFFECTED_BY,Fall Armyworm
+Pearl Millet,AFFECTED_BY,Stem Borer
+Pearl Millet,AFFECTED_BY,Shoot Fly
+Jowar,GROWN_IN,Andhra Pradesh
+Jowar,GROWN_IN,Jammu
+Jowar,GROWN_IN,Punjab
+Jowar,GROWN_IN,Haryana
+Jowar,GROWN_IN,India
+Jowar,GROWN_IN,Karnataka
+Jowar,GROWN_IN,Tamil Nadu
+Jowar,GROWN_IN,Maharashtra
+Jowar,GROWN_IN,Gujarat
+Jowar,GROWN_IN,Jammu
+Jowar,GROWN_IN,Jammu
+Jowar,GROWN_IN,Rainfed
+Jowar,GROWN_IN,Irrigated
+Jowar,GROWN_IN,Western Region
+Jowar,GROWN_IN,Rajasthan
+Jowar,GROWN_IN,Uttar Pradesh
+Jowar,GROWN_IN,Karnatak
+Jowar,GROWN_IN,Maharashtra
+Jowar,GROWN_DURING,Kharif
+Jowar,GROWN_DURING,April
+Jowar,GROWN_DURING,May
+Jowar,GROWN_DURING,June -July
+Jowar,GROWN_DURING,Wet Season
+Jowar,CONTROLLED_BY,Animal Feed Industry
+Jowar,REQUIRES,Fym
+Jowar,REQUIRES,Urea
+Jowar,REQUIRES,Znso4 Heptahydrate
+Jowar,REQUIRES,Znso4 Monohydrate
+Jowar,REQUIRES,Di Ammonium Phosphate
+Jowar,HARVESTED,September -October
+Sorghum,GROWN_IN,Soil
+Sorghum,GROWN_IN,India
+Sorghum,GROWN_IN,Okra
+Sorghum,GROWN_IN,Tamil Nadu
+Sorghum,GROWN_IN,Salem
+Sorghum,GROWN_IN,Namakkal
+Sorghum,GROWN_IN,Rainfed
+Sorghum,GROWN_IN,Irrigated
+Sorghum,GROWN_IN,China
+Sorghum,GROWN_IN,Bangladesh
+Sorghum,GROWN_IN,Dindigul
+Sorghum,GROWN_IN,Rainfed
+Sorghum,GROWN_IN,Rainfed
+Sorghum,GROWN_IN,Dindigul
+Sorghum,GROWN_IN,Theni
+Sorghum,GROWN_IN,Sri Lanka
+Sorghum,GROWN_IN,Tamil Nadu
+Sorghum,GROWN_IN,Japan
+Sorghum,GROWN_IN,Japan
+Sorghum,GROWN_IN,Korea
+Sorghum,GROWN_IN,Taiwan
+Sorghum,GROWN_IN,Dharmapuri
+Sorghum,GROWN_IN,Ramanathapuram
+Sorghum,GROWN_IN,Virudhunagar
+Sorghum,GROWN_IN,Sivagangai
+Sorghum,GROWN_IN,Irrigated
+Sorghum,GROWN_IN,Rainfed
+Sorghum,GROWN_IN,Theni
+Sorghum,GROWN_IN,Tirunelveli
+Sorghum,GROWN_IN,Thoothukudi
+Sorghum,GROWN_IN,Tiruchirapalli
+Sorghum,GROWN_IN,Erode
+Sorghum,GROWN_IN,Coimbatore
+Sorghum,GROWN_IN,Coimbatore
+Sorghum,GROWN_IN,Erode
+Sorghum,GROWN_IN,Salem
+Sorghum,GROWN_IN,Namakkal
+Sorghum,GROWN_IN,Dharmapuri
+Sorghum,GROWN_IN,Bangladesh
+Sorghum,GROWN_IN,Burma
+Sorghum,GROWN_IN,Pakistan
+Sorghum,GROWN_IN,Malaysia
+Sorghum,GROWN_IN,Taiwan
+Sorghum,GROWN_IN,Burma
+Sorghum,GROWN_IN,South East Asia
+Sorghum,GROWN_IN,Korea
+Sorghum,GROWN_IN,Indonesia
+Sorghum,GROWN_DURING,Sunflower
+Sorghum,GROWN_DURING,Rabi
+Sorghum,GROWN_DURING,South West Monsoon
+Sorghum,GROWN_DURING,North East Monsoon
+Sorghum,GROWN_DURING,October - November
+Sorghum,GROWN_DURING,June - July
+Sorghum,GROWN_DURING,Dryland Agriculture
+Sorghum,GROWN_DURING,April To June
+Sorghum,AFFECTED_BY,Aspergillus
+Sorghum,AFFECTED_BY,Shoot Fly
+Sorghum,AFFECTED_BY,Anthracnose
+Sorghum,AFFECTED_BY,Lepidoptera
+Sorghum,AFFECTED_BY,Curvularia
+Sorghum,AFFECTED_BY,Alternaria
+Sorghum,AFFECTED_BY,Fusarium
+Sorghum,AFFECTED_BY,Downy Mildew
+Sorghum,AFFECTED_BY,Rust
+Sorghum,AFFECTED_BY,Seedling Blight
+Sorghum,AFFECTED_BY,Chlorotic Symptoms
+Sorghum,AFFECTED_BY,Puccinia Purpurea
+Sorghum,AFFECTED_BY,Ergot
+Sorghum,AFFECTED_BY,Sphacelia Sorghi
+Sorghum,AFFECTED_BY,Head Mould
+Sorghum,AFFECTED_BY,Aspergillus
+Sorghum,AFFECTED_BY,Phoma
+Sorghum,AFFECTED_BY,Peronosclerospora Sorghi
+Sorghum,AFFECTED_BY,Macrophomina Phaseolina
+Sorghum,AFFECTED_BY,Sphacelotheca Sorghi
+Sorghum,AFFECTED_BY,Shootfly
+Sorghum,AFFECTED_BY,Helminthosporium Maydis
+Sorghum,AFFECTED_BY,Helminthosporium Leaf Spot
+Sorghum,AFFECTED_BY,Ustilago Nuda Tritici
+Sorghum,AFFECTED_BY,Karnal Bunt
+Sorghum,AFFECTED_BY,Puccinia Recondita F. Sp. Tritici
+Sorghum,AFFECTED_BY,Black Rust
+Sorghum,AFFECTED_BY,Brown Rust
+Sorghum,AFFECTED_BY,Yellow Rust
+Sorghum,AFFECTED_BY,Sorghum Midge
+Sorghum,AFFECTED_BY,Lepidoptera
+Sorghum,CONTROLLED_BY,Malathion
+Sorghum,CONTROLLED_BY,Endosulfan
+Sorghum,CONTROLLED_BY,Mancozeb
+Sorghum,CONTROLLED_BY,Carbaryl
+Sorghum,CONTROLLED_BY,Carbendazim
+Sorghum,CONTROLLED_BY,Carbosulfan
+Sorghum,CONTROLLED_BY,Cartap Hydrochloride
+Sorghum,CONTROLLED_BY,Fipronil
+Sorghum,CONTROLLED_BY,Chlorpyriphos
+Sorghum,CONTROLLED_BY,Propiconazole
+Sorghum,CONTROLLED_BY,Thiram
+Sorghum,CONTROLLED_BY,Captan
+Sorghum,CONTROLLED_BY,Carboxin
+Sorghum,CONTROLLED_BY,Pendimethalin
+Sorghum,CONTROLLED_BY,Phosalone
+Sorghum,CONTROLLED_BY,Metalaxyl
+Sorghum,CONTROLLED_BY,Vitavax
+Sorghum,CONTROLLED_BY,"2,4-D"
+Sorghum,CONTROLLED_BY,Pe Atrazine
+Sorghum,CONTROLLED_BY,Thiram
+Sorghum,CONTROLLED_BY,Captan
+Sorghum,CONTROLLED_BY,Lambda Cyhalothrin
+Sorghum,DEPENDS_ON,Npk
+Sorghum,DEPENDS_ON,Azospirillum
+Sorghum,DEPENDS_ON,Fym
+Sorghum,DEPENDS_ON,Light Traps
+Sorghum,DEPENDS_ON,Azospirillum
+Sorghum,DEPENDS_ON,Phosphobacteria
+Sorghum,DEPENDS_ON,Azophos
+Sorghum,DEPENDS_ON,Azospirillum
+Sorghum,DEPENDS_ON,Phosphobacteria
+Sorghum,DEPENDS_ON,Npk
+Sorghum,DEPENDS_ON,Azospirillum
+Sorghum,DEPENDS_ON,Phosphobacteria
+Sorghum,DEPENDS_ON,Azophos
+Sorghum,DEPENDS_ON,Potassium Dihydrogen Phosphate
+Sorghum,DEPENDS_ON,Azophos
+Sorghum,DEPENDS_ON,Azospirillum
+Sorghum,DEPENDS_ON,Phosphobacteria
+Sorghum,DEPENDS_ON,Sex Pheromone Trap
+Sorghum,DEPENDS_ON,Fishmeal Traps
+Sorghum,DEPENDS_ON,High Soil Moisture
+Sorghum,DEPENDS_ON,High Soil Moisture
+Sorghum,REQUIRES,Insecticides
+Sorghum,REQUIRES,Trichoderma Spp.
+Sorghum,REQUIRES,Fym
+Sorghum,REQUIRES,Trichoderma Spp.
+Sorghum,REQUIRES,Drought
+Sorghum,REQUIRES,Drought
+Sorghum,REQUIRES,High Relative Humidity
+Sorghum,REQUIRES,Calcium Carbonate
+Sorghum,REQUIRES,High Humidity
+Sorghum,REQUIRES,High Temperature
+Sorghum,REQUIRES,Cloudy Weather
+Sorghum,REQUIRES,High Rainfall
+Sorghum,REQUIRES,Cool Night Temperature
+Sorghum,REQUIRES,Free Water
+Sorghum,REQUIRES,Low Temperature
+Sorghum,REQUIRES,Trichoderma Spp.
+Sorghum,REQUIRES,Trichoderma Spp.
+Sorghum,HAS_SYMPTOM,Honey Dew
+Sorghum,HAS_SYMPTOM,Honey Dew
+Wheat,GROWN_IN,Cotton
+Wheat,GROWN_IN,Andhra Pradesh
+Wheat,GROWN_IN,Jammu And Kashmir
+Wheat,GROWN_IN,Jammu
+Wheat,GROWN_IN,Soil
+Wheat,GROWN_IN,Punjab
+Wheat,GROWN_IN,Haryana
+Wheat,GROWN_IN,India
+Wheat,GROWN_IN,Karnataka
+Wheat,GROWN_IN,Tamil Nadu
+Wheat,GROWN_IN,Maharashtra
+Wheat,GROWN_IN,Gujarat
+Wheat,GROWN_IN,Jammu Province
+Wheat,GROWN_IN,Bihar
+Wheat,GROWN_IN,Jharkhand
+Wheat,GROWN_IN,Himachal Pradesh
+Wheat,GROWN_IN,Jammu And Kashmir
+Wheat,GROWN_IN,Jharkhand
+Wheat,GROWN_IN,Madhya Pradesh
+Wheat,GROWN_IN,Rajasthan
+Wheat,GROWN_IN,Uttar Pradesh
+Wheat,GROWN_IN,West Bengal
+Wheat,GROWN_IN,Tamil Nadu
+Wheat,GROWN_IN,Karnataka
+Wheat,GROWN_IN,Indo-Gangetic Plains
+Wheat,GROWN_IN,U.P
+Wheat,GROWN_IN,Adilabad
+Wheat,GROWN_IN,M.P
+Wheat,GROWN_IN,W.B
+Wheat,GROWN_IN,Eastern Parts Of U.P
+Wheat,GROWN_IN,Punjab
+Wheat,GROWN_IN,Adilabad
+Wheat,GROWN_IN,Haryana
+Wheat,GROWN_IN,Uttar Pradesh
+Wheat,GROWN_IN,Hermetic Storage
+Wheat,GROWN_IN,Mechanical Thresher
+Wheat,GROWN_DURING,Rabi
+Wheat,GROWN_DURING,Jammu And Kashmir
+Wheat,GROWN_DURING,Irrigation
+Wheat,GROWN_DURING,Jammu And Kashmir
+Wheat,GROWN_DURING,Winter Season
+Wheat,GROWN_DURING,Season
+Wheat,GROWN_DURING,Dry Season
+Wheat,GROWN_DURING,Rabi Marketing Season
+Wheat,AFFECTED_BY,Aphids
+Wheat,AFFECTED_BY,Irrigation
+Wheat,AFFECTED_BY,Pests
+Wheat,AFFECTED_BY,Jassids
+Wheat,AFFECTED_BY,Flea Beetle
+Wheat,AFFECTED_BY,Drought
+Wheat,AFFECTED_BY,Water Stress
+Wheat,AFFECTED_BY,Soil Moisture Stress
+Wheat,AFFECTED_BY,Lepidoptera
+Wheat,AFFECTED_BY,Rust
+Wheat,AFFECTED_BY,Shootfly
+Wheat,AFFECTED_BY,Helminthosporium Maydis
+Wheat,AFFECTED_BY,Smut
+Wheat,AFFECTED_BY,Black Or Stem Rust
+Wheat,AFFECTED_BY,Helminthosporium Leaf Spot
+Wheat,AFFECTED_BY,Termite
+Wheat,AFFECTED_BY,Rat
+Wheat,AFFECTED_BY,Leaf Blight
+Wheat,AFFECTED_BY,Phalaris Minor
+Wheat,AFFECTED_BY,Wheat Gall Nematode
+Wheat,AFFECTED_BY,Hopper
+Wheat,AFFECTED_BY,Pyrilla Perpusilla
+Wheat,AFFECTED_BY,Wheat Bug
+Wheat,AFFECTED_BY,Wheat Thrips
+Wheat,AFFECTED_BY,Cut Worms
+Wheat,AFFECTED_BY,Pink Borer
+Wheat,AFFECTED_BY,Karnal Bunt
+Wheat,AFFECTED_BY,Black Rust
+Wheat,AFFECTED_BY,Brown Rust
+Wheat,AFFECTED_BY,Yellow Rust
+Wheat,AFFECTED_BY,Black Stem Rust
+Wheat,AFFECTED_BY,Rust Diseases
+Wheat,AFFECTED_BY,Stem Rust
+Wheat,AFFECTED_BY,Leaf Rust
+Wheat,AFFECTED_BY,Stripe Rust
+Wheat,AFFECTED_BY,Disease Resistance
+Wheat,AFFECTED_BY,Armyworm
+Wheat,AFFECTED_BY,Puccinia Spp.
+Wheat,AFFECTED_BY,Lepidoptera
+Wheat,CONTROLLED_BY,Integrated Pest Management
+Wheat,CONTROLLED_BY,Mancozeb
+Wheat,CONTROLLED_BY,Bavistin
+Wheat,CONTROLLED_BY,Hinosan
+Wheat,CONTROLLED_BY,Zineb
+Wheat,CONTROLLED_BY,Thiram
+Wheat,CONTROLLED_BY,Carboxin
+Wheat,CONTROLLED_BY,Green Revolution
+Wheat,CONTROLLED_BY,Precision Irrigation
+Wheat,CONTROLLED_BY,Solar-Powered Pumps
+Wheat,CONTROLLED_BY,Farm Ponds
+Wheat,CONTROLLED_BY,Sprinkler Irrigation
+Wheat,CONTROLLED_BY,Improved Varieties
+Wheat,CONTROLLED_BY,Fertilization
+Wheat,CONTROLLED_BY,Vitavax
+Wheat,CONTROLLED_BY,Carbandazim
+Wheat,CONTROLLED_BY,Weedicide
+Wheat,CONTROLLED_BY,Zineb
+Wheat,CONTROLLED_BY,Plantavax
+Wheat,CONTROLLED_BY,Thresher
+Wheat,CONTROLLED_BY,Green Revolution
+Wheat,CONTROLLED_BY,Reaper
+Wheat,CONTROLLED_BY,Reaper Binder
+Wheat,CONTROLLED_BY,Minimum Support Prices
+Wheat,CONTROLLED_BY,Indophil M-45
+Wheat,CONTROLLED_BY,Indophil Z-78
+Wheat,DEPENDS_ON,Chemical Fertilizers
+Wheat,DEPENDS_ON,High Yielding Variety Of Seeds
+Wheat,REQUIRES,Irrigation
+Wheat,REQUIRES,Fertilizers
+Wheat,REQUIRES,Trichoderma Spp.
+Wheat,REQUIRES,Water
+Wheat,REQUIRES,Trichoderma Spp.
+Wheat,REQUIRES,Water
+Wheat,REQUIRES,Minimum Support Price
+Wheat,REQUIRES,Potash
+Wheat,REQUIRES,Nitrogen
+Wheat,REQUIRES,Uredospores
+Wheat,REQUIRES,Teliospores
+Wheat,REQUIRES,Nitrogen
+Wheat,REQUIRES,Nematodes
+Wheat,REQUIRES,Potash
+Wheat,REQUIRES,Irrigation
+Wheat,REQUIRES,Trichoderma Spp.
+Wheat,REQUIRES,Trichoderma Spp.
+Wheat,GROWN_AFTER,Maize
+Chickpea,GROWN_IN,Andhra Pradesh
+Chickpea,GROWN_IN,Haryana
+Chickpea,GROWN_IN,India
+Chickpea,GROWN_IN,Agro-Ecosystem
+Chickpea,GROWN_IN,Karnataka
+Chickpea,GROWN_IN,Maharashtra
+Chickpea,GROWN_IN,Bihar
+Chickpea,GROWN_IN,Madhya Pradesh
+Chickpea,GROWN_IN,Rajasthan
+Chickpea,GROWN_IN,Uttar Pradesh
+Chickpea,GROWN_IN,Agro-Ecosystem
+Chickpea,GROWN_DURING,Rabi
+Chickpea,GROWN_DURING,Irrigation
+Chickpea,AFFECTED_BY,Disease Resistance
+Chickpea,AFFECTED_BY,Pulse Beetle
+Chickpea,CONTROLLED_BY,Pod Borer
+Chickpea,DEPENDS_ON,Irrigation
+Chickpea,REQUIRES,Water Productivity
+Chickpea,REQUIRES,0.63 Kg/M3
+Gram,GROWN_IN,Andhra Pradesh
+Gram,GROWN_IN,Punjab
+Gram,GROWN_IN,India
+Gram,GROWN_IN,Kathua
+Gram,GROWN_IN,Northern India
+Gram,GROWN_DURING,Dryland Agriculture
+Sunflower,GROWN_IN,Andhra Pradesh
+Sunflower,GROWN_IN,Soil
+Sunflower,GROWN_IN,India
+Sunflower,GROWN_IN,Integrated Pest Management
+Sunflower,GROWN_IN,Coconut Gardens
+Sunflower,GROWN_IN,Edible Oil
+Sunflower,GROWN_DURING,Rabi
+Sunflower,AFFECTED_BY,Helicoverpa Armigera
+Sunflower,AFFECTED_BY,Bemisia Tabaci
+Sunflower,AFFECTED_BY,Lepidoptera
+Sunflower,AFFECTED_BY,Puccinia Helianthi
+Sunflower,AFFECTED_BY,Macrophomina Phaseolina
+Sunflower,AFFECTED_BY,Tobacco Streak Virus
+Sunflower,AFFECTED_BY,Rhizopus Sp
+Sunflower,AFFECTED_BY,Myzus Persicae
+Sunflower,AFFECTED_BY,Leucinodes Orbonalis
+Sunflower,AFFECTED_BY,Apion Corchori
+Sunflower,AFFECTED_BY,Anomis Sabulifera
+Sunflower,AFFECTED_BY,Polyphagotarsonemus Latus
+Sunflower,AFFECTED_BY,Epialtes Excultus
+Sunflower,AFFECTED_BY,Amrasca Biguttula Biguttula
+Sunflower,AFFECTED_BY,Cestius Phycitis
+Sunflower,AFFECTED_BY,Tetranychus Urticae
+Sunflower,AFFECTED_BY,Lepidoptera
+Sunflower,CONTROLLED_BY,Malathion
+Sunflower,CONTROLLED_BY,Mancozeb
+Sunflower,CONTROLLED_BY,Carbendazim
+Sunflower,CONTROLLED_BY,Pseudomonas Fluorescens
+Sunflower,CONTROLLED_BY,Spinosad
+Sunflower,CONTROLLED_BY,Indoxacarb
+Sunflower,CONTROLLED_BY,Thiram
+Sunflower,CONTROLLED_BY,Pseudomonas Fluorescens
+Sunflower,CONTROLLED_BY,Difenoconazole
+Sunflower,CONTROLLED_BY,Pseudomonas Fluorescens
+Sunflower,CONTROLLED_BY,Naa
+Sunflower,CONTROLLED_BY,Naa
+Sunflower,CONTROLLED_BY,Pseudomonas Fluorescens
+Sunflower,CONTROLLED_BY,Naa
+Sunflower,CONTROLLED_BY,Thiodicarb
+Sunflower,CONTROLLED_BY,Profenofos
+Sunflower,REQUIRES,Npk
+Sunflower,REQUIRES,Npk
+Sunflower,GROWN_AFTER,Maize
+Barley,GROWN_IN,Andhra Pradesh
+Barley,GROWN_IN,Ladakh
+Barley,GROWN_IN,Punjab
+Barley,GROWN_IN,India
+Barley,GROWN_IN,Ladakh
+Barley,GROWN_IN,Bengal
+Barley,GROWN_DURING,Rabi
+Barley,GROWN_DURING,Dry Season
+Barley,AFFECTED_BY,Helminthosporium Maydis
+Barley,REQUIRES,Irrigation
+Barley,REQUIRES,Cattle
+Barley,REQUIRES,Cattle
+Barley,REQUIRES,Cattle
+Barley,REQUIRES,Irrigation
+Maize,GROWN_IN,Andhra Pradesh
+Maize,GROWN_IN,Jammu And Kashmir
+Maize,GROWN_IN,Kashmir Valley
+Maize,GROWN_IN,Ladakh
+Maize,GROWN_IN,Jammu
+Maize,GROWN_IN,Soil
+Maize,GROWN_IN,Punjab
+Maize,GROWN_IN,India
+Maize,GROWN_IN,Okra
+Maize,GROWN_IN,Karnataka
+Maize,GROWN_IN,Tamil Nadu
+Maize,GROWN_IN,Maharashtra
+Maize,GROWN_IN,Gujarat
+Maize,GROWN_IN,Jammu Province
+Maize,GROWN_IN,Doda
+Maize,GROWN_IN,Jammu
+Maize,GROWN_IN,Jammu
+Maize,GROWN_IN,Bihar
+Maize,GROWN_IN,Chhattisgarh
+Maize,GROWN_IN,Goa
+Maize,GROWN_IN,Jammu And Kashmir
+Maize,GROWN_IN,Rajasthan
+Maize,GROWN_IN,Sikkim
+Maize,GROWN_IN,Tripura
+Maize,GROWN_IN,West Bengal
+Maize,GROWN_IN,Usa
+Maize,GROWN_IN,Ladakh
+Maize,GROWN_IN,Tamil Nadu
+Maize,GROWN_IN,Napier Grass
+Maize,GROWN_IN,Eastern Region
+Maize,GROWN_IN,Champawat
+Maize,GROWN_IN,Indo-Gangetic Plains
+Maize,GROWN_IN,Zea Mays
+Maize,GROWN_IN,Andhra Pradesh
+Maize,GROWN_IN,North India
+Maize,GROWN_IN,Punjab
+Maize,GROWN_IN,Karnatak
+Maize,GROWN_IN,Hermetic Storage
+Maize,GROWN_IN,Field Crops
+Maize,GROWN_DURING,Kharif
+Maize,GROWN_DURING,Zaid
+Maize,GROWN_DURING,Irrigation
+Maize,GROWN_DURING,Spring
+Maize,GROWN_DURING,Winter
+Maize,GROWN_DURING,Moisture Stress
+Maize,GROWN_DURING,Excessive Moisture
+Maize,GROWN_DURING,Dryland Agriculture
+Maize,GROWN_DURING,Wet Season
+Maize,AFFECTED_BY,Aphids
+Maize,AFFECTED_BY,Pests
+Maize,AFFECTED_BY,Diseases
+Maize,AFFECTED_BY,Insect Pests
+Maize,AFFECTED_BY,Fall Armyworm
+Maize,AFFECTED_BY,Stem Borer
+Maize,AFFECTED_BY,Shoot Fly
+Maize,AFFECTED_BY,Helicoverpa Armigera
+Maize,AFFECTED_BY,Zn Deficiency
+Maize,AFFECTED_BY,Hairy Caterpillars
+Maize,AFFECTED_BY,Zn Deficiency
+Maize,AFFECTED_BY,White Grub
+Maize,AFFECTED_BY,Pink Stem Borer
+Maize,AFFECTED_BY,Aspergillus Flavus
+Maize,AFFECTED_BY,Downy Mildew
+Maize,AFFECTED_BY,Shootfly
+Maize,AFFECTED_BY,Crazy Top
+Maize,AFFECTED_BY,Puccinia Sorghi
+Maize,AFFECTED_BY,Exserohilum Turcicum
+Maize,AFFECTED_BY,Helminthosporium Maydis
+Maize,AFFECTED_BY,Ash Weevil
+Maize,AFFECTED_BY,Aflatoxin-B1
+Maize,AFFECTED_BY,Cutworm
+Maize,AFFECTED_BY,Fusarium Verticillioides
+Maize,AFFECTED_BY,Fusarium Graminearum
+Maize,AFFECTED_BY,Aspergillus Niger
+Maize,AFFECTED_BY,Aspergillus Ochraceus
+Maize,AFFECTED_BY,Spodoptera Furgiperda
+Maize,AFFECTED_BY,Phadka Grasshopper
+Maize,CONTROLLED_BY,Malathion
+Maize,CONTROLLED_BY,Irrigation
+Maize,CONTROLLED_BY,Mancozeb
+Maize,CONTROLLED_BY,Carbaryl
+Maize,CONTROLLED_BY,Carbendazim
+Maize,CONTROLLED_BY,Pseudomonas Fluorescens
+Maize,CONTROLLED_BY,Dimethoate
+Maize,CONTROLLED_BY,Thiamethoxam
+Maize,CONTROLLED_BY,Imidacloprid
+Maize,CONTROLLED_BY,Butachlor
+Maize,CONTROLLED_BY,Lindane
+Maize,CONTROLLED_BY,Chlorpyriphos
+Maize,CONTROLLED_BY,Thiram
+Maize,CONTROLLED_BY,Captan
+Maize,CONTROLLED_BY,Carboxin
+Maize,CONTROLLED_BY,Atrazine
+Maize,CONTROLLED_BY,Pendimethalin
+Maize,CONTROLLED_BY,Fluchloralin
+Maize,CONTROLLED_BY,Methyl Demeton
+Maize,CONTROLLED_BY,Cypermethrin
+Maize,CONTROLLED_BY,Deltamethrin
+Maize,CONTROLLED_BY,Dichlorvos
+Maize,CONTROLLED_BY,Seed Treatment
+Maize,CONTROLLED_BY,Fertiliser
+Maize,CONTROLLED_BY,Cimmyt
+Maize,CONTROLLED_BY,Azoxystrobin
+Maize,CONTROLLED_BY,Metalaxyl
+Maize,CONTROLLED_BY,Pseudomonas Fluorescens
+Maize,CONTROLLED_BY,Beauveria Bassiana
+Maize,CONTROLLED_BY,Kresoxim-Methyl
+Maize,CONTROLLED_BY,Cyproconazole
+Maize,CONTROLLED_BY,Difenoconazole
+Maize,CONTROLLED_BY,Fym Or Compost
+Maize,CONTROLLED_BY,Composted Coir Pith
+Maize,CONTROLLED_BY,Spacing
+Maize,CONTROLLED_BY,Harvesting
+Maize,CONTROLLED_BY,Seed Storage
+Maize,CONTROLLED_BY,Pseudomonas Fluorescens
+Maize,CONTROLLED_BY,Beauveria Bassiana
+Maize,CONTROLLED_BY,Pseudomonas Fluorescens
+Maize,CONTROLLED_BY,Fenvalerate
+Maize,CONTROLLED_BY,Monochrotophos
+Maize,DEPENDS_ON,Irrigation
+Maize,REQUIRES,Kharif
+Maize,REQUIRES,Irrigation
+Maize,REQUIRES,Npk
+Maize,REQUIRES,Fertilizers
+Maize,REQUIRES,Azospirillum
+Maize,REQUIRES,Trichoderma Spp.
+Maize,REQUIRES,Bacillus Thuringiensis
+Maize,REQUIRES,Fym
+Maize,REQUIRES,Urea
+Maize,REQUIRES,Thiamethoxam
+Maize,REQUIRES,Imidacloprid
+Maize,REQUIRES,Water
+Maize,REQUIRES,N
+Maize,REQUIRES,Znso4 Heptahydrate
+Maize,REQUIRES,Znso4 Monohydrate
+Maize,REQUIRES,Di Ammonium Phosphate
+Maize,REQUIRES,Trichoderma Spp.
+Maize,REQUIRES,Drought
+Maize,REQUIRES,Water
+Maize,REQUIRES,Water Productivity
+Maize,REQUIRES,Drought
+Maize,REQUIRES,High Relative Humidity
+Maize,REQUIRES,Azospirillum
+Maize,REQUIRES,Azospirillum
+Maize,REQUIRES,Npk
+Maize,REQUIRES,Nitrogen
+Maize,REQUIRES,Azospirillum
+Maize,REQUIRES,Tnau Mn Mixture
+Maize,REQUIRES,Azospirillum
+Maize,REQUIRES,Nitrogen
+Maize,REQUIRES,Oospores
+Maize,REQUIRES,Oospores
+Maize,REQUIRES,High Temperature
+Maize,REQUIRES,Free Water
+Maize,REQUIRES,Low Temperature
+Maize,REQUIRES,Oospores
+Maize,REQUIRES,Irrigation
+Maize,REQUIRES,Bacillus Thuringiensis
+Maize,REQUIRES,Bacillus Thuringiensis
+Maize,REQUIRES,Bacillus Thuringiensis
+Maize,REQUIRES,Trichoderma Spp.
+Maize,REQUIRES,Trichoderma Spp.
+Maize,INTERCROPPED_WITH,Cowpea
+Sugarcane,GROWN_IN,Andhra Pradesh
+Sugarcane,GROWN_IN,Jammu
+Sugarcane,GROWN_IN,Soil
+Sugarcane,GROWN_IN,Punjab
+Sugarcane,GROWN_IN,Haryana
+Sugarcane,GROWN_IN,India
+Sugarcane,GROWN_IN,Karnataka
+Sugarcane,GROWN_IN,Tamil Nadu
+Sugarcane,GROWN_IN,Maharashtra
+Sugarcane,GROWN_IN,Gujarat
+Sugarcane,GROWN_IN,Jammu
+Sugarcane,GROWN_IN,Jammu
+Sugarcane,GROWN_IN,Kashmir
+Sugarcane,GROWN_IN,Bihar
+Sugarcane,GROWN_IN,Madhya Pradesh
+Sugarcane,GROWN_IN,Uttarakhand
+Sugarcane,GROWN_IN,Uttar Pradesh
+Sugarcane,GROWN_IN,West Bengal
+Sugarcane,GROWN_IN,U.P.
+Sugarcane,GROWN_IN,Disease-Free Area
+Sugarcane,GROWN_IN,Nizamabad
+Sugarcane,GROWN_IN,Srikakulam
+Sugarcane,GROWN_IN,Vishakapatnam
+Sugarcane,GROWN_IN,Punjab
+Sugarcane,GROWN_IN,South Asia
+Sugarcane,GROWN_IN,Saccharum Officinarum
+Sugarcane,GROWN_IN,Chilo Infuscutellus Gv
+Sugarcane,GROWN_IN,Field Crops
+Sugarcane,GROWN_DURING,Zaid
+Sugarcane,GROWN_DURING,Jammu And Kashmir
+Sugarcane,GROWN_DURING,Irrigation
+Sugarcane,GROWN_DURING,Water
+Sugarcane,GROWN_DURING,March
+Sugarcane,GROWN_DURING,February
+Sugarcane,GROWN_DURING,Dec.-Jan.
+Sugarcane,GROWN_DURING,May-June
+Sugarcane,GROWN_DURING,July-Aug.
+Sugarcane,GROWN_DURING,10-12 Months
+Sugarcane,GROWN_DURING,Jammu And Kashmir
+Sugarcane,GROWN_DURING,Water
+Sugarcane,GROWN_DURING,Winter Crop
+Sugarcane,GROWN_DURING,Summer Crop
+Sugarcane,GROWN_DURING,April-June
+Sugarcane,GROWN_DURING,February-March
+Sugarcane,AFFECTED_BY,Irrigation
+Sugarcane,AFFECTED_BY,Whitefly
+Sugarcane,AFFECTED_BY,Pest
+Sugarcane,AFFECTED_BY,Zinc Deficiency
+Sugarcane,AFFECTED_BY,Monsoon
+Sugarcane,AFFECTED_BY,Red Rot
+Sugarcane,AFFECTED_BY,Drought
+Sugarcane,AFFECTED_BY,Economic Water Productivity
+Sugarcane,AFFECTED_BY,Monsoon
+Sugarcane,AFFECTED_BY,Physical Water Productivity
+Sugarcane,AFFECTED_BY,Economic Water Productivity
+Sugarcane,AFFECTED_BY,Downy Mildew
+Sugarcane,AFFECTED_BY,Helminthosporium Maydis
+Sugarcane,AFFECTED_BY,Shoot Borer
+Sugarcane,AFFECTED_BY,Iron Deficiency
+Sugarcane,AFFECTED_BY,Boron Deficiency
+Sugarcane,AFFECTED_BY,Sett Rot
+Sugarcane,AFFECTED_BY,Smut
+Sugarcane,AFFECTED_BY,Grassy Shoot Disease
+Sugarcane,AFFECTED_BY,Ceratovacuna Lanigera
+Sugarcane,AFFECTED_BY,Helminthosporium Leaf Spot
+Sugarcane,AFFECTED_BY,Diatraea Dyari
+Sugarcane,AFFECTED_BY,Sugarcane Mosaic Potyvirus
+Sugarcane,AFFECTED_BY,Phytoplasma
+Sugarcane,AFFECTED_BY,Damping-Off
+Sugarcane,AFFECTED_BY,Leaf Spot
+Sugarcane,AFFECTED_BY,Fusarium Oxysporum F.Sp. Vasinfectum
+Sugarcane,AFFECTED_BY,Termite
+Sugarcane,AFFECTED_BY,Pyrilla Perpusilla
+Sugarcane,AFFECTED_BY,Sugarcane White Leaf
+Sugarcane,AFFECTED_BY,Colletotrichum Falcatum
+Sugarcane,AFFECTED_BY,Grassy Shoot
+Sugarcane,AFFECTED_BY,Drought-Tolerant
+Sugarcane,AFFECTED_BY,Disease-Tolerant
+Sugarcane,AFFECTED_BY,Pyrilla
+Sugarcane,AFFECTED_BY,Chilo Infuscatellus
+Sugarcane,AFFECTED_BY,Scirpophaga Nivella
+Sugarcane,AFFECTED_BY,Smut Of Sugarcane
+Sugarcane,AFFECTED_BY,Whip Smut
+Sugarcane,CONTROLLED_BY,Malathion
+Sugarcane,CONTROLLED_BY,Irrigation
+Sugarcane,CONTROLLED_BY,Tridemorph
+Sugarcane,CONTROLLED_BY,Mancozeb
+Sugarcane,CONTROLLED_BY,Carbendazim
+Sugarcane,CONTROLLED_BY,Dimethoate
+Sugarcane,CONTROLLED_BY,Drip Irrigation
+Sugarcane,CONTROLLED_BY,Imidacloprid
+Sugarcane,CONTROLLED_BY,Cartap Hydrochloride
+Sugarcane,CONTROLLED_BY,Fipronil
+Sugarcane,CONTROLLED_BY,Carbofuran
+Sugarcane,CONTROLLED_BY,Chlorpyriphos
+Sugarcane,CONTROLLED_BY,Thiram
+Sugarcane,CONTROLLED_BY,Captan
+Sugarcane,CONTROLLED_BY,Gene Revolution
+Sugarcane,CONTROLLED_BY,Micro Irrigation
+Sugarcane,CONTROLLED_BY,Micro Irrigation
+Sugarcane,CONTROLLED_BY,Drip Irrigation
+Sugarcane,CONTROLLED_BY,Trichogramma Chilonis
+Sugarcane,CONTROLLED_BY,Phorate
+Sugarcane,CONTROLLED_BY,Metalaxyl
+Sugarcane,CONTROLLED_BY,Beauveria Bassiana
+Sugarcane,CONTROLLED_BY,Beauveria Bassiana
+Sugarcane,CONTROLLED_BY,Manganese
+Sugarcane,CONTROLLED_BY,Metarhizium Anisopliae
+Sugarcane,CONTROLLED_BY,Verticillium Lecanii
+Sugarcane,CONTROLLED_BY,Chlorantraniprole
+Sugarcane,CONTROLLED_BY,Dipha Aphidivora
+Sugarcane,CONTROLLED_BY,Micromus
+Sugarcane,CONTROLLED_BY,Coccinellids
+Sugarcane,CONTROLLED_BY,Verticillium Lecanii
+Sugarcane,CONTROLLED_BY,Thiram
+Sugarcane,CONTROLLED_BY,Captan
+Sugarcane,CONTROLLED_BY,Boran
+Sugarcane,CONTROLLED_BY,Emisan
+Sugarcane,CONTROLLED_BY,Icar
+Sugarcane,CONTROLLED_BY,Icar
+Sugarcane,CONTROLLED_BY,Icar
+Sugarcane,CONTROLLED_BY,Sugar Revolution
+Sugarcane,CONTROLLED_BY,Carbofuran 3G
+Sugarcane,CONTROLLED_BY,Minimum Support Prices
+Sugarcane,DEPENDS_ON,Bajra
+Sugarcane,DEPENDS_ON,Sorghum
+Sugarcane,DEPENDS_ON,Maize
+Sugarcane,DEPENDS_ON,Irrigation
+Sugarcane,DEPENDS_ON,Drought
+Sugarcane,DEPENDS_ON,Groundwater
+Sugarcane,DEPENDS_ON,Heavy Soils
+Sugarcane,DEPENDS_ON,Drought
+Sugarcane,DEPENDS_ON,Ragi
+Sugarcane,DEPENDS_ON,Erianthus Fulvus
+Sugarcane,DEPENDS_ON,Saccharum Spontaneum
+Sugarcane,DEPENDS_ON,Pearlmillet
+Sugarcane,DEPENDS_ON,Collateral Hosts
+Sugarcane,REQUIRES,Fym
+Sugarcane,REQUIRES,Water
+Sugarcane,REQUIRES,Mustard
+Sugarcane,REQUIRES,N
+Sugarcane,REQUIRES,P
+Sugarcane,REQUIRES,K
+Sugarcane,REQUIRES,Coriander
+Sugarcane,REQUIRES,Drought
+Sugarcane,REQUIRES,Water
+Sugarcane,REQUIRES,Drought
+Sugarcane,REQUIRES,Redgram
+Sugarcane,REQUIRES,High Relative Humidity
+Sugarcane,REQUIRES,Nitrogen
+Sugarcane,REQUIRES,Manganese
+Sugarcane,REQUIRES,Boron
+Sugarcane,REQUIRES,Co 62198
+Sugarcane,REQUIRES,Co 7704
+Sugarcane,REQUIRES,Co 8001
+Sugarcane,REQUIRES,Co 8201
+Sugarcane,REQUIRES,Green Manure Crops
+Sugarcane,REQUIRES,Nitrogen
+Sugarcane,REQUIRES,High Temperature
+Sugarcane,REQUIRES,Free Water
+Sugarcane,REQUIRES,Low Temperature
+Sugarcane,REQUIRES,Cattle
+Sugarcane,REQUIRES,Cattle
+Sugarcane,REQUIRES,Cattle
+Sugarcane,PREVENTED_BY,Selecting Disease Free Setts
+Sugarcane,PREVENTED_BY,Rogueing Infected Plants
+Sugarcane,PREVENTED_BY,Growing Resistant Varieties
+Sugarcane,PREVENTED_BY,Removing And Burning Affected Plants
+Sugarcane,PREVENTED_BY,Spraying
+Sugarcane,PREVENTED_BY,Continuous Ratooning
+Sugarcane,PREVENTED_BY,Selecting Seed Material From Disease Free Areas
+Locust,AFFECTED_BY,Paddy
+Locust,AFFECTED_BY,Cotton
+Locust,AFFECTED_BY,Bajra
+Locust,AFFECTED_BY,Jowar
+Aphids,AFFECTED_BY,Paddy
+Aphids,AFFECTED_BY,Cotton
+Aphids,AFFECTED_BY,Bajra
+Aphids,AFFECTED_BY,Jowar
+Aphids,AFFECTED_BY,Maize
+Aphids,AFFECTED_BY,Brinjal
+Aphids,AFFECTED_BY,Thiamethoxam
+Aphids,AFFECTED_BY,Pesticide
+Aphids,AFFECTED_BY,Imidacloprid
+Aphids,AFFECTED_BY,Acephate
+Aphids,AFFECTED_BY,Temperature
+Aphids,AFFECTED_BY,Safflower
+Aphids,AFFECTED_BY,Solanum Nigrum
+Aphids,AFFECTED_BY,Mentha Spp.
+Aphids,AFFECTED_BY,Black Fungus
+Aphids,AFFECTED_BY,Lady Beetles
+Aphids,CONTROLLED_BY,Chlorpyriphos
+Aphids,CONTROLLED_BY,Chlorpyrifos
+Aphids,CAUSES,Sooty Mold
+Aphids,TRANSMIT,Cucumber Mosaic Virus
+Malathion,CONTROLLED_BY,Locust
+Malathion,CONTROLLED_BY,Fruit Fly
+Malathion,CONTROLLED_BY,Caterpillars
+Malathion,CONTROLLED_BY,Insect Pests
+Malathion,CONTROLLED_BY,Empoasca Kerri
+Malathion,CONTROLLED_BY,Bruchid
+Malathion,CONTROLLED_BY,Inflorescence Caterpillar
+Endosulfan,CONTROLLED_BY,Aphids
+Endosulfan,CONTROLLED_BY,Insecticides
+Endosulfan,CONTROLLED_BY,Caterpillars
+Endosulfan,CONTROLLED_BY,Eublemma Hemirrhoda
+Endosulfan,CONTROLLED_BY,Semilooper
+Endosulfan,REQUIRES,Pesticides
+Andhra Pradesh,GROWN_IN,Paddy
+Andhra Pradesh,GROWN_IN,Rice
+Andhra Pradesh,GROWN_IN,Cotton
+Andhra Pradesh,GROWN_IN,Sorghum
+Andhra Pradesh,GROWN_IN,Wheat
+Andhra Pradesh,GROWN_IN,Sunflower
+Andhra Pradesh,GROWN_IN,Barley
+Andhra Pradesh,GROWN_IN,Maize
+Andhra Pradesh,GROWN_IN,Sugarcane
+Andhra Pradesh,GROWN_IN,Oilseeds
+Andhra Pradesh,GROWN_IN,Food Grains
+Andhra Pradesh,GROWN_IN,India
+Andhra Pradesh,GROWN_IN,Fruits
+Andhra Pradesh,GROWN_IN,Spices
+Andhra Pradesh,GROWN_IN,Cucumber
+Andhra Pradesh,GROWN_IN,Pumpkin
+Andhra Pradesh,GROWN_IN,Bitter Gourd
+Andhra Pradesh,GROWN_IN,Groundnut
+Andhra Pradesh,GROWN_IN,Soybean
+Andhra Pradesh,GROWN_IN,Linseed
+Andhra Pradesh,GROWN_IN,Pigeon Pea
+Andhra Pradesh,GROWN_IN,Black Gram
+Andhra Pradesh,GROWN_IN,Cashew Nut
+Andhra Pradesh,GROWN_IN,Watermelon
+Andhra Pradesh,GROWN_IN,Tobacco
+Andhra Pradesh,GROWN_IN,Safflower
+Andhra Pradesh,GROWN_IN,Muskmelon
+Andhra Pradesh,GROWN_IN,Paddy (Rice)
+Andhra Pradesh,GROWN_IN,Bajra (Pearl Millet)
+Andhra Pradesh,GROWN_IN,Jowar (Sorghum)
+Andhra Pradesh,GROWN_IN,Red Gram (Tur/Arhar)
+Andhra Pradesh,GROWN_IN,Green Gram (Moong)
+Andhra Pradesh,GROWN_IN,Black Gram (Urad)
+Andhra Pradesh,GROWN_IN,Chickpea (Gram)
+Andhra Pradesh,GROWN_IN,Ridge Gourd (Tori)
+Andhra Pradesh,GROWN_IN,Land
+Andhra Pradesh,GROWN_DURING,Micro-Irrigation
+Andhra Pradesh,GROWN_DURING,Micro-Irrigation
+Andhra Pradesh,GROWN_DURING,Brackishwater
+Andhra Pradesh,AFFECTED_BY,Droughts
+Andhra Pradesh,AFFECTED_BY,Severe Cyclonic Storms
+Andhra Pradesh,AFFECTED_BY,Fmd
+Andhra Pradesh,CONTROLLED_BY,Chickpea
+Andhra Pradesh,CONTROLLED_BY,Pesticides
+Andhra Pradesh,CONTROLLED_BY,Crop Insurance
+Andhra Pradesh,CONTROLLED_BY,High Yield Varieties
+Andhra Pradesh,DEPENDS_ON,Agriculture Credit
+Andhra Pradesh,REQUIRES,Micro Irrigation
+Andhra Pradesh,REQUIRES,Cold Storage Structures
+Andhra Pradesh,REQUIRES,Micro Irrigation
+Kharif,GROWN_DURING,Rice
+Kharif,GROWN_DURING,Summer
+Kharif,GROWN_DURING,June
+Kharif,GROWN_DURING,November
+Kharif,GROWN_DURING,Green Gram
+Rabi,GROWN_DURING,Sorghum
+Rabi,GROWN_DURING,April
+Rabi,GROWN_DURING,May
+Rabi,GROWN_DURING,Mid-November
+Rabi,REQUIRES,Irrigation
+Rabi,REQUIRES,Rainwater
+Zaid,GROWN_DURING,March
+Jammu And Kashmir,GROWN_IN,Paddy
+Jammu And Kashmir,GROWN_IN,Rice
+Jammu And Kashmir,GROWN_IN,Bajra
+Jammu And Kashmir,GROWN_IN,Wheat
+Jammu And Kashmir,GROWN_IN,Barley
+Jammu And Kashmir,GROWN_IN,Maize
+Jammu And Kashmir,GROWN_IN,Oilseeds
+Jammu And Kashmir,GROWN_IN,Pulses
+Jammu And Kashmir,GROWN_IN,Vegetables
+Jammu And Kashmir,GROWN_IN,Fodder
+Jammu And Kashmir,GROWN_IN,Ladakh
+Jammu And Kashmir,GROWN_IN,Jammu
+Jammu And Kashmir,GROWN_IN,India
+Jammu And Kashmir,GROWN_IN,Apple
+Jammu And Kashmir,GROWN_IN,Basmati Rice
+Jammu And Kashmir,GROWN_IN,Fruits
+Jammu And Kashmir,GROWN_IN,Rajmash
+Jammu And Kashmir,GROWN_IN,Potato
+Jammu And Kashmir,GROWN_IN,Red Rice
+Jammu And Kashmir,GROWN_IN,Walnut
+Jammu And Kashmir,GROWN_IN,Ginger
+Jammu And Kashmir,GROWN_IN,Turmeric
+Jammu And Kashmir,GROWN_IN,Saffron
+Jammu And Kashmir,GROWN_IN,Spices
+Jammu And Kashmir,GROWN_IN,Mango
+Jammu And Kashmir,GROWN_IN,Guava
+Jammu And Kashmir,GROWN_IN,Citrus
+Jammu And Kashmir,GROWN_IN,Jammu
+Jammu And Kashmir,GROWN_IN,Jammu
+Jammu And Kashmir,GROWN_IN,Kashmir
+Jammu And Kashmir,GROWN_IN,Almond
+Jammu And Kashmir,GROWN_IN,Litchi
+Jammu And Kashmir,GROWN_IN,Phalsa
+Jammu And Kashmir,GROWN_IN,Ber
+Jammu And Kashmir,GROWN_IN,Pear
+Jammu And Kashmir,GROWN_IN,Peach
+Jammu And Kashmir,GROWN_IN,Plum
+Jammu And Kashmir,GROWN_IN,Apricot
+Jammu And Kashmir,GROWN_IN,Cherry
+Jammu And Kashmir,GROWN_IN,Kashmir
+Jammu And Kashmir,GROWN_IN,Ladakh
+Jammu And Kashmir,GROWN_IN,Kashmir
+Jammu And Kashmir,AFFECTED_BY,Climate Change
+Jammu And Kashmir,AFFECTED_BY,Climate Change
+Jammu And Kashmir,AFFECTED_BY,Erratic Rainfall
+Jammu And Kashmir,DEPENDS_ON,Irrigation
+Jammu And Kashmir,DEPENDS_ON,Green Fodder
+Jammu And Kashmir,DEPENDS_ON,Green Fodder
+Jammu And Kashmir,DEPENDS_ON,Dry Fodder
+Jammu And Kashmir,DEPENDS_ON,Concentrate Feed
+Jammu And Kashmir,REQUIRES,Irrigation
+Oilseeds,GROWN_IN,Jammu And Kashmir
+Oilseeds,GROWN_IN,Punjab
+Oilseeds,GROWN_IN,India
+Oilseeds,GROWN_IN,Jammu And Kashmir
+Oilseeds,GROWN_IN,Adilabad
+Oilseeds,GROWN_IN,Punjab
+Oilseeds,GROWN_IN,Adilabad
+Oilseeds,GROWN_DURING,Jammu And Kashmir
+Oilseeds,GROWN_DURING,Jammu And Kashmir
+Pulses,GROWN_IN,Jammu And Kashmir
+Pulses,GROWN_IN,Punjab
+Pulses,GROWN_IN,India
+Pulses,GROWN_IN,Goa
+Pulses,GROWN_IN,Jammu And Kashmir
+Pulses,GROWN_IN,West Bengal
+Pulses,GROWN_IN,Irrigation Channels
+Pulses,GROWN_IN,Adilabad
+Pulses,GROWN_IN,Punjab
+Pulses,GROWN_IN,Adilabad
+Pulses,GROWN_DURING,Jammu And Kashmir
+Pulses,GROWN_DURING,Jammu And Kashmir
+Pulses,GROWN_DURING,Dryland Agriculture
+Pulses,GROWN_DURING,Dry Season
+Pulses,AFFECTED_BY,Leaf Miner
+Pulses,AFFECTED_BY,Lepidoptera
+Pulses,AFFECTED_BY,Leaf Cutter Bee
+Pulses,AFFECTED_BY,Lepidoptera
+Pulses,CONTROLLED_BY,Malathion 50 Ec
+Pulses,CONTROLLED_BY,Phosalone 50 Ec
+Pulses,CONTROLLED_BY,Dimethoate 30 Ec
+Pulses,CONTROLLED_BY,Endosulfan 35 Ec
+Pulses,CONTROLLED_BY,Pulse Revolution
+Pulses,DEPENDS_ON,High Yielding Variety Of Seeds
+Pulses,REQUIRES,Nutrient
+Vegetables,GROWN_IN,Jammu And Kashmir
+Vegetables,GROWN_IN,Punjab
+Vegetables,GROWN_IN,India
+Vegetables,GROWN_IN,Organic Certification
+Vegetables,GROWN_IN,Gujarat
+Vegetables,GROWN_IN,Kashmir
+Vegetables,GROWN_IN,Jammu And Kashmir
+Vegetables,GROWN_IN,West Bengal
+Vegetables,GROWN_IN,Kashmir
+Vegetables,GROWN_IN,Bandipora
+Vegetables,GROWN_IN,Punjab
+Vegetables,GROWN_IN,Kashmir
+Vegetables,GROWN_IN,North East Region
+Vegetables,GROWN_DURING,November
+Vegetables,GROWN_DURING,December
+Vegetables,GROWN_DURING,November
+Vegetables,AFFECTED_BY,Pesticides
+Vegetables,AFFECTED_BY,Postharvest Management
+Vegetables,AFFECTED_BY,Cold Chain Management
+Vegetables,CONTROLLED_BY,Agro-Climatic Suitability
+Vegetables,DEPENDS_ON,High Yielding Variety Of Seeds
+Vegetables,REQUIRES,Irrigation
+Vegetables,REQUIRES,Nitrogen Fertilizer
+Vegetables,REQUIRES,Irrigation
+Vegetables,REQUIRES,Nutrient
+Vegetables,PREVENTED_BY,Bacterial Load
+Fodder,GROWN_IN,Jammu And Kashmir
+Fodder,GROWN_IN,Kerala
+Fodder,GROWN_IN,Kerala
+Fodder,GROWN_IN,Jammu And Kashmir
+Fodder,REQUIRES,Feed
+Kashmir Valley,GROWN_IN,Apple
+Kashmir Valley,GROWN_DURING,Sub-Tropical
+Ladakh,GROWN_IN,Barley
+Food Grains,GROWN_IN,India
+Food Grains,AFFECTED_BY,Pesticides
+Food Grains,AFFECTED_BY,Agri Labourers
+Food Grains,AFFECTED_BY,Agri Workers
+Food Grains,AFFECTED_BY,Famine
+Food Grains,AFFECTED_BY,Famine
+Food Grains,CONTROLLED_BY,Organic Farming
+Food Grains,CONTROLLED_BY,Hermetic Storage
+Food Grains,REQUIRES,Irrigation
+Food Grains,REQUIRES,Soil
+Food Grains,REQUIRES,Fertilizers
+Food Grains,REQUIRES,Water
+Food Grains,REQUIRES,Water
+Food Grains,REQUIRES,Weather
+Food Grains,REQUIRES,Water
+Food Grains,REQUIRES,Water
+Food Grains,REQUIRES,Irrigation
+Food Grains,REQUIRES,Water
+Food Grains,REQUIRES,Land
+Irrigation,AFFECTED_BY,Waterlogging
+Irrigation,AFFECTED_BY,Double Monsoons
+Irrigation,CONTROLLED_BY,Rice
+Irrigation,CONTROLLED_BY,Summer Monsoons
+Irrigation,CONTROLLED_BY,Winter Monsoons
+Irrigation,DEPENDS_ON,Wheat
+Irrigation,DEPENDS_ON,Groundwater
+Irrigation,DEPENDS_ON,Weather
+Irrigation,REQUIRES,Water
+Irrigation,REQUIRES,Water
+Irrigation,REQUIRES,Water
+Irrigation,REQUIRES,Water
+Irrigation,REQUIRES,Water
+Irrigation,REQUIRES,Crops
+Economic Survey Of J&K 2014-15,AFFECTED_BY,Food Grains
+Soil,AFFECTED_BY,Fertilizers
+Soil,AFFECTED_BY,Bacteria
+Soil,AFFECTED_BY,Fungi
+Soil,AFFECTED_BY,Nematodes
+Soil,AFFECTED_BY,High Humidity
+Soil,AFFECTED_BY,Low Temperature
+Soil,AFFECTED_BY,High Soil Moisture
+Soil,AFFECTED_BY,High Soil Moisture
+Soil,AFFECTED_BY,Frequent Rainfall
+Soil,DEPENDS_ON,Gypsum
+Soil,DEPENDS_ON,Npk
+Soil,DEPENDS_ON,Rhizobium
+Soil,DEPENDS_ON,Nutrients
+Soil,DEPENDS_ON,Azospirillum
+Soil,DEPENDS_ON,Trichoderma Spp.
+Soil,DEPENDS_ON,Fym
+Soil,DEPENDS_ON,Borax
+Soil,DEPENDS_ON,Water
+Soil,DEPENDS_ON,Znso4
+Soil,DEPENDS_ON,Gypsum
+Soil,DEPENDS_ON,Trichoderma Spp.
+Soil,DEPENDS_ON,Water
+Soil,DEPENDS_ON,Organic Matter
+Soil,DEPENDS_ON,Azospirillum
+Soil,DEPENDS_ON,Znso4
+Soil,DEPENDS_ON,Azospirillum
+Soil,DEPENDS_ON,Npk
+Soil,DEPENDS_ON,Psb
+Soil,DEPENDS_ON,Azospirillum
+Soil,DEPENDS_ON,Micronutrient Mixture
+Soil,DEPENDS_ON,Mnso4
+Soil,DEPENDS_ON,Micronutrient Mixture
+Soil,DEPENDS_ON,Psb
+Soil,DEPENDS_ON,Borax
+Soil,DEPENDS_ON,Gypsum
+Soil,DEPENDS_ON,Psb
+Soil,DEPENDS_ON,Znso4
+Soil,DEPENDS_ON,Azospirillum
+Soil,DEPENDS_ON,Water
+Soil,DEPENDS_ON,Crop Residue
+Soil,DEPENDS_ON,Water
+Soil,DEPENDS_ON,Climate
+Soil,DEPENDS_ON,Organic Matter
+Soil,DEPENDS_ON,Water
+Soil,DEPENDS_ON,Trichoderma Spp.
+Soil,DEPENDS_ON,Trichoderma Spp.
+Soil,REQUIRES,Trichoderma
+Soil,REQUIRES,Trichoderma
+Soil,REQUIRES,Trichoderma
+Soil,REQUIRES,Trichoderma
+Soil,REQUIRES,Fym
+Soil,REQUIRES,Perlite
+Soil,REQUIRES,Cocopeat
+Soil,REQUIRES,Vermiculite
+Soil,REQUIRES,Trap Crop
+Soil,REQUIRES,Phosphorus
+Soil,REQUIRES,Zn
+Soil,REQUIRES,Fe
+Soil,REQUIRES,Nitrogen
+Soil,REQUIRES,Organic Manure
+Soil,REQUIRES,Magnesium
+Soil,REQUIRES,Trichoderma
+Soil,REQUIRES,Nitrogen
+Soil,REQUIRES,S. Asiatica
+Soil,REQUIRES,S. Densiflora
+Soil,REQUIRES,Trichoderma
+Soil,REQUIRES,Trap Crop
+Soil,REQUIRES,Trichoderma
+Soil,HAS_SYMPTOM,Black Rot
+Soil,HAS_SYMPTOM,Tomato Mosaic Virus
+Soil,HAS_SYMPTOM,Nutrient
+Conservation Agriculture,PREVENTED_BY,Ghg Emission
+Gypsum,AFFECTED_BY,Soil Moisture
+Gypsum,CONTROLLED_BY,Punjab
+Gypsum,CONTROLLED_BY,Fym
+Gypsum,CONTROLLED_BY,Sodicity
+Gypsum,CONTROLLED_BY,Punjab
+Gypsum,REQUIRES,Sugarcane
+Gypsum,REQUIRES,Soil
+Gypsum,REQUIRES,Soil Health
+Gypsum,REQUIRES,Sulphur
+Gypsum,REQUIRES,Calcium
+Gypsum,REQUIRES,Sulphur
+Gypsum,REQUIRES,Calcareous Soils
+Gypsum,REQUIRES,Sulphur
+Gypsum,PREVENTED_BY,Sarocladium Oryzae
+Sodic Soils,GROWN_IN,Karur District
+Sodic Soils,AFFECTED_BY,Untreated Distillery Effluent
+Sodic Soils,CONTROLLED_BY,Gypsum
+Sodic Soils,CONTROLLED_BY,Gypsum
+Sodic Soils,CONTROLLED_BY,Gypsum
+Sodic Soils,CONTROLLED_BY,Coir Dust
+Sodic Soils,CONTROLLED_BY,Phosphogypsum
+Sodic Soils,CONTROLLED_BY,Iron Pyrites
+Sodic Soils,CONTROLLED_BY,Elemental Sulphur
+Sodic Soils,CONTROLLED_BY,Press-Mud
+Sodic Soils,CONTROLLED_BY,Farmyard Manure
+Sodic Soils,CONTROLLED_BY,Coir Dust
+Sodic Soils,CONTROLLED_BY,Green Manures
+Sodic Soils,REQUIRES,Saline Soils
+Npk,REQUIRES,Rice
+Npk,REQUIRES,Pearl Millet
+Npk,REQUIRES,Sorghum
+Npk,REQUIRES,Soil
+Npk,REQUIRES,Fym
+Npk,REQUIRES,Soil Moisture
+Pesticides,AFFECTED_BY,Soil
+Pesticides,CONTROLLED_BY,Gypsum
+Pesticides,CONTROLLED_BY,Herbicides
+Pesticides,CONTROLLED_BY,Fungicides
+Pesticides,CONTROLLED_BY,Insecticides
+Pesticides,CONTROLLED_BY,Fertilizers
+Pesticides,CONTROLLED_BY,Fssai
+Pesticides,CONTROLLED_BY,Synthetic Fertilizers
+Pesticides,CONTROLLED_BY,Public Sector
+Pesticides,CONTROLLED_BY,Farmers
+Pesticides,CONTROLLED_BY,Cibrc
+Pesticides,CONTROLLED_BY,Fssai
+Pesticides,CONTROLLED_BY,Cibrc
+Pesticides,CONTROLLED_BY,Sprayers
+Pesticides,CONTROLLED_BY,Agrochemical
+Pesticides,CONTROLLED_BY,Chemical Spraying Equipment
+Pesticides,REQUIRES,Wheat
+Pesticides,REQUIRES,Fertilizers
+Pesticides,REQUIRES,Tomato
+Pesticides,REQUIRES,Capsicum
+Pesticides,REQUIRES,Cabbage
+Pesticides,REQUIRES,Cauliflower
+Pesticides,REQUIRES,Knolkhol
+Pesticides,REQUIRES,High Yielding Varieties Of Seeds
+Pesticides,REQUIRES,High Yielding Varieties Of Seeds
+Pesticides,PREVENTED_BY,Natural Enemies
+Pesticides,PREVENTED_BY,Natural Enemy
+Fertilizer,AFFECTED_BY,Tnau Mn Mixture
+Fertilizer,CONTROLLED_BY,India
+Fertilizer,CONTROLLED_BY,Carbendazim
+Fertilizer,CONTROLLED_BY,Azospirillum
+Fertilizer,CONTROLLED_BY,Trichoderma Viride
+Fertilizer,CONTROLLED_BY,Trichoderma Viride
+Fertilizer,CONTROLLED_BY,Dap
+Fertilizer,CONTROLLED_BY,Thiram
+Fertilizer,CONTROLLED_BY,Trichoderma Viride
+Fertilizer,CONTROLLED_BY,Azospirillum
+Fertilizer,CONTROLLED_BY,Phosphobacteria
+Fertilizer,CONTROLLED_BY,Azophos
+Fertilizer,CONTROLLED_BY,Kcl
+Fertilizer,CONTROLLED_BY,Azospirillum
+Fertilizer,CONTROLLED_BY,Phosphobacteria
+Fertilizer,CONTROLLED_BY,Kcl
+Fertilizer,CONTROLLED_BY,Azospirillum
+Fertilizer,CONTROLLED_BY,Phosphobacteria
+Fertilizer,CONTROLLED_BY,Azophos
+Fertilizer,CONTROLLED_BY,Azophos
+Fertilizer,CONTROLLED_BY,Trichoderma Viride
+Fertilizer,CONTROLLED_BY,Dap
+Fertilizer,CONTROLLED_BY,Mgso4
+Fertilizer,CONTROLLED_BY,Azospirillum
+Fertilizer,CONTROLLED_BY,Phosphobacteria
+Fertilizer,REQUIRES,Vegetables
+Fertilizer,REQUIRES,Soil
+Fertilizer,REQUIRES,Npk
+Fertilizer,REQUIRES,Tomato
+Fertilizer,REQUIRES,Capsicum
+Fertilizer,REQUIRES,Phosphorus
+Fertilizer,REQUIRES,Cabbage
+Fertilizer,REQUIRES,Cauliflower
+Fertilizer,REQUIRES,Knolkhol
+Fertilizer,REQUIRES,Nitrogen
+Fertilizer,REQUIRES,Potassium
+Fertilizer,REQUIRES,Zinc
+Fertilizer,REQUIRES,Nitrogen
+Fertilizer,REQUIRES,Crops
+Jammu Region,GROWN_IN,Basmati Rice
+Punjab,GROWN_IN,Paddy
+Punjab,GROWN_IN,Rice
+Punjab,GROWN_IN,Cotton
+Punjab,GROWN_IN,Wheat
+Punjab,GROWN_IN,Maize
+Punjab,GROWN_IN,Sugarcane
+Punjab,GROWN_IN,Oilseeds
+Punjab,GROWN_IN,Pulses
+Punjab,GROWN_IN,Vegetables
+Punjab,GROWN_IN,Food Grains
+Punjab,GROWN_IN,India
+Punjab,GROWN_IN,Fruits
+Punjab,GROWN_IN,Potato
+Punjab,GROWN_IN,Spices
+Punjab,GROWN_IN,Cucumber
+Punjab,GROWN_IN,Peas
+Punjab,GROWN_IN,Groundnut
+Punjab,GROWN_IN,Livestock
+Punjab,GROWN_IN,Jute
+Punjab,GROWN_IN,Sugar Cane
+Punjab,GROWN_IN,Poultry
+Punjab,GROWN_IN,Fish
+Punjab,GROWN_IN,Milk
+Punjab,GROWN_IN,Eggs
+Punjab,GROWN_IN,Radish
+Punjab,GROWN_IN,Cabbage
+Punjab,GROWN_IN,Cauliflower
+Punjab,GROWN_IN,Poultry
+Punjab,GROWN_IN,Honey
+Punjab,GROWN_IN,Tobacco
+Punjab,GROWN_IN,Carrots
+Punjab,GROWN_IN,Poultry
+Punjab,GROWN_IN,Shrimp
+Punjab,GROWN_IN,Plantation Crops
+Punjab,GROWN_IN,Milk
+Punjab,GROWN_IN,Basmati
+Punjab,GROWN_IN,Shrimp
+Punjab,GROWN_IN,Land
+Punjab,GROWN_IN,Kinnow
+Punjab,GROWN_IN,Jute Products
+Punjab,GROWN_IN,Fish
+Punjab,GROWN_IN,Pears
+Punjab,GROWN_IN,Honey
+Punjab,GROWN_IN,Buffalo Meat
+Punjab,GROWN_IN,Fruit
+Punjab,GROWN_IN,Peaches
+Punjab,GROWN_IN,Fresh Water Fish
+Punjab,GROWN_DURING,Paddy
+Punjab,GROWN_DURING,Wheat
+Punjab,GROWN_DURING,Maize
+Punjab,GROWN_DURING,Green Revolution
+Punjab,GROWN_DURING,2016-17
+Punjab,GROWN_DURING,1990S
+Punjab,GROWN_DURING,Green Revolution
+Punjab,GROWN_DURING,Brackishwater
+Punjab,GROWN_DURING,2011-12
+Punjab,GROWN_DURING,2010-11
+Punjab,GROWN_DURING,2017-18
+Punjab,GROWN_DURING,2018-19
+Punjab,GROWN_DURING,2002
+Punjab,GROWN_DURING,2007-08
+Punjab,GROWN_DURING,1970S
+Punjab,GROWN_DURING,1980S
+Punjab,GROWN_DURING,2023-24
+Punjab,GROWN_DURING,2024-25
+Punjab,GROWN_DURING,2047
+Punjab,AFFECTED_BY,98%
+Punjab,AFFECTED_BY,191.7%
+Punjab,CONTROLLED_BY,Chickpea
+Punjab,CONTROLLED_BY,Irrigation
+Punjab,CONTROLLED_BY,Pesticides
+Punjab,CONTROLLED_BY,Tractor
+Punjab,CONTROLLED_BY,Irrigation
+Punjab,CONTROLLED_BY,Submersible Pumps
+Punjab,DEPENDS_ON,Agrochemicals
+Punjab,DEPENDS_ON,Water
+Punjab,DEPENDS_ON,Water
+Punjab,DEPENDS_ON,Water
+Punjab,DEPENDS_ON,Water
+Punjab,DEPENDS_ON,Water
+Punjab,DEPENDS_ON,Irrigation Ratio
+Punjab,DEPENDS_ON,Terms Of Trade Between Agriculture And Industry
+Punjab,DEPENDS_ON,Surfaced Road Density
+Punjab,DEPENDS_ON,Usd 10.09 Billion
+Punjab,REQUIRES,Irrigation
+Punjab,REQUIRES,Fertilizer
+Punjab,REQUIRES,Irrigation Water
+Punjab,REQUIRES,Irrigation
+Punjab,REQUIRES,Insect Repellent
+Punjab,HAS_SYMPTOM,Chandigarh
+Haryana,GROWN_IN,Paddy
+Haryana,GROWN_IN,Rice
+Haryana,GROWN_IN,Cotton
+Haryana,GROWN_IN,Food Grains
+Haryana,GROWN_IN,Pesticides
+Haryana,GROWN_IN,India
+Haryana,GROWN_DURING,Brackishwater
+Haryana,CONTROLLED_BY,Chickpea
+Haryana,CONTROLLED_BY,Pesticides
+Haryana,HAS_SYMPTOM,Salt-Affected Soils
+India,GROWN_DURING,1991
+India,GROWN_DURING,1990S
+India,GROWN_DURING,2013-14
+India,GROWN_DURING,1966-1967
+India,GROWN_DURING,1967-68
+India,GROWN_DURING,1970-71
+India,GROWN_DURING,1982-81
+India,GROWN_DURING,1990-91
+India,GROWN_DURING,2004-2005
+India,GROWN_DURING,2006-2007
+India,AFFECTED_BY,San Jose Scale
+India,AFFECTED_BY,Cottony Cushion Scale
+India,AFFECTED_BY,Woolly Aphid
+India,AFFECTED_BY,Golden Cyst Nematode
+India,DEPENDS_ON,Urea
+India,DEPENDS_ON,Water
+India,DEPENDS_ON,Phosphorus
+India,DEPENDS_ON,Water
+India,DEPENDS_ON,Potassium
+India,DEPENDS_ON,Water
+India,DEPENDS_ON,Rainy Days
+India,DEPENDS_ON,Water
+India,DEPENDS_ON,Monsoon Rainfall
+India,DEPENDS_ON,Water
+India,DEPENDS_ON,Nitrogen-Based Fertilizers
+India,DEPENDS_ON,Phosphorus
+India,REQUIRES,Certified Seeds
+India,GROWN_IN,Rice
+India,GROWN_IN,Cotton
+India,GROWN_IN,Sorghum
+India,GROWN_IN,Wheat
+India,GROWN_IN,Sugarcane
+India,GROWN_IN,Kharif
+India,GROWN_IN,Rabi
+India,GROWN_IN,Zaid
+India,GROWN_IN,Pulses
+India,GROWN_IN,Vegetables
+India,GROWN_IN,Pesticides
+India,GROWN_IN,Basmati Rice
+India,GROWN_IN,Herbicides
+India,GROWN_IN,Fungicides
+India,GROWN_IN,Insecticides
+India,GROWN_IN,Fisheries
+India,GROWN_IN,Fruits
+India,GROWN_IN,Spices
+India,GROWN_IN,Bio-Pesticides
+India,GROWN_IN,Mustard
+India,GROWN_IN,Fisheries
+India,GROWN_IN,Tea
+India,GROWN_IN,Coffee
+India,GROWN_IN,Aquaculture
+India,GROWN_IN,Fish
+India,GROWN_IN,Milk
+India,GROWN_IN,Edible Oils
+India,GROWN_IN,Black Tea
+India,GROWN_IN,Sugar
+India,GROWN_IN,Sugar
+India,GROWN_IN,Helminthosporium Oryzae
+India,GROWN_IN,Crop Diversity
+India,GROWN_IN,Indo-Gangetic Plain
+India,GROWN_IN,Alluvial Soils
+India,GROWN_IN,Black Soils
+India,GROWN_IN,Lateritic Soils
+India,GROWN_IN,Milk
+India,GROWN_IN,Ganga
+India,GROWN_IN,Ganga
+India,GROWN_IN,Ganga
+India,GROWN_IN,Aquaculture
+India,GROWN_IN,Fertilizer Control Order
+India,GROWN_IN,Comprehensive Marine Fisheries Policy
+India,GROWN_IN,Seed Bill
+India,GROWN_IN,Coastal Aquaculture Authority Act
+India,GROWN_IN,Nutrient-Based Subsidy For Fertilizers
+India,GROWN_IN,National Agroforestry Policy
+India,GROWN_IN,National Policy On Marine Fisheries
+India,GROWN_IN,National Mariculture Policy
+India,GROWN_IN,Inland Fisheries And Aquaculture Policy
+India,GROWN_IN,National Policy For Fisheries
+India,GROWN_IN,Pesticide Management Bill
+India,GROWN_IN,Millet
+India,GROWN_IN,Fish
+India,GROWN_IN,Non-Basmati Rice
+India,GROWN_IN,Vegetable Oils
+India,GROWN_IN,Animal Or Vegetable Fats And Oils
+India,GROWN_IN,Groundnut Seed
+India,GROWN_IN,Soybean Meal
+Apple,GROWN_IN,India
+Apple,GROWN_IN,Tamil Nadu
+Apple,GROWN_IN,Tamil Nadu
+Apple,GROWN_IN,Bandipora
+Apple,GROWN_IN,Northern India
+Apple,AFFECTED_BY,Pesticides
+Apple,AFFECTED_BY,Apple Scab
+Apple,AFFECTED_BY,Woolly Aphids
+Apple,CONTROLLED_BY,Encarsia Perniciosi
+Apple,CONTROLLED_BY,Aphytis Aonidiae
+Apple,CONTROLLED_BY,Aphytis Vandenboschi
+Basmati Rice,GROWN_IN,Jammu And Kashmir
+Basmati Rice,GROWN_IN,India
+Basmati Rice,GROWN_IN,Jammu And Kashmir
+Basmati Rice,GROWN_IN,R.S Pora
+Basmati Rice,GROWN_IN,Rajmesh
+Basmati Rice,GROWN_DURING,Kharif
+Basmati Rice,REQUIRES,Herbicides
+Herbicides,AFFECTED_BY,Soil
+Herbicides,CONTROLLED_BY,Weed Management
+Herbicides,CONTROLLED_BY,Wick Applicator
+Herbicides,PREVENTED_BY,Spraying
+Fungicides,AFFECTED_BY,Soil
+Fungicides,CONTROLLED_BY,Integrated Pest Management (Ipm)
+Fungicides,CONTROLLED_BY,Brown Spot
+Fungicides,PREVENTED_BY,Spraying
+Fungicides,PREVENTED_BY,Fungi
+Fungicides,PREVENTED_BY,Fungi
+Insecticides,AFFECTED_BY,Soil
+Insecticides,REQUIRES,Tomato
+Insecticides,REQUIRES,Capsicum
+Insecticides,REQUIRES,Cabbage
+Insecticides,REQUIRES,Cauliflower
+Insecticides,REQUIRES,Knolkhol
+Insecticides,PREVENTED_BY,Spraying
+Integrated Pest Management,CONTROLLED_BY,Pesticides
+Integrated Pest Management,CONTROLLED_BY,Economic Threshold Level
+Integrated Pest Management,CONTROLLED_BY,Economic Injury Level
+Integrated Pest Management,CONTROLLED_BY,Economic Threshold Level
+Integrated Pest Management,CONTROLLED_BY,Economic Injury Level
+Integrated Pest Management,CONTROLLED_BY,Natural Enemies
+Integrated Pest Management,DEPENDS_ON,Agro-Ecosystem Analysis
+Integrated Pest Management,REQUIRES,Economic Threshold Level
+Integrated Pest Management,REQUIRES,Economic Injury Level
+Integrated Pest Management,REQUIRES,Economic Threshold Level
+Integrated Pest Management,REQUIRES,Economic Injury Level
+Integrated Pest Management,REQUIRES,Good Agricultural Practices
+Integrated Pest Management,REQUIRES,Biopesticides
+Integrated Pest Management,REQUIRES,Natural Enemies
+Integrated Pest Management,REQUIRES,Advanced Monitoring And Early Detection Systems
+Integrated Pest Management,REQUIRES,Predatory Insects
+Integrated Pest Management,REQUIRES,Resistant Varieties
+Integrated Nutrient Management,REQUIRES,Soil
+Sustainable Agriculture,REQUIRES,Soil
+Sustainable Agriculture,REQUIRES,Financial Investments
+Sustainable Agriculture,REQUIRES,Biological Inputs
+Chemical Fertilizers,AFFECTED_BY,Soil
+Chemical Fertilizers,CONTROLLED_BY,Public Sector
+Chemical Fertilizers,REQUIRES,High Yielding Varieties Of Seeds
+Chemical Fertilizers,REQUIRES,High Yielding Varieties Of Seeds
+Rhizobium,DEPENDS_ON,Pulses
+Rhizobium,REQUIRES,Seed Treatment
+Shahpurkandi Dam Project,AFFECTED_BY,Irrigation
+Kandi Areas,GROWN_IN,Vegetables
+Ladakh Region,GROWN_IN,Vegetables
+Samba,GROWN_IN,Rice
+Kathua,GROWN_IN,Barley
+Kathua,GROWN_IN,Potato
+Kathua,GROWN_IN,Garlic
+Kathua,GROWN_IN,Mustard
+Kathua,GROWN_IN,Rapeseed
+Kathua,AFFECTED_BY,Rainfed Agriculture
+Kathua,AFFECTED_BY,Community Ponds
+Kathua,CONTROLLED_BY,Dairy Farming
+Kathua,CONTROLLED_BY,Goat Farming
+Kathua,CONTROLLED_BY,Sheep Farming
+Kathua,CONTROLLED_BY,Poultry Farming
+Kathua,DEPENDS_ON,Sandy Loam
+Kathua,DEPENDS_ON,Clay Loam
+Kathua,DEPENDS_ON,Silty Loam
+Animal Husbandry,AFFECTED_BY,Green Revolution
+Animal Husbandry,AFFECTED_BY,Green Revolution
+Fisheries,GROWN_IN,India
+Fisheries,GROWN_IN,Goa
+Horticulture,GROWN_IN,India
+Integrated Organic Farming System (Iofs),REQUIRES,Oilseeds
+Integrated Organic Farming System (Iofs),REQUIRES,Pulses
+Integrated Organic Farming System (Iofs),REQUIRES,Fodder
+Integrated Organic Farming System (Iofs),REQUIRES,Cereals
+Integrated Organic Farming System (Iofs),REQUIRES,Fruits
+Cereals,GROWN_IN,India
+Fruits,GROWN_IN,Punjab
+Fruits,GROWN_IN,India
+Fruits,GROWN_IN,Organic Certification
+Fruits,GROWN_IN,Gujarat
+Fruits,GROWN_IN,Kashmir
+Fruits,GROWN_IN,Kashmir
+Fruits,GROWN_IN,Punjab
+Fruits,GROWN_IN,Kashmir
+Fruits,GROWN_IN,North East Region
+Fruits,GROWN_DURING,November
+Fruits,GROWN_DURING,December
+Fruits,GROWN_DURING,November
+Fruits,DEPENDS_ON,High Yielding Variety Of Seeds
+Fruits,REQUIRES,Nutrient
+Agro-Ecosystem,GROWN_IN,India
+Rajmash,CONTROLLED_BY,Maize
+Potato,GROWN_IN,Jammu And Kashmir
+Potato,GROWN_IN,Soil
+Potato,GROWN_IN,Punjab
+Potato,GROWN_IN,India
+Potato,GROWN_IN,Bihar
+Potato,GROWN_IN,Jammu And Kashmir
+Potato,GROWN_IN,South Tripura
+Potato,GROWN_IN,West Bengal
+Potato,GROWN_IN,U.P.
+Potato,GROWN_IN,Indo-Gangetic Plains
+Potato,GROWN_IN,Punjab
+Potato,GROWN_IN,Bugam Batpora
+Potato,GROWN_DURING,Kharif
+Potato,GROWN_DURING,Rabi
+Potato,GROWN_DURING,Irrigation
+Potato,GROWN_DURING,Season
+Potato,GROWN_DURING,November-December
+Potato,AFFECTED_BY,Irrigation
+Potato,AFFECTED_BY,Pests
+Potato,AFFECTED_BY,Brown Rot
+Potato,AFFECTED_BY,Early Blight
+Potato,AFFECTED_BY,Alternaria Solani
+Potato,AFFECTED_BY,Late Blight
+Potato,AFFECTED_BY,Alternaria Solani
+Potato,CONTROLLED_BY,Potato Digger Elevator
+Potato,DEPENDS_ON,Water
+Potato,DEPENDS_ON,Water
+Potato,REQUIRES,Irrigation
+Ginger,GROWN_IN,India
+Ginger,GROWN_IN,Kerala
+Ginger,GROWN_IN,Kerala
+Ginger,GROWN_IN,Manipur
+Ginger,GROWN_IN,Sikkim
+Ginger,GROWN_IN,Turmic
+Ginger,GROWN_IN,North East Region
+Ginger,AFFECTED_BY,Fusarium Wilt
+Ginger,AFFECTED_BY,Bacterial Wilt
+Ginger,AFFECTED_BY,Rhizome Fly
+Turmeric,GROWN_IN,India
+Turmeric,GROWN_IN,Kerala
+Turmeric,GROWN_IN,Kerala
+Turmeric,GROWN_IN,Manipur
+Turmeric,GROWN_IN,Sikkim
+Turmeric,GROWN_IN,U.P.
+Turmeric,GROWN_IN,Coconut Gardens
+Turmeric,GROWN_IN,North East Region
+Turmeric,CONTROLLED_BY,Pests
+Saffron,GROWN_IN,Jammu And Kashmir
+Saffron,GROWN_IN,India
+Saffron,GROWN_IN,Jammu And Kashmir
+Saffron,GROWN_IN,Pulwama
+Saffron,GROWN_DURING,October
+Saffron,GROWN_DURING,November
+Saffron,CONTROLLED_BY,Fusarium Oxysporum F. Sp. Gladioli
+Saffron,REQUIRES,Urea
+Saffron,REQUIRES,N
+Saffron,REQUIRES,Clay Loam
+Saffron,REQUIRES,Diammonium Phosphate
+Saffron,REQUIRES,Murate Of Potash
+Saffron,REQUIRES,Farm Yard Manure
+Spices,GROWN_IN,Punjab
+Spices,GROWN_IN,India
+Spices,GROWN_IN,Gujarat
+Spices,GROWN_IN,West Bengal
+Spices,GROWN_IN,North East Region
+Spices,CONTROLLED_BY,Bordeaux Mixture
+Spices,CONTROLLED_BY,Quinalphos
+Organic Farming,GROWN_IN,Zero Tillage
+Organic Farming,AFFECTED_BY,Agricultural Extension
+Organic Farming,CONTROLLED_BY,Nutrients
+Organic Farming,CONTROLLED_BY,Natural Fertilizer
+Organic Farming,CONTROLLED_BY,Natural Pesticide
+Organic Farming,CONTROLLED_BY,Pagrexco
+Organic Farming,REQUIRES,Soil
+Organic Farming,REQUIRES,Animal Husbandry
+Organic Farming,REQUIRES,Water
+Organic Farming,REQUIRES,Water
+Organic Farming,REQUIRES,Plant Nutrition
+Organic Farming,REQUIRES,Network Project On Organic Farming (Npof)
+Organic Farming,PREVENTED_BY,Chemical Fertilizers
+Organic Farming,PROMOTES,Crop Diversification
+Climate Change,AFFECTED_BY,India
+Climate Change,AFFECTED_BY,Jammu & Kashmir
+Climate Change,AFFECTED_BY,Jammu & Kashmir
+Climate Change,AFFECTED_BY,Agriculture
+Climate Change,AFFECTED_BY,Jammu & Kashmir
+Climate Change,AFFECTED_BY,Uttarakhand
+Climate Change,AFFECTED_BY,Uttarakhand
+Climate Change,AFFECTED_BY,Biotic Stresses
+Climate Change,AFFECTED_BY,Abiotic Stresses
+Climate Change,AFFECTED_BY,Indigenous Vegetables
+Climate Change,AFFECTED_BY,Agrochemical
+Climate Change,AFFECTED_BY,Natural Disasters
+Nutrients,REQUIRES,Fertilizer
+Rice Stem Borer,AFFECTED_BY,Pests
+Brinjal Fruit Borer,AFFECTED_BY,Pests
+Caseworm,AFFECTED_BY,Pests
+Caseworm,AFFECTED_BY,Draining Of Fields
+Mango Stem Borer,AFFECTED_BY,Pests
+Red Hairy Caterpillar,GROWN_IN,Indo-Gangetic Plains
+Red Hairy Caterpillar,AFFECTED_BY,Pesticides
+Red Hairy Caterpillar,AFFECTED_BY,Pests
+Red Hairy Caterpillar,CONTROLLED_BY,Malathion
+Red Hairy Caterpillar,CONTROLLED_BY,Endosulfan
+Red Hairy Caterpillar,CONTROLLED_BY,Dichlorvos
+Mango Hoppers,AFFECTED_BY,Pests
+Mango Hoppers,AFFECTED_BY,Ddvp
+Mango Hoppers,AFFECTED_BY,Carbofuran
+Mango Hoppers,AFFECTED_BY,Monocrotophos
+Mango Hoppers,AFFECTED_BY,Carbofuran
+Mango Hoppers,AFFECTED_BY,Methyl Parathion 50 Ec
+Mango Hoppers,CAUSES,Chaetothyrium Mangiferae
+Chilli Thrips,AFFECTED_BY,Pests
+Mealy Bug,AFFECTED_BY,Pests
+Mealy Bug,AFFECTED_BY,Methyl Parathion
+Mealy Bug,AFFECTED_BY,Chlorpyriphos
+Mealy Bug,CONTROLLED_BY,Carbaryl
+Mealy Bug,CONTROLLED_BY,Monocrotophos
+Mealy Bug,CONTROLLED_BY,Beauveria Bassiana
+Mealy Bug,CONTROLLED_BY,Beauveria Bassiana
+Coconut Slug Caterpillar,AFFECTED_BY,Pests
+Brown Plant Hopper,AFFECTED_BY,Pests
+Brown Plant Hopper,AFFECTED_BY,Pesticide
+Brown Plant Hopper,CONTROLLED_BY,Imidacloprid
+Brown Plant Hopper,CONTROLLED_BY,Monocrotophos
+Brown Plant Hopper,CONTROLLED_BY,Phosphamidon
+Brown Plant Hopper,CONTROLLED_BY,Fenthinon
+Rice Gall Midge,AFFECTED_BY,Pests
+Fertilizers,CONTROLLED_BY,Green Revolution
+Fertilizers,DEPENDS_ON,Npk
+Fertilizers,DEPENDS_ON,Npk
+Fertilizers,REQUIRES,High Yielding Varieties
+Fertilizers,REQUIRES,High Yielding Varieties
+Fertilizers,REQUIRES,Indian Soil
+Kerala,GROWN_IN,Rice
+Kerala,GROWN_IN,Vegetables
+Kerala,GROWN_IN,Coconut
+Kerala,GROWN_IN,Brinjal
+Kerala,GROWN_IN,Tomato
+Kerala,GROWN_IN,Lettuce
+Kerala,GROWN_IN,Broccoli
+Kerala,GROWN_IN,Spinach
+Kerala,GROWN_IN,Mint
+Kerala,GROWN_IN,Ladies Finger
+Kerala,GROWN_DURING,Brackishwater
+Integrated Pest Management (Ipm),CONTROLLED_BY,Pesticides
+Integrated Pest Management (Ipm),REQUIRES,Pest
+Integrated Disease Management (Idm),CONTROLLED_BY,Pesticides
+Integrated Pest And Disease Management (Ipdm),CONTROLLED_BY,Pesticides
+Protected Cultivation,GROWN_IN,Cowpea
+Protected Cultivation,GROWN_IN,Tomato
+Protected Cultivation,GROWN_IN,Capsicum
+Protected Cultivation,GROWN_IN,Salad Cucumber
+Protected Cultivation,REQUIRES,Soil
+Protected Cultivation,REQUIRES,Fertilizers
+Hydroponics,REQUIRES,Fertilizers
+Hydroponics,REQUIRES,Fertigation
+Hydroponics,REQUIRES,Fertigation
+Aquaponics,REQUIRES,Fertilizers
+Neem Oil,CONTROLLED_BY,Pests
+Neem Oil,CONTROLLED_BY,Whitefly
+Neem Oil,CONTROLLED_BY,Insect Pests
+Neem Oil,CONTROLLED_BY,Integrated Farming System
+Neem Oil,CONTROLLED_BY,Orosius Albicinctus
+Bordeaux Mixture,CONTROLLED_BY,Pests
+Bordeaux Mixture,CONTROLLED_BY,Sclerotia
+Bordeaux Mixture,CONTROLLED_BY,Post-Emergence Damping Off
+Bordeaux Mixture,REQUIRES,Copper Sulphate
+Bordeaux Mixture,REQUIRES,Quick Lime
+Bordeaux Mixture,PREVENTED_BY,Disease
+Panchagavya,REQUIRES,Nutrients
+Panchagavya,REQUIRES,Cow Dung
+Panchagavya,REQUIRES,Cow Ghee
+Panchagavya,REQUIRES,Cow'S Urine
+Panchagavya,REQUIRES,Cow Milk
+Panchagavya,REQUIRES,Cow'S Curd
+Panchagavya,REQUIRES,Tender Coconut Water
+Panchagavya,REQUIRES,Jaggery
+Panchagavya,REQUIRES,Cattle
+Panchagavya,REQUIRES,Cattle
+Panchagavya,REQUIRES,Cattle
+Dasagavya,REQUIRES,Nutrients
+Dasagavya,REQUIRES,Azadirachta Indica
+Dasagavya,REQUIRES,Calotropis Sp
+Dasagavya,REQUIRES,Tephrosia Purpurea
+Dasagavya,REQUIRES,Vitex Negundo
+Dasagavya,REQUIRES,Datura Metel
+Dasagavya,REQUIRES,Jatropha Curcas
+Dasagavya,REQUIRES,Adathoda Vasica
+Dasagavya,REQUIRES,Pongamia Pinnata
+Fish Amino Acid,REQUIRES,Nutrients
+Egg Amino Acid,REQUIRES,Nutrients
+Trichoderma,CONTROLLED_BY,Pests
+Trichoderma,CONTROLLED_BY,Cowdung
+Trichoderma,CONTROLLED_BY,Neemcake
+Trichoderma,CONTROLLED_BY,Fym
+Trichoderma,CONTROLLED_BY,Seed Treatment
+Trichoderma,CONTROLLED_BY,Biopesticides
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Biofungicide
+Trichoderma,REQUIRES,Soil
+Trichoderma,REQUIRES,Nutrients
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Nitrogen-Use Efficiency
+Trichoderma,REQUIRES,Photosynthetic Efficiency
+Pseudomonas,CONTROLLED_BY,Pests
+Pseudomonas,CONTROLLED_BY,Integrated Disease Management
+Pseudomonas,CONTROLLED_BY,Beauvaria Bassiana
+Pseudomonas,CONTROLLED_BY,Coc
+Pseudomonas,CONTROLLED_BY,Metarrhizium
+Pseudomonas,CONTROLLED_BY,Beauvaria Bassiana
+Bio-Fertilizers,CONTROLLED_BY,Plant Nutrition
+Mycorrhizae,REQUIRES,Soil Health
+Integrated Pest And Disease Management,AFFECTED_BY,Pests
+Integrated Pest And Disease Management,AFFECTED_BY,Diseases
+Pests,AFFECTED_BY,Pesticides
+Pests,AFFECTED_BY,Bacteria
+Pests,AFFECTED_BY,Pesticide
+Pests,AFFECTED_BY,Corn
+Pests,AFFECTED_BY,Fungi
+Pests,AFFECTED_BY,Viruses
+Pests,AFFECTED_BY,Beneficial Insects
+Pests,CONTROLLED_BY,Herbicides
+Pests,CONTROLLED_BY,Insecticides
+Pests,CONTROLLED_BY,Integrated Pest Management
+Pests,CONTROLLED_BY,Integrated Pest Management (Ipm)
+Pests,CONTROLLED_BY,Biological Control
+Pests,CONTROLLED_BY,Cultural Control
+Pests,CONTROLLED_BY,Chemical Control
+Pests,REQUIRES,Maximum Residue Limits
+Pests,PREVENTED_BY,Quarantine
+Pests,PREVENTED_BY,Sanitation
+Diseases,AFFECTED_BY,Pesticides
+Diseases,AFFECTED_BY,Integrated Pest Management
+Diseases,CONTROLLED_BY,Integrated Pest Management (Ipm)
+Plant Health,AFFECTED_BY,Abiotic Factors
+Food Safety,DEPENDS_ON,Plant Health
+Food Security,AFFECTED_BY,Climate Variability
+Food Security,AFFECTED_BY,Soil Quality
+Food Security,AFFECTED_BY,Irrigation Infrastructure
+Food Security,DEPENDS_ON,Plant Health
+Insects,AFFECTED_BY,Pesticides
+Insects,AFFECTED_BY,Integrated Pest Management
+Insects,AFFECTED_BY,Aluminium Phosphide
+Insects,AFFECTED_BY,Methyl Bromide
+Insects,AFFECTED_BY,Edct Mixture
+Insects,AFFECTED_BY,Magnesium Phosphide Plates
+Insects,AFFECTED_BY,Phosphine
+Insects,CONTROLLED_BY,Biological Control
+Fungus,DEPENDS_ON,Infected Plant Tissues
+Fungus,CAUSES,Disease
+Mycoplasma,CAUSES,Yellowing
+Plant Pathology,AFFECTS,Diseases
+Chlorosis,AFFECTED_BY,Low Temperature
+Damping Off,AFFECTED_BY,Rhizoctonia Solani
+Damping Off,AFFECTED_BY,Sucking Pests
+Thrips,AFFECTED_BY,Cotton
+Thrips,AFFECTED_BY,Mango
+Thrips,AFFECTED_BY,Pesticide
+Thrips,AFFECTED_BY,Tomatoes
+Thrips,AFFECTED_BY,Chili
+Thrips,AFFECTED_BY,Temperature
+Thrips,AFFECTED_BY,Rnai
+Thrips,AFFECTED_BY,Rnai
+Thrips,AFFECTED_BY,Syrphid Fly
+Thrips,CONTROLLED_BY,Bacillus Thuringiensis
+Thrips,CONTROLLED_BY,Intercropping
+Thrips,CONTROLLED_BY,Crop Rotation
+Thrips,CONTROLLED_BY,Water Management
+Thrips,CONTROLLED_BY,Light Traps
+Thrips,CONTROLLED_BY,Mulching
+Thrips,CONTROLLED_BY,B.T Formulation
+Thrips,TRANSMIT,Cucumber Mosaic Virus
+Integrated Disease Management,CONTROLLED_BY,Integrated Pest Management
+Weed Management,CONTROLLED_BY,Indian Field Mouse
+Tridemorph,CONTROLLED_BY,Sclerotia
+Hexaconazole,CONTROLLED_BY,Tobacco Caterpillar
+Mancozeb,CONTROLLED_BY,Crop
+Mancozeb,CONTROLLED_BY,Tobacco Caterpillar
+Mancozeb,CONTROLLED_BY,Pesticide
+Mancozeb,CONTROLLED_BY,Seed Treatment
+Mancozeb,CONTROLLED_BY,Maydis Leaf Blight
+Mancozeb,CONTROLLED_BY,Downy Mildew
+Mancozeb,CONTROLLED_BY,Rust
+Mancozeb,CONTROLLED_BY,Difenoconazole
+Mancozeb,CONTROLLED_BY,Fusarium Wilt
+Mancozeb,CONTROLLED_BY,Helminthosporium Leaf Spot
+Mancozeb,CONTROLLED_BY,Sooty Mould
+Mancozeb,CONTROLLED_BY,Alternaria Rot
+Mancozeb,CONTROLLED_BY,Powdery Mildew
+Mancozeb,CONTROLLED_BY,Brown Rot
+Mancozeb,CONTROLLED_BY,Botryodiplodia Palmarum
+Mancozeb,CONTROLLED_BY,Post-Emergence Damping Off
+Mancozeb,CONTROLLED_BY,Disease
+Mancozeb,CONTROLLED_BY,Alternaria Sesami
+Mancozeb,CONTROLLED_BY,Bacterial Spot
+Neem Cake,CONTROLLED_BY,Termite
+Neem Cake,CONTROLLED_BY,Early Stem Borer
+Neem Cake,DEPENDS_ON,Cow Dung
+Neem Cake,REQUIRES,Soil
+Neem Cake,REQUIRES,Soil Health
+Pseudomonas,CONTROLLED_BY,Pests
+Pseudomonas,CONTROLLED_BY,Integrated Disease Management
+Pseudomonas,CONTROLLED_BY,Beauvaria Bassiana
+Pseudomonas,CONTROLLED_BY,Coc
+Pseudomonas,CONTROLLED_BY,Metarrhizium
+Pseudomonas,CONTROLLED_BY,Beauvaria Bassiana
+Metarrhizium Anisopliae,CONTROLLED_BY,Mango
+Metarrhizium Anisopliae,CONTROLLED_BY,Eublemma Hemirrhoda
+Carbaryl,CONTROLLED_BY,Mealy Bug
+Carbaryl,CONTROLLED_BY,Grasshoppers
+Carbaryl,CONTROLLED_BY,Caterpillars
+Carbaryl,CONTROLLED_BY,Hoppers
+Carbaryl,CONTROLLED_BY,Stem Borer
+Carbaryl,CONTROLLED_BY,Household Pests
+Panama Wilt,AFFECTED_BY,Carbendazim
+Panama Wilt,CONTROLLED_BY,Carbendazim
+Quick Wilt,AFFECTED_BY,Bordeaux Mixture
+Stem Bleeding,CONTROLLED_BY,Tridemorph
+Bud Rot,CONTROLLED_BY,Hexaconazole
+Bud Rot,CONTROLLED_BY,Contaf 5 Ec
+Bud Rot,CONTROLLED_BY,Mancozeb
+Red Palm Weevil,AFFECTED_BY,Carbaryl
+Red Palm Weevil,AFFECTED_BY,Oil Palm
+Red Palm Weevil,AFFECTED_BY,Semiochemicals
+Red Palm Weevil,AFFECTED_BY,Semiochemicals
+Red Palm Weevil,CONTROLLED_BY,Malathion
+Rhinoceros Beetle,AFFECTED_BY,Oil Palm
+Rhinoceros Beetle,CONTROLLED_BY,Monocrotophos
+Mites,AFFECTED_BY,Grains
+Rodents,AFFECTED_BY,Grains
+Sun Hemp,GROWN_IN,Fertilizer
+Cowpea,GROWN_IN,Ladakh
+Cowpea,GROWN_IN,Fertilizer
+Cowpea,GROWN_IN,India
+Cowpea,GROWN_IN,Kathua
+Cowpea,GROWN_IN,Tamil Nadu
+Cowpea,GROWN_IN,Jammu Province
+Cowpea,GROWN_IN,Ladakh
+Cowpea,GROWN_IN,Tamil Nadu
+Cowpea,GROWN_DURING,Kharif
+Cowpea,GROWN_DURING,Castor
+Cowpea,AFFECTED_BY,Aphids
+Cowpea,AFFECTED_BY,Pest
+Cowpea,AFFECTED_BY,Downy Mildew
+Cowpea,AFFECTED_BY,Helminthosporium Maydis
+Cowpea,REQUIRES,N
+Cowpea,REQUIRES,P
+Cowpea,REQUIRES,K
+Trichoderma,CONTROLLED_BY,Pests
+Trichoderma,CONTROLLED_BY,Cowdung
+Trichoderma,CONTROLLED_BY,Neemcake
+Trichoderma,CONTROLLED_BY,Fym
+Trichoderma,CONTROLLED_BY,Seed Treatment
+Trichoderma,CONTROLLED_BY,Biopesticides
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Biofungicide
+Trichoderma,REQUIRES,Soil
+Trichoderma,REQUIRES,Nutrients
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Nitrogen-Use Efficiency
+Trichoderma,REQUIRES,Photosynthetic Efficiency
+Neemcake,REQUIRES,Soil
+Carbendazim,CONTROLLED_BY,Damping Off
+Carbendazim,CONTROLLED_BY,Tobacco Caterpillar
+Carbendazim,CONTROLLED_BY,Seed Treatment
+Carbendazim,CONTROLLED_BY,Stem Rot
+Carbendazim,CONTROLLED_BY,Red Rot
+Carbendazim,CONTROLLED_BY,Fusarium Oxysporum F.Sp.Udum
+Carbendazim,CONTROLLED_BY,Downy Mildew
+Carbendazim,CONTROLLED_BY,Brown Spot
+Carbendazim,CONTROLLED_BY,Seedlings
+Carbendazim,CONTROLLED_BY,Orosius Albicinctus
+Carbendazim,CONTROLLED_BY,Cercospora Gossypii
+Carbendazim,CONTROLLED_BY,Damping Off
+Carbendazim,CONTROLLED_BY,Fusarium Wilt
+Carbendazim,CONTROLLED_BY,Sett Rot
+Carbendazim,CONTROLLED_BY,Smut
+Carbendazim,CONTROLLED_BY,Culmiculous Smut
+Carbendazim,CONTROLLED_BY,Powdery Mildew
+Carbendazim,CONTROLLED_BY,Disease
+Carbendazim,CONTROLLED_BY,Alternaria Sesami
+Carbendazim,CONTROLLED_BY,Fusarium Oxysporum F.Sp. Ricini
+Carbendazim,CONTROLLED_BY,Phomopsis Blight
+Carbendazim,REQUIRES,Rhizobium
+Carbendazim,REQUIRES,Rhizobium
+Carbendazim,REQUIRES,Phosphobacteria
+Carbendazim,REQUIRES,Phosphobacteria
+Carbendazim,REQUIRES,Phosphobacteria
+Carbendazim,REQUIRES,Rhizobium
+Carbendazim,REQUIRES,Rhizobium
+Carbendazim,REQUIRES,Phosphobacteria
+Carbendazim,PREVENTED_BY,Disease Free Seed
+Nanma,CONTROLLED_BY,Menma
+Lecanicilium Lecani,CONTROLLED_BY,Neem Oil
+Lime,CONTROLLED_BY,Fym
+Lime,CONTROLLED_BY,Acidity
+Lime,REQUIRES,Soil
+Trichoderma Enriched Organic Manure,REQUIRES,Soil
+Pseudomonas Fluorescens,CONTROLLED_BY,Bm
+Pseudomonas Fluorescens,CONTROLLED_BY,Imidacloprid
+Pseudomonas Fluorescens,CONTROLLED_BY,Seed Treatment
+Pseudomonas Fluorescens,CONTROLLED_BY,Fusarium Oxysporum F.Sp.Udum
+Pseudomonas Fluorescens,CONTROLLED_BY,Brown Spot
+Pseudomonas Fluorescens,CONTROLLED_BY,Macrophomina Phaseolina
+Quinalphos,CONTROLLED_BY,Tobacco Caterpillar
+Quinalphos,CONTROLLED_BY,Pesticide
+Quinalphos,CONTROLLED_BY,Thrips Tabaci
+Quinalphos,CONTROLLED_BY,Orosius Albicinctus
+Quinalphos,CONTROLLED_BY,Beetle
+Dimethoate,CONTROLLED_BY,Aphids
+Dimethoate,CONTROLLED_BY,Thrips
+Dimethoate,CONTROLLED_BY,Jassids
+Dimethoate,CONTROLLED_BY,Orosius Albicinctus
+Dimethoate,CONTROLLED_BY,Eublemma Hemirrhoda
+Dimethoate,CONTROLLED_BY,Empoasca Devastans
+Dimethoate,CONTROLLED_BY,S. Dorsalis
+Dimethoate,PREVENTED_BY,Maggots
+Fruit Fly,AFFECTED_BY,Eucalyptus Oil
+Fruit Fly,AFFECTED_BY,Citronella Oil
+Fruit Fly,AFFECTED_BY,Plant Disease
+Fruit Fly,CONTROLLED_BY,Malathion
+Coffee Berry Borer,CAUSES,Pest
+Ash,REQUIRES,Soil
+Aluminium Phosphide,CONTROLLED_BY,Fumigants
+Methyl Bromide,CONTROLLED_BY,Lettuce
+Methyl Bromide,CONTROLLED_BY,Pesticide
+Methyl Bromide,CONTROLLED_BY,Fumigation
+Methyl Bromide,REQUIRES,Input Costs
+Methyl Bromide,PREVENTED_BY,Microsclerotia
+Methyl Bromide,PREVENTED_BY,Microsclerotia
+Trichoderma,CONTROLLED_BY,Pests
+Trichoderma,CONTROLLED_BY,Cowdung
+Trichoderma,CONTROLLED_BY,Neemcake
+Trichoderma,CONTROLLED_BY,Fym
+Trichoderma,CONTROLLED_BY,Seed Treatment
+Trichoderma,CONTROLLED_BY,Biopesticides
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Biofungicide
+Trichoderma,REQUIRES,Soil
+Trichoderma,REQUIRES,Nutrients
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Nitrogen-Use Efficiency
+Trichoderma,REQUIRES,Photosynthetic Efficiency
+Andrographis,REQUIRES,Garlic
+Garlic,GROWN_IN,India
+Garlic,AFFECTED_BY,Sclerotia
+Coconut,GROWN_IN,India
+Coconut,GROWN_IN,Protected Cultivation
+Coconut,GROWN_IN,Tamil Nadu
+Coconut,GROWN_IN,Goa
+Coconut,GROWN_IN,Tamil Nadu
+Coconut,GROWN_IN,Pollachi Tract
+Coconut,GROWN_IN,Kanyakumari District
+Coconut,GROWN_IN,Coconut Gardens
+Coconut,GROWN_IN,Malabar And Kannara Region
+Coconut,GROWN_DURING,Rainy Season
+Coconut,AFFECTED_BY,Yellowing
+Coconut,AFFECTED_BY,Red Palm Weevil
+Coconut,AFFECTED_BY,Rhinoceros Beetle
+Coconut,AFFECTED_BY,Termites
+Coconut,AFFECTED_BY,Leaf Caterpillar
+Coconut,AFFECTED_BY,Basal Stem Rot
+Coconut,CONTROLLED_BY,Dimethoate
+Coconut,CONTROLLED_BY,Naa
+Coconut,CONTROLLED_BY,Naa
+Coconut,CONTROLLED_BY,Naa
+Coconut,CONTROLLED_BY,"2, 4-D"
+Coconut,CONTROLLED_BY,Methyldematon
+Coconut,DEPENDS_ON,Soil
+Coconut,DEPENDS_ON,"2,000 Mm"
+Coconut,REQUIRES,Irrigation
+Coconut,REQUIRES,Water
+Coconut,REQUIRES,Water
+Coconut,REQUIRES,Coastal Sandy Soils
+Brinjal,GROWN_IN,Soil
+Brinjal,GROWN_IN,India
+Brinjal,GROWN_IN,Whitefly
+Brinjal,GROWN_IN,Tripura
+Brinjal,GROWN_IN,West Bengal
+Brinjal,GROWN_IN,Insect Traps
+Brinjal,AFFECTED_BY,Damping Off
+Brinjal,AFFECTED_BY,Root-Knot Nematode
+Brinjal,AFFECTED_BY,Pest
+Brinjal,AFFECTED_BY,Little Leaf
+Brinjal,AFFECTED_BY,Damping Off
+Brinjal,AFFECTED_BY,Ash Weevil
+Brinjal,AFFECTED_BY,Leaf Hopper
+Brinjal,AFFECTED_BY,Hadda Beetle
+Brinjal,AFFECTED_BY,Shoot And Fruit Borer
+Brinjal,AFFECTED_BY,Phomopsis Blight
+Brinjal,AFFECTED_BY,Red Spider Mite
+Rose,GROWN_IN,India
+Rose,GROWN_IN,Asia
+Mealy Bugs,AFFECTED_BY,Tomatoes
+Jassids,AFFECTED_BY,Cotton
+Jassids,AFFECTED_BY,Methyl Demeton
+Caterpillars,AFFECTED_BY,Bacillus Thuringiensis
+Caterpillars,AFFECTED_BY,Safflower
+Caterpillars,AFFECTED_BY,Bacillus Thuringiensis
+Caterpillars,AFFECTED_BY,Bacillus Thuringiensis
+Caterpillars,AFFECTED_BY,Bacillus Thuringiensis
+Caterpillars,AFFECTED_BY,Parasitic Wasps
+Chilli,GROWN_IN,Andhra Pradesh
+Chilli,GROWN_IN,India
+Chilli,GROWN_IN,Karnataka
+Chilli,GROWN_IN,Tamil Nadu
+Chilli,GROWN_IN,Maharashtra
+Chilli,GROWN_IN,Odisha
+Chilli,GROWN_IN,Tripura
+Chilli,AFFECTED_BY,Thrips Parvispinus
+Chilli,AFFECTED_BY,Basal Stem Rot
+Chilli,AFFECTED_BY,Root Knot Nematode
+Chilli,AFFECTED_BY,Bacterial Wilt
+Chilli,AFFECTED_BY,Phytophthora Root Rot
+Chilli,AFFECTED_BY,Root Knot Nematode
+Vegetable Crops,AFFECTED_BY,Aphids
+Vegetable Crops,AFFECTED_BY,Mealy Bugs
+Vegetable Crops,AFFECTED_BY,Jassids
+Vegetable Crops,AFFECTED_BY,Hoppers
+Whitefly,AFFECTED_BY,Cotton
+Whitefly,AFFECTED_BY,Neem Oil
+Whitefly,AFFECTED_BY,Acetamiprid
+Whitefly,AFFECTED_BY,Fipronil
+Whitefly,AFFECTED_BY,Chlorpyriphos
+Whitefly,AFFECTED_BY,Acephate
+Whitefly,AFFECTED_BY,Water Logging
+Whitefly,AFFECTED_BY,Castor
+Whitefly,AFFECTED_BY,Water Logging
+Whitefly,AFFECTED_BY,Nske
+Whitefly,AFFECTED_BY,Phosalone
+Whitefly,AFFECTED_BY,Nitrogen
+Whitefly,AFFECTED_BY,Triazophos
+Whitefly,AFFECTED_BY,Nitrogen
+Whitefly,AFFECTED_BY,Nske
+Whitefly,AFFECTED_BY,Methylparathion
+Whitefly,AFFECTED_BY,Fish Oil Rosin Soap
+Whitefly,AFFECTED_BY,Water Logging
+Whitefly,CONTROLLED_BY,Thiamethoxam
+Whitefly,CONTROLLED_BY,Imidacloprid
+Whitefly,CONTROLLED_BY,Chlorpyriphos
+Whitefly,CAUSES,Sooty Mould
+Cucurbits,GROWN_IN,India
+Cucurbits,AFFECTED_BY,Caterpillars
+Cucurbits,AFFECTED_BY,Red Vegetable Mite
+Amaranthus,GROWN_IN,India
+Amaranthus,GROWN_IN,Whitefly
+Amaranthus,AFFECTED_BY,Caterpillars
+Copper Sulphate,CONTROLLED_BY,Sclerotia
+Copper Sulphate,CONTROLLED_BY,Broom Rape
+Cow Dung,CONTROLLED_BY,Pests
+Cow Dung,REQUIRES,Soil
+Rhizobium,DEPENDS_ON,Pulses
+Rhizobium,REQUIRES,Seed Treatment
+Azospirillum,CONTROLLED_BY,Sorghum
+Azospirillum,CONTROLLED_BY,Malathion
+Azospirillum,CONTROLLED_BY,Fertilizer
+Azospirillum,CONTROLLED_BY,Carbendazim
+Azospirillum,CONTROLLED_BY,Pseudomonas Fluorescens
+Azospirillum,CONTROLLED_BY,Dimethoate
+Azospirillum,CONTROLLED_BY,Biofertilizer
+Azospirillum,CONTROLLED_BY,Fym
+Azospirillum,CONTROLLED_BY,Thiram
+Azospirillum,CONTROLLED_BY,Captan
+Azospirillum,CONTROLLED_BY,Neem Seed Kernel Extract
+Azospirillum,CONTROLLED_BY,Pseudomonas Fluorescens
+Azospirillum,CONTROLLED_BY,Pseudomonas Fluorescens
+Azospirillum,CONTROLLED_BY,Pseudomonas Fluorescens
+Azospirillum,DEPENDS_ON,Sugarcane
+Azospirillum,DEPENDS_ON,Fym
+Azospirillum,REQUIRES,Fym
+Azospirillum,REQUIRES,N
+Azospirillum,REQUIRES,P
+Azospirillum,REQUIRES,K
+Azospirillum,REQUIRES,Seed Treatment
+Azospirillum,REQUIRES,Soil Moisture
+Azospirillum,REQUIRES,Seedlings
+Azospirillum,PREVENTED_BY,Fym
+Blue-Green Algae,REQUIRES,Azolla
+Azolla,GROWN_IN,Rice
+Azolla,REQUIRES,Soil
+Azolla,REQUIRES,Nitrogen
+Azolla,REQUIRES,Nitrogen
+Penicillium,CAUSES,Sclerotia
+Trichoderma,CONTROLLED_BY,Pests
+Trichoderma,CONTROLLED_BY,Cowdung
+Trichoderma,CONTROLLED_BY,Neemcake
+Trichoderma,CONTROLLED_BY,Fym
+Trichoderma,CONTROLLED_BY,Seed Treatment
+Trichoderma,CONTROLLED_BY,Biopesticides
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Botrytis
+Trichoderma,CONTROLLED_BY,Biofungicide
+Trichoderma,REQUIRES,Soil
+Trichoderma,REQUIRES,Nutrients
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Abiotic Stresses
+Trichoderma,REQUIRES,Nitrogen-Use Efficiency
+Trichoderma,REQUIRES,Photosynthetic Efficiency
+Compost,REQUIRES,Sorghum
+Compost,REQUIRES,Sugarcane
+Compost,REQUIRES,Soil
+Vermicompost,REQUIRES,Vegetable Crops
+Vermicompost,REQUIRES,Crop
+Vermicompost,REQUIRES,Nitrogen
+Trichoderma Spp.,AFFECTED_BY,Fusarium
+Trichoderma Spp.,AFFECTED_BY,Fusarium
+Trichoderma Spp.,AFFECTED_BY,Rhizoctonia
+Trichoderma Spp.,AFFECTED_BY,Sclerotinia
+Trichoderma Spp.,AFFECTED_BY,Pythium
+Trichoderma Spp.,AFFECTED_BY,Rhizoctonia
+Trichoderma Spp.,AFFECTED_BY,Sclerotinia
+Trichoderma Spp.,AFFECTED_BY,Pythium
+Trichoderma Spp.,CONTROLLED_BY,Plant Pathogens
+Trichoderma Spp.,CONTROLLED_BY,T. Viride
+Trichoderma Spp.,CONTROLLED_BY,T. Viride
+Trichoderma Spp.,CONTROLLED_BY,T. Harzianum
+Trichoderma Spp.,CONTROLLED_BY,T. Harzianum
+Trichoderma Spp.,CONTROLLED_BY,Plant Pathogens
+Trichoderma Spp.,CONTROLLED_BY,T. Virens
+Trichoderma Spp.,CONTROLLED_BY,T. Koningii
+Trichoderma Spp.,REQUIRES,Neem Cake
+Trichoderma Spp.,REQUIRES,Cow Dung
+Bacillus Thuringiensis,AFFECTED_BY,Heliothis Bollworm
+Bacillus Thuringiensis,CONTROLLED_BY,Insect Pests
+Bacillus Thuringiensis,CONTROLLED_BY,Pesticide
+Bacillus Thuringiensis,CONTROLLED_BY,Pest
+Bacillus Thuringiensis,CONTROLLED_BY,American Bollworm
+Bacillus Thuringiensis,CONTROLLED_BY,Lepidoptera
+Bacillus Thuringiensis,CONTROLLED_BY,Biopesticides
+Bacillus Thuringiensis,CONTROLLED_BY,Bollworms
+Bacillus Thuringiensis,CONTROLLED_BY,P. Interpunctella
+Bacillus Thuringiensis,CONTROLLED_BY,E. Cautella
+Bacillus Thuringiensis,CONTROLLED_BY,Microbial Pesticides
+Bacillus Thuringiensis,CONTROLLED_BY,Lepidoptera
+Nuclear Polyhedrosis Virus,CONTROLLED_BY,Helicoverpa Armigera
+Nuclear Polyhedrosis Virus,CONTROLLED_BY,Helicoverpa Assulta
+Nuclear Polyhedrosis Virus,CONTROLLED_BY,Heliothis Virescens
+Nuclear Polyhedrosis Virus,CONTROLLED_BY,Helicoverpa Zea
+Insect Pests,AFFECTED_BY,Pseudomonas Fluorescens
+Insect Pests,AFFECTED_BY,Bacillus Thuringiensis
+Insect Pests,AFFECTED_BY,Bacillus Macerance
+Insect Pests,AFFECTED_BY,Nuclear Polyhedrosis Virus
+Insect Pests,AFFECTED_BY,Cytoplasmic Polyhedrosis Virus
+Insect Pests,AFFECTED_BY,Baculovirus
+Insect Pests,AFFECTED_BY,Pesticide Application
+Insect Pests,AFFECTED_BY,Plant Disease
+Insect Pests,AFFECTED_BY,Entomopathogenic Fungi
+Insect Pests,AFFECTED_BY,Arthropod Populations
+Insect Pests,AFFECTED_BY,Entomopathogenic Fungi
+Insect Pests,AFFECTED_BY,Entomopathogens
+Insect Pests,AFFECTED_BY,Entomopathogens
+Insect Pests,AFFECTED_BY,Chemical Herbicides
+Fruit Flies,GROWN_DURING,November
+Fruit Flies,GROWN_DURING,December
+Fruit Flies,GROWN_DURING,November
+Fruit Flies,AFFECTED_BY,Cucurbits
+Fruit Flies,AFFECTED_BY,Mango
+Fruit Flies,CONTROLLED_BY,Malathion
+Fruit Flies,CONTROLLED_BY,Methyl Eugenol
+Fruit Flies,CONTROLLED_BY,Cue Lure
+Fruit Flies,CONTROLLED_BY,Ddvp
+Root-Knot Nematode,CONTROLLED_BY,Neem Cake
+Root-Knot Nematode,CONTROLLED_BY,Carbofuran
+Root-Knot Nematode,CONTROLLED_BY,Carbofuran
+Mango,GROWN_IN,Punjab
+Mango,GROWN_IN,India
+Mango,GROWN_IN,Odisha
+Mango,GROWN_IN,China
+Mango,GROWN_IN,Mysuru
+Mango,GROWN_IN,Mysuru
+Mango,GROWN_IN,Unnao
+Mango,GROWN_IN,Taiwan
+Mango,GROWN_IN,Philippines
+Mango,GROWN_IN,Australia
+Mango,GROWN_IN,Pakistan
+Mango,GROWN_IN,Malaysia
+Mango,GROWN_IN,Taiwan
+Mango,GROWN_IN,Indonesia
+Mango,GROWN_IN,Punjab
+Mango,GROWN_DURING,April
+Mango,GROWN_DURING,February
+Mango,GROWN_DURING,May-June
+Mango,GROWN_DURING,Season
+Mango,GROWN_DURING,April-May
+Mango,GROWN_DURING,October-January
+Mango,GROWN_DURING,November-December
+Mango,GROWN_DURING,January-April
+Mango,AFFECTED_BY,Mango Hoppers
+Mango,AFFECTED_BY,Hoppers
+Mango,AFFECTED_BY,Fruit Flies
+Mango,AFFECTED_BY,Anthracnose
+Mango,AFFECTED_BY,Storm
+Mango,AFFECTED_BY,High Speed Winds
+Mango,AFFECTED_BY,Fruit Borer
+Mango,AFFECTED_BY,Mango Mealybug
+Mango,AFFECTED_BY,Batocera Rufomaculata
+Mango,AFFECTED_BY,Batocera Rubus
+Mango,AFFECTED_BY,Sooty Blotch
+Mango,AFFECTED_BY,Nut Weevil
+Mango,AFFECTED_BY,Msw
+Mango,CONTROLLED_BY,Methyl Eugenol
+Mango,REQUIRES,Nitrogenous Fertilizers
+Guava,GROWN_IN,Punjab
+Guava,GROWN_IN,India
+Guava,GROWN_IN,Whitefly
+Guava,GROWN_IN,Sikkim
+Guava,GROWN_IN,Northern India
+Guava,GROWN_IN,Punjab
+Guava,AFFECTED_BY,Red Vegetable Mite
+Papaya,GROWN_IN,India
+Papaya,GROWN_IN,Whitefly
+Papaya,GROWN_IN,Jharkhand
+Papaya,GROWN_IN,Jharkhand
+Citrus,GROWN_IN,India
+Citrus,GROWN_IN,Northern India
+Citrus,AFFECTED_BY,Pests
+Citrus,AFFECTED_BY,Diseases
+Citrus,AFFECTED_BY,Red Vegetable Mite
+Citrus,AFFECTED_BY,Sun Burn
+Citrus,DEPENDS_ON,Plant Health
+Citrus,DEPENDS_ON,Food Safety
+Citrus,DEPENDS_ON,Public Health
+Cucumber,GROWN_IN,India
+Cucumber,GROWN_IN,Tripura
+Cucumber,GROWN_IN,West Bengal
+Cucumber,CONTROLLED_BY,Greenhouse Technology
+Cucumber,CONTROLLED_BY,Cucumis Sativus
+Cucumber,PREVENTED_BY,Carbosulfan
+Melon,GROWN_IN,India
+Pumpkin,GROWN_IN,India
+Pumpkin,GROWN_IN,Tripura
+Bitter Gourd,GROWN_IN,India
+Bitter Gourd,REQUIRES,Nutritional Security
+Snake Gourd,GROWN_IN,India
+Snake Gourd,AFFECTED_BY,Cabbage Flea Beetle
+Snake Gourd,CONTROLLED_BY,Trichosanthes Cucumerina
+Sprayer,CONTROLLED_BY,Spray Fluid
+Sprayer,CONTROLLED_BY,Insecticide
+Sprayer,CONTROLLED_BY,Fungicide
+Sprayer,CONTROLLED_BY,Weedicide
+Sprayer,CONTROLLED_BY,Agro Chemicals
+Sprayer,DEPENDS_ON,Nozzles
+Sprayer,REQUIRES,Spray Fluid
+Spray Fluid,REQUIRES,Water
+Spray Fluid,REQUIRES,Water
+Spray Fluid,REQUIRES,Water
+Spray Fluid,REQUIRES,Water
+Spray Fluid,REQUIRES,Water
+Nozzle,CONTROLLED_BY,Foot Operated Sprayers
+Nozzle,CONTROLLED_BY,Rocking Sprayers
+Nozzle,CONTROLLED_BY,High Pressure Hydraulic Sprayers
+Nozzle,CONTROLLED_BY,Motorized Knapsack Sprayer
+Nozzle,CONTROLLED_BY,Mist Blower
+Nozzle,CONTROLLED_BY,High Volume Sprayers
+Knapsack Sprayer,CONTROLLED_BY,Spray Fluid
+Knapsack Sprayer,REQUIRES,Pesticides
+Bucket Sprayer,CONTROLLED_BY,Spray Fluid
+Bucket Sprayer,REQUIRES,Pesticides
+Foot Sprayer,CONTROLLED_BY,Spray Fluid
+Pneumatic Sprayers,CONTROLLED_BY,Spray Fluid
+Compression Knapsack Sprayer,CONTROLLED_BY,Spray Fluid
+Power Operated Sprayers,CONTROLLED_BY,Spray Fluid
+Ulv Sprayer,CONTROLLED_BY,Spray Fluid
+Duster,CONTROLLED_BY,Granular Applicator
+Duster,DEPENDS_ON,Nozzles
+Duster,REQUIRES,Pesticide
+Air-Assisted Electrostatic Sprayers,CONTROLLED_BY,Spray Fluid
+Fogging Machine,CONTROLLED_BY,Spray Fluid
+Vision Guided Spraying System,CONTROLLED_BY,Spray Fluid
+Gps Guided System,CONTROLLED_BY,Spray Fluid
+Crop,GROWN_IN,Protected Cultivation
+Crop,AFFECTED_BY,Pest
+Crop,AFFECTED_BY,Disease
+Crop,AFFECTED_BY,Fallow Land
+Crop,CONTROLLED_BY,Intercropping
+Crop,CONTROLLED_BY,Mixed Cropping
+Crop,CONTROLLED_BY,Plant Row Spacing Ratios
+Crop,DEPENDS_ON,Weather Data
+Crop,DEPENDS_ON,Soil Data
+Crop,REQUIRES,Soil Moisture
+Crop,RESISTANT_TO,Neck Bl
+Crop,MODERATE_RESISTANT_TO,Leaf Blast
+Crop,TOLERANT_TO,Brown Rot
+Crop,TOLERANT_TO,Stem B
+Crop,TOLERANT_TO,White Ears Head
+Crop,TOLERANT_TO,Gall Midge
+Crop,TOLERANT_TO,Leaf Folder
+Crop,TOLERANT_TO,Thrip
+Rice Field Rats,AFFECTED_BY,Botanicals
+Rice Field Rats,AFFECTED_BY,Bio-Pesticides
+Fertigation,CONTROLLED_BY,Irrigation
+Fertigation,REQUIRES,Fertilizer
+Fertigation,REQUIRES,Water
+Tomato,GROWN_IN,Jammu And Kashmir
+Tomato,GROWN_IN,India
+Tomato,GROWN_IN,Protected Cultivation
+Tomato,GROWN_IN,Whitefly
+Tomato,GROWN_IN,Jammu And Kashmir
+Tomato,GROWN_IN,Sikkim
+Tomato,GROWN_IN,Tripura
+Tomato,GROWN_IN,Budgam
+Tomato,GROWN_IN,Anantnag
+Tomato,GROWN_IN,Northern India
+Tomato,GROWN_IN,North India
+Tomato,GROWN_IN,Hanpv
+Tomato,GROWN_IN,Bugam Batpora
+Tomato,GROWN_DURING,April
+Tomato,GROWN_DURING,October
+Tomato,GROWN_DURING,Off-Season Vegetables
+Tomato,AFFECTED_BY,Aphids
+Tomato,AFFECTED_BY,Damping Off
+Tomato,AFFECTED_BY,Whitefly
+Tomato,AFFECTED_BY,Tuta Absoluta
+Tomato,AFFECTED_BY,White Fly
+Tomato,AFFECTED_BY,Lepidoptera
+Tomato,AFFECTED_BY,Leaf Curl
+Tomato,AFFECTED_BY,Damping Off
+Tomato,AFFECTED_BY,Fruit Borer
+Tomato,AFFECTED_BY,Tomato Mosaic Virus
+Tomato,AFFECTED_BY,Spotted Wilt Virus
+Tomato,AFFECTED_BY,Early Blight
+Tomato,AFFECTED_BY,Alternaria Solani
+Tomato,AFFECTED_BY,Red Vegetable Mite
+Tomato,AFFECTED_BY,Root Knot Nematode
+Tomato,AFFECTED_BY,Tolcd
+Tomato,AFFECTED_BY,Bacterial Wilt
+Tomato,AFFECTED_BY,Late Blight
+Tomato,AFFECTED_BY,Disease Resistance
+Tomato,AFFECTED_BY,Phytophthora Root Rot
+Tomato,AFFECTED_BY,Root Knot Nematode
+Tomato,AFFECTED_BY,Alternaria Solani
+Tomato,AFFECTED_BY,Lepidoptera
+Tomato,AFFECTED_BY,Bacterial Spot
+Tomato,AFFECTED_BY,Buck Eye Rot
+Tomato,CONTROLLED_BY,Mancozeb
+Tomato,CONTROLLED_BY,Neem Cake
+Tomato,CONTROLLED_BY,Imidacloprid
+Tomato,CONTROLLED_BY,Indoxacarb
+Tomato,CONTROLLED_BY,Chlorantraniliprole
+Tomato,CONTROLLED_BY,Captan
+Tomato,CONTROLLED_BY,Greenhouse Technology
+Tomato,CONTROLLED_BY,Azoxystrobin
+Tomato,CONTROLLED_BY,Streptocycline
+Tomato,CONTROLLED_BY,Novaluron
+Tomato,CONTROLLED_BY,Captan
+Tomato,CONTROLLED_BY,Arka Rakshak
+Tomato,CONTROLLED_BY,Hanpv
+Tomato,DEPENDS_ON,Whitefly
+Tomato,DEPENDS_ON,Pesticide
+Capsicum,GROWN_IN,Jammu And Kashmir
+Capsicum,GROWN_IN,Protected Cultivation
+Capsicum,GROWN_IN,Jammu And Kashmir
+Capsicum,GROWN_IN,Budgam
+Capsicum,GROWN_DURING,Off-Season Vegetables
+Capsicum,AFFECTED_BY,Nematodes
+Capsicum,CONTROLLED_BY,Greenhouse Technology
+Salad Cucumber,GROWN_IN,Protected Cultivation
+Fym,REQUIRES,Paddy
+Fym,REQUIRES,Cotton
+Fym,REQUIRES,Sorghum
+Fym,REQUIRES,Sugarcane
+Fym,REQUIRES,Soil
+Fym,REQUIRES,Npk
+Fym,REQUIRES,Pseudomonas
+Fym,REQUIRES,Pseudomonas
+Fym,REQUIRES,Soil Health
+Fym,REQUIRES,N
+Fym,REQUIRES,P
+Fym,REQUIRES,K
+Fym,REQUIRES,Fusarium Oxysporum F.Sp.Udum
+Fym,REQUIRES,P2O5
+Fym,REQUIRES,K2O
+Fym,REQUIRES,Npk
+Fym,REQUIRES,Soil Moisture
+Fym,REQUIRES,Coir Pith
+Fym,REQUIRES,Coir Pith
+Fym,REQUIRES,Trichoderma Harzianum
+Fym,PREVENTED_BY,Mimosine
+Fym,PREVENTED_BY,Zinc
+Fym,HAS_SYMPTOM,Soil
+Fym,INCORPORATED_IN,Soil
+Exotic Ornamental Plants,GROWN_IN,Protected Cultivation
+Bonemeal,REQUIRES,Soil
+Drip Irrigation,CONTROLLED_BY,Icar
+Drip Irrigation,CONTROLLED_BY,Icar
+Drip Irrigation,CONTROLLED_BY,Icar
+Drip Irrigation,REQUIRES,Groundwater
+Drip Irrigation,REQUIRES,Groundwater
+Drip Irrigation,PREVENTED_BY,Overhead Irrigation
+Drip Irrigation,PREVENTED_BY,Black Fungus
+Trichoderma Viride,CONTROLLED_BY,Damping Off
+Trichoderma Viride,CONTROLLED_BY,Fym
+Trichoderma Viride,CONTROLLED_BY,Seed Treatment
+Trichoderma Viride,CONTROLLED_BY,Seeds
+Trichoderma Viride,CONTROLLED_BY,Seeds
+Trichoderma Viride,CONTROLLED_BY,Damping Off
+Trichoderma Viride,CONTROLLED_BY,Fusarium Oxysporum F.Sp. Ricini
+Trichoderma Viride,CONTROLLED_BY,Biofungicide
+Trichoderma Viride,REQUIRES,Seed Treatment
+Carbosulfan,REQUIRES,Seed Treatment
+19:19:19,REQUIRES,Soil
+12:6:18,REQUIRES,Soil
+Urea,CONTROLLED_BY,Soil Health Cards
+Urea,DEPENDS_ON,Nitrogen
+Urea,DEPENDS_ON,Nitrogen
+Urea,REQUIRES,Sugarcane
+Urea,REQUIRES,Soil
+Urea,REQUIRES,Crop
+Urea,REQUIRES,Agriculture
+Urea,REQUIRES,Agriculture
+Magnesium Nitrate,REQUIRES,Soil
+Ferrous Sulphate,REQUIRES,Sugarcane
+Ferrous Sulphate,REQUIRES,Soil
+Ferrous Sulphate,REQUIRES,Iron Deficiency
+Zinc Sulphate,REQUIRES,Cotton
+Zinc Sulphate,REQUIRES,Sorghum
+Zinc Sulphate,REQUIRES,Soil
+Zinc Sulphate,REQUIRES,Zinc Deficiency
+Zinc Sulphate,REQUIRES,Soil Moisture
+Borax,REQUIRES,Soil
+Borax,REQUIRES,Water
+Borax,REQUIRES,Water
+Chrysoperla Carnea,CONTROLLED_BY,Aphids
+Chrysoperla Carnea,CONTROLLED_BY,Neem Oil
+Chrysoperla Carnea,CONTROLLED_BY,Acephate
+Chrysoperla Carnea,CONTROLLED_BY,Nske
+Chrysoperla Carnea,CONTROLLED_BY,Phosalone
+Chrysoperla Carnea,CONTROLLED_BY,Triazophos
+Chrysoperla Carnea,CONTROLLED_BY,Nske
+Chrysoperla Carnea,CONTROLLED_BY,Fish Oil Rosin Soap
+Trichoderma Viride,CONTROLLED_BY,Damping Off
+Trichoderma Viride,CONTROLLED_BY,Fym
+Trichoderma Viride,CONTROLLED_BY,Seed Treatment
+Trichoderma Viride,CONTROLLED_BY,Seeds
+Trichoderma Viride,CONTROLLED_BY,Seeds
+Trichoderma Viride,CONTROLLED_BY,Damping Off
+Trichoderma Viride,CONTROLLED_BY,Fusarium Oxysporum F.Sp. Ricini
+Trichoderma Viride,CONTROLLED_BY,Biofungicide
+Trichoderma Viride,REQUIRES,Seed Treatment
+Wettable Sulphur,CONTROLLED_BY,Crop
+Wettable Sulphur,CONTROLLED_BY,Helminthosporium Leaf Spot
+Wettable Sulphur,CONTROLLED_BY,Disease
+Tobacco Caterpillar,AFFECTED_BY,Portulaca Oleracea
+Neem,CONTROLLED_BY,Insecticides
+Neem,CONTROLLED_BY,Integrated Pest Management
+Neem,CONTROLLED_BY,Pests
+Neem,CONTROLLED_BY,Insect Pests
+Neem,CONTROLLED_BY,Vijay Neem
+Neem,CONTROLLED_BY,Neem Coated Urea
+Neem,CONTROLLED_BY,Desert Locust
+Neem,CONTROLLED_BY,Biopesticides
+Emamectin Benzoate,CONTROLLED_BY,Insecticides
+Emamectin Benzoate,CONTROLLED_BY,Sucking Pests
+Thiamethoxam,CONTROLLED_BY,Aphids
+Thiamethoxam,CONTROLLED_BY,Pesticides
+Thiamethoxam,CONTROLLED_BY,Nilaparvata Lugens
+Kerala,GROWN_IN,Rice
+Kerala,GROWN_IN,Vegetables
+Kerala,GROWN_IN,Coconut
+Kerala,GROWN_IN,Brinjal
+Kerala,GROWN_IN,Tomato
+Kerala,GROWN_IN,Lettuce
+Kerala,GROWN_IN,Broccoli
+Kerala,GROWN_IN,Spinach
+Kerala,GROWN_IN,Mint
+Kerala,GROWN_IN,Ladies Finger
+Kerala,GROWN_DURING,Brackishwater
+Tilapia,GROWN_IN,Aquaponics
+Tilapia,GROWN_IN,North East Region
+Carp,GROWN_IN,India
+Carp,GROWN_IN,Aquaponics
+Lettuce,GROWN_IN,India
+Lettuce,GROWN_IN,California
+Lettuce,GROWN_IN,Monterey County
+Lettuce,GROWN_IN,Monterey County
+Lettuce,GROWN_DURING,Harvest Season
+Lettuce,AFFECTED_BY,V. Wilt
+Lettuce,REQUIRES,Methyl Bromide
+Broccoli,GROWN_IN,Ladakh
+Broccoli,GROWN_IN,India
+Broccoli,GROWN_IN,Polyhouses
+Broccoli,GROWN_IN,Ladakh
+Broccoli,GROWN_IN,Monterey County
+Broccoli,GROWN_IN,Monterey County
+Broccoli,GROWN_DURING,Summer
+Broccoli,CONTROLLED_BY,Methyl Bromide
+Broccoli,CONTROLLED_BY,Fumigation
+Broccoli,PREVENTED_BY,Microsclerotia
+Broccoli,PREVENTED_BY,Microsclerotia
+Spinach,GROWN_IN,India
+Spinach,GROWN_IN,Monterey County
+Spinach,GROWN_IN,Monterey County
+Spinach,AFFECTED_BY,V. Wilt
+Spinach,AFFECTED_BY,Microsclerotia
+Spinach,AFFECTED_BY,Microsclerotia
+Spinach,REQUIRES,Soil
+Spinach,HAS_SYMPTOM,Verticillium Dahliae
+Spinach,INTRODUCES,V. Wilt
+Mint,GROWN_IN,India
+Mint,CONTROLLED_BY,Pests
+Flowers,GROWN_IN,Jammu And Kashmir
+Flowers,GROWN_IN,Bihar
+Flowers,GROWN_IN,Jammu And Kashmir
+Pesticide Residue,AFFECTED_BY,Pesticides
+Pesticide Residue,AFFECTED_BY,Residual Toxicity
+Pesticide Residue,AFFECTED_BY,Activated Carbon
+Pesticide Residue,CAUSES,Diseases
+Pesticide Residue,CAUSES,Cancer
+Pesticide,AFFECTED_BY,Pesticide Residue
+Pesticide,AFFECTED_BY,Pesticide Residue
+Pesticide,AFFECTED_BY,Stylet-Borne Viruses
+Pesticide,AFFECTED_BY,Carcinogenic Effects
+Pesticide,AFFECTED_BY,Mutagenic Effects
+Pesticide,AFFECTED_BY,Teratogenic Effects
+Pesticide,CONTROLLED_BY,India
+Pesticide,CONTROLLED_BY,Herbicides
+Pesticide,CONTROLLED_BY,Fungicides
+Pesticide,CONTROLLED_BY,Insecticides
+Pesticide,CONTROLLED_BY,Pest
+Pesticide,CONTROLLED_BY,Plant Pathogens
+Pesticide,CONTROLLED_BY,Nozzles
+Pesticide,CONTROLLED_BY,Pesticide Application
+Pesticide,CONTROLLED_BY,Biopesticides
+Pesticide,CONTROLLED_BY,Biocontrol Agents
+Pesticide,DEPENDS_ON,Pesticide Toxicity
+Pesticide,REQUIRES,Pesticide Adjuvant
+Pesticide,REQUIRES,Pesticide Formulation
+Pesticide,REQUIRES,Application Equipment
+Pesticide,REQUIRES,Pest Management
+Pesticide,REQUIRES,Pest Behaviour
+Pesticide,REQUIRES,Spray Droplet Size
+Pesticide,REQUIRES,Calibration
+Pesticide,REQUIRES,Active Ingredient
+Pesticide,PREVENTED_BY,Organic Certification
+Insecticide,CONTROLLED_BY,Pesticide
+Insecticide,CONTROLLED_BY,Soybean
+Hydrogen Cyanide,CONTROLLED_BY,Pesticides
+Nicotine,CONTROLLED_BY,Insecticides
+Nicotine,CONTROLLED_BY,Integrated Pest Management
+Imidacloprid,CONTROLLED_BY,Cotton
+Imidacloprid,CONTROLLED_BY,Aphids
+Imidacloprid,CONTROLLED_BY,Pesticide
+Imidacloprid,CONTROLLED_BY,Shoot Fly
+Imidacloprid,CONTROLLED_BY,Nilaparvata Lugens
+Spinosad,CONTROLLED_BY,Insecticides
+Fipronil,CONTROLLED_BY,Insecticides
+Fipronil,CONTROLLED_BY,Thrips
+Indoxacarb,CONTROLLED_BY,Pesticides
+Indoxacarb,CONTROLLED_BY,Insecticides
+Indoxacarb,CONTROLLED_BY,Pest
+Flubendiamide,CONTROLLED_BY,Pest
+Chlorantraniliprole,CONTROLLED_BY,Pest
+Bavistin,CONTROLLED_BY,Wheat
+Pest,AFFECTED_BY,Pesticides
+Pest,AFFECTED_BY,Integrated Pest Management
+Pest,AFFECTED_BY,Tomato
+Pest,AFFECTED_BY,Nutrient Deficiency
+Pest,CONTROLLED_BY,Integrated Pest Management
+Pest,CONTROLLED_BY,Pesticide
+Pest,CAUSES,Crop Health
+Pesticide Formulation,REQUIRES,Water
+Pesticide Formulation,REQUIRES,Water
+Pesticide Formulation,REQUIRES,Water
+Agricultural Products,PREVENTED_BY,Pesticide Residue
+Agricultural Products,PREVENTED_BY,Pesticide Residue
+Blitox 50 Wp,CONTROLLED_BY,Bud Rot
+Pesticide Residue,AFFECTED_BY,Pesticides
+Pesticide Residue,AFFECTED_BY,Residual Toxicity
+Pesticide Residue,AFFECTED_BY,Activated Carbon
+Pesticide Residue,CAUSES,Diseases
+Pesticide Residue,CAUSES,Cancer
+Carbaryl-1-Naphthyl -Methylcarbamate,CONTROLLED_BY,Pesticide
+Ddt,CONTROLLED_BY,Pesticides
+Ddt,CONTROLLED_BY,Insecticides
+Ddt,CONTROLLED_BY,Integrated Pest Management
+Ddt,CONTROLLED_BY,Pesticide
+Ddt,CONTROLLED_BY,Green Revolution
+Aldrin,CONTROLLED_BY,Pesticides
+Aldrin,CONTROLLED_BY,Insecticides
+Aldrin,CONTROLLED_BY,Pesticide
+Endrin,CONTROLLED_BY,Pesticides
+Endrin,CONTROLLED_BY,Insecticides
+Endrin,CONTROLLED_BY,Pesticide
+Chlordane,CONTROLLED_BY,Pesticides
+Chlordane,CONTROLLED_BY,Insecticides
+Chlordane,CONTROLLED_BY,Pesticide
+Heptachlor,CONTROLLED_BY,Insecticides
+Heptachlor,CONTROLLED_BY,Pesticide
+Good Agricultural Practices (Gap),REQUIRES,Maximum Residue Limit
+Organic Certification,REQUIRES,Good Agricultural Practices (Gap)
+Organic Certification,REQUIRES,Good Agricultural Practices
+Waiting Period,DEPENDS_ON,Pesticide
+Waiting Period,REQUIRES,Pesticide Application
+Waiting Period,REQUIRES,Pesticide Application
+Good Agricultural Practices,DEPENDS_ON,Soil
+Good Agricultural Practices,DEPENDS_ON,Water
+Water,AFFECTED_BY,Bacteria
+Water,AFFECTED_BY,Fungi
+Water,DEPENDS_ON,Agricultural Production
+Water,REQUIRES,Paddy
+Water,REQUIRES,Rice
+Water,REQUIRES,Cotton
+Water,REQUIRES,Wheat
+Water,REQUIRES,Chickpea
+Water,REQUIRES,Sugarcane
+Water,REQUIRES,Irrigation
+Water,REQUIRES,Fisheries
+Water,REQUIRES,Potato
+Water,REQUIRES,Crop
+Water,REQUIRES,Mustard
+Water,REQUIRES,Groundnut
+Water,REQUIRES,Fisheries
+Water,REQUIRES,Pigeon Pea
+Water,REQUIRES,Rapeseed
+Water,REQUIRES,Sunnhemp
+Water,REQUIRES,Kolinchi
+Water,REQUIRES,Daincha
+Water,REQUIRES,Wet Dusting
+Water,PREVENTED_BY,Pesticide Active Ingredient
+Nutrient Deficiency,AFFECTED_BY,Pathogen
+Kissan Kerala Information System,GROWN_IN,Kerala
+Kissan Kerala Information System,GROWN_IN,Kerala
+Karshikajalakam,GROWN_IN,Kerala
+Karshikajalakam,GROWN_IN,Kerala
+Crop Health Decision Support System,GROWN_IN,Kerala
+Crop Health Decision Support System,GROWN_IN,Kerala
+Oushadham,GROWN_IN,Kerala
+Oushadham,GROWN_IN,Kerala
+Rubber,GROWN_IN,India
+Rubber,GROWN_IN,Kerala
+Rubber,GROWN_IN,Kerala
+Rubber,GROWN_IN,North East Region
+Community Radio,GROWN_IN,Wayanad District
+Precision Farming,DEPENDS_ON,Global Positioning System
+Precision Farming,DEPENDS_ON,Geographic Information Systems
+Banana,GROWN_IN,India
+Banana,GROWN_IN,Kerala
+Banana,GROWN_IN,Kerala
+Banana,GROWN_IN,Manipur
+Banana,GROWN_IN,Sikkim
+Banana,GROWN_IN,Tripura
+Banana,GROWN_IN,Cold Storage
+Banana,GROWN_IN,Harvesting
+Banana,GROWN_IN,Coconut Gardens
+Banana,GROWN_IN,Packing
+Banana,GROWN_DURING,Season
+Banana,GROWN_DURING,Pre-Cooling
+Banana,AFFECTED_BY,Weevil
+Banana,AFFECTED_BY,Fusarium Wilt Tr4
+Banana,DEPENDS_ON,Weeds
+Banana,DEPENDS_ON,Weeds
+Banana,REQUIRES,Water
+Banana,REQUIRES,Water
+Banana,REQUIRES,Ethylene-Free Air
+Banana,REQUIRES,Controlled Atmosphere
+Tapioca,GROWN_IN,Kerala
+Tapioca,GROWN_IN,Kerala
+Tapioca,GROWN_IN,Tamil Nadu
+Tapioca,GROWN_IN,Tamil Nadu
+Tapioca,GROWN_IN,Coconut Gardens
+Pineapple,GROWN_IN,India
+Pineapple,GROWN_IN,Kerala
+Pineapple,GROWN_IN,Kerala
+Pineapple,GROWN_IN,Manipur
+Pineapple,GROWN_IN,Tripura
+Pineapple,GROWN_IN,West Bengal
+Krishibhavans,GROWN_DURING,Agriclinics And Agri Business Centers
+Plant Pathogens,AFFECTED_BY,Pesticides
+Plant Pathogens,AFFECTED_BY,Disease
+Soil Health,DEPENDS_ON,Soil
+Soil Health,REQUIRES,Fertilizer
+Soil Health,REQUIRES,Pesticide
+Crop Insurance,AFFECTED_BY,Pradhan Mantri Fasal Bima Yojana
+Crop Insurance,AFFECTED_BY,Pradhan Mantri Fasal Bima Yojana
+Crop Insurance,AFFECTED_BY,Restructured Weather Based Insurance Scheme
+Fertigation,CONTROLLED_BY,Irrigation
+Fertigation,REQUIRES,Fertilizer
+Fertigation,REQUIRES,Water
+Okra,GROWN_IN,India
+Okra,GROWN_IN,Kathua
+Okra,GROWN_IN,West Bengal
+Okra,AFFECTED_BY,Earias Vittella
+Okra,AFFECTED_BY,Aphis Gossypii
+Okra,AFFECTED_BY,Bemisia Tabaci
+Okra,AFFECTED_BY,Powdery Mildew
+Okra,AFFECTED_BY,Root Knot Nematode
+Okra,AFFECTED_BY,Root Knot Nematode
+Okra,AFFECTED_BY,Red Spider Mite
+Okra,AFFECTED_BY,Leaf-Curl Disease
+Okra,AFFECTED_BY,Mosaic Complex
+Cassava,GROWN_IN,Andhra Pradesh
+Cassava,GROWN_IN,India
+Cassava,GROWN_IN,Kerala
+Cassava,GROWN_IN,Whitefly
+Cassava,GROWN_IN,Kerala
+Cassava,GROWN_IN,Tamil Nadu
+Fall Armyworm,AFFECTED_BY,Pesticides
+Fall Armyworm,AFFECTED_BY,Pesticide
+Stem Borer,GROWN_IN,Cardamom
+Stem Borer,GROWN_DURING,May-June
+Stem Borer,GROWN_DURING,March-April
+Stem Borer,GROWN_DURING,December-January
+Stem Borer,GROWN_DURING,September-October
+Stem Borer,AFFECTED_BY,Maize
+Stem Borer,AFFECTED_BY,Sugarcane
+Stem Borer,AFFECTED_BY,Pesticide
+Stem Borer,AFFECTED_BY,Monocrotophos 36 Sl
+Shoot Fly,AFFECTED_BY,Maize
+Tuta Absoluta,AFFECTED_BY,Tomatoes
+Tuta Absoluta,AFFECTED_BY,Semiochemicals
+Tuta Absoluta,AFFECTED_BY,Semiochemicals
+Tuta Absoluta,CONTROLLED_BY,Semiochemicals
+Tuta Absoluta,CONTROLLED_BY,Semiochemicals
+Thrips Parvispinus,AFFECTED_BY,Chilli
+Helicoverpa Armigera,AFFECTED_BY,Cotton
+Helicoverpa Armigera,AFFECTED_BY,Malathion
+Helicoverpa Armigera,AFFECTED_BY,Pesticides
+Helicoverpa Armigera,AFFECTED_BY,Carbaryl
+Helicoverpa Armigera,AFFECTED_BY,Dimethoate
+Helicoverpa Armigera,AFFECTED_BY,Brinjal
+Helicoverpa Armigera,AFFECTED_BY,Nuclear Polyhedrosis Virus
+Helicoverpa Armigera,AFFECTED_BY,Trichoderma Viride
+Helicoverpa Armigera,AFFECTED_BY,Trichoderma Viride
+Helicoverpa Armigera,AFFECTED_BY,Pesticide
+Helicoverpa Armigera,AFFECTED_BY,Carbofuran
+Helicoverpa Armigera,AFFECTED_BY,Methyl Demeton
+Helicoverpa Armigera,AFFECTED_BY,Trichoderma Viride
+Helicoverpa Armigera,AFFECTED_BY,Beauveria Bassiana
+Helicoverpa Armigera,AFFECTED_BY,Beauveria Bassiana
+Helicoverpa Armigera,AFFECTED_BY,Trichoderma Viride
+Helicoverpa Armigera,AFFECTED_BY,Metarhizium Anisopliae
+Helicoverpa Armigera,AFFECTED_BY,Verticillium Lecanii
+Helicoverpa Armigera,AFFECTED_BY,Verticillium Lecanii
+Helicoverpa Armigera,AFFECTED_BY,October-November
+Helicoverpa Armigera,AFFECTED_BY,Sooty Mould Fungus
+Helicoverpa Armigera,AFFECTED_BY,Trichoderma Viride
+Helicoverpa Armigera,AFFECTED_BY,Trichoderma Viride
+Helicoverpa Armigera,AFFECTED_BY,Metarhizium Anisopliae
+Helicoverpa Armigera,AFFECTED_BY,Metarhizium Anisopliae
+Helicoverpa Armigera,AFFECTED_BY,Beauveria Bassiana
+Helicoverpa Armigera,AFFECTED_BY,Cydia Pomonella Granulovirus
+Helicoverpa Armigera,AFFECTED_BY,Spodoptera Exigua Multi-Enveloped Nuclear Polyhedrosis Virus
+Helicoverpa Armigera,AFFECTED_BY,Helicoverpa Zea Single-Enveloped Nuclear Polyhedrosis Virus
+Helicoverpa Armigera,AFFECTED_BY,Nomuraea Rileyi
+Helicoverpa Armigera,AFFECTED_BY,Paecilomyces Farinosus
+Helicoverpa Armigera,AFFECTED_BY,Beauveria Bassiana
+Helicoverpa Armigera,AFFECTED_BY,Metarhizium Anisopliae
+Helicoverpa Armigera,CONTROLLED_BY,Malathion
+Helicoverpa Armigera,CONTROLLED_BY,Endosulfan
+Helicoverpa Armigera,CONTROLLED_BY,Dimethoate
+Helicoverpa Armigera,CONTROLLED_BY,Emamectin Benzoate
+Helicoverpa Armigera,CONTROLLED_BY,Thiamethoxam
+Helicoverpa Armigera,CONTROLLED_BY,Imidacloprid
+Helicoverpa Armigera,CONTROLLED_BY,Cypermethrin
+Helicoverpa Armigera,CONTROLLED_BY,Deltamethrin
+Helicoverpa Armigera,CONTROLLED_BY,Trichogramma Spp.
+Helicoverpa Armigera,CONTROLLED_BY,Fenvalerate
+Helicoverpa Armigera,CONTROLLED_BY,Formothion
+Helicoverpa Armigera,CONTROLLED_BY,Oxydemeton Methyl
+Helicoverpa Armigera,CONTROLLED_BY,Acatamiprid
+Helicoverpa Armigera,CONTROLLED_BY,Trichogramma Spp.
+Helicoverpa Armigera,CONTROLLED_BY,Hanpv
+Aphis Gossypii,AFFECTED_BY,Dsrna
+Bemisia Tabaci,AFFECTED_BY,Thiamethoxam
+Bemisia Tabaci,AFFECTED_BY,Imidacloprid
+Bemisia Tabaci,AFFECTED_BY,Sooty Mould Fungus
+Bemisia Tabaci,CAUSES,Sooty Mould
+Bemisia Tabaci,TRANSMITS,Virus
+Spodoptera Frugiperda,AFFECTED_BY,Semiochemicals
+Spodoptera Frugiperda,AFFECTED_BY,Semiochemicals
+Spodoptera Frugiperda,CONTROLLED_BY,Semiochemicals
+Spodoptera Frugiperda,CONTROLLED_BY,Semiochemicals
+Aceria Guerreronis,AFFECTED_BY,Dry Season
+Karnataka,GROWN_IN,Rice
+Karnataka,GROWN_IN,Cotton
+Karnataka,GROWN_IN,Kharif
+Karnataka,GROWN_IN,Rabi
+Karnataka,GROWN_IN,India
+Karnataka,GROWN_IN,Fertilizers
+Karnataka,GROWN_IN,Coconut
+Karnataka,GROWN_IN,Summer
+Karnataka,GROWN_IN,Groundnut
+Karnataka,GROWN_IN,Pigeon Pea
+Karnataka,GROWN_DURING,Micro-Irrigation
+Karnataka,GROWN_DURING,Micro-Irrigation
+Karnataka,AFFECTED_BY,Drought
+Karnataka,CONTROLLED_BY,Chickpea
+Karnataka,CONTROLLED_BY,E-Bhoomi
+Karnataka,REQUIRES,Irrigation
+Tamil Nadu,GROWN_IN,Paddy
+Tamil Nadu,GROWN_IN,Rice
+Tamil Nadu,GROWN_IN,Cotton
+Tamil Nadu,GROWN_IN,Maize
+Tamil Nadu,GROWN_IN,Food Grains
+Tamil Nadu,GROWN_IN,India
+Tamil Nadu,GROWN_IN,Coconut
+Tamil Nadu,GROWN_IN,Groundnut
+Tamil Nadu,GROWN_IN,Mushrooms
+Tamil Nadu,GROWN_IN,Notchi
+Tamil Nadu,GROWN_IN,Pungam
+Tamil Nadu,GROWN_IN,Malai Vembu
+Tamil Nadu,GROWN_IN,Thumbai
+Tamil Nadu,GROWN_DURING,Brackishwater
+Maharashtra,GROWN_IN,Rice
+Maharashtra,GROWN_IN,Cotton
+Maharashtra,GROWN_IN,Wheat
+Maharashtra,GROWN_IN,Sugarcane
+Maharashtra,GROWN_IN,India
+Maharashtra,GROWN_IN,Fertilizers
+Maharashtra,GROWN_IN,Coconut
+Maharashtra,GROWN_IN,Banana
+Maharashtra,GROWN_IN,Tomatoes
+Maharashtra,GROWN_IN,Pigeon Pea
+Maharashtra,GROWN_IN,Onions
+Maharashtra,GROWN_IN,Mandarin Oranges
+Maharashtra,GROWN_IN,Pomegranates
+Maharashtra,GROWN_IN,Alphonso Mangoes
+Maharashtra,GROWN_IN,Seedless Grapes
+Maharashtra,GROWN_IN,Orange
+Maharashtra,GROWN_IN,Tur
+Maharashtra,GROWN_IN,Orchard Crops
+Maharashtra,GROWN_DURING,Micro-Irrigation
+Maharashtra,GROWN_DURING,Micro-Irrigation
+Maharashtra,GROWN_DURING,Brackishwater
+Maharashtra,AFFECTED_BY,Drought-Hit Districts
+Maharashtra,CONTROLLED_BY,Chickpea
+Maharashtra,HAS_SYMPTOM,Salt-Affected Soils
+Gujarat,GROWN_IN,Rice
+Gujarat,GROWN_IN,Cotton
+Gujarat,GROWN_IN,India
+Gujarat,GROWN_IN,Fertilizers
+Gujarat,GROWN_IN,Groundnut
+Gujarat,GROWN_DURING,Micro-Irrigation
+Gujarat,GROWN_DURING,Micro-Irrigation
+Gujarat,GROWN_DURING,Brackishwater
+Gujarat,HAS_SYMPTOM,Salt-Affected Soils
+Summer,GROWN_DURING,Season
+Asiatic Cotton,GROWN_IN,India
+Upland Cotton,GROWN_IN,India
+Hybrid Cotton,GROWN_IN,India
+American Bollworm,AFFECTED_BY,Cotton
+Pink Bollworm,GROWN_IN,Cotton
+Pink Bollworm,AFFECTED_BY,Cotton
+Pink Bollworm,AFFECTED_BY,Pearl Millet
+Pink Bollworm,AFFECTED_BY,Maize
+Pink Bollworm,AFFECTED_BY,Okra
+Pink Bollworm,AFFECTED_BY,Trichogramma Chilonis
+Pink Bollworm,AFFECTED_BY,Trichogramma Spp.
+Pink Bollworm,AFFECTED_BY,American Cotton
+Pink Bollworm,AFFECTED_BY,Trichogramma Brasilience
+Pink Bollworm,AFFECTED_BY,Trichogramma Spp.
+Pink Bollworm,CONTROLLED_BY,Aluminium Phosphide
+Pink Bollworm,CONTROLLED_BY,Malathion 50 Ec
+Pink Bollworm,CONTROLLED_BY,Quinolphos 25 Ec
+Pink Bollworm,CONTROLLED_BY,Deltamethrin 2.8 Ec
+Pink Bollworm,CONTROLLED_BY,Thiodicarb75 Sp
+Pink Bollworm,CONTROLLED_BY,Ethion 50 Ec
+Pink Bollworm,CONTROLLED_BY,Indaxocarb 14.5 Sc
+Pink Bollworm,CONTROLLED_BY,Spinosad 45 Sc
+Pink Bollworm,CONTROLLED_BY,Alphamethrin 10 Ec
+Pink Bollworm,CONTROLLED_BY,Chlozopyriphos 20Ec
+Spotted Bollworm,GROWN_IN,Cotton
+Spotted Bollworm,AFFECTED_BY,Cotton
+Leaf-Eating Caterpillar,AFFECTED_BY,Cotton
+Bt Cotton,GROWN_IN,India
+Bt Cotton,GROWN_DURING,Haryana
+Bt Cotton,GROWN_DURING,Haryana
+Bt Cotton,AFFECTED_BY,Cotton Mealybug
+Bt Cotton,CONTROLLED_BY,Bacillus Thuringiensis
+Bt Cotton,CONTROLLED_BY,American Bollworm
+Bt Cotton,CONTROLLED_BY,Pink Bollworm
+Bt Cotton,CONTROLLED_BY,Spotted Bollworm
+Bt Cotton,CONTROLLED_BY,Bollgard Ii
+Bt Cotton,CONTROLLED_BY,Bacillus Thuringiensis
+Bt Cotton,CONTROLLED_BY,Bacillus Thuringiensis
+Mealybug,AFFECTED_BY,Cotton
+Tomatoes,GROWN_IN,India
+Tomatoes,GROWN_IN,Agriculture
+Tomatoes,GROWN_IN,Agriculture
+Fruit Borers,AFFECTED_BY,Tomatoes
+Whiteflies,AFFECTED_BY,Cotton
+Whiteflies,AFFECTED_BY,Tomatoes
+Whiteflies,AFFECTED_BY,Temperature
+Whiteflies,AFFECTED_BY,Black Fungus
+Whiteflies,AFFECTED_BY,Parasitic Wasps
+Whiteflies,TRANSMIT,Cucumber Mosaic Virus
+Serpentine Leaf Miners,AFFECTED_BY,Tomatoes
+South American Tomato Pinworm,AFFECTED_BY,Tomatoes
+Odisha,GROWN_IN,Rice
+Odisha,GROWN_IN,Food Grains
+Odisha,GROWN_IN,India
+Odisha,GROWN_DURING,Brackishwater
+Scirtothrips Dorsalis,AFFECTED_BY,Chilli
+Scirtothrips Dorsalis,AFFECTED_BY,Sooty Mould Fungus
+Cassava Whitefly,AFFECTED_BY,Cassava
+Cassava Scale,AFFECTED_BY,Cassava
+Variegated Grasshoppers,AFFECTED_BY,Cassava
+Phenacoccus Manihoti,AFFECTED_BY,Cassava
+Fistulococcus Pokfulamensis,AFFECTED_BY,Mango
+Red Palm Weevils,AFFECTED_BY,Coconut
+Black-Headed Caterpillars,AFFECTED_BY,Coconut
+Rhinoceros Beetles,AFFECTED_BY,Coconut
+Coconut Mites,AFFECTED_BY,Coconut
+Rugose Spiralling Whitefly,GROWN_IN,Kerala
+Rugose Spiralling Whitefly,GROWN_IN,Coconut
+Rugose Spiralling Whitefly,GROWN_IN,Kerala
+Rugose Spiralling Whitefly,GROWN_IN,Tamil Nadu
+Rugose Spiralling Whitefly,GROWN_IN,Pollachi
+Rugose Spiralling Whitefly,AFFECTED_BY,Coconut
+Agricultural Sprayers,CONTROLLED_BY,Insecticides
+Mini Sprayers,CONTROLLED_BY,Water
+Manure Spreader,REQUIRES,Fertilizer
+Peas,GROWN_IN,Jammu And Kashmir
+Peas,GROWN_IN,Punjab
+Peas,GROWN_IN,India
+Peas,GROWN_IN,Jammu And Kashmir
+Peas,GROWN_IN,Tripura
+Peas,GROWN_IN,Punjab
+Peas,GROWN_DURING,Off-Season Vegetables
+Peas,AFFECTED_BY,Termite
+Oil Seeds,GROWN_IN,Jammu And Kashmir
+Oil Seeds,GROWN_IN,Jammu And Kashmir
+Toria,GROWN_IN,Kathua
+Toria,GROWN_DURING,September
+Mustard,GROWN_IN,India
+Mustard,GROWN_IN,P. Brassicae
+Mustard,GROWN_DURING,Dryland Agriculture
+Mustard,GROWN_DURING,Yellow Revolution
+Mustard,CONTROLLED_BY,Aphid
+Green Manure,CONTROLLED_BY,Biofertilizers
+Lucerne,GROWN_IN,Jammu & Kashmir
+Lucerne,GROWN_IN,Jammu & Kashmir
+Lucerne,GROWN_DURING,Kharif
+Lucerne,AFFECTED_BY,Lepidoptera
+Lucerne,AFFECTED_BY,Lepidoptera
+Lucerne,CONTROLLED_BY,Neem Oil
+Lucerne,CONTROLLED_BY,Carbendazim
+Lucerne,CONTROLLED_BY,Cartap Hydrochloride
+Lucerne,CONTROLLED_BY,Captafol
+Lucerne,CONTROLLED_BY,Butachlor
+Lucerne,CONTROLLED_BY,Pretilachlor
+Lucerne,CONTROLLED_BY,Lindane
+Lucerne,CONTROLLED_BY,Carbofuran
+Lucerne,CONTROLLED_BY,Methyl Parathion
+Lucerne,CONTROLLED_BY,Chlorpyriphos
+Lucerne,CONTROLLED_BY,Zineb
+Lucerne,REQUIRES,Deep Black Loamy And Light Soils
+Fodder Crops,GROWN_IN,India
+Jammu & Kashmir,GROWN_IN,Paddy
+Jammu & Kashmir,GROWN_IN,Rice
+Jammu & Kashmir,GROWN_IN,Wheat
+Jammu & Kashmir,GROWN_IN,Maize
+Jammu & Kashmir,GROWN_IN,Oilseeds
+Jammu & Kashmir,GROWN_IN,Pulses
+Jammu & Kashmir,GROWN_IN,Vegetables
+Jammu & Kashmir,GROWN_IN,Fruits
+Jammu & Kashmir,GROWN_IN,Guava
+Jammu & Kashmir,GROWN_IN,Almond
+Jammu & Kashmir,GROWN_IN,Litchi
+Jammu & Kashmir,GROWN_IN,Phalsa
+Jammu & Kashmir,GROWN_IN,Ber
+Jammu & Kashmir,GROWN_DURING,Micro-Irrigation
+Jammu & Kashmir,GROWN_DURING,Micro-Irrigation
+Butachlor,CONTROLLED_BY,Pesticide
+Butachlor,CONTROLLED_BY,Bensulfuron Methyl
+Pretilachlor,CONTROLLED_BY,Pendimethalin
+Pretilachlor,CONTROLLED_BY,Weeding
+Pretilachlor,PREVENTED_BY,Insecticide
+Lindane,CONTROLLED_BY,Insect Pests
+Lindane,CONTROLLED_BY,Green Revolution
+Carbofuran,GROWN_IN,Soil
+Carbofuran,CONTROLLED_BY,Hoppers
+Methyl Parathion,CONTROLLED_BY,Mealy Bug
+Methyl Parathion,CONTROLLED_BY,Pest
+Chlorpyriphos,CONTROLLED_BY,Aphids
+Chlorpyriphos,CONTROLLED_BY,Insecticides
+Chlorpyriphos,CONTROLLED_BY,Nilaparvata Lugens
+Chlorpyriphos,CONTROLLED_BY,Beetle
+Chlorpyriphos,PREVENTED_BY,Stem Borer
+Chlorpyriphos,PREVENTED_BY,Gall Midge
+Chlorpyriphos,PREVENTED_BY,Plant Hopper
+Zineb,CONTROLLED_BY,Helminthosporium Leaf Spot
+Zineb,CONTROLLED_BY,Brown Rot
+Zineb,CONTROLLED_BY,Early Blight
+Zineb,CONTROLLED_BY,Alternaria Solani
+Zineb,CONTROLLED_BY,Late Blight
+Zineb,CONTROLLED_BY,Alternaria Solani
+Zineb,CONTROLLED_BY,Phomopsis Blight
+F.Y.M.,PREVENTED_BY,Zinc Deficiency
+Dap,REQUIRES,Pearl Millet
+Dap,REQUIRES,Soil
+Dap,REQUIRES,Crop
+Dap,REQUIRES,Water
+Dap,REQUIRES,Water
+N,REQUIRES,Maize
+P,REQUIRES,Maize
+P,REQUIRES,Rock Phosphate
+P,REQUIRES,Rumen
+Znso4,REQUIRES,Rice
+Znso4,REQUIRES,Pearl Millet
+Znso4,REQUIRES,Soil
+Znso4,REQUIRES,Crop
+Feso4,REQUIRES,Rice
+Feso4,REQUIRES,Pearl Millet
+Feso4,REQUIRES,Sorghum
+Feso4,REQUIRES,Crop
+Feso4,REQUIRES,Fym
+Anilophos,CONTROLLED_BY,"2,4 Dee"
+Acephate,CONTROLLED_BY,Pest
+Propiconazole,CONTROLLED_BY,Tobacco Caterpillar
+Copper Oxychloride,CONTROLLED_BY,Bacterial Blight
+Copper Oxychloride,CONTROLLED_BY,Sooty Mould
+Copper Oxychloride,CONTROLLED_BY,Powdery Mildew
+Copper Oxychloride,CONTROLLED_BY,Post-Emergence Damping Off
+Copper Oxychloride,CONTROLLED_BY,Disease
+Copper Oxychloride,REQUIRES,Onion
+Khaira Disease,AFFECTED_BY,Zinc Deficiency
+Bacterial Leaf Blight,AFFECTED_BY,Xanthomonas Oryzae Pv. Oryzae
+Bacterial Leaf Blight,AFFECTED_BY,Xanthomonas Oryzae Pv. Oryzae
+Bacterial Leaf Blight,CONTROLLED_BY,Hexaconazole
+Bacterial Leaf Blight,CONTROLLED_BY,Propiconazole
+Bacterial Leaf Blight,CONTROLLED_BY,Validamycin
+Bacterial Leaf Streak,GROWN_IN,India
+Bacterial Leaf Streak,GROWN_IN,Philippines
+Bacterial Leaf Streak,GROWN_IN,Philippines
+Bacterial Leaf Streak,AFFECTED_BY,Haryana
+Bacterial Leaf Streak,AFFECTED_BY,Karnataka
+Bacterial Leaf Streak,AFFECTED_BY,Maharashtra
+Bacterial Leaf Streak,AFFECTED_BY,Copper Oxychloride
+Bacterial Leaf Streak,AFFECTED_BY,West Bengal
+Bacterial Leaf Streak,AFFECTED_BY,Streptocycline
+Bacterial Leaf Streak,AFFECTED_BY,Xanthomonas Translucens
+Bacterial Leaf Streak,AFFECTED_BY,Orissa
+Bacterial Leaf Streak,AFFECTED_BY,Karnataka
+Bacterial Leaf Streak,AFFECTED_BY,Copper Oxychloride
+Bacterial Leaf Streak,AFFECTED_BY,U.P
+Bacterial Leaf Streak,AFFECTED_BY,Mp
+Bacterial Leaf Streak,AFFECTED_BY,Ap
+Bacterial Leaf Streak,CONTROLLED_BY,Genetic Resistance
+Bacterial Leaf Streak,CONTROLLED_BY,Ir 20
+Bacterial Leaf Streak,CONTROLLED_BY,Krishna
+Bacterial Leaf Streak,CONTROLLED_BY,Jagannath
+Sheath Blight,CAUSES,Rhizoctonia Solani
+Sheath Rot,AFFECTED_BY,Stem Rot
+Sheath Rot,CONTROLLED_BY,Carbendazim
+Sheath Rot,CONTROLLED_BY,Thiram
+Sheath Rot,CONTROLLED_BY,Captan
+Sheath Rot,CONTROLLED_BY,Thiram
+Sheath Rot,CONTROLLED_BY,Captan
+Blast,AFFECTED_BY,Rice
+Blast,CONTROLLED_BY,Mancozeb
+Blast,CONTROLLED_BY,Carbendazim
+Blast,CONTROLLED_BY,Tricyclozole
+Blast,CONTROLLED_BY,Isoprothiolan
+Thread Worms,AFFECTED_BY,Cartap Hydrochloride
+Thread Worms,AFFECTED_BY,Lindane
+Thread Worms,AFFECTED_BY,Carbofuran
+Thread Worms,AFFECTED_BY,Chlorpyriphos
+Leaf Hoppers,AFFECTED_BY,Thiamethoxam
+Leaf Hoppers,AFFECTED_BY,Imidacloprid
+Leaf Hoppers,AFFECTED_BY,Methyl Parathion
+Leaf Hoppers,AFFECTED_BY,Acephate
+Leaf Hoppers,AFFECTED_BY,Monocrotophos 36 Sl
+Leaf Hoppers,REQUIRES,Nitrogenous Fertilizers
+Grass Hopper,AFFECTED_BY,Malathion
+Grass Hopper,AFFECTED_BY,Cartap Hydrochloride
+Grass Hopper,AFFECTED_BY,Methyl Parathion
+Grass Hopper,AFFECTED_BY,Chlorpyriphos
+Thiram,CONTROLLED_BY,Seed Treatment
+Thiram,CONTROLLED_BY,Seeds
+Thiram,CONTROLLED_BY,Seeds
+Thiram,CONTROLLED_BY,Fusarium Oxysporum F.Sp.Udum
+Thiram,CONTROLLED_BY,Seedlings
+Thiram,CONTROLLED_BY,Early Blight
+Thiram,CONTROLLED_BY,Alternaria Sesami
+Thiram,CONTROLLED_BY,Fusarium Oxysporum F.Sp. Ricini
+Thiram,CONTROLLED_BY,Nematopsora Gossypii
+Tricyclazole,CONTROLLED_BY,Brown Spot
+Drum Seeder,AFFECTED_BY,Water
+Drum Seeder,AFFECTED_BY,Water
+K,REQUIRES,Maize
+Vijay,GROWN_IN,Maize
+Captan,CONTROLLED_BY,Pesticides
+Captan,CONTROLLED_BY,Damping Off
+Captan,CONTROLLED_BY,Seed Treatment
+Captan,CONTROLLED_BY,Seedlings
+Captan,CONTROLLED_BY,Damping Off
+Captan,CONTROLLED_BY,Brown Rot
+Captan,CONTROLLED_BY,Early Blight
+Captan,CONTROLLED_BY,Botryodiplodia Palmarum
+Captan,CONTROLLED_BY,Alternaria Sesami
+Carboxin,CONTROLLED_BY,Seed Treatment
+Carboxin,CONTROLLED_BY,Stem Rot
+Carboxin,CONTROLLED_BY,Root Rot
+Atrazine,CONTROLLED_BY,Weeds
+Pendimethalin,CONTROLLED_BY,Irrigation
+Pendimethalin,CONTROLLED_BY,Weed Management
+Pendimethalin,CONTROLLED_BY,Crop
+Pendimethalin,CONTROLLED_BY,Pesticide
+Pendimethalin,CONTROLLED_BY,Weeds
+Pendimethalin,CONTROLLED_BY,Hand Weeding
+Pendimethalin,CONTROLLED_BY,Imazethapyr
+Pendimethalin,CONTROLLED_BY,Quizalofop Ethyl
+Pendimethalin,CONTROLLED_BY,Imazythypur
+Pendimethalin,CONTROLLED_BY,Weeding
+Pendimethalin,PREVENTED_BY,Insecticide
+Fluchloralin,CONTROLLED_BY,Weeds
+Methyl Demeton,CONTROLLED_BY,Aphids
+Methyl Demeton,CONTROLLED_BY,Orosius Albicinctus
+Methyl Demeton,CONTROLLED_BY,Eublemma Hemirrhoda
+Cypermethrin,CONTROLLED_BY,Insecticides
+Cypermethrin,CONTROLLED_BY,Stem Borer
+Deltamethrin,CONTROLLED_BY,Stem Borer
+Hairy Caterpillars,AFFECTED_BY,Maize
+Maize Cut Worm,AFFECTED_BY,Maize
+Sclerospora Graminicola,GROWN_IN,Punjab
+Sclerospora Graminicola,AFFECTED_BY,High Relative Humidity
+Sclerospora Graminicola,HAS_SYMPTOM,Yellowing
+Trap Crop,CONTROLLED_BY,Insect Pests
+Trap Crop,CONTROLLED_BY,Insect Traps
+Intercropping,GROWN_IN,Crop Rotation
+Intercropping,CONTROLLED_BY,Castor
+Crop Rotation,CONTROLLED_BY,Sugarcane
+Crop Rotation,PREVENTED_BY,Anthracnose
+Crop Rotation,PREVENTED_BY,Red Rot
+Crop Rotation,PREVENTED_BY,Oospores
+Crop Rotation,PREVENTED_BY,Oospores
+Crop Rotation,PREVENTED_BY,Oospores
+Crop Rotation,PREVENTED_BY,Groundnut Rosette Virus
+Crop Rotation,PREVENTED_BY,White Rust
+Bacterial Blight,GROWN_IN,India
+Bacterial Blight,GROWN_IN,Bangladesh
+Bacterial Blight,GROWN_IN,West Africa
+Bacterial Blight,GROWN_IN,Tropical Regions
+Bacterial Blight,GROWN_IN,Temperate Regions
+Bacterial Blight,AFFECTED_BY,Xanthomonas Oryzae Pv. Oryzicola
+Bacterial Blight,AFFECTED_BY,Godavari
+Bacterial Blight,AFFECTED_BY,Godavari
+Bacterial Blight,CONTROLLED_BY,Vitavax
+Bacterial Blight,CONTROLLED_BY,Streptocycline
+Bacterial Blight,CONTROLLED_BY,Oxytetracycline
+Cheena,GROWN_IN,Doda
+Cheena,GROWN_DURING,July
+Cheena,GROWN_DURING,June
+Salan,GROWN_IN,Doda
+Salan,GROWN_DURING,Monsoon
+Kangni,GROWN_IN,Doda
+Kangni,GROWN_DURING,May
+Monsoon,GROWN_DURING,Rice
+Monsoon,GROWN_DURING,India
+Monsoon,AFFECTED_BY,Irrigation
+Monsoon,DEPENDS_ON,Irrigation
+Monsoon,DEPENDS_ON,Irrigation
+May,GROWN_DURING,Pigeonpea
+Groundnut,GROWN_IN,Cotton
+Groundnut,GROWN_IN,Andhra Pradesh
+Groundnut,GROWN_IN,Soil
+Groundnut,GROWN_IN,Punjab
+Groundnut,GROWN_IN,Haryana
+Groundnut,GROWN_IN,India
+Groundnut,GROWN_IN,Karnataka
+Groundnut,GROWN_IN,Tamil Nadu
+Groundnut,GROWN_IN,Gujarat
+Groundnut,GROWN_IN,Odisha
+Groundnut,GROWN_IN,Sub-Tropical Area
+Groundnut,GROWN_IN,Madhya Pradesh
+Groundnut,GROWN_IN,Meghalaya
+Groundnut,GROWN_IN,Telangana
+Groundnut,GROWN_IN,Tripura
+Groundnut,GROWN_IN,Uttar Pradesh
+Groundnut,GROWN_IN,West Bengal
+Groundnut,GROWN_IN,Coconut Gardens
+Groundnut,GROWN_IN,Andhra Pradesh
+Groundnut,GROWN_IN,North India
+Groundnut,GROWN_IN,Southeastern Region
+Groundnut,GROWN_DURING,Kharif
+Groundnut,GROWN_DURING,Rabi
+Groundnut,GROWN_DURING,Irrigation
+Groundnut,GROWN_DURING,Castor
+Groundnut,GROWN_DURING,June -July
+Groundnut,GROWN_DURING,Thaladi
+Groundnut,GROWN_DURING,Dryland Agriculture
+Groundnut,GROWN_DURING,Season
+Groundnut,GROWN_DURING,Low Temperature
+Groundnut,GROWN_DURING,Prolonged Rainy Season
+Groundnut,AFFECTED_BY,Malathion
+Groundnut,AFFECTED_BY,Irrigation
+Groundnut,AFFECTED_BY,Dimethoate
+Groundnut,AFFECTED_BY,Rust
+Groundnut,AFFECTED_BY,High Relative Humidity
+Groundnut,AFFECTED_BY,Thrips Palmi
+Groundnut,AFFECTED_BY,Groundnut Bud Necrosis Virus
+Groundnut,AFFECTED_BY,Low Temperature
+Groundnut,AFFECTED_BY,Groundnut Rosette Assistor Virus
+Groundnut,AFFECTED_BY,Groundnut Rosette Virus
+Groundnut,AFFECTED_BY,Aphis Craccivora
+Groundnut,AFFECTED_BY,A. Gossipii
+Groundnut,AFFECTED_BY,T. Tabaci
+Groundnut,AFFECTED_BY,Frankliniella Sp.
+Groundnut,AFFECTED_BY,Heavy Rainfall
+Groundnut,AFFECTED_BY,A. Flavus
+Groundnut,AFFECTED_BY,Oxydemeton Methyl
+Groundnut,CONTROLLED_BY,Irrigation
+Groundnut,CONTROLLED_BY,Mancozeb
+Groundnut,CONTROLLED_BY,Carbendazim
+Groundnut,CONTROLLED_BY,Trichoderma Viride
+Groundnut,CONTROLLED_BY,Trichoderma Viride
+Groundnut,CONTROLLED_BY,Gujarat
+Groundnut,CONTROLLED_BY,Thiram
+Groundnut,CONTROLLED_BY,Captan
+Groundnut,CONTROLLED_BY,Trichoderma Viride
+Groundnut,CONTROLLED_BY,T.Harzianum
+Groundnut,CONTROLLED_BY,Chlorothalonil
+Groundnut,CONTROLLED_BY,Trichoderma Viride
+Groundnut,CONTROLLED_BY,Copper Oxy Chloride
+Groundnut,CONTROLLED_BY,Thiram
+Groundnut,CONTROLLED_BY,Captan
+Groundnut,CONTROLLED_BY,Trichoderma Viride
+Groundnut,CONTROLLED_BY,T.Harzianum
+Groundnut,CONTROLLED_BY,Deep Summer Ploughing
+Groundnut,CONTROLLED_BY,Crop Rotation With Millets
+Groundnut,CONTROLLED_BY,Intercropping With Bajra
+Groundnut,CONTROLLED_BY,Spacing Of 15X15 Cm
+Groundnut,CONTROLLED_BY,Groundnut Digger Shaker
+Groundnut,DEPENDS_ON,Aphid
+Groundnut,DEPENDS_ON,"1,000 Mm"
+Groundnut,REQUIRES,Neem Cake
+Groundnut,REQUIRES,Water
+Groundnut,REQUIRES,Phosphorus
+Groundnut,REQUIRES,Water
+Groundnut,REQUIRES,500 Mm
+Groundnut,REQUIRES,"1,250 Mm"
+Groundnut,REQUIRES,100 Mm
+Groundnut,REQUIRES,150 Mm
+Groundnut,REQUIRES,400-500 Mm
+Groundnut,REQUIRES,Castor Cake
+Groundnut,REQUIRES,Mustard Cake
+Groundnut,REQUIRES,Nitrogen
+Groundnut,REQUIRES,Magnesium
+Groundnut,REQUIRES,Nitrogen
+Groundnut,REQUIRES,Low-Lying And Ill Drained Soils
+Groundnut,REQUIRES,Black Cotton Soils
+Groundnut,PREVENTED_BY,Crop Rotation
+Groundnut,PREVENTED_BY,Green Manuring
+Groundnut,PREVENTED_BY,Clean Cultivation
+Groundnut,PREVENTED_BY,Heavy Seed Rate
+Groundnut,PREVENTED_BY,Intercropping With Red Gram
+Mash,GROWN_DURING,Kharif
+Mash,CONTROLLED_BY,Fluchloralin
+Mash,DEPENDS_ON,Phosphorus
+Mash,REQUIRES,Rhizobium Culture
+Moong,GROWN_IN,India
+Moong,GROWN_DURING,Kharif
+Moong,CONTROLLED_BY,Pendimethalin
+Moong,DEPENDS_ON,Phosphorus
+Moong,REQUIRES,Rhizobium Culture
+Moong,PREVENTED_BY,Excess Rainfall
+Soybean,GROWN_IN,India
+Soybean,GROWN_IN,Madhya Pradesh
+Soybean,GROWN_IN,Erode
+Soybean,GROWN_IN,Erode
+Soybean,GROWN_IN,Malwa Plateau
+Soybean,GROWN_IN,Vindhyan Plateau
+Soybean,GROWN_IN,Central Narmada Valley
+Soybean,GROWN_IN,Indo-Gangetic Plains
+Soybean,GROWN_DURING,Kharif
+Soybean,GROWN_DURING,Summer
+Soybean,GROWN_DURING,July
+Soybean,GROWN_DURING,Monsoon
+Soybean,GROWN_DURING,South-West
+Soybean,GROWN_DURING,North-East
+Soybean,GROWN_DURING,Dryland Agriculture
+Soybean,AFFECTED_BY,Pests
+Soybean,AFFECTED_BY,Fungus
+Soybean,AFFECTED_BY,Rodents
+Soybean,AFFECTED_BY,Pest
+Soybean,AFFECTED_BY,Root Rot
+Soybean,AFFECTED_BY,Yellow Mosaic
+Soybean,AFFECTED_BY,Bud Blight
+Soybean,AFFECTED_BY,Girdle Beetle
+Soybean,AFFECTED_BY,Caterpillar
+Soybean,AFFECTED_BY,Mosaic
+Soybean,AFFECTED_BY,Wilt
+Soybean,DEPENDS_ON,Phosphorus
+Soybean,REQUIRES,Pesticides
+Soybean,REQUIRES,Rhizobium Culture
+Stem Rot,GROWN_IN,India
+Stem Rot,GROWN_IN,Japan
+Stem Rot,GROWN_IN,Japan
+Stem Rot,AFFECTED_BY,Fungi
+Stem Rot,AFFECTED_BY,Fungi
+Stem Rot,CONTROLLED_BY,Pseudomonas Fluorescens
+Stem Rot,CONTROLLED_BY,Pseudomonas Fluorescens
+Stem Rot,CONTROLLED_BY,Pseudomonas Fluorescens
+Stem Rot,CONTROLLED_BY,Pseudomonas Fluorescens
+Leaf Miner,AFFECTED_BY,Dimethoate
+White Grub,GROWN_IN,India
+White Grub,GROWN_DURING,Monsoon
+White Grub,GROWN_DURING,Rainy Season
+White Grub,GROWN_DURING,Monsoon
+White Grub,AFFECTED_BY,Heptachlor
+White Grub,AFFECTED_BY,Lindane
+White Grub,AFFECTED_BY,Chlorpyriphos
+White Grub,AFFECTED_BY,Carbendazium
+White Grub,AFFECTED_BY,Grub
+White Grub,REQUIRES,Cotton
+White Grub,REQUIRES,Bajra
+White Grub,REQUIRES,Jowar
+White Grub,REQUIRES,Sunflower
+White Grub,REQUIRES,Maize
+White Grub,REQUIRES,Sugarcane
+White Grub,REQUIRES,Groundnut
+White Grub,REQUIRES,Sesamum
+White Grub,REQUIRES,Tobacco
+White Grub,REQUIRES,Chilles
+White Grub,REQUIRES,Bhindi
+Termites,CONTROLLED_BY,Neem Oil
+Termites,CONTROLLED_BY,Lindane
+Phosphorus,DEPENDS_ON,Fertilizers
+Phosphorus,REQUIRES,Indigenous Vegetable Crops
+Gypsum,AFFECTED_BY,Soil Moisture
+Gypsum,CONTROLLED_BY,Punjab
+Gypsum,CONTROLLED_BY,Fym
+Gypsum,CONTROLLED_BY,Sodicity
+Gypsum,CONTROLLED_BY,Punjab
+Gypsum,REQUIRES,Sugarcane
+Gypsum,REQUIRES,Soil
+Gypsum,REQUIRES,Soil Health
+Gypsum,REQUIRES,Sulphur
+Gypsum,REQUIRES,Calcium
+Gypsum,REQUIRES,Sulphur
+Gypsum,REQUIRES,Calcareous Soils
+Gypsum,REQUIRES,Sulphur
+Gypsum,PREVENTED_BY,Sarocladium Oryzae
+Water Logging,AFFECTED_BY,Crop
+Water Logging,AFFECTED_BY,Floods
+Water Logging,AFFECTED_BY,Floods
+Water Logging,PROMOTES,Pyrilla
+Sunhemp,GROWN_IN,Tamil Nadu
+Sunhemp,GROWN_IN,Tamil Nadu
+Sunhemp,CONTROLLED_BY,Soil Health
+Hairy Caterpillar,AFFECTED_BY,Sunhemp
+Anthracnose,AFFECTED_BY,High Humidity
+Anthracnose,AFFECTED_BY,Colletotrichum Gloeosporioides
+Anthracnose,AFFECTED_BY,Colletotrichum Gloeosporioides
+Anthracnose,CONTROLLED_BY,Mancozeb
+Anthracnose,CONTROLLED_BY,Carbendazim
+Anthracnose,CONTROLLED_BY,Copper Oxychloride
+Anthracnose,CONTROLLED_BY,Copper Oxychloride
+Cowpeas,GROWN_IN,Rainfed
+Cowpeas,GROWN_IN,Irrigated
+Cowpeas,GROWN_DURING,April
+Cowpeas,GROWN_DURING,July
+Cowpeas,CONTROLLED_BY,Rhizobium
+Cowpeas,CONTROLLED_BY,Rhizobium
+Cowpeas,REQUIRES,N
+Cowpeas,REQUIRES,P
+Teosinte,GROWN_DURING,May
+Teosinte,GROWN_DURING,October
+Teosinte,AFFECTED_BY,Downy Mildew
+Teosinte,AFFECTED_BY,Helminthosporium Maydis
+Teosinte,REQUIRES,Irrigation
+Jammu & Kashmir,GROWN_IN,Paddy
+Jammu & Kashmir,GROWN_IN,Rice
+Jammu & Kashmir,GROWN_IN,Wheat
+Jammu & Kashmir,GROWN_IN,Maize
+Jammu & Kashmir,GROWN_IN,Oilseeds
+Jammu & Kashmir,GROWN_IN,Pulses
+Jammu & Kashmir,GROWN_IN,Vegetables
+Jammu & Kashmir,GROWN_IN,Fruits
+Jammu & Kashmir,GROWN_IN,Guava
+Jammu & Kashmir,GROWN_IN,Almond
+Jammu & Kashmir,GROWN_IN,Litchi
+Jammu & Kashmir,GROWN_IN,Phalsa
+Jammu & Kashmir,GROWN_IN,Ber
+Jammu & Kashmir,GROWN_DURING,Micro-Irrigation
+Jammu & Kashmir,GROWN_DURING,Micro-Irrigation
+Irrigated,REQUIRES,Water
+Irrigated,REQUIRES,Water
+Green Fodder,AFFECTED_BY,Pests
+Green Fodder,AFFECTED_BY,Diseases
+Green Fodder,AFFECTED_BY,Weeds
+Green Fodder,REQUIRES,Forage Crops
+Weeds,AFFECTED_BY,Pesticides
+Weeds,AFFECTED_BY,Integrated Pest Management
+Weeds,AFFECTED_BY,Herbicide
+Weeds,AFFECTED_BY,Predatory Insects
+Weeds,CONTROLLED_BY,Integrated Pest Management (Ipm)
+Weeds,CONTROLLED_BY,Herbicide
+Weeds,CONTROLLED_BY,Mechanical Weeding
+Weeds,CONTROLLED_BY,Flooding
+Weeds,CONTROLLED_BY,Biological Control
+Berseem,GROWN_IN,India
+Berseem,AFFECTED_BY,Root And Stem Rot
+Oat,GROWN_IN,India
+Paddy Straw,REQUIRES,Mushroom
+Euphorbia,GROWN_IN,Whitefly
+Setaria,GROWN_DURING,July-Aug.
+Saccharum,AFFECTED_BY,Red Rot
+Hybrid Napier,GROWN_DURING,July-Aug.
+Red Rot,GROWN_IN,India
+Red Rot,GROWN_DURING,Summer
+Red Rot,GROWN_DURING,Winter
+Red Rot,GROWN_DURING,North-East Monsoon
+Red Rot,AFFECTED_BY,Mancozeb
+Red Rot,CONTROLLED_BY,Mancozeb
+Red Rot,CONTROLLED_BY,Carbendazim
+Red Rot,CONTROLLED_BY,Copper Oxychloride
+Red Rot,CONTROLLED_BY,Copper Oxychloride
+Red Rot,REQUIRES,Nitrogenous Fertilizers
+Kashmir,GROWN_DURING,Off-Season Vegetables
+Kashmir,GROWN_DURING,Main-Season Vegetables
+Kashmir,AFFECTED_BY,Erratic Rainfall
+Trichoderma Spp.,AFFECTED_BY,Fusarium
+Trichoderma Spp.,AFFECTED_BY,Fusarium
+Trichoderma Spp.,AFFECTED_BY,Rhizoctonia
+Trichoderma Spp.,AFFECTED_BY,Sclerotinia
+Trichoderma Spp.,AFFECTED_BY,Pythium
+Trichoderma Spp.,AFFECTED_BY,Rhizoctonia
+Trichoderma Spp.,AFFECTED_BY,Sclerotinia
+Trichoderma Spp.,AFFECTED_BY,Pythium
+Trichoderma Spp.,CONTROLLED_BY,Plant Pathogens
+Trichoderma Spp.,CONTROLLED_BY,T. Viride
+Trichoderma Spp.,CONTROLLED_BY,T. Viride
+Trichoderma Spp.,CONTROLLED_BY,T. Harzianum
+Trichoderma Spp.,CONTROLLED_BY,T. Harzianum
+Trichoderma Spp.,CONTROLLED_BY,Plant Pathogens
+Trichoderma Spp.,CONTROLLED_BY,T. Virens
+Trichoderma Spp.,CONTROLLED_BY,T. Koningii
+Diammonium Phosphate,REQUIRES,Cotton
+Farm Yard Manure,REQUIRES,Soil
+Farm Yard Manure,REQUIRES,Fertilizer
+Farm Yard Manure,REQUIRES,Gliricidia Maculate
+Ratoon Crop,DEPENDS_ON,N
+Blight,CONTROLLED_BY,Carbendazim
+Mushroom,GROWN_IN,India
+Mushroom,GROWN_IN,Tamil Nadu
+Mushroom,GROWN_IN,Manipur
+Mushroom,GROWN_IN,Tamil Nadu
+Mushroom,GROWN_DURING,April
+Mushroom,GROWN_DURING,July
+Mushroom,GROWN_DURING,May
+Mushroom,GROWN_DURING,June
+Mushroom,GROWN_DURING,February
+Mushroom,GROWN_DURING,August
+Mushroom,GROWN_DURING,September
+Mushroom,GROWN_DURING,October
+Mushroom,GROWN_DURING,November
+Mushroom,GROWN_DURING,December
+Mushroom,GROWN_DURING,January
+Mushroom,CONTROLLED_BY,Low-Cost Mushroom Unit
+Mushroom,REQUIRES,Potato Dextrose Agar
+August,GROWN_DURING,Bittergourd
+August,GROWN_DURING,Radish
+August,GROWN_DURING,Bottlegourd
+August,GROWN_DURING,Lufa
+August,GROWN_DURING,Lobia
+September,GROWN_DURING,Pigeonpea
+October,GROWN_DURING,Pigeonpea
+December,GROWN_DURING,Pigeonpea
+January,GROWN_DURING,Pigeonpea
+Bihar,GROWN_IN,Rice
+Bihar,GROWN_IN,Food Grains
+Bihar,GROWN_IN,Pigeon Pea
+Bihar,GROWN_IN,Land
+Bihar,CONTROLLED_BY,Chickpea
+Eastern States,GROWN_IN,India
+Covid-19,AFFECTED_BY,Agriculture
+Covid-19,AFFECTED_BY,Combine Harvester
+Agriculture,GROWN_IN,India
+Agriculture,CONTROLLED_BY,Green Revolution
+Agriculture,CONTROLLED_BY,Institutional Credit
+Agriculture,CONTROLLED_BY,Institutional Credit
+Agriculture,CONTROLLED_BY,Green Revolution
+Agriculture,DEPENDS_ON,Irrigation
+Agriculture,DEPENDS_ON,Monsoon
+Agriculture,DEPENDS_ON,Monsoon
+Livestock,GROWN_IN,Punjab
+Livestock,GROWN_IN,India
+Livestock,GROWN_IN,West Bengal
+Livestock,GROWN_IN,Punjab
+Livestock,AFFECTED_BY,Fmd
+Livestock,AFFECTED_BY,Lsd
+Livestock,AFFECTED_BY,Haemorrhagic Septicaemia
+Livestock,AFFECTED_BY,Brucellosis
+Livestock,AFFECTED_BY,Ppr
+Livestock,AFFECTED_BY,Goatpox
+Livestock,AFFECTED_BY,Sheeppox
+Livestock,AFFECTED_BY,Ccpp
+Livestock,AFFECTED_BY,Classical Swine Fever
+Livestock,AFFECTED_BY,African Swine Fever
+Livestock,DEPENDS_ON,Fodder
+Livestock,DEPENDS_ON,Forage Crops
+Forestry,GROWN_IN,India
+Fisheries,GROWN_IN,India
+Fisheries,GROWN_IN,Goa
+Green Revolution,GROWN_DURING,1960S
+Green Revolution,AFFECTED_BY,Punjab
+Green Revolution,AFFECTED_BY,Cimmyt
+Green Revolution,AFFECTED_BY,Punjab
+Green Revolution,AFFECTED_BY,Cimmyt
+Green Revolution,AFFECTED_BY,Irri
+Green Revolution,AFFECTED_BY,High-Yielding Varieties
+Green Revolution,AFFECTED_BY,Hyvp
+Green Revolution,AFFECTED_BY,High Yielding Variety Program
+Green Revolution,CONTROLLED_BY,Food Security
+Green Revolution,CONTROLLED_BY,Food Security
+Green Revolution,CONTROLLED_BY,Intensive Agricultural District Program
+Green Revolution,CONTROLLED_BY,National Seeds Corporation
+Green Revolution,REQUIRES,Hybrid Seeds
+Green Revolution,REQUIRES,Synthetic Fertilizer
+Green Revolution,REQUIRES,Insect Repellents
+Blue Revolution,GROWN_DURING,1973-2002
+Agri-Gdp,AFFECTED_BY,Agriculture
+Nabard,GROWN_IN,India
+Nabard,HAS_SYMPTOM,Farmers' Welfare
+Department Of Economic Analysis And Research,HAS_SYMPTOM,Farmers' Welfare
+Assam,GROWN_IN,Rice
+Assam,GROWN_IN,Food Grains
+Assam,GROWN_IN,India
+Assam,GROWN_IN,Coconut
+Jharkhand,GROWN_IN,Paddy
+Jharkhand,GROWN_IN,Rice
+Jharkhand,GROWN_IN,Maize
+Jharkhand,GROWN_IN,Pulses
+Jharkhand,GROWN_IN,Food Grains
+Jharkhand,GROWN_IN,Papaya
+Jharkhand,GROWN_IN,Tasar Silk
+Jharkhand,GROWN_IN,Freshwater Fish
+Chhattisgarh,GROWN_IN,Rice
+Chhattisgarh,GROWN_IN,Food Grains
+Millets,GROWN_IN,Punjab
+Millets,GROWN_IN,India
+Millets,GROWN_IN,Eastern Region
+Millets,GROWN_IN,Adilabad
+Millets,GROWN_IN,Konkan Region
+Millets,GROWN_IN,Adilabad
+Millets,GROWN_DURING,Wet Season
+Millets,DEPENDS_ON,"1,000 Mm"
+Millets,DEPENDS_ON,"1,400 Mm"
+Millets,DEPENDS_ON,"1,600 Mm"
+Millets,REQUIRES,Black Cotton Soils
+Jute,GROWN_IN,Punjab
+Jute,GROWN_IN,India
+Jute,GROWN_IN,West Bengal
+Jute,GROWN_IN,Jute Stem Weevil
+Jute,GROWN_IN,North East Region
+Jute,GROWN_DURING,Capsularis
+Jute,CONTROLLED_BY,Icar
+Jute,CONTROLLED_BY,Icar
+Jute,CONTROLLED_BY,Icar
+Tea,GROWN_IN,Punjab
+Tea,GROWN_IN,India
+Tea,GROWN_IN,Tripura
+Tea,GROWN_IN,North East Region
+Coffee,GROWN_IN,Punjab
+Coffee,GROWN_IN,India
+Coffee,GROWN_IN,Brazil
+Coffee,GROWN_IN,Visakhapatnam
+Coffee,GROWN_DURING,Brown Revolution
+Coffee,PREVENTED_BY,Chemical Fertilizers
+Castor,GROWN_IN,India
+Castor,GROWN_IN,Sri Lanka
+Castor,GROWN_IN,Kalrayan Hills
+Castor,GROWN_IN,Javadhu Hills
+Castor,GROWN_IN,Yelagiri Hills
+Castor,GROWN_IN,Thailand
+Castor,GROWN_IN,Pakistan
+Castor,GROWN_IN,Thailand
+Castor,GROWN_DURING,Maize
+Castor,AFFECTED_BY,Hairy Caterpillars
+Castor,AFFECTED_BY,White Fly
+Castor,AFFECTED_BY,Leaf Hopper
+Castor,AFFECTED_BY,Powdery Mildew
+Castor,AFFECTED_BY,Phytophthora Blight
+Castor,AFFECTED_BY,Stem Blight
+Sesamum,GROWN_IN,Kathua
+Sesamum,GROWN_IN,Coconut Gardens
+Sesamum,GROWN_IN,Irrigated Conditions
+Linseed,GROWN_IN,India
+Pigeon Pea,GROWN_IN,India
+Pigeon Pea,GROWN_IN,Intra-Canopy Sprayer
+Pigeon Pea,GROWN_DURING,Kharif
+Pigeon Pea,GROWN_DURING,Rainy Season
+Pigeon Pea,AFFECTED_BY,Disease Resistance
+Pigeon Pea,AFFECTED_BY,Pigeon Pea Sterility Mosaic Virus
+Pigeon Pea,AFFECTED_BY,Pigeon Pea Sterility Mosaic Virus
+Pigeon Pea,CONTROLLED_BY,Irrigation
+Pigeon Pea,REQUIRES,Water
+Pigeon Pea,REQUIRES,Water
+Pigeon Pea,REQUIRES,683 Kg/Hectare
+Black Gram,GROWN_IN,India
+Black Gram,GROWN_IN,Kathua
+Black Gram,GROWN_IN,Pattukottai
+Black Gram,GROWN_DURING,Castor
+Black Gram,GROWN_DURING,Jan.-Feb.
+Black Gram,AFFECTED_BY,Aphids
+Black Gram,AFFECTED_BY,Downy Mildew
+Black Gram,AFFECTED_BY,Helminthosporium Maydis
+Black Gram,CONTROLLED_BY,Malathion
+Black Gram,CONTROLLED_BY,Dimethoate
+Black Gram,CONTROLLED_BY,Methyl Demeton
+Black Gram,CONTROLLED_BY,Phosalone
+Black Gram,CONTROLLED_BY,Imidaclorpid
+Western Region,GROWN_IN,Andhra Pradesh
+Western Region,GROWN_IN,Maharashtra
+Western Region,GROWN_IN,Gujarat
+Western Region,GROWN_IN,Gujarat
+Western Region,GROWN_IN,Andhra Pradesh
+Western Region,GROWN_IN,Mysore
+Western Region,GROWN_IN,Mysore
+Western Region,REQUIRES,Irrigation
+Western Region,HAS_SYMPTOM,Black Cotton Soil
+Southern Region,GROWN_IN,Andhra Pradesh
+Southern Region,GROWN_IN,Maharashtra
+Southern Region,GROWN_IN,Andhra Pradesh
+Southern Region,GROWN_IN,Mysore
+Southern Region,GROWN_IN,South Gujarat
+Southern Region,GROWN_IN,Mysore
+Southern Region,GROWN_IN,Madras
+Micro Irrigation,CONTROLLED_BY,Sugarcane
+Micro Irrigation,CONTROLLED_BY,Sustainable Agriculture
+Micro Irrigation,CONTROLLED_BY,Potato
+Black Pepper,GROWN_IN,India
+Black Pepper,GROWN_IN,North East Region
+Bamboo,GROWN_IN,India
+Bamboo,GROWN_IN,Manipur
+Bamboo,GROWN_IN,Tripura
+Bamboo,GROWN_IN,Bamboo
+Bamboo,GROWN_IN,Bamboo
+Asparagus,GROWN_IN,India
+Asparagus,GROWN_IN,Bihar
+Asparagus,AFFECTED_BY,Leaf Blight
+Celery,GROWN_IN,Bihar
+Bell Pepper,GROWN_IN,Bihar
+Bell Pepper,AFFECTED_BY,Sun Scald
+Sweet Corn,GROWN_IN,Bihar
+Green Beans,GROWN_IN,Bihar
+Lima Beans,GROWN_IN,Bihar
+Lima Beans,AFFECTED_BY,Tetranychus Urticae
+Gherkins,GROWN_IN,Bihar
+Medicinal Plants,GROWN_IN,Jammu And Kashmir
+Medicinal Plants,GROWN_IN,India
+Medicinal Plants,GROWN_IN,Bihar
+Medicinal Plants,GROWN_IN,Jammu And Kashmir
+Medicinal Plants,GROWN_IN,Tripura
+Aromatic Plants,GROWN_IN,Jammu And Kashmir
+Aromatic Plants,GROWN_IN,India
+Aromatic Plants,GROWN_IN,Bihar
+Aromatic Plants,GROWN_IN,Jammu And Kashmir
+Dairy,DEPENDS_ON,Fodder
+Ground Water,DEPENDS_ON,Agriculture
+Ground Water,DEPENDS_ON,Agriculture
+Rainwater Harvesting,CONTROLLED_BY,Sugarcane
+Rainwater Harvesting,CONTROLLED_BY,Water Management
+Rainwater Harvesting,REQUIRES,Rain
+Agroforestry,GROWN_IN,Tamil Nadu
+Agroforestry,GROWN_IN,Tamil Nadu
+Agroforestry,GROWN_IN,Climate Resilient Varieties
+Agroforestry,AFFECTED_BY,Climate Change
+Agroforestry,PROVIDES,Fodder
+Horticulture,GROWN_IN,India
+Micro Irrigation,CONTROLLED_BY,Sugarcane
+Micro Irrigation,CONTROLLED_BY,Sustainable Agriculture
+Micro Irrigation,CONTROLLED_BY,Potato
+Goa,GROWN_IN,Maize
+Goa,GROWN_DURING,Brackishwater
+Sugar Cane,GROWN_IN,Goa
+Cashew,GROWN_IN,India
+Cashew,GROWN_IN,Goa
+Mangoes,GROWN_IN,Fruits
+Mangoes,GROWN_IN,Goa
+Jackfruits,GROWN_IN,Goa
+Bananas,GROWN_IN,Goa
+Pineapples,GROWN_IN,Goa
+Condiments,GROWN_IN,Gujarat
+Sapota,GROWN_IN,India
+Tractors,REQUIRES,Farm Mechanisation
+Rotavator,REQUIRES,Soil
+Rotavator,REQUIRES,Farm Mechanisation
+Laser Leveller,REQUIRES,Farm Mechanisation
+Harvester,REQUIRES,Farm Mechanisation
+Fpo Policy,PROMOTES,Fpos
+Himachal Pradesh,GROWN_IN,Bajra
+Himachal Pradesh,GROWN_IN,Maize
+Himachal Pradesh,GROWN_IN,Vegetables
+Himachal Pradesh,GROWN_IN,Apple
+Himachal Pradesh,GROWN_IN,Groundnut
+Himachal Pradesh,GROWN_IN,Temperate Fruits
+Himachal Pradesh,GROWN_IN,Citrus Fruits
+Himachal Pradesh,GROWN_IN,Soyabean
+Himachal Pradesh,GROWN_DURING,Micro-Irrigation
+Himachal Pradesh,GROWN_DURING,Micro-Irrigation
+Citrus Fruits,GROWN_IN,Punjab
+Citrus Fruits,GROWN_IN,Punjab
+Jammu & Kashmir,GROWN_IN,Paddy
+Jammu & Kashmir,GROWN_IN,Rice
+Jammu & Kashmir,GROWN_IN,Wheat
+Jammu & Kashmir,GROWN_IN,Maize
+Jammu & Kashmir,GROWN_IN,Oilseeds
+Jammu & Kashmir,GROWN_IN,Pulses
+Jammu & Kashmir,GROWN_IN,Vegetables
+Jammu & Kashmir,GROWN_IN,Fruits
+Jammu & Kashmir,GROWN_IN,Guava
+Jammu & Kashmir,GROWN_IN,Almond
+Jammu & Kashmir,GROWN_IN,Litchi
+Jammu & Kashmir,GROWN_IN,Phalsa
+Jammu & Kashmir,GROWN_IN,Ber
+Jammu & Kashmir,GROWN_DURING,Micro-Irrigation
+Jammu & Kashmir,GROWN_DURING,Micro-Irrigation
+Almond,GROWN_IN,India
+Litchi,GROWN_IN,India
+Litchi,GROWN_IN,Tripura
+Litchi,GROWN_IN,West Bengal
+Ber,GROWN_IN,India
+Ber,GROWN_IN,Northern India
+Jammu And Kashmir,GROWN_IN,Paddy
+Jammu And Kashmir,GROWN_IN,Rice
+Jammu And Kashmir,GROWN_IN,Wheat
+Jammu And Kashmir,GROWN_IN,Barley
+Jammu And Kashmir,GROWN_IN,Maize
+Jammu And Kashmir,GROWN_IN,Vegetables
+Jammu And Kashmir,GROWN_IN,Ladakh
+Jammu And Kashmir,GROWN_IN,Jammu
+Jammu And Kashmir,GROWN_IN,India
+Jammu And Kashmir,GROWN_IN,Apple
+Jammu And Kashmir,GROWN_IN,Fruits
+Jammu And Kashmir,GROWN_IN,Mango
+Jammu And Kashmir,GROWN_IN,Guava
+Jammu And Kashmir,GROWN_IN,Citrus
+Jammu And Kashmir,GROWN_IN,Jammu
+Jammu And Kashmir,GROWN_IN,Jammu
+Jammu And Kashmir,GROWN_IN,Kashmir
+Jammu And Kashmir,GROWN_IN,Almond
+Jammu And Kashmir,GROWN_IN,Litchi
+Jammu And Kashmir,GROWN_IN,Phalsa
+Jammu And Kashmir,GROWN_IN,Ber
+Jammu And Kashmir,GROWN_IN,Pear
+Jammu And Kashmir,GROWN_IN,Peach
+Jammu And Kashmir,GROWN_IN,Plum
+Jammu And Kashmir,GROWN_IN,Apricot
+Jammu And Kashmir,GROWN_IN,Cherry
+Jammu And Kashmir,GROWN_IN,Kashmir
+Jammu And Kashmir,GROWN_IN,Ladakh
+Jammu And Kashmir,GROWN_IN,Kashmir
+Jammu And Kashmir,AFFECTED_BY,Climate Change
+Jammu And Kashmir,AFFECTED_BY,Climate Change
+Jammu And Kashmir,AFFECTED_BY,Erratic Rainfall
+Jammu And Kashmir,DEPENDS_ON,Green Fodder
+Jammu And Kashmir,DEPENDS_ON,Green Fodder
+Jammu And Kashmir,DEPENDS_ON,Dry Fodder
+Jammu And Kashmir,DEPENDS_ON,Concentrate Feed
+Jammu And Kashmir,REQUIRES,Irrigation
+Pear,GROWN_IN,Punjab
+Pear,GROWN_IN,India
+Pear,GROWN_IN,Northern India
+Pear,GROWN_IN,Punjab
+Pear,AFFECTED_BY,Red Vegetable Mite
+Peach,GROWN_IN,India
+Peach,GROWN_IN,Northern India
+Plum,GROWN_IN,India
+Plum,GROWN_IN,Champawat
+Apricot,GROWN_IN,India
+Apricot,GROWN_IN,Champawat
+Cherry,GROWN_IN,India
+Jharkhand,GROWN_IN,Paddy
+Jharkhand,GROWN_IN,Rice
+Jharkhand,GROWN_IN,Maize
+Jharkhand,GROWN_IN,Pulses
+Jharkhand,GROWN_IN,Food Grains
+Jharkhand,GROWN_IN,Papaya
+Jharkhand,GROWN_IN,Tasar Silk
+Jharkhand,GROWN_IN,Freshwater Fish
+Tasar Silk,GROWN_IN,Jharkhand
+Tasar Silk,GROWN_IN,Jharkhand
+Freshwater Fish,GROWN_IN,Karnataka
+Green Fodder,AFFECTED_BY,Pests
+Green Fodder,AFFECTED_BY,Diseases
+Green Fodder,AFFECTED_BY,Weeds
+Green Fodder,REQUIRES,Forage Crops
+Poultry,GROWN_IN,India
+Poultry,GROWN_IN,Uttarakhand
+Poultry,GROWN_IN,West Bengal
+Poultry,AFFECTED_BY,Escherichia Coli
+Poultry,AFFECTED_BY,Heat Stress
+Poultry,AFFECTED_BY,Avian Influenza
+Poultry,AFFECTED_BY,Newcastle Disease
+Poultry,AFFECTED_BY,Mycoplasma Gallisepticum
+Poultry,CONTROLLED_BY,Animal Husbandry
+Poultry,PROVIDES,Nutrients
+Sheep,GROWN_IN,Kakatiya Dynasty
+Sheep,CONTROLLED_BY,Animal Husbandry
+Goat,CONTROLLED_BY,Animal Husbandry
+Goat,PROVIDES,Nutrients
+Pig,GROWN_IN,Uttarakhand
+Madhya Pradesh,GROWN_IN,Rice
+Madhya Pradesh,GROWN_IN,Cotton
+Madhya Pradesh,GROWN_IN,Bajra
+Madhya Pradesh,GROWN_IN,Wheat
+Madhya Pradesh,GROWN_IN,Oilseeds
+Madhya Pradesh,GROWN_IN,Pulses
+Madhya Pradesh,GROWN_IN,India
+Madhya Pradesh,GROWN_IN,Cereals
+Madhya Pradesh,GROWN_IN,Fertilizers
+Madhya Pradesh,GROWN_IN,Garlic
+Madhya Pradesh,GROWN_IN,Groundnut
+Madhya Pradesh,GROWN_IN,Soybean
+Madhya Pradesh,GROWN_IN,Pigeon Pea
+Madhya Pradesh,GROWN_IN,Cash Crops
+Madhya Pradesh,GROWN_IN,Coriander
+Madhya Pradesh,GROWN_IN,Chili
+Madhya Pradesh,GROWN_IN,Soyabean
+Madhya Pradesh,GROWN_IN,Kadaknath
+Madhya Pradesh,AFFECTED_BY,Soil Erosion
+Madhya Pradesh,AFFECTED_BY,Drought
+Madhya Pradesh,AFFECTED_BY,Soil Erosion
+Madhya Pradesh,CONTROLLED_BY,Chickpea
+Madhya Pradesh,REQUIRES,Broad Bed And Furrows (Bbf) Technology
+Integrated Farming System,GROWN_IN,Tamil Nadu
+Integrated Farming System,GROWN_IN,Tamil Nadu
+Integrated Farming System,AFFECTED_BY,Drought
+Integrated Farming System,AFFECTED_BY,Drought
+Integrated Farming System,AFFECTED_BY,Crop Residues
+Integrated Farming System,DEPENDS_ON,Paddy
+Integrated Farming System,DEPENDS_ON,Sorghum
+Integrated Farming System,DEPENDS_ON,Vegetables
+Integrated Farming System,DEPENDS_ON,Apple
+Integrated Farming System,DEPENDS_ON,Cowpea
+Integrated Farming System,DEPENDS_ON,C. Glaucus
+Integrated Farming System,DEPENDS_ON,E. Officinalis
+Integrated Farming System,DEPENDS_ON,Fodder Oats
+Artificial Recharge Structures,CONTROLLED_BY,Sugarcane
+Coriander,GROWN_IN,India
+Coriander,GROWN_IN,U.P.
+Aquaculture,GROWN_IN,India
+Soil Erosion,AFFECTED_BY,Drought
+Soil Erosion,AFFECTED_BY,Drought
+Drought,AFFECTED_BY,Karnataka
+Drought,AFFECTED_BY,Maharashtra
+Drought,AFFECTED_BY,Telangana
+Drought,AFFECTED_BY,Uttar Pradesh
+Drought,CAUSES,Famine
+Drought,CAUSES,Famine
+Onions,AFFECTED_BY,Downy Mildew
+Manipur,GROWN_IN,Rice
+Manipur,GROWN_IN,India
+Agar,GROWN_IN,Manipur
+Fish,GROWN_IN,India
+Fish,GROWN_IN,Aquaculture
+Fish,GROWN_IN,Uttarakhand
+Fish,GROWN_IN,West Bengal
+Fish,GROWN_IN,Aquaculture
+Fish,GROWN_IN,North East Region
+Fish,CONTROLLED_BY,Turtle Excluder Devices
+Fish,CONTROLLED_BY,By-Catch Reduction Devices
+Fish,CONTROLLED_BY,Fishing Ban
+Meat,GROWN_IN,India
+Meat,GROWN_IN,West Bengal
+Meat,REQUIRES,Animal Husbandry
+Milk,GROWN_IN,Punjab
+Milk,GROWN_IN,India
+Milk,GROWN_IN,Kerala
+Milk,GROWN_IN,Kerala
+Milk,GROWN_IN,West Bengal
+Milk,GROWN_IN,Punjab
+Milk,CONTROLLED_BY,Dairy Processing
+Milk,CONTROLLED_BY,Dairy Cooperatives
+Milk,CONTROLLED_BY,Kaira District Cooperative Milk Producers Union
+Milk,DEPENDS_ON,High Yielding Variety Of Seeds
+Milk,REQUIRES,Animal Husbandry
+Milk,REQUIRES,Gujarat
+Milk,REQUIRES,Gujarat
+Milk,REQUIRES,Cattle
+Milk,REQUIRES,Cattle
+Milk,REQUIRES,Cattle
+Milk,REQUIRES,Gujarat
+Eggs,DEPENDS_ON,High Yielding Variety Of Seeds
+Meghalaya,GROWN_IN,Maize
+Meghalaya,GROWN_IN,India
+Meghalaya,GROWN_IN,Groundnut
+Arecanut,GROWN_IN,India
+Orange,GROWN_IN,Punjab
+Orange,GROWN_IN,India
+Orange,GROWN_IN,Punjab
+Jackfruit,GROWN_IN,India
+Jackfruit,GROWN_IN,Mysuru
+Jackfruit,GROWN_IN,Mysuru
+Mizoram,GROWN_IN,Paddy
+Mizoram,GROWN_IN,Rice
+Mizoram,GROWN_IN,Maize
+Mizoram,GROWN_IN,Pulses
+Mizoram,GROWN_IN,India
+Mizoram,AFFECTED_BY,Shifting Cultivation
+Mizoram,CONTROLLED_BY,Organic By Design
+Mizoram,CONTROLLED_BY,Organic By Default
+Nagaland,AFFECTED_BY,Shifting Cultivation
+Rajasthan,GROWN_IN,Rice
+Rajasthan,GROWN_DURING,Micro-Irrigation
+Rajasthan,GROWN_DURING,Micro-Irrigation
+Rajasthan,AFFECTED_BY,Soil Erosion
+Rajasthan,AFFECTED_BY,Soil Erosion
+Rajasthan,CONTROLLED_BY,Chickpea
+Sikkim,GROWN_IN,Rice
+Sikkim,GROWN_IN,Wheat
+Sikkim,GROWN_IN,Barley
+Sikkim,GROWN_IN,Maize
+Sikkim,GROWN_IN,Oilseeds
+Sikkim,GROWN_IN,Pulses
+Sikkim,GROWN_IN,India
+Sikkim,GROWN_IN,Land
+Sikkim,DEPENDS_ON,Climate Change
+Sikkim,REQUIRES,Rainfed Condition
+Sikkim,HAS_SYMPTOM,Organic Farming
+Sikkim,HAS_SYMPTOM,Micro Irrigation
+Sikkim,HAS_SYMPTOM,Micro Irrigation
+Sikkim,HAS_SYMPTOM,High-Tech Agriculture
+Soil Erosion,AFFECTED_BY,Drought
+Soil Erosion,AFFECTED_BY,Drought
+Buckwheat,GROWN_IN,India
+Buckwheat,GROWN_IN,Sikkim
+Buckwheat,GROWN_IN,Himalayan Region
+Buckwheat,REQUIRES,Phosphorus
+Buckwheat,REQUIRES,Calcium
+Large Cardamom,GROWN_IN,India
+Large Cardamom,GROWN_IN,Sikkim
+Mandarin Orange,GROWN_IN,Sikkim
+Bean,GROWN_IN,Soil
+Bean,GROWN_IN,Sikkim
+Garden Pea,GROWN_IN,Sikkim
+Radish,GROWN_IN,Jammu And Kashmir
+Radish,GROWN_IN,India
+Radish,GROWN_IN,Jammu And Kashmir
+Radish,GROWN_IN,Sikkim
+Radish,GROWN_IN,West Bengal
+Radish,GROWN_IN,Bugam Batpora
+Radish,GROWN_DURING,Off-Season Vegetables
+Telangana,GROWN_IN,Paddy
+Telangana,GROWN_IN,Rice
+Telangana,GROWN_IN,Cotton
+Telangana,GROWN_IN,India
+Telangana,GROWN_IN,Groundnut
+Telangana,AFFECTED_BY,Climate Change
+Telangana,CONTROLLED_BY,Chickpea
+Tripura,GROWN_IN,Rice
+Tripura,GROWN_IN,India
+Tripura,GROWN_IN,Agriculture
+Tripura,AFFECTED_BY,Rainfed Agriculture
+Rainfed Agriculture,AFFECTED_BY,Droughts
+Rainfed Agriculture,AFFECTED_BY,Floods
+Rainfed Agriculture,AFFECTED_BY,Floods
+Seeds,AFFECTED_BY,Insect
+Seeds,REQUIRES,Fertilizers
+Seeds,REQUIRES,Cacl2
+Seeds,REQUIRES,Cacl2
+Seeds,TREATED_BY,Carbendazim
+Seeds,TREATED_BY,Chlorpyriphos 20Ec
+Seeds,TREATED_BY,Thiram
+Seeds,TREATED_BY,Captan
+Seeds,TREATED_BY,Metalaxyl
+Seeds,AFFECTED_BY,Insect
+Seeds,REQUIRES,Fertilizers
+Seeds,REQUIRES,Cacl2
+Seeds,REQUIRES,Cacl2
+Seeds,TREATED_BY,Carbendazim
+Seeds,TREATED_BY,Chlorpyriphos 20Ec
+Seeds,TREATED_BY,Thiram
+Seeds,TREATED_BY,Captan
+Seeds,TREATED_BY,Metalaxyl
+Lemon,GROWN_IN,Punjab
+Lemon,GROWN_IN,India
+Lemon,GROWN_IN,Tripura
+Lemon,GROWN_IN,Punjab
+Lemon,CONTROLLED_BY,Pests
+Cashew Nut,GROWN_IN,India
+Cashew Nut,GROWN_IN,Tripura
+Cabbage,GROWN_IN,Jammu And Kashmir
+Cabbage,GROWN_IN,India
+Cabbage,GROWN_IN,Tamil Nadu
+Cabbage,GROWN_IN,Jammu And Kashmir
+Cabbage,GROWN_IN,Tripura
+Cabbage,GROWN_IN,West Bengal
+Cabbage,GROWN_IN,Budgam
+Cabbage,GROWN_IN,Anantnag
+Cabbage,GROWN_IN,Polyhouses
+Cabbage,GROWN_IN,Tamil Nadu
+Cabbage,GROWN_IN,Northern India
+Cabbage,GROWN_IN,Slnpv
+Cabbage,AFFECTED_BY,Aphids
+Cabbage,AFFECTED_BY,P. Brassicae
+Cabbage,AFFECTED_BY,Diamond Back Moth
+Cabbage,CONTROLLED_BY,Mustard
+Cabbage,CONTROLLED_BY,Diamondback Moth
+Cauliflower,GROWN_IN,Jammu And Kashmir
+Cauliflower,GROWN_IN,India
+Cauliflower,GROWN_IN,Tamil Nadu
+Cauliflower,GROWN_IN,Jammu And Kashmir
+Cauliflower,GROWN_IN,Tripura
+Cauliflower,GROWN_IN,West Bengal
+Cauliflower,GROWN_IN,Budgam
+Cauliflower,GROWN_IN,Anantnag
+Cauliflower,GROWN_IN,Polyhouses
+Cauliflower,GROWN_IN,Tamil Nadu
+Cauliflower,GROWN_IN,Northern India
+Cauliflower,GROWN_IN,Bugam Batpora
+Cauliflower,AFFECTED_BY,Red Vegetable Mite
+Cauliflower,AFFECTED_BY,P. Brassicae
+Watermelon,GROWN_IN,Tripura
+Watermelon,AFFECTED_BY,Fusarium Wilt
+Watermelon,AFFECTED_BY,Fusarium Oxysporum F. Sp. Niveum
+French Bean,GROWN_IN,India
+French Bean,GROWN_IN,Tripura
+Cow Pea,GROWN_IN,Tripura
+Gourds,GROWN_IN,Tripura
+Uttarakhand,GROWN_IN,Wheat
+Uttarakhand,GROWN_IN,Pesticides
+Uttarakhand,GROWN_IN,Potato
+Uttarakhand,GROWN_IN,Garlic
+Uttarakhand,GROWN_IN,Tomato
+Uttarakhand,GROWN_IN,Tomatoes
+Uttarakhand,GROWN_IN,Peas
+Uttarakhand,GROWN_IN,Mustard
+Uttarakhand,GROWN_IN,Mushroom
+Uttarakhand,GROWN_IN,Agriculture
+Uttarakhand,GROWN_IN,Onion
+Uttarakhand,GROWN_IN,Organic Fish
+Uttarakhand,GROWN_IN,Fresh Water Prawn
+Uttarakhand,GROWN_IN,Rapeseed
+Uttarakhand,GROWN_IN,Beans
+Uttarakhand,GROWN_IN,Cucumbers
+Uttarakhand,GROWN_IN,Peppers
+Uttarakhand,GROWN_IN,Leafy Greens
+Uttarakhand,GROWN_DURING,Micro-Irrigation
+Uttarakhand,GROWN_DURING,Micro-Irrigation
+Uttarakhand,CONTROLLED_BY,Polyhouses
+Uttarakhand,CONTROLLED_BY,Bunds
+Uttarakhand,CONTROLLED_BY,Jalkunds
+Uttarakhand,CONTROLLED_BY,Low-Cost Mushroom Unit
+Uttarakhand,DEPENDS_ON,Institutional Credit
+Uttarakhand,DEPENDS_ON,Brackish Water
+Uttarakhand,DEPENDS_ON,Institutional Credit
+Uttarakhand,REQUIRES,Fpos
+Uttarakhand,REQUIRES,Artificial Insemination
+Uttarakhand,REQUIRES,Cold Storage
+Uttarakhand,REQUIRES,Agri-Logistics
+Uttarakhand,REQUIRES,Sampada Yojana
+Uttarakhand,REQUIRES,Amar Dhan Amar Chatal
+Uttarakhand,REQUIRES,Cage Culture
+Uttarakhand,REQUIRES,Pen Culture
+Uttarakhand,REQUIRES,Rainwater Harvesting Tanks
+Herbal Plants,GROWN_IN,Tripura
+Pig,GROWN_IN,Uttarakhand
+Poultry,GROWN_IN,India
+Poultry,GROWN_IN,Uttarakhand
+Poultry,GROWN_IN,West Bengal
+Poultry,AFFECTED_BY,Escherichia Coli
+Poultry,AFFECTED_BY,Heat Stress
+Poultry,AFFECTED_BY,Avian Influenza
+Poultry,AFFECTED_BY,Newcastle Disease
+Poultry,AFFECTED_BY,Mycoplasma Gallisepticum
+Poultry,CONTROLLED_BY,Animal Husbandry
+Poultry,PROVIDES,Nutrients
+Honey,GROWN_IN,Tripura
+Onion,GROWN_IN,Soil
+Onion,GROWN_IN,India
+Onion,GROWN_IN,North India
+Onion,GROWN_IN,Bugam Batpora
+Onion,AFFECTED_BY,Thrips
+Onion,AFFECTED_BY,Drought
+Onion,AFFECTED_BY,Drought
+Onion,AFFECTED_BY,Sclerotia
+Onion,DEPENDS_ON,Moisture
+Onion,DEPENDS_ON,Moisture
+Onion,REQUIRES,Phosphorus
+Onion,REQUIRES,Nitrogen
+Onion,REQUIRES,Nitrogen
+Onion,REQUIRES,Phosphorus
+Artificial Insemination,CONTROLLED_BY,Cattle
+Artificial Insemination,CONTROLLED_BY,Cattle
+Artificial Insemination,CONTROLLED_BY,Cattle
+Artificial Insemination,REQUIRES,Animal Husbandry
+Uttar Pradesh,GROWN_IN,Rice
+Uttar Pradesh,GROWN_IN,Bajra
+Uttar Pradesh,GROWN_IN,India
+Uttar Pradesh,GROWN_IN,Potato
+Uttar Pradesh,GROWN_IN,Fertilizers
+Uttar Pradesh,GROWN_IN,Pigeon Pea
+Uttar Pradesh,GROWN_IN,Soyabean
+Uttar Pradesh,GROWN_IN,Deoria
+Uttar Pradesh,GROWN_IN,Terai
+Uttar Pradesh,GROWN_IN,Southern Plateau
+Uttar Pradesh,GROWN_DURING,April
+Uttar Pradesh,GROWN_DURING,March
+Uttar Pradesh,GROWN_DURING,July
+Uttar Pradesh,GROWN_DURING,May
+Uttar Pradesh,GROWN_DURING,June
+Uttar Pradesh,GROWN_DURING,February
+Uttar Pradesh,GROWN_DURING,September
+Uttar Pradesh,GROWN_DURING,October
+Uttar Pradesh,GROWN_DURING,May
+Uttar Pradesh,GROWN_DURING,April
+Uttar Pradesh,GROWN_DURING,June
+Uttar Pradesh,GROWN_DURING,October
+Uttar Pradesh,GROWN_DURING,February
+Uttar Pradesh,GROWN_DURING,March
+Uttar Pradesh,GROWN_DURING,July
+Uttar Pradesh,GROWN_DURING,September
+Uttar Pradesh,AFFECTED_BY,Soil Erosion
+Uttar Pradesh,AFFECTED_BY,Soil Erosion
+Uttar Pradesh,DEPENDS_ON,Soil
+Uttar Pradesh,DEPENDS_ON,Irrigation Facilities
+Uttar Pradesh,DEPENDS_ON,Rainfall
+Uttar Pradesh,DEPENDS_ON,Climate
+Uttar Pradesh,DEPENDS_ON,Crops
+Uttar Pradesh,DEPENDS_ON,Topography
+Uttar Pradesh,DEPENDS_ON,Vegetation
+Uttar Pradesh,HAS_SYMPTOM,Salt-Affected Soils
+Rapeseed,GROWN_IN,India
+Water,AFFECTED_BY,Bacteria
+Water,AFFECTED_BY,Fungi
+Water,DEPENDS_ON,Agricultural Production
+Water,REQUIRES,Paddy
+Water,REQUIRES,Rice
+Water,REQUIRES,Cotton
+Water,REQUIRES,Wheat
+Water,REQUIRES,Chickpea
+Water,REQUIRES,Sugarcane
+Water,REQUIRES,Irrigation
+Water,REQUIRES,Fisheries
+Water,REQUIRES,Potato
+Water,REQUIRES,Crop
+Water,REQUIRES,Mustard
+Water,REQUIRES,Groundnut
+Water,REQUIRES,Fisheries
+Water,REQUIRES,Pigeon Pea
+Water,REQUIRES,Rapeseed
+Water,REQUIRES,Sunnhemp
+Water,REQUIRES,Kolinchi
+Water,REQUIRES,Daincha
+Water,REQUIRES,Wet Dusting
+Water,PREVENTED_BY,Pesticide Active Ingredient
+Pradhan Mantri Krishi Sinchayee Yojana,AFFECTED_BY,Monsoon
+Pradhan Mantri Krishi Sinchayee Yojana,AFFECTED_BY,Monsoon
+Pradhan Mantri Krishi Sinchayee Yojana,CONTROLLED_BY,India
+Water Productivity,AFFECTED_BY,Rainfall
+Water Productivity,DEPENDS_ON,Irrigation
+Water Productivity,DEPENDS_ON,Water
+Water Productivity,DEPENDS_ON,Water
+Water Productivity,REQUIRES,Irrigation
+Water-Use Efficiency,DEPENDS_ON,Water
+Water-Use Efficiency,DEPENDS_ON,Water
+Tur/Arhar,GROWN_DURING,Irrigation
+Rapeseed-Mustard,GROWN_IN,Punjab
+Rapeseed-Mustard,GROWN_IN,Haryana
+Rapeseed-Mustard,GROWN_IN,India
+Rapeseed-Mustard,GROWN_IN,Gujarat
+Rapeseed-Mustard,GROWN_IN,Madhya Pradesh
+Rapeseed-Mustard,GROWN_IN,Rajasthan
+Rapeseed-Mustard,GROWN_IN,Uttar Pradesh
+Rapeseed-Mustard,GROWN_IN,West Bengal
+Rapeseed-Mustard,GROWN_DURING,Rabi
+Rapeseed-Mustard,GROWN_DURING,Irrigation
+Rapeseed-Mustard,AFFECTED_BY,Irrigation
+Rapeseed-Mustard,CONTROLLED_BY,Irrigation
+Freshwater,DEPENDS_ON,Agriculture
+West Bengal,GROWN_IN,Rice
+West Bengal,GROWN_IN,Maize
+West Bengal,GROWN_IN,India
+West Bengal,GROWN_IN,Potato
+West Bengal,GROWN_IN,Groundnut
+West Bengal,GROWN_IN,Pigeon Pea
+West Bengal,GROWN_DURING,Brackishwater
+Drip,CONTROLLED_BY,Sugarcane
+Solar Irrigation,CONTROLLED_BY,Sugarcane
+Artificial Recharge Structures,CONTROLLED_BY,Sugarcane
+Rainfall,REQUIRES,Late Blight
+Water Scarcity,AFFECTED_BY,India
+Tur,GROWN_IN,Punjab
+Tur,GROWN_IN,India
+Tur,AFFECTED_BY,Irrigation
+Tur,CONTROLLED_BY,Soyabean
+Tur,REQUIRES,Irrigation
+Dindigul,GROWN_IN,Rice
+Tikamgarh,GROWN_IN,Rice
+Boro,GROWN_DURING,Rice
+Groundwater,AFFECTED_BY,Irrigation
+Groundwater,AFFECTED_BY,Irrigation
+Groundwater,DEPENDS_ON,Rice
+Groundwater,DEPENDS_ON,Irrigation
+Groundwater,DEPENDS_ON,Water
+Groundwater,DEPENDS_ON,Agriculture
+Groundwater,DEPENDS_ON,Water
+Groundwater,DEPENDS_ON,Water
+Groundwater,DEPENDS_ON,Water
+Groundwater,DEPENDS_ON,Agriculture
+Groundwater,DEPENDS_ON,Water
+Surface Water,DEPENDS_ON,Rice
+Surface Water,DEPENDS_ON,Water
+Surface Water,DEPENDS_ON,Water
+Surface Water,DEPENDS_ON,Water
+Surface Water,DEPENDS_ON,Water
+Surface Water,DEPENDS_ON,Water
+Konkan Belt,GROWN_IN,Rice
+Economic Water Productivity,REQUIRES,Irrigation
+Farm Harvest Prices,REQUIRES,Paddy
+Water Stress,AFFECTED_BY,Cotton
+Minimum Support Price,REQUIRES,Fertilizer
+Up,CONTROLLED_BY,Chickpea
+Moga,GROWN_IN,Punjab
+Ludhiana,GROWN_IN,Punjab
+Ludhiana,AFFECTED_BY,Brucellosis
+Mukatsar,GROWN_IN,Punjab
+Sangrur,GROWN_IN,Punjab
+Winter,GROWN_DURING,Season
+Sprinkler Irrigation,GROWN_IN,Sugarcane
+Sprinkler Irrigation,CONTROLLED_BY,Icar
+Sprinkler Irrigation,CONTROLLED_BY,Icar
+Sprinkler Irrigation,CONTROLLED_BY,Icar
+Sprinkler Irrigation,REQUIRES,Groundwater
+Sprinkler Irrigation,REQUIRES,Groundwater
+Farm Harvest Price,AFFECTED_BY,Bihar
+Latur,GROWN_IN,Pigeon Pea
+Monsoon,GROWN_DURING,Rice
+Monsoon,GROWN_DURING,India
+Monsoon,AFFECTED_BY,Irrigation
+Monsoon,DEPENDS_ON,Irrigation
+Monsoon,DEPENDS_ON,Irrigation
+Drip Irrigation,CONTROLLED_BY,Icar
+Drip Irrigation,CONTROLLED_BY,Icar
+Drip Irrigation,CONTROLLED_BY,Icar
+Drip Irrigation,REQUIRES,Groundwater
+Drip Irrigation,REQUIRES,Groundwater
+Drip Irrigation,PREVENTED_BY,Overhead Irrigation
+Drip Irrigation,PREVENTED_BY,Black Fungus
+Economic Water Productivity,REQUIRES,Irrigation
+Hoshiarpur,GROWN_IN,Punjab
+Gurdaspur,GROWN_IN,Punjab
+Gurdaspur,GROWN_IN,Punjab
+Surface Irrigation,CONTROLLED_BY,Potato
+Water Productivity Report,PREVENTED_BY,Irrigation
+Surface Irrigation,CONTROLLED_BY,Potato
+Micro-Irrigation,CONTROLLED_BY,Nabard
+Micro-Irrigation,CONTROLLED_BY,Fertiliser
+Micro-Irrigation,CONTROLLED_BY,Icar
+Micro-Irrigation,CONTROLLED_BY,Icar
+Micro-Irrigation,CONTROLLED_BY,Icar Institutes
+Micro-Irrigation,CONTROLLED_BY,Icar
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Groundwater
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Groundwater
+Electricity,REQUIRES,Irrigation
+Electricity,REQUIRES,Agriculture
+Electricity,REQUIRES,Agriculture
+Pulse,GROWN_IN,India
+Edible Oils,GROWN_IN,India
+Edible Oils,CONTROLLED_BY,Yellow Revolution
+Oil Palm,GROWN_IN,Andhra Pradesh
+Oil Palm,GROWN_IN,India
+Oil Palm,GROWN_IN,Tamil Nadu
+Oil Palm,GROWN_IN,Maharashtra
+Oil Palm,GROWN_IN,Goa
+Oil Palm,GROWN_IN,Tamil Nadu
+Oil Palm,GROWN_IN,Andhra Pradesh
+Oil Palm,GROWN_IN,Maharashtra
+Oil Palm,GROWN_DURING,Monsoon
+Oil Palm,GROWN_DURING,Rainy Season
+Oil Palm,GROWN_DURING,Monsoon
+Oil Palm,GROWN_DURING,Summer Months
+Oil Palm,AFFECTED_BY,Chlorosis
+Oil Palm,AFFECTED_BY,Leaf Malformations
+Oil Palm,AFFECTED_BY,Little Leaf
+Oil Palm,AFFECTED_BY,Orange Frond
+Oil Palm,AFFECTED_BY,Chlorosis
+Oil Palm,AFFECTED_BY,Necrosis
+Oil Palm,CONTROLLED_BY,Compost
+Oil Palm,CONTROLLED_BY,Urea
+Oil Palm,CONTROLLED_BY,Borax
+Oil Palm,CONTROLLED_BY,Rock Phosphate
+Oil Palm,CONTROLLED_BY,Borax
+Oil Palm,CONTROLLED_BY,Muriate Of Potash
+Oil Palm,CONTROLLED_BY,Mgso4
+Oil Palm,CONTROLLED_BY,Epsum Salt
+Oil Palm,CONTROLLED_BY,Green Leaves
+Oil Palm,DEPENDS_ON,Soil
+Oil Palm,DEPENDS_ON,Drainage Channels
+Oil Palm,REQUIRES,Irrigation
+Oil Palm,REQUIRES,Water
+Oil Palm,REQUIRES,Phosphorus
+Oil Palm,REQUIRES,Water
+Oil Palm,REQUIRES,Nitrogen
+Oil Palm,REQUIRES,Potassium
+Oil Palm,REQUIRES,Magnesium
+Oil Palm,PREVENTED_BY,Drip Irrigation
+Oil Palm,PREVENTED_BY,Herbicide
+Oil Palm,PREVENTED_BY,Drip Irrigation
+Oil Palm,PREVENTED_BY,Ablation
+Knolkhol,GROWN_IN,Jammu And Kashmir
+Knolkhol,GROWN_IN,J&K
+Knolkhol,GROWN_IN,Jammu And Kashmir
+Knolkhol,GROWN_IN,Budgam
+Knolkhol,GROWN_IN,Anantnag
+Knolkhol,GROWN_IN,Bugam Batpora
+Knolkhol,GROWN_DURING,Off-Season Vegetables
+French Beans,GROWN_IN,Jammu And Kashmir
+French Beans,GROWN_IN,Jammu And Kashmir
+French Beans,GROWN_DURING,Off-Season Vegetables
+Budgam,GROWN_IN,Jammu And Kashmir
+Budgam,GROWN_IN,Vegetables
+Budgam,GROWN_IN,Jammu And Kashmir
+Budgam,DEPENDS_ON,Market Conditions
+Anantnag,GROWN_IN,Jammu And Kashmir
+Anantnag,GROWN_IN,Jammu And Kashmir
+Anantnag,DEPENDS_ON,Market Conditions
+Polyhouse,AFFECTED_BY,Seedling
+Polyhouse,REQUIRES,Transportation Facilities
+Polyhouse,REQUIRES,Packing Material
+Polyhouse,REQUIRES,Storage Facilities
+Polyhouse,REQUIRES,Quality Seeds
+Polyhouse,REQUIRES,Quality Seeds
+Off Season Vegetables,GROWN_IN,Jammu And Kashmir
+Off Season Vegetables,GROWN_IN,Jammu
+Off Season Vegetables,GROWN_IN,Jammu
+Off Season Vegetables,GROWN_IN,Jammu
+Off Season Vegetables,GROWN_IN,Jammu And Kashmir
+Manipur,GROWN_IN,Rice
+Manipur,GROWN_IN,India
+Human Labour,AFFECTED_BY,Tomato
+Human Labour,AFFECTED_BY,Capsicum
+Human Labour,AFFECTED_BY,Cabbage
+Human Labour,AFFECTED_BY,Cauliflower
+Human Labour,AFFECTED_BY,Knolkhol
+Human Labour,DEPENDS_ON,Vegetables
+Off-Season Vegetables,GROWN_IN,Jammu And Kashmir
+Off-Season Vegetables,GROWN_IN,Jammu And Kashmir
+Manure,DEPENDS_ON,Coconut
+Manure,REQUIRES,Soil
+Manure,REQUIRES,Tomato
+Manure,REQUIRES,Capsicum
+Manure,REQUIRES,Cabbage
+Manure,REQUIRES,Cauliflower
+Manure,REQUIRES,Knolkhol
+2014-15,GROWN_DURING,Vegetables
+2014-15,GROWN_DURING,Tomato
+2014-15,GROWN_DURING,Capsicum
+2014-15,GROWN_DURING,Cabbage
+2014-15,GROWN_DURING,Cauliflower
+2014-15,GROWN_DURING,Knolkhol
+Bullock Labour,AFFECTED_BY,Tomato
+Bullock Labour,AFFECTED_BY,Capsicum
+Bullock Labour,AFFECTED_BY,Cabbage
+Bullock Labour,AFFECTED_BY,Cauliflower
+Bullock Labour,AFFECTED_BY,Knolkhol
+Rental Value Of Land,AFFECTED_BY,Tomato
+Rental Value Of Land,AFFECTED_BY,Capsicum
+Rental Value Of Land,AFFECTED_BY,Cabbage
+Rental Value Of Land,AFFECTED_BY,Cauliflower
+Rental Value Of Land,AFFECTED_BY,Knolkhol
+Kashmir,GROWN_DURING,Off-Season Vegetables
+Kashmir,GROWN_DURING,Main-Season Vegetables
+Kashmir,AFFECTED_BY,Erratic Rainfall
+Vegetable Processing Units,CONTROLLED_BY,Polyhouse
+Vegetable Processing Units,CONTROLLED_BY,Off Season Vegetables
+Quality Seeds,GROWN_IN,Jammu And Kashmir
+Quality Seeds,GROWN_IN,Jammu And Kashmir
+Quality Seeds,GROWN_IN,Jammu And Kashmir
+Quality Seeds,GROWN_IN,Jammu And Kashmir
+Packing And Transportation Facilities,CONTROLLED_BY,Off Season Vegetables
+Organic Matter,HAS_SYMPTOM,Humus
+Organic Matter,HAS_SYMPTOM,Humus
+Moong Bean,GROWN_DURING,Kharif
+Lentil,GROWN_IN,India
+Lentil,GROWN_IN,Kathua
+Lentil,GROWN_IN,Champawat
+Lentil,GROWN_DURING,Rabi
+Lentil,GROWN_DURING,Winter
+Lentil,AFFECTED_BY,Helicoverpa Armigera
+Lentil,AFFECTED_BY,Aphis Craccivora
+Bengal Gram,GROWN_DURING,Rabi
+Pea,GROWN_IN,India
+Pea,GROWN_DURING,Rabi
+Pea,AFFECTED_BY,Pea Mosaic Virus
+Sesame,GROWN_IN,India
+Sesame,GROWN_DURING,Rabi
+Sesame,REQUIRES,Cattle
+Sesame,REQUIRES,Cattle
+Sesame,REQUIRES,Cattle
+Tobacco,GROWN_IN,India
+Tobacco,GROWN_IN,U.P.
+Tobacco,GROWN_IN,Bengal
+Tobacco,AFFECTED_BY,Whitefly
+Tobacco,AFFECTED_BY,Lepidoptera
+Tobacco,AFFECTED_BY,Brown Spot
+Tobacco,AFFECTED_BY,Broom Rape
+Tobacco,AFFECTED_BY,Lepidoptera
+Tobacco,DEPENDS_ON,"1,000 Mm"
+Tobacco,REQUIRES,Black Cotton Soils
+Chillies,GROWN_IN,Whitefly
+Chillies,GROWN_IN,Tamil Nadu
+Chillies,GROWN_IN,U.P.
+Chillies,GROWN_IN,Tamil Nadu
+Chillies,AFFECTED_BY,Thrips
+Chillies,AFFECTED_BY,Muranai Disease
+Soyabean,AFFECTED_BY,Water Logging
+Soyabean,AFFECTED_BY,Excess Rainfall
+Soyabean,AFFECTED_BY,Water Logging
+Hopcoms,CONTROLLED_BY,Mango
+Hopcoms,CONTROLLED_BY,Banana
+Hopcoms,CONTROLLED_BY,Jackfruit
+Mallika,GROWN_IN,India
+Mallika,GROWN_IN,Karnataka
+Mallika,GROWN_IN,Gujarat
+Mallika,GROWN_IN,West Bengal
+Mallika,GROWN_IN,Usa
+Mallika,GROWN_IN,Gujarat
+Mallika,GROWN_IN,Japan
+Mallika,GROWN_IN,Japan
+Mallika,GROWN_IN,Malaysia
+Mallika,GROWN_IN,Karnataka
+Mallika,GROWN_IN,Gujarat
+Mallika,GROWN_IN,European Union
+Mallika,GROWN_IN,Uae
+Mallika,GROWN_IN,Kuwait
+Mallika,GROWN_IN,Singapore
+Mallika,GROWN_IN,South Korea
+Beans,AFFECTED_BY,Weather
+Poly-House Farming,CONTROLLED_BY,Greenhouse Technology
+High-Density Planting,REQUIRES,Water
+High-Density Planting,REQUIRES,Water
+Weather,AFFECTS,Pest
+Orchard Crops,GROWN_IN,Pesticides
+South-West Monsoon,GROWN_DURING,Rice
+South-West Monsoon,GROWN_DURING,Vegetables
+Heat Wave,AFFECTED_BY,Sugarcane
+Heat Wave,AFFECTED_BY,Vegetables
+Heat Wave,AFFECTED_BY,Orchard Crops
+Long-Term Irrigation Fund,CONTROLLED_BY,Maharashtra
+Gujarat,GROWN_IN,Rice
+Gujarat,GROWN_IN,India
+Gujarat,GROWN_IN,Fertilizers
+Gujarat,GROWN_DURING,Micro-Irrigation
+Gujarat,GROWN_DURING,Micro-Irrigation
+Gujarat,GROWN_DURING,Brackishwater
+Gujarat,HAS_SYMPTOM,Salt-Affected Soils
+Drought,AFFECTED_BY,Karnataka
+Drought,AFFECTED_BY,Maharashtra
+Drought,AFFECTED_BY,Telangana
+Drought,AFFECTED_BY,Uttar Pradesh
+Drought,CAUSES,Famine
+Drought,CAUSES,Famine
+Corn,GROWN_IN,Iowa
+Corn,AFFECTED_BY,Lepidoptera
+Corn,AFFECTED_BY,Lepidoptera
+Dussehri Mango,AFFECTED_BY,Storm
+Dussehri Mango,AFFECTED_BY,High Speed Winds
+Genetically Modified Crops,AFFECTED_BY,Plant Insect Pests
+Comprehensive Agriculture Information System,REQUIRES,Soil
+Comprehensive Agriculture Information System,REQUIRES,Weather
+Urad,GROWN_IN,India
+Urad,PREVENTED_BY,Excess Rainfall
+Water Logging,AFFECTED_BY,Floods
+Water Logging,AFFECTED_BY,Floods
+Water Logging,PROMOTES,Pyrilla
+Dimond Back Moth,AFFECTED_BY,India
+Mango Soft Scale,GROWN_IN,Karnataka
+Cassava Mealybug,GROWN_DURING,Summer
+Cassava Mealybug,AFFECTED_BY,Cassava
+Micro-Irrigation,CONTROLLED_BY,Fertiliser
+Micro-Irrigation,CONTROLLED_BY,Icar
+Micro-Irrigation,CONTROLLED_BY,Icar
+Micro-Irrigation,CONTROLLED_BY,Icar Institutes
+Micro-Irrigation,CONTROLLED_BY,Icar
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Groundwater
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Water
+Micro-Irrigation,REQUIRES,Groundwater
+Marginal Farmers,DEPENDS_ON,Fragmented Land Holdings
+Marginal Farmers,DEPENDS_ON,Small Farmers
+Ipm,AFFECTED_BY,Pesticide Application
+Ipm,AFFECTED_BY,Pesticide Usage
+Ipm,AFFECTED_BY,Pesticide Doses
+Ipm,AFFECTED_BY,Pesticide Application
+Ipm,DEPENDS_ON,Pest
+Ipm,REQUIRES,Pesticide
+Yellow Stem Borer,AFFECTED_BY,Rice
+Yellow Stem Borer,AFFECTED_BY,Carbendazim
+Yellow Stem Borer,AFFECTED_BY,Carbosulfan
+Yellow Stem Borer,AFFECTED_BY,Carbofuran
+Yellow Stem Borer,AFFECTED_BY,Carbofuran
+Yellow Stem Borer,CONTROLLED_BY,Cartap Hydrochloride
+Yellow Stem Borer,CONTROLLED_BY,Trichogramma Japonicum
+Yellow Stem Borer,CONTROLLED_BY,Monocrotophos
+Yellow Stem Borer,CONTROLLED_BY,Chlorpyrifos
+Yellow Stem Borer,CONTROLLED_BY,Trichogramma Japonicum
+Yellow Stem Borer,CONTROLLED_BY,T Chilonis
+Pink Stem Borer,AFFECTED_BY,Rice
+Pink Stem Borer,AFFECTED_BY,Malathion
+Pink Stem Borer,AFFECTED_BY,Carbaryl
+Pink Stem Borer,AFFECTED_BY,Dimethoate
+Pink Stem Borer,AFFECTED_BY,Carbofuran
+Pink Stem Borer,AFFECTED_BY,Methyl Demeton
+Pink Stem Borer,AFFECTED_BY,Neem Seed Kernel Extract
+Pink Stem Borer,AFFECTED_BY,Demeton
+Bph,AFFECTED_BY,Rice
+Paddy Stemborer,GROWN_IN,Sorghum
+Paddy Stemborer,GROWN_IN,Cowpea
+Paddy Stemborer,GROWN_IN,Lab Lab
+Paddy Stemborer,AFFECTED_BY,Trichogramma Japonicum
+Paddy Stemborer,CONTROLLED_BY,Chlorpyriphos
+Paddy Stemborer,CONTROLLED_BY,Bacillus Thuringiensis Var Kurstaki
+Paddy Stemborer,CONTROLLED_BY,Neem Seed Kernel Extract
+Paddy Stemborer,CONTROLLED_BY,Tkm 6
+Paddy Stemborer,CONTROLLED_BY,Trichogramma Chilonis
+Paddy Stemborer,CONTROLLED_BY,Nske
+Trichogramma Japonicum,CONTROLLED_BY,Pest
+Neem Seed Kernel Extract,CONTROLLED_BY,Pesticide
+Neem Seed Kernel Extract,CONTROLLED_BY,Pest
+Trichogramma Chilonis,CONTROLLED_BY,Pesticide
+Trichogramma Chilonis,CONTROLLED_BY,Chlorantraniliprole
+Nske,CONTROLLED_BY,Whitefly
+Nske,CONTROLLED_BY,Sucking Pests
+Nske,REQUIRES,Neem Oil
+Phorate,GROWN_IN,Soil
+Phorate,CONTROLLED_BY,Root Grubs
+Calocoris Angustatus,AFFECTED_BY,Malathion
+Calocoris Angustatus,AFFECTED_BY,Carbaryl
+Calocoris Angustatus,AFFECTED_BY,Dimethoate
+Calocoris Angustatus,AFFECTED_BY,Carbofuran
+Calocoris Angustatus,AFFECTED_BY,Methyl Demeton
+Sesamia Inferens,AFFECTED_BY,Cartap Hydrochloride
+Sesamia Inferens,AFFECTED_BY,Chlorantraniliprole
+Sesamia Inferens,AFFECTED_BY,Phosalone
+Sesamia Inferens,AFFECTED_BY,Monocrotophos
+Sesamia Inferens,AFFECTED_BY,Chlorpyrifos
+Cotton Bollworms,AFFECTED_BY,Cotton
+Cotton Bollworms,AFFECTED_BY,Dimethoate
+Cotton Bollworms,AFFECTED_BY,Nuclear Polyhedrosis Virus
+Cotton Bollworms,AFFECTED_BY,Neem Seed Kernel Extract
+Cotton Bollworms,AFFECTED_BY,Demeton
+Cotton Bollworms,CONTROLLED_BY,Quinalphos
+Cotton Bollworms,CONTROLLED_BY,Bacillus Thuringiensis
+Cotton Bollworms,CONTROLLED_BY,Chrysoperla Carnea
+Cotton Bollworms,CONTROLLED_BY,Intercropping
+Cotton Bollworms,CONTROLLED_BY,Crop Rotation
+Cotton Bollworms,CONTROLLED_BY,Water Management
+Cotton Bollworms,CONTROLLED_BY,Trichogramma Spp.
+Cotton Bollworms,CONTROLLED_BY,Light Traps
+Cotton Bollworms,CONTROLLED_BY,Mulching
+Green Bollworm,GROWN_IN,Cotton
+Green Bollworm,AFFECTED_BY,Cotton
+Cotton Aphid,AFFECTED_BY,Dimethoate
+Cotton Aphid,AFFECTED_BY,Bacillus Thuringiensis
+Cotton Aphid,AFFECTED_BY,Neem Seed Kernel Extract
+Cotton Aphid,AFFECTED_BY,Demeton
+Cotton Aphid,AFFECTED_BY,Hibiscus Rosa Sinensis
+Cotton Aphid,CONTROLLED_BY,Intercropping
