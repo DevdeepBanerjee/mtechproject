@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Lecture 14: TRADITIONAL METHODS OF PEST CONTROL CULTURAL CONTROL Definition : Manipulation of cultural practices to the disadvantage of pests. I. Farm level pratices</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Lecture 14: TRADITIONAL METHODS OF PEST CONTROL CULTURAL CONTROL Definition : Manipulation of cultural practices to the disadvantage of pests. I. Farm level pratices</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D3E9F9070D0124BD37835940E528539E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>No extra skill 1.</p><p>No complete control 2.</p><p>No costly inputs 2. Prophylactic nature 3.</p><p>No special equipments 3. Timing decides success 4.</p><p>Minimal cost 5.</p><p>Good component in IPM 6.</p><p>Ecologically sound</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PHYSICAL CONTROL</head><p>Modification of physical factors in the environment to minimise (or) prevent pest problems. Use of physical forces like temperature, moisture, etc. in managing the insect pests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A.</head><p>Manipulation of temperature 1.</p><p>Sun drying the seeds to kill the eggs of stored product pests. 2.</p><p>Hot water treatment (50 -55 o C for 15 min) against rice white tip nematode.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Flame throwers against locusts. 4.</p><p>Burning torch against hairy caterpillars. 5.</p><p>Cold storage of fruits and vegetables to kill fruitflies (1 -2 o C for 12 -20 days).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B.</head><p>Manipulation of moisture 1.</p><p>Alternate drying and wetting rice fields against BPH. 2.</p><p>Drying seeds (below 10% moisture level) affects insect development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Flooding the field for the control of cutworms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C. Manipulation of light 1.</head><p>Treating the grains for storage using IR light to kill all stages of insects (eg.) Infra-red seed treatment unit (Fig. <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Providing light in storage go downs as the lighting reduces the fertility of Indian meal moth, Plodia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Light trapping.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>D. Manipulation of air 1.</head><p>Increasing the CO 2 concentration in controlled atmosphere of stored grains to cause asphyxiation in stored product pests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>E. Use of irradiation</head><p>Gamma irradiation from Co 60 is used to sterilize the insects in laboratory which compete with the fertile males for mating when released in natural condition. (eg.) cattle screw worm fly, Cochliomyia hominivorax control in Curacao Island by E.F.Knipling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>F.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Use of greasing material</head><p>Treating the stored grains particularly pulses with vegetable oils to prevent the oviposition and the egg hatching. eg., bruchid adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>G.</head><p>Use of visible radiation : Yellow colour preferred by aphids, cotton whitefly : yellow sticky traps.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>H.</head><p>Use of Abrasive dusts 1.</p><p>Red earth treatment to red gram : Injury to the insect wax layer. 2.</p><p>Activated clay : Injury to the wax layer resulting in loss of moisture leading to death. It is used against stored product pests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Drie-Die : This is a porous finely divided silica gel used against storage insects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation of activated clay :</head><p>Kaolinite </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MECHANICAL CONTROL</head><p>Use of mechanical devices or manual forces for destruction or exclusion of pests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A.</head><p>Mechanical destruction : Life stages are killed by manual (or) mechanical force. Manual Force 1.</p><p>Hand picking the caterpillars 2.</p><p>Beating : Swatting housefly and mosquito 3.</p><p>Sieving and winnowing : Red flour beetle (sieving) rice weevil (winnowing) 4.</p><p>Shaking the plants : Passing rope across rice field to dislodge caseworm and shaking neem tree to dislodge June beetles 5.</p><p>Hooking : Iron hook is used against adult rhinoceros beetle 6.</p><p>Crushing : Bed bugs and lice 7.</p><p>Combing : Delousing method for Head louse 8.</p><p>Brushing : Woolen fabrics for clothes moth, carper beetle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mechanical force 1.</head><p>Entoletter : Centrifugal force -breaks infested kernels -kill insect stageswhole grains unaffected -storage pests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Hopper dozer : Kill nymphs of locusts by hording into trenches and filled with soil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Tillage implements : Soil borne insects, red hairy caterpillar. 4.</p><p>Mechnical traps : Rat traps of various shapes like box trap, back break trap, wonder trap, Tanjore bow trap.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Mechanical exclusion</head><p>Mechanical barriers prevent access of pests to hosts. 1.</p><p>Wrapping the fruits : Covering with polythene bag against pomegrante fruit borer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Banding : Banding with grease or polythene sheets -Mango mealybug.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Netting : Mosquitoes, vector control in green house. 4.</p><p>Trenching : Trapping marching larvae of red hairy catepiller. 5.</p><p>Sand barrier : Protecting stored grains with a layer of sand on the top. 6.</p><p>Water barrier : Ant pans for ant control. 7.</p><p>Tin barrier : Coconut trees protected with tin band to prevent rat damage. 8.</p><p>Electric fencing : Low voltage electric fences against rats.</p><p>Advantage of mechanical control Disadvantages 1.</p><p>Home labour utilization 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limited application 2.</head><p>Low equipment cost 2.</p><p>Rarely highly effective 3.</p><p>Ecologically safe 3. Labour intensive 4.</p><p>High technical skill not required in adopting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appliances in controlling the pests</head><p>1.</p><p>Light traps : Most adult insects are attracted towards light in night. This principle is used to attract the insect and trapped in a mechanical device.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>a)</head><p>Incandescent light trap : They produce radiation by heating a tungsten filament. The spectrum of lamp include a small amount of ultraviolet, considerable visible especially rich in yellow and red. (eg.) Simple incandescent light trap (Fig. <ref type="figure">2</ref>), portable incandescent electric (Fig. <ref type="figure">3</ref>). Place a pan of kerosenated water below the light source.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>b)</head><p>Mercury vapour lamp light trap : They produce primarily ultraviolet, blue and green radiation with little red. (eg.) Robinson trap (Fig. <ref type="figure">4</ref>). This trap is the basic model designed by Robinson in 1952. This is currently used towards a wide range of Noctuids and other nocturnal flying insects. A mercury lamp (125 W) is fixed at the top of a funnel shaped (or) trapezoid galvanized iron cone terminating in a collection jar containing dichlorvos soaked in cotton as insecticide to kill the insect. c) Black light trap : Black light (Fig. <ref type="figure">5</ref>) is popular name for ultraviolet radiant energy with the range of wavelengths from 320-380 nm. Some commercial type like Pest-O-Flash, Keet-O-Flash are available in market. Flying insects are usually attracted and when they come in contact with electric grids, they become elctrocuted and killed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Pheromone trap : Synthetic sex pheromones are placed in traps to attract males. The rubberised septa, containing the pheromone lure are kept in traps designed specially for this purpose and used in insect monitoring / mass trapping programmes. Sticky trap (Fig. <ref type="figure">6</ref>), water pan trap (Fig. <ref type="figure">7</ref>) and funnel type (Fig. <ref type="figure">8</ref>) models are available for use in pheromone based insect control programmes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Yellow sticky trap : Cotton whitefly, aphids, thrips prefer yellow colour. Yellow colour is painted on tin boxes and sticky material like castor oil / vaseline is smeared on the surface (Fig. <ref type="figure">9</ref>). These insects are attracted to yellow colour and trapped on the sticky material.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.</head><p>Bait trap : Attractants placed in traps are used to attract the insect and kill them. (eg.) Fishmeal trap: This trap is used against sorghum shootfly. Moistened fish meal is kept in polythene bag or plastic container inside the tin along with cotton soaked with insecticide (DDVP) to kill the attracted flies (Fig. <ref type="figure">10&amp;11</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.</head><p>Pitfall trap helps to trap insects moving about on the soil surface, such as ground beetles, collembola, spiders. These can be made by sinking glass jars (or) metal cans into the soil. It consists of a plastic funnel, opening into a plastic beaker containing kerosene supported inside a plastic jar (Fig. <ref type="figure">12</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.</head><p>Probe trap : Probe trap is used by keeping them under grain surface to trap stored product insect (Fig. <ref type="figure">13</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>7.</head><p>Emergence trap : The adults of many insects which pupate in the soil can be trapped by using suitable covers over the ground. A wooden frame covered with wire mesh covering and shaped like a house roof is placed on soil surface. Emerging insects are collected in a plastic beaker fixed at the top of the frame (Fig. <ref type="figure">14</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>8.</head><p>Indicator device for pulse beetle detection : A new cup shaped indicator device has been recently designed to predict timely occurrence of pulse beetle Callosobruchus spp. This will help the farmers to know the correct time of emergence of pulse beetle. This will help them in timely sun drying which can bill all the eggs.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>infested parts (eg.) Mealy bug in brinjal b) Removal of fallen plant parts (eg.) Cotton squares c) Crop residue destruction (eg.) Cotton stem weevil Advantages Disadvantages 1.</figDesc></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

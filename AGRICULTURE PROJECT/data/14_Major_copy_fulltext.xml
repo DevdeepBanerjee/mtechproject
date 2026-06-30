@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Major Crop Combination Regions in Jammu Province: A Spatio-Temporal Analysis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Ess &amp; Ess Research Publications</publisher>
+				<availability status="unknown"><p>Copyright Ess &amp; Ess Research Publications</p>
+				</availability>
+				<date type="published" when="2015-03-15">2015-03-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nis</forename><surname>Ha</surname></persName>
+						</author>
+						<title level="a" type="main">Major Crop Combination Regions in Jammu Province: A Spatio-Temporal Analysis</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Innovative Research in Science, Engineering and Technology</title>
+						<title level="j" type="abbrev">IJIRSET</title>
+						<idno type="ISSN">2347-6710</idno>
+						<idno type="eISSN">2319-8753</idno>
+						<imprint>
+							<publisher>Ess &amp; Ess Research Publications</publisher>
+							<biblScope unit="volume">04</biblScope>
+							<biblScope unit="issue">03</biblScope>
+							<biblScope unit="page" from="897" to="905"/>
+							<date type="published" when="2015-03-15" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">F78A473796FF2AD3E98F5E80AA058E6F</idno>
+					<idno type="DOI">10.15680/ijirset.2015.0403014</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Crop combination</term>
+					<term>cropping intensity</term>
+					<term>deviation</term>
+					<term>topography etc</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Agriculture occupies an important status in economy of Jammu and Kashmir. It supports about 80% of the population. The study area represents geographical diversity like outer plains, kandi areas and mountains. In this paper an attempt has been made to study crop combination region, cropping pattern and cropping intensity in Jammu province. The crop are generally grown in combination in Jammu province. The intensity of cropping in various districts of province are closely influenced by fertility of soil, amount of rainfall,i rrigation facilities and topographical features.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In Jammu province, a small portion of land lies in the plains along the border of Punjab while rest of the area is hilly. As per the Agriculture census 1994-95, Jammu region dominates both in maize and wheat production. About 67% of the area is under maize and wheat production with the production of 21.25q/ha maize and 15.36q/a wheat this region contribute 79.56% and 95.69 percent of total production of these two crops respectively. Even though the yield is not high, the region makes appreciable contribution to production of groups of cereals classified as "other cereals and millets" nation.</p><p>The Province of Jammu has three broad crop seasons. Kharif or Summer season, Rabi or Winter season and Zaid crops</p><p>The crops are generally sown in these two season. The crops follow the following pattern: 1)</p><p>Kharif Crop: These crops are generally sown in summer. These crops require more temperature for their growth. They are generally harvested in autumn. These crops are like, Jowar, Maize, pulses etc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2)</head><p>Rabi Crops: These Are usually raised in winter and harvested in spring. These crops needs relatively cool climate with less rainfall. The principal Rabi Crops are wheat, Barely, Peas, Oil seeds, fodder, roots and tuber vegetables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3)</head><p>Zaid Crops:</p><p>In addition to Kharif and Rabi Crops which grow thorough out a year. These are raised under artificial irrigation. They include leafy and tuber vegetables. They are called as Zaid Kharif or Zaid Rabi Crops.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. METHODOLOGY</head><p>Any process in which we do work systematically is called its Methodology. In geographical analysis the approach field work varies depending upon the topics for investigation. The data and information from the published records were classified, processed and tabulated by applying simple and sophisticated and statistical techniques. The quantities techniques used in the present study have been described at appropriate places in the different chapter the methodology used in studying the present problem includes the following formulas.</p><p>Weaver"s method has admirably been accepted and applied for the demarcation of crop combination. As Weaver pointed out, the relative, not absolute value being significant square root were not extracted so the actual formula used is as follows:</p><p>Standard Deviation: S.D. = ∑d 2 N Where, d = is the differences between the actual crop percentage and the appropriate percentage in the theoretical curve n = no. of crop in a given combination Cropping intensity model: Following formula is used to find out cropping intensity of jammu province</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cropping Intensity</head><p>Gross cropped area x100 = Net Sown area</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>V. CROPPING PATTERN IN JAMMU PROVINCE</head><p>Owing to variations in climate, Soil and nature of irrigation agricultural operations and the system of cultivation naturally vary from region to region. In Jammu Province there are usually two crops a year, namely Rabi in winter and Kharif in summer. The winter crops consisting chiefly of wheat and barely are sown between mid September and mid January, depending upon the moisture in the fields. These area harvested in May-June in low-lying areas and in July-August at higher attitudes. The summer crops like rice, maize and millet are sown from mid July, according to the geographical location of place and character of soil. They are harvested between mid-August and mid November.</p><p>As regards to rotation of crops maize is often followed by wheat or sometime by toria or barely and mustard, or by some fodder crop. The fodder crops are sometime sown with cotton, especially on irrigated lands. Sugarcane fields are frequently left fallow. Rice is generally grown on same field year after year in the spring.</p><p>The land being left fallow or some fodder crop being grown. Wheat is also sometimes grown on rich-manured field but its output is generally poor. The rotation of crops is however, often upset by scanty rainfall. Above table shows that among food grains main crops are rice (18.03%) maize (33.33%) and wheat (38.63%) accounting for 84% of total cropped area while the balance 16% is shared by inferior cereals, Pulses. The commercial crop of significance grown in province is oil seed which constitute 1.93% of the total cropped area.   In above table only those crops are considered whose share is more than 1% in cropped area. Table <ref type="table">No</ref>. 2 shows that out of the total area of 62110 hectare of jammu province 39.14% is occupied by wheat and 33.77% by maize.15531 hectare area is under rice production which occupies 18.27% of the total cropped area of the province. While barley, pulses ,bajara and oil seed occupies less than 2% of total area. Weavers method of minimum deviation is then used on the above data to find out the major crop combination of the jammu province. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VII. CROPPING INTENSITY IN JAMMU PROVINCE</head><p>Intensity of cropping refers to the application of inputs, assured irrigation, high doses of fertilizers mainly green manure, application of insecticides and pesticides.</p><p>The intensity of cropping depends upon the factors like:-1)</p><p>The land should be level and fertile 2)</p><p>Good quality of seeds particularly HYV seeds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3)</head><p>Assured supply of irrigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4)</head><p>Measure to save the crop from pests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5)</head><p>Facility for complete or partial marketability Generally farmers leave the land fallow, it regain its fertility. But in the intensive system of cropping following is generally not done but double or triple cropping in a year is done. In the intensive system of cropping multiple cropping is often adopted for example in the rabi season wheat is cultivated as soon as wheat is harvested, land is cultivated with Potato, after Potato in the Kharif season rice is cultivated. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Formula</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig.1 Area Under Different Crops in Jammu Province (2001-02)</figDesc><graphic coords="4,142.26,480.99,206.64,162.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 2 :</head><label>2</label><figDesc>Fig 2 : Area under different crops :Jammu Province (2001-02)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>The theoretical base curve for mono-crop region is 100  d = (100 -39.14) 2 = 3703.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Cropping Intensity for Rajouri district = 89948 x 100 = 169.5</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,108.00,344.23,370.58,431.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,59.10,168.29,505.53,123.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 Area under different crops in Jammu Province for calculating crop combination</head><label>3</label><figDesc></figDesc><table><row><cell>S.</cell><cell>Crops</cell><cell>Area in hectare</cell><cell>% of tabulated area</cell></row><row><cell>No.</cell><cell></cell><cell></cell><cell></cell></row><row><cell>1.</cell><cell>Rice</cell><cell>115531</cell><cell>18.27</cell></row><row><cell>2.</cell><cell>Wheat</cell><cell>247446</cell><cell>39.14</cell></row><row><cell>3.</cell><cell>Maize</cell><cell>213506</cell><cell>33.77</cell></row><row><cell>4.</cell><cell>Barley</cell><cell>10204</cell><cell>1.61</cell></row><row><cell>5.</cell><cell>Bajra</cell><cell>13255</cell><cell>2.69</cell></row><row><cell>6.</cell><cell>Pulses</cell><cell>19783</cell><cell>3.12</cell></row><row><cell>7.</cell><cell>oilseeds</cell><cell>12385</cell><cell>1.95</cell></row><row><cell></cell><cell>Total</cell><cell>622110</cell><cell></cell></row><row><cell></cell><cell cols="2">Source:-Financial Commissioner (Rev.)</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Table <ref type="table">No</ref>. 2 shows that out of the total area of 15531 hectare under rice production 49.36% is occupied by Jammu district followed by Kathua (26.6%) Udhampur (11.52%) Rajouri (5.83%), Doda (3.27%) and lastly by Poonch (i.e. 3.10%) district.In case of wheat production maximum are is under Jammu district i.e. about 39.06% while minimum area is under Doda and Poonch district i.e. about 4.01% and 5.92% respectively. Maize is third major crop grown in Jammu Province out of total area of 213506 hectare under Maize production 25.52% is occupied by Udhampur district followed by Doda (23.87%), Rajouri (21.10%), and Poonch (11.11%) districts respectively. Jowar, Bajara and Barley are also grown in Jammu Province which occupies about 1419, 13255 and 10204 hectare of the total area under different crops. Millets are grown in Udhampur, Doda and Rajouri districts occupies about 51.46%, 89.94% and 4.04% of the area out of the total area under millets production respectively. Jammu districts ranks first in production of wheat i.e. 48.67% area followed by rice, maize, bajara and pulses which occupies area of 28.87%, 9.9% , 5.91% and4.06% of total cropped area of the district respectively .In Udampur district maize is first ranking crop followed by wheat with 47.37% and 33.26% of the total area in hectare respectively .In districts of Rajouri, Poonch and Doda wheat is the first ranking crop with total of 46.41%,54.92% and 61.81% area under production of maize crop respectively. The reason being climatic conditions and irregular terrain. While district Kathua rank first in production of wheat followed by rice i.e. 41.96% and 30.30% of area. Reason of rice cultivation being sub tropical type of climatic conditions anp plain topography.</p><p>The analysis of the study have revealed and established that topography has its impact on crop combination and cropping pattern of the province.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VI. CROP COMBINATION IN JAMMU PROVINCE</head><p>The Agriculture elements studied collectively in an area may be turned as crop combination. The concept of crop combination is a scientific device to study the existing spatial relationship of crop in association with each other on agriculture geography and land utilization.</p><p>Among the different method weavers method of minimum deviation has been used her to get the crop combinations. He takes those crops which occupies over 1% of the cropped area.</p><p>Theoretical curve for the standard measurement is employed as follows:- Monoculture = 100 percent of the total harvested crop land in one crop. To illustrate the weaver"s technique and illustration can be given from Jammu province in which percentage share of each crop in cropped area in a year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>International Journal of Innovative Research in Science,</head><p>Engineering and Technology </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5</head><p>= 1164.62 Thus the above shows that three crops combination is the best combination because it has maximum deviation for Jammu province.</p><p>This result established the identity and number of crops in the basic combination for the Jammu Province as Rice -Wheat and Maize.</p><p>It may be seem from the figure that all five crops (maize, rice, wheat, millets, and oilseeds) enter into combination. It may also be observed from the figure that monoculture is not practiced in the Jammu Division. The crops make only two and three combination. The crop combinations of various districts of state are closely influenced by the terrain, soil and extreme climatic conditions. The above table shows that monoculture is not practised in districts of Jammu province. Crops are generally grown in combination. It is clear from the above table that two or three crop combination is prevalent in almost each district of Jammu province. In Jammu district two crops are found in combination in which wheat has largest share than rice. District Udhampur is also marked with two crop combination with wheat and maize are two crops in combination. Same is the case with district Rajouri and Poonch both these districts are having two crop combination with maize and wheat as major crops in combination. The reason being favourable climatic condition and mountainous soil. Three crop combination is found in the districts of Doda with maize, wheat and barley as major crops in combination. Other crops have less share because of lack of irrigation facilities and rugged terrain. Thus from the above calculation its is clear that Jammu district has highest cropping intensity of 189.02% followed by Kathua district i.e. 170.30% whereas Doda district had lowest intensity of cropping i.e. 132.47% District Udhampur and Poonch has almost same intensity of cropping i.e. 158.20% and 158.13% respectively. While intensity of cropping for Rajouri district is 160.95% net to Kathua district.</p><p>Cropping intensity is highest in Jammu and Kathua district because of level and fertile land, assured supply of irrigation, facility for complete or partial marketability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VIII. CONCLUSION</head><p>Agriculture is the predominant sector in the economy of Jammu and Kashmir. Directly and Indirectly, it supports about 80% of population besides, contributing nearly 60% of state revenue, which adequately explains the over dependency of the population on agriculture.Jammu Province represent the geographical diversities like outer plains, kandi areas etc. In Jammu Province, a small portion of land lies in the plains along the border of Punjab while rest of the area is hilly.It is observed from the study that crops are generally grown in combination in Jammu Province. Monoculture is not practiced in the division. The crops make two or three combinations. The crop combination of various districts of state are closely influenced by the terrain, soil and extreme climatic conditions.A variation in intensity of cropping is mainly due to fertility of soil, amount of rainfall, irrigation facilities and topographic feature. Cropping intensity is highest in Jammu and Kathua district of i.e. 189.2% and 170.30% respectively because of assured supply of irrigation or, facility for complete or partial marketability. The Jammu Division is drained by perennial River like Chenab, Ravi, Tawi, Ujh, Basantar etc. and number of perennial and non-perennial tributaries and provide canals for irrigation which contribute about 94% of the total irrigational area like Ranbir Canal is Jammu and Pratap canal in Akhnoor while 16% is irrigated by wells, tanks and other sources.The dominance of rice in outer plains of Jammu, oilseeds and pulses in Kandi region maize in hilly regions give credence that topography conditions have determined the agriculture patte The academic exercise present here is obviously not a comprehensive study of agriculture pattern of Jammu Province. It is also realized that several other aspects have not even mentioned here which are likely to be analysed for such studies.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Systematic Agricultural Geography, Rawat Publication</title>
+		<author>
+			<persName><forename type="first">Majid</forename><surname>Hussain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<biblScope unit="page" from="44" to="67" />
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Land Utilization, concept publication</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mandal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<pubPlace>Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Jasbir</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agriculture Geography</title>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Tata Macgraw Hills Publicaitons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Raina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geography of Jammu and Kashmir</title>
+		<imprint>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Land Utilization theory and Practice concept publication</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mandal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<pubPlace>Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Sytematic</title>
+		<author>
+			<persName><forename type="first">Majid</forename><surname>Hussain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Geography of Jammu and Kashmir</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">A. Rawat Publication Jaipur and New Delhi</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">David</forename><surname>Rhind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ray</forename><surname>Husdon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979-07">July 1979</date>
+			<publisher>Landuse, Metheun and Co</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

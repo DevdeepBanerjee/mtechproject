@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Indian crop diversity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">N</forename><surname>Sivaraj</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Pandravada</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">V</forename><surname>Kamala</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Sunil</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Rameash</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Babu</forename><surname>Abraham</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Elangovan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Directorate of Sorghum Research (DSR)</orgName>
+								<address>
+									<postCode>500 030</postCode>
+									<settlement>Hyderabad</settlement>
+									<country>Andhra Pradesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chakrabarty</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">National Bureau of Plant Genetic Resources (NBPGR)</orgName>
+								<address>
+									<postCode>500030</postCode>
+									<settlement>Regional Station, Hyderabad</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Indian crop diversity</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">81D48F80F5BCF58C8763060405273A70</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is Crop diversity?</head><p>Crop diversity is the variability in genetic and phenotypic traits that is found in cultivars grown by the farming community. Crop varieties may vary in height, branching pattern, flower colour, fruiting time or seed size etc. and they may also vary in their response to less obvious abiotic traits such as their response to heat, cold or drought, or their ability to resist specific disease and pests. It is possible to discern variation in almost every conceivable trait, including nutritional qualities, preparation and cooking techniques, and of course how a crop tastes. And if a trait cannot be found in the crop itself, it can often be found in a wild relative of that crop, a plant that has similar traits of that species which is not under cultivation or used in agriculture, but exist in the wild. Diversity in a crop can also result from different growing conditions: a crop growing in nutrient poor soil is likely to be shorter than a crop growing in more fertile soil. In addition, and perhaps most importantly, diversity of a harvested plant can be the result of genetic differences: a crop may have genes conferring early maturity or disease resistance. It is these heritable traits that are of special interest as they are passed on from generation to generation and collectively determine a crop's overall characteristics and future potential. Through combining genes for different traits in desired combinations, plant breeders are able to develop new crop varieties to meet specific conditions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Crop genetic resources are one of the most important components of biodiversity and these hold the key to foundation of agriculture, food and nutritional security. The importance of crop genetic resources has increased significantly in the recent years with the changing global scenario in material ownership and the legal regimes with respect to access to genetic resources under the International Agreements. The sustainable management of plant genetic resources is the major concern in today's world, as ever increasing population and rapid growth are putting tremendous pressure on these resources. Genetic resources management involves a range of activities including exploration and collecting, conservation, characterization and evaluation, exchange of germplasm and, genetic enhancement. Modern molecular approaches increasingly so, can contribute to all these activities. It is now well understood that advances through biotechnologies indeed are possible only through an increased access to a wide range of plant genetic resources. Indian agriculture production scenario is also being confronted by numerous other problems, which calls upon national strategic approaches to be adopted with respect to germplasm exchange for broadening the genetic base, conservation of crop diversity, exploring and promoting the underutilized crops; developing genetic diversity to reduce crop vulnerability to climate changes and to overcome other yield limiting characters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Status of India's Crop diversity</head><p>The Indian subcontinent is extremely diverse in its climate, physiography and flora and the Indian gene centre is among the 12 mega diversity regions of the world. Rich diversity occurs in several crop plants and their wild progenitors. About 25 crop species were domesticated in India. It is endowed with rich diversity of more than 18,000 species of higher plants including, 160 major and minor crop species and 325 of their wild relatives. Around 1,500 wild edible plant species are widely exploited by native tribes. These include 145 species of roots and tubers, 521 of leafy vegetables/ greens, 101 of buds and flowers, 647 of fruits and 118 of seeds and nuts. In addition, nearly 9,500 plant species of ethno botanical uses have been reported from the country, of which around 7,500 are for ethno medicinal purposes and 3,900 are multipurpose/ edible species <ref type="bibr">(NAAS, 1998)</ref>. In addition, the Indian agriculture has been enriched by a continuous stream of introductions of new crops and their cultivars since the ancient times. The current diversity consists of indigenous plants, their wild and/ or weed relatives and well adapted introductions from practically all over the globe. Among introduced types, some good examples are: cerealswheat, barley, oats, maize; pulses-chickpea, French bean and peas; vegetables-potato, onion, cauliflower, cabbage, carrot and tomato; fruits-apple, pear, grapes, cherry, peach and apricot; oilseeds-soybean, sunflower and groundnut; fibre plants-cotton; medicinal plantsmint, liquorice, foxglove, Cinchona, Hyoscyamus (herbane) and others such as Humulus lupulus (hops). Thus, both indigenous and well adapted exotic set of materials constitute a well-balanced matrix of crop diversity in India. The Indian gene centre has strong linkages and contiguity with other regions of diversity of crop plants such as the indo-Chinese-Indonesian, Chinese-Japanese and the Central and West Asian regions. Further the influx of germplasm in distant past from the Mediterranean, African and tropical American regions, has built up enormous locally selected diversity. By and large, India is : (i) a primary centre of diversity for crops such as rice, black gram, moth bean, pigeon pea, cucurbits ( smooth gourd, ridge gourd and pointed gourd), tree cotton, Capsularis jute, jack fruit, banana, mango, Syzygium cuminii/ jamun, large cardamom, black pepper and several minor millets and medicinal plants like Rauvolfia serpentina and Saussurea lappa; (ii) a secondary centre of diversity for African crops such as finger millet, sorghum, cowpea, cluster bean, okra, sesame, niger and safflower; tropical American crops , maize, tomato, pumpkin/ Cucurbita spp., Chayote or chou chou, chilli, Amaranthus; (iii) with regional (Asiatic) diversity for crops like maize, barley, amaranth, buckwheat, prosomillet, mung bean, chickpea, cucumber, bitter gourd, bottle gourd, snake gourd and Brassicae. Also, geographical contiguity with the Far-East and/or the Indo-Burmese and Indo-Malayan (South/ South-East Asian region) belt is highly responsible for more regional diversity in mung bean, rice bean, sword bean, tomato, citrus, small cardamom, sugarcane, ginger, turmeric, tuber crops particularly taros and yams and bamboos <ref type="bibr" target="#b1">(Arora, 1994)</ref>.</p><p>Agro-climatically and floristically, India has been divided into eight regions: (1) Western Himalayas, (2) Eastern Himalayas, (3) North-Eastern region, (4) Gangetic plains, (5) Indus plains, (6) Western Ghats, (7) Eastern Ghats (the Peninsular regions) and ( <ref type="formula">8</ref>) the Islands region, the Lakshadweep and the Andaman &amp; Nicobar group of islands <ref type="bibr">(Chatterjee, 1939, Murthy and</ref><ref type="bibr" target="#b7">Pandey, 1978)</ref> (Fig. <ref type="figure" target="#fig_0">1</ref>). These regions exhibit more uniqueness and richness in crop plant diversity <ref type="bibr" target="#b0">(Arora, 1988)</ref>. Detailed below are some the crop diversity in major crop plants in India:   <ref type="bibr">1984)</ref>. Indian crop diversity also has been a major contributor at the global level in recent times (Figure <ref type="figure" target="#fig_1">2</ref>).</p><p>Apart from the crop plants and their wild relatives, enormous diversity occurs in natural habitats in medicinal and aromatic plants and forage grasses and legumes. Some of the medicinal plants diversity such as Rauvolfia serpentina, Ocimum and Cymbopogon spp., Emblica officinalis, Swertia chirayata, Podophyllum hexandrum and Nardostachys jatamansi are of industrial use. The diversity in wild forage plants is largely distributed in the Western Ghats, Eastern Ghats, North-Eastern region and in the Himalayas. Four hundred species of legume forages are reported to occur in these regions <ref type="bibr" target="#b2">(Arora and Chandel, 1972)</ref>. These include Alysicarpus, Desmodium, Crotolaria, Pueraria, Rhyncosia, Smithia, Indigofera, Trigonella, Astragalus, Caragana, Lespedeza, Cicer, Medicago and Melilotus. Among grasses, over 1,250 species occur, of which about 600 are considered as promising wild forages <ref type="bibr" target="#b4">(Arora et al., 1975)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation of Indian Crop diversity</head><p>The proper conservation and use of crop diversity which is also a component of agro-biodiversity is fundamental to sustainable development and food security. As diversity in crops is fundamental to the fulfillment of basic human needs like food, fodder, fuel, fibre etc., their loss has serious implications on economic and social development. Hence, crop diversity has to be conserved and managed for sustainable use. Germplasm is the basic material for the plant breeding or crop improvement. Realizing the importance of the germplasm, systematic collection and conservation of germplasm is being carried out for all the crop species worldwide <ref type="bibr">(Pillai et al., 2002)</ref>. Biotechnological tools are currently being well utilized in the germplasm management to identify specific accessions, assess the genetic diversity among the core collections, confirm the true hybridization and evaluate the taxonomical status and to detect duplicates in the core crop germplasm collections.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ex-situ conservation</head><p>It refers to conservation of genetic material of biological diversity outside their natural habitat in facilities supporting either storage or perpetuation with conditions suited to maintain their viability and genetic constitution. Ex-situ conservation virtually safeguards and provides required supply of germplasm for research and breeding <ref type="bibr" target="#b9">(Singh et al., 2004)</ref>. Some of the possible approaches can be grouped in:  <ref type="table" target="#tab_1">1</ref>.</p><p>In-vitro conservation: (a) Conservation of cells, tissues, organs in glass or plastic containers under aseptic conditions through slow growth of cultures (b) Cryopreservation of cultures (tissues, organs, pollen or cultures in liquid nitrogen at -150 to -196 o C). The status of crop diversity conserved under in-vitro conditions is provided in Table <ref type="table" target="#tab_2">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DNA conservation:</head><p>The basic objective in conservation of PGR is conservation of genetic diversity existing in the form of a functional unit called 'gene'. The whole genome in the form of genomic library or a sequence of DNA in the form of DNA library may be conserved following the appropriate conservation method. A recent initiative in this regard is the National Genomic Resources Repository established at NBPGR, New Delhi.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In-situ conservation</head><p>It refers to conservation of crop genetic resources within their ecosystem and natural habitats. In-situ conservation is required for forestry species, species belonging to complex ecosystem, endangered, and wild relatives of crop plants etc. It has mainly two approaches (a) ecosystem approach (biosphere reserves) and (b) habitat approach (sacred groves, gene sanctuaries, national parks).</p><p>In situ conservation involves continued habitat maintenance. In some contexts in situ methods can directly address the causes of environmental degradation and seek to limit their effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>National Active Germplasm Sites</head><p>Major efforts are now devoted towards further strengthening the national plant genetic resources system for crop diversity conservation in the country with National Bureau of Plant Genetic Resources as the leading organization linked effectively with over 55 ICAR institutes, Project Directorates, National Research Centres, All India Coordinated Projects and State Agricultural universities. These centres are designated as National Active Germplasm Sites for specific crops and have been assigned responsibility for maintaining, evaluating and supplying germplasm of different crops which are also under long term storage at -20 o C in the National Gene Bank.  Crop diversity and the economy Agriculture is the economic foundation for most of the countries especially for developing countries like India the source of economic growth. Growth is most rapid where agricultural productivity has risen the most and the reverse is also true. Growth in agriculture, although beneficial for the wider economy, benefits mostly the poor and by providing affordable food grains these benefits extend beyond the 70% of the world's poorest of the poor who live in rural areas and for whose livelihoods agriculture remains central. Ensuring agriculture to play this fundamental role requires a range of improvements including: the growing of higher value crops, promoting value-adding activities through improved processing, expanding access to markets and lowering food prices through increasing production, processing and marketing efficiency, particularly for subsistence and very low income farming families. Fundamental to all these potential solutions is crop diversity -the diversity that enables farmers and plant breeders to develop higher yielding, more productive varieties having improved quality characteristics required by farmers and desired by consumers. They can breed varieties better suited to particular processing methods or store longer or can be transported with minimal wastage. They can produce varieties that resist pests and diseases and are drought tolerant, providing more protection against crop failure and better insulating poor farmers from risk. Agriculture's part in fighting poverty is complex, but without the genetic diversity found within crops, it cannot fulfil its potential.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Indian crop diversity which traditionally include landraces, primitive cultivars and wild relatives of cultivated plants are the basic raw materials that not only sustain the present day crop improvement programmes but is also required to meet the aspirations of future generations who may require altogether new sources of genes while facing unforeseen challenges of more virulent pathogens and pests, hostile climatic factors and abiotic stresses like salinity, drought and unfavourable temperatures. India has been well recognised since long as an important centre of the origin and diversity of many agri-horticultural crops. The loss of crop diversity is considered one of the today's most serious environmental concerns by the Food and Agriculture organization (FAO) of the United Nations. According to some estimates, if current trends persist, as many as half of all plant species could face extinction. Among the many threatened species are wild relatives of our crops -species that could contribute invaluable traits to future crop varieties. It has been estimated that 6% of wild relatives of cereal crops (wheat, maize, rice, sorghum etc.) are under threat as are 18% of legume species (the wild relatives of beans, peas and lentils) and 13% of species within the botanical family Solanaceae that includes potato, tomato, eggplant, and chilli. Antiquity of Indian agriculture dates back to 2500-2000 BC and remains of cotton, wheat, peas, broad bean, lentil, grass pea and rice had been recorded. Rich ethnic diversity has added further to the conservation of native landraces grown under traditional farming systems. In overall perspective, being endowed with diverse environment and agro-ecology, richness of native crop diversity including the wild progenitors of crop plants, the Indian sub-continent assumes great importance for conservation and utilization of crop diversity.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Phytogeographic regions of India rich in crop diversity.</figDesc><graphic coords="2,172.85,266.49,249.60,226.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Number of samples distributed by the CGIAR gene banks that were originally sourced from indicated countries<ref type="bibr" target="#b6">(Isabel et al., 2012)</ref> </figDesc><graphic coords="3,116.28,509.40,363.60,186.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>of orthodox, intermediate and recalcitrant (embryonic axis) seeds in liquid nitrogen at -150 to -196 o C. The status of conservation of crop diversity base collections in the National Gene Bank located in New Delhi is provided in Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>1. Western Himalayas: </head><label></label><figDesc>Durum wheat, pearl millet  Moth bean, cluster bean, chickpea, black gram  Okra, Cucumis species  Jujube, Khirni/ Mimusops sp., phalsa/ Grewia sp.</figDesc><table><row><cell>5. Indus plains</cell><cell></cell></row><row><cell>  Sesame, Taramira, Eruca sp  Cotton</cell><cell>The floristic diversity of the wild relatives and related types is estimated to about 320 species, of which 60 are endemic. Category-wise, the number of such species of agri-horticultural importance is as follows: Cereals and millets-51; lguemes-31; fruits-109, vegetales-54, oilseeds-12; fibre plants-24; spices and condiments-27; and others-26. The number of wild species occurring in different</cell></row><row><cell>6. Eastern peninsular region/Eastern Ghats /</cell><cell>phytogeographical zones varies, being more in the</cell></row><row><cell>Deccan plateau</cell><cell>Western Ghats-145 spp., North-Eastern region-132 spp.,</cell></row><row><cell> Rice, sorghum, finger millet, pearl millet, fox tail</cell><cell>and the Western Himalayas-125 spp., than in other</cell></row><row><cell>millet, little millet, prosomillet, kodo millet</cell><cell>regions-Eastern ghats-91, Eastern Himalayas-82,</cell></row><row><cell> Blackgram, greengram, cowpea, horse gram,</cell><cell>Gangetic plains-66 and Indus plains-45 (Arora and Nayar,</cell></row><row><cell>Mucuna spp., pigeon pea, Dolichos bean, rice bean</cell><cell></cell></row><row><cell> Taro, yam, elephant-foot yam</cell><cell></cell></row><row><cell> Banana, mango, lemon/lime, jackfruit</cell><cell></cell></row><row><cell> Niger, Brassicae, sesame</cell><cell></cell></row><row><cell> Ginger, turmeric, chilli/Capsicum spp., kenaf,</cell><cell></cell></row><row><cell>sugarcane, coconut, cotton</cell><cell></cell></row><row><cell>2. Eastern Himalayas:  Barley, maize, buckwheat, amaranth, foxtail millet, finger millet  French bean, soybean, cowpea, black gram, peas, scarlet bean  Pumpkin, cucumber, Allium species, ginger, chayote, tree tomato, Brassicae</cell><cell>4. Gangetic plains  Rice, sorghum, barnyard millet, little millet/Panicum species  Chickpea, cowpea, mungbean  Okra, eggplant, bottlegourd, Cucumis spp., Luffa spp.  Jack fruit, mango, lemon/lime, orange, jujube, Indian gooseberry/Emblica spp., jamun, melons</cell></row><row><cell></cell><cell> Linseed, niger, sesame, Brassicae</cell></row><row><cell></cell><cell> Sugarcane, mulberry</cell></row></table><note>Barley, wheat, maize, buckwheat, amaranth,  prosomillet,  finger millet  French bean, soybean, lentil, black gram, peas  Pumpkin, cucumber, Allium species, ginger, Brassicae  Pome, stone, soft and nut fruits  Medicinal plants  Pome and stone fruits 3. North-Eastern Region  Rice, maize, sorghum, finger millet, foxtail millet, job's tears  French bean, soybean, pigeon pea (perennial), black gram, rice bean, winged bean  Pumpkin, chayote, cucumber, okra, eggplant, chilli/Capsicum species, pointed gourd, ash gourd  Taros, yams  Citrus sps-Lime/lemon/orange/grape fruit, banana  Tea, tree cotton, jute, kenaf, mesta, large cardamom, ginger, long pepper, sugarcane 7. Western peninsular region/Western Ghats  Rice, sorghum, finger millet, small millet/Panicum spp.  Blackgram, greengram, cowpea, pigeon pea, Dolichos bean, hrose gram, sword bean  Okra, eggplant, cucumber, chilli/Capsicum spp.  Taros, yams, elephant-foot yam  Jackfruit, banana, lime/lemon, orange, jamun/Syzygium spp.  Sugarcane, black pepper, turmeric, ginger, coconut, areca nut, cotton 8. The Islands regions  Coconut, bread fruit, chilli, taros, yams, Xanthosoma spp.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Crop diversity base collections conserved in the National Gene Bank (Status as on 31 st March, 2013)</head><label>1</label><figDesc></figDesc><table><row><cell>Crop / Crop Group</cell><cell>Present status of accessions</cell><cell>Crop / Crop Group</cell><cell>Present status of accessions</cell></row><row><cell></cell><cell>conserved</cell><cell></cell><cell>conserved</cell></row><row><cell>Paddy</cell><cell>95326</cell><cell>Millets and forages</cell><cell>56487</cell></row><row><cell>Wheat</cell><cell>40086</cell><cell>Amaranth</cell><cell>5558</cell></row><row><cell>Maize</cell><cell>9479</cell><cell>Buckwheat</cell><cell>880</cell></row><row><cell>Others</cell><cell>12270</cell><cell>Others</cell><cell>388</cell></row><row><cell>Cereals</cell><cell>157161</cell><cell>Pseudo Cereals</cell><cell>6826</cell></row><row><cell>Sorghum</cell><cell>20432</cell><cell>Chickpea</cell><cell>16898</cell></row><row><cell>Pearl millet</cell><cell>8395</cell><cell>Pigeonpea</cell><cell>11427</cell></row><row><cell>Minor millet</cell><cell>22316</cell><cell>Mung bean</cell><cell>3704</cell></row><row><cell>Others</cell><cell>5344</cell><cell>Others</cell><cell>26145</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Crop diversity conserved in-vitro in the National Gene Bank (As on 31 st March, 2013)</head><label>2</label><figDesc></figDesc><table><row><cell>Crop Group</cell><cell>Present Status (Acc. No.)</cell><cell>Crop Group</cell><cell>Present Status (Acc. No.)</cell></row><row><cell>In vitro bank</cell><cell></cell><cell></cell><cell>Cryobank</cell></row><row><cell>1. Tropical fruits</cell><cell>416</cell><cell>1. Recalcitrant</cell><cell>0</cell></row><row><cell>2. Temperate and minor tropical fruits</cell><cell>330</cell><cell>2. Intermediate</cell><cell>5789</cell></row><row><cell>3. Tuber crops</cell><cell>619</cell><cell>3. Orthodox</cell><cell>3351</cell></row><row><cell>4. Bulbous crops</cell><cell>171</cell><cell>4. Dormant bud (Mulberry)</cell><cell>380</cell></row><row><cell>5. Medicinal &amp; aromatic plants</cell><cell>174</cell><cell>5. Pollen (Mango)</cell><cell>381</cell></row><row><cell>6. Spices and industrial crops</cell><cell>380</cell><cell>TOTAL</cell><cell>9901</cell></row><row><cell>TOTAL</cell><cell>2090</cell><cell></cell><cell></cell></row><row><cell>(source: www.nbpgr.ernet.in)</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Indian gene centre-priorities and prospects for collection</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Plant genetic resources: Indian perspective</title>
+				<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Paroda</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">P S</forename><surname>Chandel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>NBPGR</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page">545</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Indian gene centre: Diversity in crop plants and their wild relatives pp29-37</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ex-situ conservation of plant genetic resources</title>
+				<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Rana</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Saxena</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Sanjeev</forename><surname>Saxena</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Vivek</forename><surname>Mitter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>NBPGR</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page">350</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Botanical sources areas of wild herbage legumes in India</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P S</forename><surname>Chandel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trop. Grasslands</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="213" to="221" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Wild relatives of crop plants in India</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Nayar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NBPGR Sci. Mongr</title>
+		<imprint>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">90</biblScope>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Indian gene centre: Prospects for exploration and collection of herbage grasses</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Mehra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hardas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forage Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="22" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Studies on the endemic flora of India and Burma</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chatterjee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Royal Asist. Soc. Bengal N.S. (Science)</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="19" to="67" />
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Flows under stress: availability of plant genetic resources in times of climate and policy change. Working paper no.18. Copenhagen, Denmark. CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS)</title>
+		<author>
+			<persName><forename type="first">Isabel</forename><surname>López-Noriega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gea</forename><surname>Galluzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Halewood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ronnie</forename><surname>Vernooy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Enrico</forename><surname>Bertacchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Devendra</forename><surname>Gauchan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Welch</surname></persName>
+		</author>
+		<ptr target="http://ccafs.cgiar.org/" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Delineation of agroecological regions of India. 11 th Congress</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pandey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">NAAS 1998. Conservation, management and use of agrobiodiversity. Policy paper 4. National Academy of Agricultural Sciences</title>
+		<title level="s">International Society of Soil Sciences</title>
+		<meeting><address><addrLine>Edmonton, Canada; New Delhi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1978-06">1978. June 1978</date>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Biotechnology in cassava germplasm conservation and breeding in India</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Pilliai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sunderasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Sheela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asia: Exploring New Opportunities for an Ancient Crop, Proceedings of the 7 th regional cassava workshop</title>
+				<meeting><address><addrLine>Bangkok, Thailand</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001-11">2002. Oct-28 to Nov-1</date>
+			<biblScope unit="page" from="140" to="149" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ex-situ approaches for conservation plant genetic resources: achievements and challenges</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kameshwar</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<ptr target="www.nbpgr.ernet.in" />
+	</analytic>
+	<monogr>
+		<title level="m">Plant genetic resource management</title>
+				<editor>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Dhillon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Arjun</forename><surname>Lal</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Saxena</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Narosa Publishing House</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="179" to="193" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

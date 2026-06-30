@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">State of Agriculture in India</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2017-03">March 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">State of Agriculture in India</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2017-03">March 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F6507485671EDABDE792D3D7BC3E6F97</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture output has been volatile</head><p>86% of land holdings are less than 2 hectares Informal sources of credit constitute 40% of loans DISCLAIMER: This document is being furnished to you for your information. You may choose to reproduce or redistribute this report for non-commercial purposes in part or in full to any other person with due acknowledgement of PRS Legislative Research ("PRS"). The opinions expressed herein are entirely those of the author(s). PRS makes every effort to use reliable and comprehensive information, but PRS does not represent that the contents of the report are accurate or complete. PRS is an independent, not-for-profit group. This document has been prepared without regard to the objectives or opinions of those who may receive it.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INSIGHTS</head><p> The agriculture sector employs nearly half of the workforce in the country. However, it contributes to 17.5% of the GDP (at current prices in 2015-16).</p><p> Over the past few decades, the manufacturing and services sectors have increasingly contributed to the growth of the economy, while the agriculture sector's contribution has decreased from more than 50% of GDP in the 1950s to 15.4% in 2015-16 (at constant prices).</p><p> India's production of food grains has been increasing every year, and India is among the top producers of several crops such as wheat, rice, pulses, sugarcane and cotton. It is the highest producer of milk and second highest producer of fruits and vegetables. In 2013, India contributed 25% to the world's pulses production, the highest for any one country, 22% to the rice production and 13% to the wheat production. It also accounted for about 25% of the total quantity of cotton produced, besides being the second highest exporter of cotton for the past several years.  However, the agricultural yield (quantity of a crop produced per unit of land) is found to be lower in the case of most crops, as compared to other top producing countries such as China, Brazil and the United States.</p><p> Although India ranks third in the production of rice, its yield is lower than Brazil, China and the United States. The same trend is observed for pulses, where it is the second highest producer.  Such a variance in agricultural growth has an impact on farm incomes as well as farmers' ability to take credit for investing in their land holdings.</p><p> Key issues affecting agricultural productivity include the decreasing sizes of agricultural land holdings, continued dependence on the monsoon, inadequate access to irrigation, imbalanced use of soil nutrients resulting in loss of fertility of soil, uneven access to modern technology in different parts of the country, lack of access to formal agricultural credit, limited procurement of food grains by government agencies, and failure to provide remunerative prices to farmers.</p><p> Some of the recommendations made by committees and expert bodies over the years include bringing in agricultural land leasing laws, shifting to micro-irrigation techniques to improve efficiency of water use, improving access to quality seeds by engaging with the private sector, and introducing a national agricultural market to allow the trading of agricultural produce online. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State of Agriculture of India</head><p>Agricultural productivity depends on several factors. These include the availability and quality of agricultural inputs such as land, water, seeds and fertilizers, access to agricultural credit and crop insurance, assurance of remunerative prices for agricultural produce, and storage and marketing infrastructure, among others. This report provides an overview of the state of agriculture in India. It discusses factors related to the production and post-harvest activities in agriculture.</p><p>As of 2009-10, more than half of the total workforce (53%) of the country, i.e. 243 million persons were employed in agriculture. <ref type="bibr" target="#b0">1</ref> The share of population depending on agriculture for its livelihood consists of landowners, tenant farmers who cultivate a piece of land, and agricultural labourers who are employed on these farms. Agricultural output has been volatile over the past 10 years, with annual growth ranging from 8.6% in 2010-11, to -0.2% in 2014-15 and 0.8% in 2015-16. <ref type="bibr" target="#b1">2</ref> Figure <ref type="figure" target="#fig_2">3</ref> shows the trend in the growth of agricultural sector over the past 10 years.  As seen in Figure <ref type="figure" target="#fig_3">4</ref>, the agriculture sector's contribution to the Gross Domestic Product (GDP) decreased from 54% in 1950-51 to 15.4% in 2015-16, while that of the services sector increased from 30% to 53%. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b1">2</ref> While the agriculture sector's contribution to GDP has decreased over the past few decades, the contribution of sectors such as manufacturing (employing 10.5% of the population) and services (employing 24.4% of the population) has increased. 1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agricultural production and yield</head><p>Figure <ref type="figure" target="#fig_4">5</ref> shows the production of crops over the past few decades. The production of major crops over the past few decades is shown in Table <ref type="table" target="#tab_9">7</ref> in the Annexure.  Total production of food grains increased from 51 million tonnes in 1950-51 to 252 million tonnes in 2015-16. <ref type="bibr" target="#b3">4</ref> According to the second advance estimate by the Ministry of Agriculture, food grains production is estimated to be 272 million tonnes in 2016-17. <ref type="bibr" target="#b4">5</ref>  The production of wheat and rice took off after the green revolution in the 1960s, and as of 2015-16, wheat and rice accounted for 78% of the food grains production in the country. The country's requirement for food grains in order to provide for its population is projected to be 300 million tonnes by 2025. <ref type="bibr" target="#b5">6</ref> The estimate of food grains production in 2015-16 is 252 million. This implies that the crop output needs to grow at an annual average of 2%, which is close to the current growth trend.</p><p>Despite high levels of production, agricultural yield in India is lower than other large producing countries. Agricultural yield is the quantity of a crop produced on one unit of land. Agricultural yield of food grains has increased by more than four times since 1950-51, and was 2,070 kg/hectare in 2014-15. <ref type="bibr" target="#b6">7</ref> However, as seen in Figure <ref type="figure" target="#fig_5">6</ref>, India's yield is low when compared to countries such as China, Brazil and the USA.  Although India is the second highest producer of paddy (rice) in the world (as of 2013), its yield is lower than China, Brazil and the USA. It is also the leading producer of pulses, but its yield is the lowest. 8,9</p><p> India's productivity has also grown at a slower rate as compared to others. For instance, while Brazil's yield for rice increased from 1.3 tonne/ha in 1981 to 4.9 tonne/ha in 2011, India's increased from 2.0 to 3.6. China's productivity in rice also grew from 4.3 to 6.7 in this period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Food security and nutrition</head><p>Besides providing for the livelihood of farmers and labourers, the agricultural sector also addresses food security for the nation. The Food and Agricultural Organisation (FAO) of the United Nations defines food security as a situation where all people have, at all times, physical and economic access to sufficient, safe and nutritious food that meets the dietary needs and food preferences for a healthy and active life. <ref type="bibr" target="#b8">10</ref> Despite high levels of production in the country, 15% of the population continues to be under-nourished, as per 2014 estimates. <ref type="bibr" target="#b9">11,</ref><ref type="bibr" target="#b10">12</ref> India enacted the National Food Security Act in 2013. The 2013 Act aims to provide food and nutritional security to people by ensuring access to adequate amount of quality food at affordable prices. <ref type="bibr" target="#b11">13</ref> Under the 2013 Act, persons belonging to certain categories are provided with food grains (wheat, rice and coarse cereals) at subsidised prices. As of 2015, 68% of the population, i.e. 81 crore persons (of which 77% are in rural areas and 23% in urban areas) are covered under the Act. <ref type="bibr" target="#b12">14</ref> Over the past few decades, with increasing per capita income and access to a variety of food groups, the consumption pattern of food in the country has been changing. Dependence on cereals for nutrition has decreased and the consumption of protein has increased. <ref type="bibr" target="#b13">15</ref> Sources of protein include pulses, meat, seafood, and eggs, among others. According to a Finance Ministry report on incentivising the production of pulses in the country, poor levels of nutrition suggest that increasing the consumption of proteins should be the policy priority for the government. <ref type="bibr" target="#b14">16</ref> The report estimates that the cost of pulses as a source of protein is lower than other sources. Under the current domestic scenario, India is facing a shortage of pulses which is being plugged by imports. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agricultural trade</head><p>Major commodities imported to India are pulses, edible oils, fresh fruits and cashew nuts. Major commodities exported by India are rice, spices, cotton, meat and its preparations, sugar, etc. Over the past few decades, the share of agricultural imports in total imports has increased from 2.8% in 1990-91 to 4.2% in 2014-15, whereas the share of agricultural exports has reduced from 18.5% to 12.7%. <ref type="bibr" target="#b15">17</ref> Tables <ref type="table" target="#tab_3">1 and 2</ref> show the major agricultural exports and imports over the past three years.  India's trade policy is affected by factors such as domestic availability of commodities, cost of production as well as global price levels. <ref type="bibr" target="#b16">18</ref> However, frequent changes in trade policy, such as reducing the import duty on a commodity in response to a shortage in supply, or decreasing minimum export price of a commodity to facilitate its exports, may have an adverse effect on the development of the agro-processing sector. 18</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Factors affecting agricultural productivity</head><p>Increase in small land holdings 140 million hectare of land is used as agricultural area, as of 2012-13. <ref type="bibr" target="#b17">19</ref> Over the years, this area has been fragmented into smaller pieces of land. As seen in Table <ref type="table" target="#tab_4">3</ref>, the number of marginal land holdings (less than one hectare) increased from 36 million in 1971 to 93 million in 2011. <ref type="bibr" target="#b18">20</ref> Marginal and small land holdings face a number of issues, such as problems with using mechanisation and irrigation techniques. Since smaller land holdings are either fragments of larger holdings which have been passed on within the family or have been informally leased by a large holder, farmers who cultivate these holdings often do not have a formal lease agreement. The absence of such land records does not allow these farmers to access formal credit or be eligible for government benefits such input subsidies or crop insurance schemes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Land records and informal leasing</head><p>Of the total agricultural area under operation, 10% of land has been given out on agricultural leases, with the percentage of leased out land varying across states. <ref type="bibr" target="#b19">21</ref> 34% of the land in Andhra Pradesh, 25% in Punjab, 21% in Bihar and 18% in Sikkim has been leased out. In the past, states such as Karnataka and West Bengal have attempted to provide legal rights to tenant farmers by forming electronic records of land holdings and giving tenant farmers the right to their produce. <ref type="bibr" target="#b20">22,</ref><ref type="bibr" target="#b21">23</ref> Currently, laws of tenancy of agricultural land vary across different states. <ref type="bibr" target="#b19">21</ref> States such as Kerala, Jammu and Kashmir and Manipur completely prohibit the leasing of agricultural land. Others such as Bihar, Karnataka, Uttar Pradesh, Telangana and Odisha allow land leasing only by certain categories of land owners. On the other hand, states such as Gujarat, Maharashtra, and Assam do not explicitly prohibit leasing, and allow the tenant to purchase the land from the owner after a specified period of tenancy. In Andhra Pradesh, Tamil Nadu and West Bengal, there is no legal ban on leasing land. Different states also have different ceilings on the area of land which may be leased. <ref type="bibr" target="#b19">21</ref> The NITI Aayog has proposed a Model Land Leasing Law to provide for the legalisation of land leasing. <ref type="bibr" target="#b19">21</ref> This would ensure that land owners have the security of ownership rights, and land tenants are secure in their tenancy. Legalisation of land tenancy would also ensure that farmers get access to formal credit, insurance, and inputs such as fertilizers. Table <ref type="table" target="#tab_8">16</ref> in the Annexure provides details regarding land leasing restriction and the extent to which the Model land leasing law has been adopted in states. <ref type="bibr" target="#b22">24</ref> Only Madhya Pradesh has adopted the Model land leasing law so far.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Access to agricultural credit and insurance</head><p>Access to agricultural credit is linked to the holding of land titles. As a result, small and marginal farmers, who account for more than half of the total land holdings, and may not hold formal land titles, are unable to access institutionalized credit. <ref type="bibr" target="#b23">25</ref> Farmers may require credit for short term uses such as purchasing inputs, weeding, harvesting, sorting and transporting, or long term uses such as investing in agricultural machinery and equipment, or irrigation. Table <ref type="table" target="#tab_5">4</ref> shows the distribution of agricultural loans according to sources, as of 2013. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>E-Bhoomi project in Karnataka</head><p>The E-Bhoomi project was started by the Government of Karnataka in the early 2000s. The project aims to computerize existing land records and create a transparent system for changing land records and dividing or merging plots of land. Under the system, farmers can collect land record information for their plot at the Tehsil level, called Pahani. These records would contain information such as the survey number of the land, land owner's details, the classification of the soil, and details regarding irrigation and crops grown, among others. The Pahani would enable the farmer to (i) know whether the plot he wants to purchase is genuine, (ii) raise farm credit from banks, (iii) use the land records for official or legal purposes. E-Bhoomi also allows farmers to approach the government to address grievances.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bargadar system in West Bengal</head><p>The West Bengal Land Reforms Act, 1955 provides certain rights to Bargadars or land tenants. Bargadars are persons lawfully cultivating any land belonging to another person (who is not a family member). Under the Act, produce from the farm is divided between the tenant and owner in a 50:50 proportion if the cattle, manure and seeds are provided by the landowner, and 75:25 in all other cases. Illegal eviction of tenants is a cognizable offence punishable with imprisonment or fine, under the Act. However, it does not provide any ownership rights to the tenant.</p><p>Farmers with land holdings of less than a hectare primarily borrow from informal sources of credit such as moneylenders (41%), whereas those with land holdings of two or more hectares primarily borrow from banks (50% or more). Other major sources of agricultural credit include shopkeepers, relatives or friends, and co-operative societies. Key issues relating to agricultural credit are lack of access to formal credit owing to unclear land records, skewed ratio between short term and long term agricultural credit, and inadequate access to crop insurance. These are summarized below. <ref type="bibr" target="#b23">25</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Short term and long term credit</head><p>Short term credit is generally taken for pre-harvest and post-harvest activities such as weeding, harvesting, sorting and transporting. Long term credit is generally taken in order to invest in agricultural machinery and equipment, irrigation and other developmental activities, etc. Over the past few decades, the trend of short term and long term agricultural credit in the country has reversed.</p><p>In 1990-91, a majority of crop loans taken was long term credit, whereas short term credit accounted for only about a quarter of all agricultural loans. <ref type="bibr" target="#b24">26</ref> As of 2011-12, 61% of crop credit was short term, whereas long term credit had a share of 39%. <ref type="bibr" target="#b25">27</ref> In addition, small and marginal farmers, who account for about 86% of total land holdings, take more short term loans than farmers with medium or large land holdings. This group of farmers also has the highest share of borrowings from informal sources of credit such as moneylenders, family and friends.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inadequate access to crop insurance</head><p>As of 2011, about 10% of Indian farmers were covered under a crop insurance scheme. <ref type="bibr" target="#b26">28</ref> Some persistent issues with the crop insurance system include (i) unawareness about insurance schemes, (ii) inadequate coverage of insurance schemes, (iii) assessment of the extent of damages in case of crop losses, and (iv) timely settlement of claims. <ref type="bibr">29</ref> The Standing Committee on Finance has recommended that assessment of crop damage should be completed and compensation should be deposited directly into farmers' accounts in a timely manner. <ref type="bibr">29</ref> In addition, to reduce the seeking of unproductive credit, the government should create awareness about what crops should be grown based on the quality of soil and incidence of rainfall, etc. in different regions. <ref type="bibr">29</ref> A Committee on Financial Inclusion under the Reserve Bank of India had recommended that credit eligibility certificates, which would act as tenancy/lease certificates should be issued to tenant farmers. <ref type="bibr" target="#b23">25</ref> These certificates would enable also landless cultivators to obtain agricultural credit. It recommended that the Reserve Bank of India should issue guidelines to banks, to give loans to farmers against these certificates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pradhan Mantri Fasal Bima Yojana</head><p>The Pradhan Mantri Fasal Bima Yojana was launched by the central government in January 2016. <ref type="bibr" target="#b27">30</ref> The scheme aims to provide insurance coverage to farmers for crop failure, stabilise farmers' income, and encourage farmers to adopt modern agricultural practices, among others. The scheme has been allocated Rs 9,000 crore in the Union Budget 2017-18, compared to Rs 5,501 crore in 2016-17. <ref type="bibr" target="#b28">31,</ref><ref type="bibr" target="#b29">32</ref> The scheme covers all farmers, including tenant farmers and sharecroppers, who are growing notified crops in notified areas. It covers crops such as cereals, pulses, oilseeds, vegetables, and spices. As of December 2016, the scheme has covered 367 lakh farmers for a sum of Rs 1,41,625 crore in the Kharif season of 2016, as compared to 309 lakh farmers and a sum of Rs 69,307 crore in the Kharif season of 2015. <ref type="bibr" target="#b30">33,</ref><ref type="bibr" target="#b31">34,</ref><ref type="bibr" target="#b32">35</ref>   There is a need to improve the efficiency of water use, especially in agriculture. Irrigation currently consumes about 84% of the total available water in the country. <ref type="bibr" target="#b34">37</ref>  Nearly 65% of the irrigated land holdings use ground water sources such as tube wells and wells for irrigation.</p><p>The past few decades has led to an overuse of ground water sources in states, especially those growing water intensive crops such as rice. For instance, in Haryana and Rajasthan, 40%-75% of the ground water units are over-exploited, and the situation is worse in Punjab, where 75%-90% of ground water units have been over-exploited. <ref type="bibr" target="#b35">38</ref> Details of ground water development across states may be found in Table <ref type="table" target="#tab_15">15</ref> in the Annexure.</p><p>The Commission for Agricultural Costs and Prices has recommended that quantitative ceilings should be fixed on the per hectare use of water. <ref type="bibr" target="#b36">39</ref> In addition, farmers using lesser water than the ceiling fixed should receive money equivalent to remaining units of water at the current domestic costs. This would incentivize them to ration their use of water.</p><p>In 2011 and 2013, the government released Model Bills for Ground Water Management, based on which states could formulate their own laws. <ref type="bibr" target="#b37">40</ref> It also launched a Policy in 2012 relating to water demand management, efficiency of water usage, and pricing. <ref type="bibr">41</ref> The Model Bills were based on the doctrine of public trust, under which resources meant for public use cannot be converted into private ownership. More recently, the Ministry of Water Resources circulated a Model Bill for Groundwater, 2016, which may be adopted by states. <ref type="bibr" target="#b38">42</ref> The Bill provides an institutional framework for the protection and management of groundwater. It states that groundwater is a common resource of all persons, and ownership of the land over a groundwater resource should not deprive others from accessing it. It also states that industrial or bulk usage of groundwater will be priced.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Micro-irrigation techniques</head><p>The Economic Survey 2015-16 observed that India largely uses the technique of flood irrigation, where water is allowed flow in the field and seep into the soil. <ref type="bibr" target="#b39">43</ref> This results in the wastage of water since excess water seeps into the soil or flows off the surface without being utilised. It has been recommended that farmers should move from flood irrigation to the drip or sprinkler irrigation systems (micro irrigation). <ref type="bibr" target="#b40">44</ref> This would help in conserving water as well as save on the cost of irrigation. Using micro-irrigation systems (such as drip or sprinkler irrigation) has also been linked to an increase in the yield of crops.</p><p>Note that India uses 2-3 times as much water to produce one tonne of grain as countries such as China, Brazil and the United States. <ref type="bibr" target="#b39">43</ref> If India also increases its efficiency of water use, it will be able to cover a wider area for irrigation. Table <ref type="table" target="#tab_14">14</ref> in the Annexure provides a state-wise coverage of micro-irrigation in the country.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Soil and fertilizers</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality of soil</head><p>Soil is one of the most important factors in the productivity of agriculture. Indian soil consists of primary nutrients such as nitrogen, phosphorous and potassium, secondary nutrients such as sulphur, calcium and magnesium, and micro-nutrients such as zinc, iron, and manganese. <ref type="bibr" target="#b41">45</ref> While the levels of food production have increased over the past few decades, it has also led to issues such as an imbalance of nutrients in the soil, decline in the water table as well as the quality of water, and overall depletion of soil health. The Ministry of Agriculture has noted that the quality of Indian soil is deteriorating. 46 About 5.3 billion tonnes of soil gets eroded annually, at a rate of about 16.4 tonne/hectare.</p><p>Imbalance in the use of fertilizers in soil may also result in a loss of fertility. If farmers are unaware about the kind of fertilizer which is required for the soil in which they sow their crops, the productivity of the soil will be subsequently affected. The Soil Health Card scheme was launched by the central government in 2015. Under the scheme, all farmers are issued soil health cards, once every three years. The soil health cards contain information such as the nutrient status of the soil, and the recommended dose of nutrients to be provided to the soil to improve its fertility. As of February 2017, 2.9 crore farmers have been covered under this scheme. <ref type="bibr" target="#b42">47</ref> 2.5 crore soil samples have been collected, and 1.8 crore samples have been tested. <ref type="bibr" target="#b43">48</ref> The Ministry had set a target of 2.53 crore samples to be collected by March 2017.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imbalance in use of fertilizers</head><p>The manufacture, sale, and distribution of fertilizers in the country is regulated by the Ministry of Chemicals and Fertilizers, under the Essential Commodities Act, 1955. There are three major types of nutrients used as fertilizers: Nitrogen (N), Phosphatic (P), and Potassic (K). Of these, the pricing of urea (containing N fertilizer) is controlled by the government, while P and K fertilizers were decontrolled in 1992, on the recommendation of a Joint Parliamentary Committee. It has been observed that urea is used more than other fertilizers. While the recommended ratio of use of the NPK fertilizers is 4:2:1, this ratio in India is currently at 6.7:2.4:1. <ref type="bibr" target="#b5">6</ref> Overuse of urea is especially observed in the states of Punjab, Haryana and Uttar Pradesh. <ref type="bibr" target="#b5">6</ref> Figure <ref type="figure" target="#fig_7">7</ref> shows the trend in the consumption of fertilizers over the past decade.</p><p>An imbalanced use of urea may lead to a loss of fertility in the soil over a period of time, affecting productivity. Urea (N) is the most produced (86%), consumed (74%) and imported (52%) fertilizer in the country. <ref type="bibr" target="#b44">49</ref> The government determines the quantity of fertilizers to be imported based on their domestic availability.</p><p>However, the process of fixing the quantity to be imported and actually receiving the imports takes about 60-70 days, since only three companies are allowed to import urea into the country. Thus shortages are often caused in the urea market. Since farmers have to ensure that urea is applied to their crops on time, it leads to the growth of black markets selling urea, often at prices above the maximum retail prices. <ref type="bibr" target="#b44">49</ref> The level of fertilizer required for a crop depends upon the soil type, level of yield, and water availability, in addition to the type of crop. <ref type="bibr" target="#b5">6</ref> Certain crops such as rice, wheat, maize, cotton and sugarcane require larger quantities of nitrogen as compared to pulses, fruits and vegetables. Although the ratio of N, P, and K fertilizer usage across crops has increased, the quantity of fertilizers used by India is still lower as compared to other countries. The average consumption of fertilizers increased from 106 kg per ha in 2005-06 to 128 kg per ha in 2012-13. In comparison, Pakistan consumes 205 kg per ha and China consumes 396 kg per ha. To meet the production target of 300 million tonnes of food grains by 2025 which was mentioned earlier, 45 million tonne of fertilizers would be required. Of this, 6-7 million tonnes may be met from organic fertilizers, but the rest would be met by chemical fertilizers (containing N, P and K). The domestic production of fertilizers would have to be increased to meet this demand. <ref type="bibr" target="#b5">6</ref>  To promote the use of fertilizers by farmers, the central government provides a fertilizer subsidy to the producers of fertilizers. In 2017-18, Rs 70,000 crore has been allocated for fertilizer subsidy, which is the second biggest expenditure on subsidy after food subsidy. <ref type="bibr" target="#b29">32</ref> Allocations for fertilizer subsidy have been increasing at an annual rate of 11.4% between 2000 and 2016. Of the subsidy allocated for 2017-18, Rs 49,768 crore has been allocated for subsidy on urea. Figure <ref type="figure" target="#fig_8">8</ref> shows the trend in the fertilizer subsidy 2000-01 onwards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fertilizer Subsidy</head><p>Currently the amount of subsidy to be given is determined based on the cost of production of the fertilizer company. <ref type="bibr" target="#b44">49</ref> Companies with a higher cost of production receive greater subsidies. This reduces the companies' incentive to reduce their cost of production. Although the consumption of urea has been increasing over the past decade, no new domestic production capacity has been added in the past 15 years. <ref type="bibr" target="#b44">49</ref> A Committee that examined the role of Food Corporation of India recommended that cash transfers should be made to farmers to replace the current fertilizer subsidy regime. <ref type="bibr" target="#b45">51</ref> This would allow farmers to choose fertilizers in the combination best suited to their needs, and help them to fix the fertilizer imbalance in soil. In the Union Budget 2016-17, it was announced that a direct benefit transfer program for fertilizers would be launched on a pilot basis in a few districts across the country. <ref type="bibr" target="#b46">52</ref> In July 2016, the government announced that it would be conducting pilot studies of direct benefit transfers in 16 districts in 2016-17. <ref type="bibr" target="#b47">53</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Use of pesticides</head><p>The consumption of chemical pesticides in the country has increased over the past few years, from 55,540 tonne in 2010-11 to 57,353 tonne in 2014-15. <ref type="bibr" target="#b48">54</ref> Over this time period, the imports of pesticides also increased from 53,996 tonne to 77,376 tonne. Issues with regard to the use of pesticides include use of low-quality pesticides, and a lack of awareness about pesticide use. The Economic Survey 2015-16 noted that the use of pesticides without proper guidelines has led to an increase in pesticide residue being found in food products in India. <ref type="bibr" target="#b16">18</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nutrient based subsidy policy</head><p>The central government launched the nutrient based subsidy policy (NBS) in 2010 for P and K fertilizers. The policy was formulated with the objective of promoting a balanced use of N, P and K fertilizers. The policy allowed the manufacturers of P and K fertilizers to fix their maximum retail prices (MRPs) at reasonable levels. The subsidy provided would be based on per kilogram of the nutrient. The policy also provided for an additional subsidy to be paid to indigenous manufacturers of fertilizers. The Comptroller and Auditor General of India, in its report on the performance of the NBS policy stated that in the five years since its implementation, the policy had not succeeded in bringing about a balanced use of fertilizers. <ref type="bibr">50</ref> The fertilizer usage ratio of urea increased from 4. While the production of pesticides is monitored by the Ministry of Chemicals and Fertilizers, their usage is administered by the Ministry of Agriculture. There is a need to review the Insecticide Act, 1968, to provide for a regulatory framework for the pesticides sector. <ref type="bibr" target="#b5">6</ref> The Standing Committee on Agriculture has also recommended that a Pesticides Development and Regulation Authority be created to regulate the manufacturing, import and sale of pesticides in the country. <ref type="bibr" target="#b5">6</ref> Other recommendations include developing an integrated pest-management system, which includes a mix of the mechanical and biological methods of pest control, and encourages the use of bio-pesticides. <ref type="bibr" target="#b16">18</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Access to quality seeds</head><p>Quality seeds is another input necessary for agricultural productivity, and good quality seeds account for 20%-25% of increased crop productivity. <ref type="bibr" target="#b49">55</ref> Seeds are regulated by the Seeds Act, 1966. The Act regulates the quality, production, and sale of seeds. The Seeds Control Order, 1983 regulates the licenses to sell, export and import seeds. Three varieties of seeds commonly used are (i) farm-saved seeds, which account for 65%-70% of the total seeds consumption, (ii) commercially produced seeds of the breeder, foundation and certified varieties, and (iii) genetically modified and hybrid seeds.</p><p>Agricultural seeds are produced by various agencies such as Indian Council of Agricultural Research and its research institutions, state agricultural universities, and national and state seeds corporations. The private sector has also started playing a role in supplying some seeds such as hybrid maize, bajra, cotton and sunflower. Some of the challenges identified in the development and distribution of quality seeds are (i) access to quality seeds, and (ii) inadequate research support. <ref type="bibr">56</ref> About 30%-35% of the total seeds available are produced by private and public sector companies, and farm bred seeds account for the remaining seeds. <ref type="bibr" target="#b16">18</ref> While farmers can develop certain varieties of seeds from the crops harvested on their land, high-yielding varieties of seeds have to be purchased from the market. The cost of these varieties is too high for marginal and small farmers to afford, thus disincentivising them from purchasing these varieties. <ref type="bibr" target="#b39">43</ref> The Economic Survey 2015-16 has recommended bringing in more players into the production of seeds, to improve their availability in the market and also reduce their prices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agricultural machinery</head><p>Mechanization is another aspect with a significant impact on agricultural productivity. The use of agricultural machinery in agriculture enables agricultural labour to be used in other activities. It makes activities such as tilling, spreading of seeds and fertilizers and harvesting more efficient, so that the cost of inputs is offset. It can also make the use of labour in agriculture more cost-effective.</p><p>The status of mechanisation in agriculture varies for different activities, although the overall level of mechanisation is still less than 50%, as compared to 90% in developed countries. <ref type="bibr" target="#b55">62</ref> The highest level of mechanisation (60%-70%) is observed in harvesting and threshing activities and irrigation (37%). The lowest level of mechanisation is found in seeding and planting. To increase productivity, farm</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Genetically modified seed varieties</head><p>Genetically modified (GM) seeds are those where certain genes are modified to develop traits such as a resistance to pests and herbicide, and increased productivity. Bt cotton is currently the only approved GM technology seed in India. It was adopted in India in 2002 and as of 2014, 92% of the area covered by cotton uses Bt cotton. <ref type="bibr" target="#b50">57</ref> After releasing Bt cotton in the country, the crop's yield increased from 190 kg/ha in 2000-01 to 461 kg/ha in 2014-15. <ref type="bibr" target="#b51">58</ref> Over the years, various GM crops such as Bt brinjal have been developed, but they have not received the regulatory approval to be released in Indian markets. Under the existing regulatory process, the Genetic Engineering Appraisal Committee (GEAC) under the Ministry of Environment, Forest and Climate Change, approves proposals for the commercial use of GM seeds. <ref type="bibr" target="#b52">59</ref> In September 2016, the GEAC invited public comments on a report authorising the environmental release of GE mustard. <ref type="bibr" target="#b53">60,</ref><ref type="bibr" target="#b54">61</ref> The Ministry of Environment is yet to provide the final approval for GE mustard to be released commercially.</p><p>equipment which is durable, light-weight and low cost, and also specific to different crops and regions should be made available for small and marginal farmers. <ref type="bibr" target="#b55">62</ref> Some challenges faced by farm mechanisation include different soil and climatic zones which require customised farm machinery, and small land holdings with lack of access to resources. Mechanisation should aim to increase agricultural efficiency by reducing the time and labour requirement, minimising wastage and reducing costs of labour. <ref type="bibr" target="#b56">63</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post-harvest activities</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Storage facilities</head><p>After agricultural produce is harvested, it requires a robust storage infrastructure in order to minimise any losses due to adverse weather conditions or in the process of transportation. The quantity of food which is wasted during the harvest and post-harvest processes in the country has increased over the past five years. <ref type="bibr" target="#b16">18</ref> The highest losses are observed in the case of fruits and vegetables (4.6%-15.9% of production in 2015), pulses (6.4%-8.4%) and oilseeds (5.3%-9.9%).</p><p>Food wastage occurs at all levels of farming-the farmer, transporter, wholesaler and retailer. Some of the reasons for this wastage are crop damage, improper harvesting techniques, poor packaging and transportation, and poor storage. Some of the issues with the state of storage facilities in the country are inadequate capacity and poor conditions of storage. <ref type="bibr" target="#b57">64</ref> In cases where the storage capacity is found to be sufficient, the conditions of the godown are unfit, either because of the damp condition of the storage or because of its remote location.</p><p>Food grains from the central pool are stored in warehouses managed by the Central Warehousing Corporation (CWC), under the Department of Food and Public Distribution. As of December 2016, the CWC was operating 438 warehouses with a total capacity of 9.7 million tonnes. State Warehousing Corporations manage storage facilities at the state level. As of December 2016, 19 such SWCs were operating 1,757 warehouses with a total capacity of 26 million tonnes. <ref type="bibr" target="#b58">65</ref> Another system for the storage of agricultural commodities is the negotiable warehousing system, regulated by the Warehousing Regulatory and Development Authority. Under this system, farmers who store their produce are issued a receipt with details of the location of the warehouse, and the quality and quantity of the produce being stored. This receipt acts a collateral in case the farmer wants to access agricultural credit. <ref type="bibr" target="#b59">66</ref> As of 2015, a storage capacity of 118 million tonnes was with warehouses registered with the WRDA. Of this, 19 million tonne was with the private sector, 15 million tonne with the co-operative sector, and the remaining with government storage. <ref type="bibr" target="#b60">67</ref> Since foodstuffs such as certain fruits and vegetables deteriorate faster and lead to wastage, they are stored at cold temperatures to reduce their perishability. <ref type="bibr">68</ref> Cold storage facilities in the country were set up by the Cold Storage Order, 1964 under the Essential Commodities Act, 1955. Some challenges identified in the development of cold storage in the country are delays in the process of changing land use from agriculture to industrial use, lack of tax exemptions accrued to cold storage for agricultural commodities, availability of power, and accessibility to farmers. <ref type="bibr" target="#b61">69</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mega Food Parks</head><p>The Mega Food Parks scheme was launched by the Ministry of Food Processing Industries in 2008. <ref type="bibr" target="#b62">70</ref> The scheme aims to create a mechanism of linking agricultural production to the markets, by involving farmers, processors and retailers together in a cluster-based approach. Expected outcomes of the scheme would be a higher price for farmers from their produce, creation of high quality food processing infrastructure, reduction in food wastage, and creation of an efficient food supply chain, among others. The scheme is being implemented through a Special Purpose Vehicle set up under the Companies Act, 2013. As of July 2016, 42 mega food parks were sanctioned by the Ministry, of which 38 have been approved for implementation and 8 are operational. <ref type="bibr" target="#b63">71</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agricultural Pricing</head><p>Procurement of agricultural commodities is the purchase of food grains by the central or state governments. The Food Corporation of India is responsible for the purchase, storage, movement, distribution and sale of agricultural produce. <ref type="bibr">72</ref> Minimum Support Prices are the prices at which the government purchases food grains from farmers.</p><p>The largest procurement at MSPs is for rice and wheat. About a third of the wheat and rice produced in the country is procured by the central government. In 2015-16, 33% of the wheat and 30% of the rice produced in the country was procured by the central government. Note that India is a big exporter of wheat; in 2014-15, of the 90.8 million tonnes of wheat produced in the country, 28 million tonnes was procured for the central pool, and 29 million tonnes was exported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Minimum Support Prices (MSPs)</head><p>MSPs are the prices at which the central government purchases food grains from farmers. MSPs are fixed by the central government in order to ensure remunerative prices to farmers. Factors taken into consideration in determining MSPs include costs of cultivation and production, productivity of crops, and market prices. <ref type="bibr" target="#b64">73</ref> High MSPs of crops provide incentives to to adopt modern technologies and farming practices, to increase the overall productivity of their crops. The government announces MSPs for 22 crops (and a fair and remunerative price for sugarcane), but the Public Distribution System, for which grains are procured, primarily distributes wheat and rice to its beneficiaries. Since procurement is mainly carried out for wheat and rice, farmers have focused on the cultivation of these crops over other crops such as pulses and oilseeds. <ref type="bibr" target="#b34">37</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effectiveness of MSPs</head><p>Although MSPs are declared for various crops, procurement at these prices mainly happens for wheat, rice, sugarcane and cotton, in a few states. <ref type="bibr" target="#b65">74</ref> As a result, in procuring states, farmers focus on cultivating these crops over other crops such as pulses, oilseeds, and coarse grains. MSPs are declared prior to each sowing season (in June and October) so that farmers are aware of the minimum price the government will offer for their produce. This is meant to encourage them to increase their investment in the production of crops. <ref type="bibr" target="#b65">74</ref> In a report to measure the efficacy of MSPs, the NITI Aayog found that a low proportion of farmers (10%) was aware of MSPs before the sowing season. 62% of the farmers were informed of MSPs after sowing their crops. The pricing policy of MSPs would be effective only if farmers are aware of it at the time of deciding what crops to grow. The NITI Aayog recommended that the awareness level of farmers regarding MSPs must be increased and the mediums of dissemination of this information must be strengthened. <ref type="bibr" target="#b65">74</ref> Other issues with the implementation of the MSP regime include long distances to the procurement centres, increasing cost of transportation for farmers, irregular hours of the procurement centres, lack of coverage storage godowns and inadequate storage capacity, and delays in the payment of MSPs to farmers. <ref type="bibr" target="#b65">74</ref> The NITI Aayog notes that the agricultural pricing policy needs to be reviewed to ensure that farmers are receiving remunerative prices for their produce. One of the measures it recommends is a price deficiency system. Under such a system, farmers would be compensated for certain commodities if their prices fall under a specified threshold. This would reduce stock-holding by farmers who store commodities until prices increase, and also incentivise farmers to produce different crops. Farmers would be paid by using the direct benefit transfer system, through bank accounts linked to the their Aadhaar numbers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agricultural markets</head><p>The production, supply and distribution of certain commodities comes under the purview of the Essential Commodities Act, 1955. <ref type="bibr" target="#b66">75</ref> These commodities include food grains, oilseeds, cotton and woollen textiles, jute, and coal, among others. Under the Act, the central government may control the price at which any essential commodity is traded. It may also regulate licenses for its storage, transport, distribution, disposal or consumption.</p><p>Agricultural markets in the country are regulated by state Agricultural Produce Marketing Committee (APMC) laws. <ref type="bibr" target="#b67">76</ref> Under these state Acts, farmers are required to sell their produce at state-owned mandis. Over the years, several issues have been highlighted in this system. For instance, APMC mandis currently levy a market fee on farmers who wish to sell their produce in the mandis. This makes it expensive for farmers to sell at APMC mandis. In addition, farmers have to arrange for their produce to be transported from their farms to the nearest mandi, which brings in costs such as transport and fuel. In transporting the produce from the farm to the store, several intermediaries are involved. These intermediaries are all paid a certain proportion of the price, as commissions. Thus the market price which the farmer receives for his produce is significantly lower than the price at which his produce is sold to the retailer.</p><p>The central government had released a Model APMC Act in 2003, to be enacted by states. <ref type="bibr" target="#b68">77</ref> The Model Act (i) provides for the direct selling of produce through contract farming, (ii) permits private persons, farmers and consumers to establish agricultural markets, (iii) levies a single market fee on the sale of the commodity, and (iv) replaces licences with registration of market agencies so that they can operate in more than one market, among other things. However, only 18 states and union territories have implemented the reforms laid out in the Model Act. <ref type="bibr" target="#b69">78</ref> Four states are yet to initiate the reforms, and the remaining states are at various stages of implementing them.</p><p>The Economic Survey 2014-15 recommended that a National Agricultural Market (NAM) be created to provide for a national electronic platform on which farmers may sell their produce. <ref type="bibr" target="#b70">79</ref> Such a market would enable farmers to receive a corresponding price for their produce and also allow them to sell their produce anywhere in the country. In April 2016, the central government launched the National Agricultural Market in 8 states districts, and integrated wholesale mandis in these areas to create a common platform. <ref type="bibr" target="#b71">80</ref> Information regarding states' progress towards APMC reforms may be found in Table <ref type="table" target="#tab_18">18</ref> of the Annexure.        </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Annexure</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Yield in different countries (tonne/ha)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Agricultural growth (in %)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Growth in agriculture sector (%)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Contribution to GDP of sectors (%)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 :</head><label>5</label><figDesc>Figure 5: Agricultural production (million tonnes)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 :</head><label>6</label><figDesc>Figure 6: Yield in different countries in 2014-15 (in tonne/ha)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 7 :</head><label>7</label><figDesc>Figure 7: Consumption of fertilizers (lakh tonnes)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 8 :</head><label>8</label><figDesc>Figure 8: Fertilizer subsidy (in Rs crore)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head></head><label></label><figDesc>3 in 2009-10 to 8.2 in 2012-13. Note: Subsidy figure for 2016-17 is a revised estimate, and for 2017-18 is a budgeted estimate. Sources: Expenditure Budget, Union Budgets 2000-01 to 2017-18; PRS.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,-0.15,469.05,333.71,371.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 : Agricultural exports (in $ billion) Commodity 2013-14 2014-15 2015-16</head><label>1</label><figDesc></figDesc><table><row><cell>Rice</cell><cell>6.2</cell><cell>7.8</cell><cell>7.9</cell></row><row><cell>Meat and meat preparations</cell><cell>3.3</cell><cell>4.5</cell><cell>4.9</cell></row><row><cell>Processed foods</cell><cell>2.8</cell><cell>2.7</cell><cell>2.7</cell></row><row><cell>Spices</cell><cell>2.8</cell><cell>2.5</cell><cell>2.4</cell></row><row><cell>Oil meals</cell><cell>3.0</cell><cell>2.8</cell><cell>1.3</cell></row><row><cell>Sugar</cell><cell>1.6</cell><cell>1.2</cell><cell>0.9</cell></row><row><cell>Wheat</cell><cell>1.9</cell><cell>1.6</cell><cell>0.8</cell></row><row><cell>Pulses</cell><cell>0.2</cell><cell>0.3</cell><cell>0.2</cell></row><row><cell>Agriculture exports</cell><cell>32.0</cell><cell>33.0</cell><cell>30.1</cell></row><row><cell cols="4">Sources: Annual Reports, Department of Commerce; PRS.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 : Agricultural imports (in $ billion) Commodity 2013-14 2014-15 2015-16</head><label>2</label><figDesc></figDesc><table><row><cell>Pulses</cell><cell>2.4</cell><cell>1.8</cell><cell>2.8</cell></row><row><cell>Cashew</cell><cell>1.0</cell><cell>0.8</cell><cell>1.1</cell></row><row><cell>Vegetable oils</cell><cell>9.9</cell><cell>7.2</cell><cell>10.6</cell></row><row><cell>Fresh fruits</cell><cell>1.1</cell><cell>1.3</cell><cell>1.6</cell></row><row><cell>Spices</cell><cell>0.5</cell><cell>0.6</cell><cell>0.7</cell></row><row><cell>Sugar</cell><cell>0.6</cell><cell>0.4</cell><cell>0.6</cell></row><row><cell>Cocoa products</cell><cell>0.2</cell><cell>0.2</cell><cell>0.3</cell></row><row><cell>Natural Rubber</cell><cell>0.8</cell><cell>0.9</cell><cell>0.8</cell></row><row><cell>Agriculture Imports</cell><cell>16.8</cell><cell>14.9</cell><cell>15.9</cell></row><row><cell cols="4">Sources: Annual Reports, Department of Commerce; PRS.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 : Agricultural holdings (millions)</head><label>3</label><figDesc></figDesc><table><row><cell>Holding</cell><cell>1970 -71</cell><cell>1980 -81</cell><cell>1990 -91</cell><cell>2000 -01</cell><cell>2010 -11</cell></row><row><cell>Marginal</cell><cell>36</cell><cell>50</cell><cell>63</cell><cell>75</cell><cell>93</cell></row><row><cell>Small</cell><cell>13</cell><cell>16</cell><cell>20</cell><cell>23</cell><cell>25</cell></row><row><cell>Medium</cell><cell>19</cell><cell>21</cell><cell>22</cell><cell>21</cell><cell>20</cell></row><row><cell>Large</cell><cell>3</cell><cell>2</cell><cell>2</cell><cell>1</cell><cell>1</cell></row><row><cell>All sizes</cell><cell>71</cell><cell>89</cell><cell>107</cell><cell>120</cell><cell>138</cell></row><row><cell cols="6">Note: Marginal: up to 1 hectare, Small: 1-2 hectares,</cell></row><row><cell cols="6">Medium: 2-10 hectares, Large: over 10 hectares.</cell></row><row><cell cols="5">Sources: Agriculture Census 2011; PRS.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 4 : Land holdings and sources of agricultural credit (as of 2013)</head><label>4</label><figDesc></figDesc><table><row><cell>Size of land (hectare)</cell><cell>Co-operative society</cell><cell>Bank</cell><cell>Money lender</cell><cell>Shopkeeper/ trader</cell><cell>Relatives/ friends</cell><cell>Others</cell></row><row><cell>0-1</cell><cell>10%</cell><cell>27%</cell><cell>41%</cell><cell>4%</cell><cell>14%</cell><cell>4%</cell></row><row><cell>1-2</cell><cell>15%</cell><cell>48%</cell><cell>23%</cell><cell>2%</cell><cell>8%</cell><cell>6%</cell></row><row><cell>2-4</cell><cell>16%</cell><cell>50%</cell><cell>24%</cell><cell>1%</cell><cell>6%</cell><cell>4%</cell></row><row><cell>4-10</cell><cell>18%</cell><cell>50%</cell><cell>19%</cell><cell>1%</cell><cell>7%</cell><cell>6%</cell></row><row><cell>10+</cell><cell>14%</cell><cell>64%</cell><cell>16%</cell><cell>1%</cell><cell>4%</cell><cell>2%</cell></row></table><note>Sources: Table3.2, Report of the Committee on Medium-term Path on Financial Inclusion, Reserve Bank of India; PRS.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 5 : Sources of irrigation (as of 2010-11)</head><label>5</label><figDesc></figDesc><table><row><cell>Source of</cell><cell>% share of</cell><cell>Number of</cell></row><row><cell>Irrigation</cell><cell>holdings</cell><cell>holdings</cell></row><row><cell>Tube wells</cell><cell>44.2%</cell><cell>31,722</cell></row><row><cell>Canals</cell><cell>25.7%</cell><cell>18,414</cell></row><row><cell>Wells</cell><cell>19.7%</cell><cell>14,101</cell></row><row><cell>Other sources</cell><cell>8.4%</cell><cell>6,046</cell></row><row><cell>Tanks</cell><cell>5.8%</cell><cell>4,180</cell></row><row><cell cols="3">Sources: Agriculture Census 2011; PRS.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head></head><label></label><figDesc>Table 17 in the Annexure shows the MSPs for crops from 2005-06 to 2015-16.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 6 : Number of land holdings in states according to size in 2010-11 (in 100 hectares)</head><label>6</label><figDesc></figDesc><table><row><cell>State</cell><cell>Marginal (&lt; 1 ha)</cell><cell>Small (1-2 ha)</cell><cell>Semi-medium (2-4 ha)</cell><cell>Medium (4-10 ha)</cell><cell>Large (&gt; 10 ha)</cell><cell>All holdings</cell></row><row><cell>Andaman and Nicobar Islands</cell><cell>46</cell><cell>24</cell><cell>31</cell><cell>16</cell><cell>0</cell><cell>118</cell></row><row><cell>Andhra Pradesh</cell><cell>84,247</cell><cell>29,184</cell><cell>13,991</cell><cell>3,973</cell><cell>357</cell><cell>1,31,751</cell></row><row><cell>Arunachal Pradesh</cell><cell>215</cell><cell>193</cell><cell>340</cell><cell>279</cell><cell>65</cell><cell>1,093</cell></row><row><cell>Assam</cell><cell>18,311</cell><cell>4,966</cell><cell>3,035</cell><cell>849</cell><cell>41</cell><cell>27,202</cell></row><row><cell>Bihar</cell><cell>1,47,441</cell><cell>9,480</cell><cell>4,147</cell><cell>815</cell><cell>31</cell><cell>1,61,914</cell></row><row><cell>Chandigarh</cell><cell>5</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>7</cell></row><row><cell>Chhattisgarh</cell><cell>21,828</cell><cell>8,311</cell><cell>5,030</cell><cell>2,018</cell><cell>277</cell><cell>37,465</cell></row><row><cell>Dadra and Nagar Haveli</cell><cell>82</cell><cell>39</cell><cell>18</cell><cell>7</cell><cell>1</cell><cell>147</cell></row><row><cell>Daman and Diu</cell><cell>77</cell><cell>5</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>84</cell></row><row><cell>Delhi</cell><cell>113</cell><cell>45</cell><cell>30</cell><cell>15</cell><cell>2</cell><cell>205</cell></row><row><cell>Goa</cell><cell>599</cell><cell>98</cell><cell>57</cell><cell>20</cell><cell>6</cell><cell>780</cell></row><row><cell>Gujarat</cell><cell>18,156</cell><cell>14,290</cell><cell>10,795</cell><cell>5,127</cell><cell>488</cell><cell>48,856</cell></row><row><cell>Haryana</cell><cell>7,781</cell><cell>3,148</cell><cell>2,838</cell><cell>1,947</cell><cell>458</cell><cell>16,173</cell></row><row><cell>Himachal Pradesh</cell><cell>6,704</cell><cell>1,746</cell><cell>849</cell><cell>276</cell><cell>33</cell><cell>9,608</cell></row><row><cell>Jammu and Kashmir</cell><cell>12,066</cell><cell>1,671</cell><cell>637</cell><cell>114</cell><cell>5</cell><cell>14,494</cell></row><row><cell>Jharkhand</cell><cell>18,483</cell><cell>4,289</cell><cell>2,828</cell><cell>1,287</cell><cell>202</cell><cell>27,089</cell></row><row><cell>Karnataka</cell><cell>38,488</cell><cell>21,382</cell><cell>12,668</cell><cell>5,107</cell><cell>676</cell><cell>78,322</cell></row><row><cell>Kerala</cell><cell>65,797</cell><cell>1,802</cell><cell>570</cell><cell>120</cell><cell>19</cell><cell>68,308</cell></row><row><cell>Lakshadweep</cell><cell>99</cell><cell>3</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>103</cell></row><row><cell>Madhya Pradesh</cell><cell>38,910</cell><cell>24,487</cell><cell>16,548</cell><cell>7,891</cell><cell>887</cell><cell>88,724</cell></row><row><cell>Maharashtra</cell><cell>67,090</cell><cell>40,523</cell><cell>21,591</cell><cell>7,106</cell><cell>679</cell><cell>1,36,990</cell></row><row><cell>Manipur</cell><cell>767</cell><cell>222</cell><cell>28</cell><cell>0</cell><cell>1,506</cell><cell>-</cell></row><row><cell>Meghalaya</cell><cell>1,027</cell><cell>578</cell><cell>405</cell><cell>83</cell><cell>2</cell><cell>2,096</cell></row><row><cell>Mizoram</cell><cell>502</cell><cell>298</cell><cell>99</cell><cell>17</cell><cell>3</cell><cell>919</cell></row><row><cell>Nagaland</cell><cell>65</cell><cell>203</cell><cell>485</cell><cell>780</cell><cell>252</cell><cell>1,784</cell></row><row><cell>Odisha</cell><cell>33,683</cell><cell>9,186</cell><cell>3,113</cell><cell>637</cell><cell>56</cell><cell>46,675</cell></row><row><cell>Puducherry</cell><cell>285</cell><cell>28</cell><cell>14</cell><cell>4</cell><cell>1</cell><cell>332</cell></row><row><cell>Punjab</cell><cell>1,644</cell><cell>1,954</cell><cell>3,245</cell><cell>2,985</cell><cell>697</cell><cell>10,526</cell></row><row><cell>Rajasthan</cell><cell>25,115</cell><cell>15,111</cell><cell>13,351</cell><cell>11,271</cell><cell>4,036</cell><cell>68,884</cell></row><row><cell>Sikkim</cell><cell>405</cell><cell>169</cell><cell>108</cell><cell>59</cell><cell>8</cell><cell>749</cell></row><row><cell>Tamil Nadu</cell><cell>62,666</cell><cell>11,813</cell><cell>5,023</cell><cell>1,506</cell><cell>174</cell><cell>81,182</cell></row><row><cell>Tripura</cell><cell>4,991</cell><cell>550</cell><cell>215</cell><cell>28</cell><cell>1</cell><cell>5,785</cell></row><row><cell>Uttar Pradesh</cell><cell>1,85,323</cell><cell>30,353</cell><cell>13,343</cell><cell>3,983</cell><cell>253</cell><cell>2,33,255</cell></row><row><cell>Uttarakhand</cell><cell>6,721</cell><cell>1,573</cell><cell>648</cell><cell>173</cell><cell>11</cell><cell>9,127</cell></row><row><cell>West Bengal</cell><cell>58,527</cell><cell>9,798</cell><cell>2,675</cell><cell>227</cell><cell>7</cell><cell>71,233</cell></row><row><cell>Total</cell><cell>9,28,260</cell><cell>2,47,792</cell><cell>1,38,956</cell><cell>58,750</cell><cell>9,728</cell><cell>13,83,485</cell></row><row><cell cols="5">Sources: Table 15.2(a), Agricultural Statistics at a Glance 2015, Ministry of Agriculture; PRS.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 7 : Production of crops (in million tonnes)</head><label>7</label><figDesc></figDesc><table><row><cell>Year</cell><cell>Rice</cell><cell cols="2">Wheat Coarse cereals</cell><cell>Pulses</cell><cell>Total food grains</cell><cell>Oilseeds</cell><cell>Cotton</cell><cell>Sugarcane</cell></row><row><cell>1950-51</cell><cell>21</cell><cell>6</cell><cell>15</cell><cell>8</cell><cell>51</cell><cell>5</cell><cell>3</cell><cell>57</cell></row><row><cell>1960-61</cell><cell>35</cell><cell>11</cell><cell>24</cell><cell>13</cell><cell>82</cell><cell>7</cell><cell>6</cell><cell>110</cell></row><row><cell>1970-71</cell><cell>42</cell><cell>24</cell><cell>31</cell><cell>12</cell><cell>108</cell><cell>10</cell><cell>5</cell><cell>126</cell></row><row><cell>1980-81</cell><cell>54</cell><cell>36</cell><cell>29</cell><cell>11</cell><cell>130</cell><cell>9</cell><cell>7</cell><cell>154</cell></row><row><cell>1990-91</cell><cell>74</cell><cell>55</cell><cell>33</cell><cell>14</cell><cell>176</cell><cell>19</cell><cell>10</cell><cell>241</cell></row><row><cell>2000-01</cell><cell>85</cell><cell>70</cell><cell>31</cell><cell>11</cell><cell>197</cell><cell>18</cell><cell>10</cell><cell>296</cell></row><row><cell>2010-11</cell><cell>96</cell><cell>87</cell><cell>43</cell><cell>18</cell><cell>244</cell><cell>32</cell><cell>33</cell><cell>342</cell></row><row><cell>2014-15</cell><cell>105</cell><cell>87</cell><cell>43</cell><cell>17</cell><cell>252</cell><cell>28</cell><cell>35</cell><cell>362</cell></row><row><cell>2015-16</cell><cell>104</cell><cell>94</cell><cell>38</cell><cell>16</cell><cell>252</cell><cell>25</cell><cell>30</cell><cell>352</cell></row><row><cell cols="5">Note: Cotton production is in bales of 170 kg each.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">Sources: Agricultural Statistics at a Glance 2015, Ministry of Agriculture; PRS.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 8 : Top producing states for major crops in 2014-15</head><label>8</label><figDesc></figDesc><table><row><cell>State</cell><cell>Production (million tonnes)</cell><cell>% of all India</cell><cell>Yield (kg/ha)</cell><cell>Area under irrigation (%)</cell></row><row><cell></cell><cell></cell><cell>Rice</cell><cell></cell><cell></cell></row><row><cell>West Bengal</cell><cell>14.7</cell><cell>14.0</cell><cell>2,731</cell><cell>48.2%</cell></row><row><cell>Uttar Pradesh</cell><cell>12.2</cell><cell>11.7</cell><cell>2,082</cell><cell>83.1%</cell></row><row><cell>Andhra Pradesh</cell><cell>11.6</cell><cell>11.0</cell><cell>3,036</cell><cell>96.8%</cell></row><row><cell>India</cell><cell>104.8</cell><cell></cell><cell>2,390</cell><cell>58.3%</cell></row><row><cell></cell><cell></cell><cell>Wheat</cell><cell></cell><cell></cell></row><row><cell>Uttar Pradesh</cell><cell>25.2</cell><cell>28.4</cell><cell>2,561</cell><cell>98.4%</cell></row><row><cell>Punjab</cell><cell>15.8</cell><cell>17.7</cell><cell>4,491</cell><cell>98.9%</cell></row><row><cell>Madhya Pradesh</cell><cell>14.2</cell><cell>16.0</cell><cell>2,551</cell><cell>90.8%</cell></row><row><cell>India</cell><cell>88.9</cell><cell></cell><cell>2,872</cell><cell>93.4%</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell></cell><cell></cell></row><row><cell>Andhra Pradesh</cell><cell>4.2</cell><cell>17.9</cell><cell>4,257</cell><cell>49.5%</cell></row><row><cell>Karnataka</cell><cell>3.9</cell><cell>16.5</cell><cell>2,921</cell><cell>36.0%</cell></row><row><cell>Maharashtra</cell><cell>2.2</cell><cell>9.3</cell><cell>2,080</cell><cell>12.7%</cell></row><row><cell>India</cell><cell>23.7</cell><cell></cell><cell>2,557</cell><cell>25.4%</cell></row><row><cell></cell><cell></cell><cell>Coarse cereals</cell><cell></cell><cell></cell></row><row><cell>Rajasthan</cell><cell>7.6</cell><cell>18.1</cell><cell>1,257</cell><cell>7.4%</cell></row><row><cell>Karnataka</cell><cell>6.7</cell><cell>16.0</cell><cell>1,992</cell><cell>20.1%</cell></row><row><cell>Andhra Pradesh</cell><cell>4.7</cell><cell>11.3</cell><cell>3,596</cell><cell>39.7%</cell></row><row><cell>India</cell><cell>41.8</cell><cell></cell><cell>1,729</cell><cell>16.5%</cell></row><row><cell></cell><cell></cell><cell>Pulses</cell><cell></cell><cell></cell></row><row><cell>Madhya Pradesh</cell><cell>4.7</cell><cell>27.4</cell><cell>877</cell><cell>38.5%</cell></row><row><cell>Rajasthan</cell><cell>2.0</cell><cell>11.3</cell><cell>580</cell><cell>21.1%</cell></row><row><cell>Maharashtra</cell><cell>1.7</cell><cell>10.1</cell><cell>553</cell><cell>9.2%</cell></row><row><cell>India</cell><cell>17.2</cell><cell></cell><cell>744</cell><cell>18.6%</cell></row><row><cell></cell><cell></cell><cell>Oilseeds</cell><cell></cell><cell></cell></row><row><cell>Madhya Pradesh</cell><cell>7.7</cell><cell>29.0</cell><cell>1,090</cell><cell>5.5%</cell></row><row><cell>Rajasthan</cell><cell>5.3</cell><cell>20.0</cell><cell>1,192</cell><cell>60.4%</cell></row><row><cell>Gujarat</cell><cell>4.0</cell><cell>14.9</cell><cell>1,550</cell><cell>31.3%</cell></row><row><cell>India</cell><cell>26.7</cell><cell></cell><cell>1,037</cell><cell>28.3%</cell></row><row><cell></cell><cell></cell><cell>Sugarcane</cell><cell></cell><cell></cell></row><row><cell>Uttar Pradesh</cell><cell>138.5</cell><cell>38.5</cell><cell>62,154</cell><cell>95.1%</cell></row><row><cell>Maharashtra</cell><cell>81.9</cell><cell>22.8</cell><cell>78,120</cell><cell>100.0%</cell></row><row><cell>Karnataka</cell><cell>41.9</cell><cell>11.7</cell><cell>93,100</cell><cell>100.0%</cell></row><row><cell>India</cell><cell>359.3</cell><cell></cell><cell>69,860</cell><cell>95.0%</cell></row><row><cell></cell><cell cols="3">Cotton (in million bales: 1 bale= 170 kg)</cell><cell></cell></row><row><cell>Gujarat</cell><cell>11.1</cell><cell>31.3</cell><cell>626</cell><cell>58.7%</cell></row><row><cell>Maharashtra</cell><cell>7.0</cell><cell>19.8</cell><cell>285</cell><cell>2.7%</cell></row><row><cell>Andhra Pradesh</cell><cell>6.6</cell><cell>18.7</cell><cell>444</cell><cell>13.9%</cell></row><row><cell>India</cell><cell>35.5</cell><cell></cell><cell>461</cell><cell>33.8%</cell></row></table><note>Sources: Agricultural Statistics at a Glance 2015, Ministry of Agriculture; PRS.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 10 : State wise yield of wheat (in kg/ha)</head><label>10</label><figDesc></figDesc><table><row><cell>State/UT</cell><cell>2005-06</cell><cell>2006-07</cell><cell>2007-08</cell><cell>2008-09</cell><cell>2009-10</cell><cell>2010-11</cell><cell>2011-12</cell><cell>2012-13</cell><cell>2013-14</cell><cell>2014-15</cell></row><row><cell>Andhra Pradesh</cell><cell>818</cell><cell>900</cell><cell>889</cell><cell>1,143</cell><cell>1,000</cell><cell>1,300</cell><cell>1,375</cell><cell>1,250</cell><cell>500</cell><cell>1,000</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>Table 12 : State wise yield of pulses (in kg/ha)</head><label>12</label><figDesc></figDesc><table><row><cell>State/UT</cell><cell>2005-06</cell><cell>2006-07</cell><cell>2007-08</cell><cell>2008-09</cell><cell>2009-10</cell><cell>2010-11</cell><cell>2011-12</cell><cell>2012-13</cell><cell>2013-14</cell><cell>2014-15</cell></row><row><cell>Andhra Pradesh</cell><cell>772</cell><cell>679</cell><cell>803</cell><cell>818</cell><cell>740</cell><cell>675</cell><cell>637</cell><cell>833</cell><cell>928</cell><cell>797</cell></row><row><cell>Arunachal Pradesh</cell><cell>1,078</cell><cell>1,078</cell><cell>1,078</cell><cell>1,059</cell><cell>1,000</cell><cell>879</cell><cell>920</cell><cell>1,076</cell><cell>1,149</cell><cell>*</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 13 : State wise yield of oilseeds (in kg/ha)</head><label>13</label><figDesc>Figures for 2014-15 are 4 th advance estimates. *in 2014-15, yield of Arunachal Pradesh, Goa, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura has been consolidated as 1,070 kg/ha. Sources: Agricultural Statistics at a Glance 2015, Ministry of Agriculture; PRS.</figDesc><table><row><cell>State/UT</cell><cell>2005-06</cell><cell>2006-07</cell><cell>2007-08</cell><cell>2008-09</cell><cell>2009-10</cell><cell>2010-11</cell><cell>2011-12</cell><cell>2012-13</cell><cell>2013-14</cell><cell>2014-15</cell></row><row><cell>Andhra Pradesh</cell><cell>698</cell><cell>609</cell><cell>1,276</cell><cell>842</cell><cell>724</cell><cell>861</cell><cell>650</cell><cell>849</cell><cell>929</cell><cell>778</cell></row><row><cell>Arunachal Pradesh</cell><cell>838</cell><cell>838</cell><cell>962</cell><cell>963</cell><cell>928</cell><cell>921</cell><cell>1,015</cell><cell>909</cell><cell>958</cell><cell>*</cell></row><row><cell>Assam</cell><cell>465</cell><cell>495</cell><cell>523</cell><cell>542</cell><cell>526</cell><cell>576</cell><cell>557</cell><cell>610</cell><cell>611</cell><cell>628</cell></row><row><cell>Bihar</cell><cell>982</cell><cell>1,031</cell><cell>979</cell><cell>999</cell><cell>1,042</cell><cell>1,048</cell><cell>1,046</cell><cell>1,120</cell><cell>1,189</cell><cell>1,058</cell></row><row><cell>Chhattisgarh</cell><cell>419</cell><cell>503</cell><cell>532</cell><cell>507</cell><cell>607</cell><cell>686</cell><cell>550</cell><cell>723</cell><cell>640</cell><cell>595</cell></row><row><cell>Goa</cell><cell>2,394</cell><cell>1,769</cell><cell>1,892</cell><cell>2,158</cell><cell>2,807</cell><cell>2,862</cell><cell>2,500</cell><cell>2,409</cell><cell>2,544</cell><cell>*</cell></row><row><cell>Gujarat</cell><cell>1,544</cell><cell>908</cell><cell>1,618</cell><cell>1,345</cell><cell>1,109</cell><cell>1,692</cell><cell>1,608</cell><cell>1,103</cell><cell>2,231</cell><cell>1,551</cell></row><row><cell>Haryana</cell><cell>1,124</cell><cell>1,344</cell><cell>1,214</cell><cell>1,723</cell><cell>1,645</cell><cell>1,855</cell><cell>1,394</cell><cell>1,712</cell><cell>1,637</cell><cell>1,415</cell></row><row><cell>Himachal Pradesh</cell><cell>344</cell><cell>477</cell><cell>442</cell><cell>365</cell><cell>271</cell><cell>514</cell><cell>579</cell><cell>514</cell><cell>490</cell><cell>591</cell></row><row><cell>Jammu and Kashmir</cell><cell>429</cell><cell>610</cell><cell>846</cell><cell>760</cell><cell>763</cell><cell>821</cell><cell>826</cell><cell>789</cell><cell>895</cell><cell>670</cell></row><row><cell>Jharkhand</cell><cell>311</cell><cell>422</cell><cell>553</cell><cell>560</cell><cell>563</cell><cell>625</cell><cell>680</cell><cell>787</cell><cell>663</cell><cell>652</cell></row><row><cell>Karnataka</cell><cell>600</cell><cell>478</cell><cell>681</cell><cell>556</cell><cell>502</cell><cell>782</cell><cell>665</cell><cell>647</cell><cell>824</cell><cell>773</cell></row><row><cell>Kerala</cell><cell>667</cell><cell>889</cell><cell>706</cell><cell>696</cell><cell>632</cell><cell>1,032</cell><cell>1,230</cell><cell>1,045</cell><cell>980</cell><cell>1,179</cell></row><row><cell>Madhya Pradesh</cell><cell>1,009</cell><cell>955</cell><cell>1,015</cell><cell>1,075</cell><cell>1,129</cell><cell>1,143</cell><cell>1,073</cell><cell>1,231</cell><cell>858</cell><cell>1,090</cell></row><row><cell>Maharashtra</cell><cell>925</cell><cell>963</cell><cell>1,274</cell><cell>857</cell><cell>725</cell><cell>1,394</cell><cell>1,223</cell><cell>1,337</cell><cell>1,276</cell><cell>658</cell></row><row><cell>Manipur</cell><cell>7,000</cell><cell>7,000</cell><cell>NA</cell><cell>778</cell><cell>778</cell><cell>774</cell><cell>788</cell><cell>729</cell><cell>840</cell><cell>*</cell></row><row><cell>Meghalaya</cell><cell>684</cell><cell>673</cell><cell>670</cell><cell>676</cell><cell>701</cell><cell>704</cell><cell>766</cell><cell>695</cell><cell>1,030</cell><cell>*</cell></row><row><cell>Mizoram</cell><cell>1,125</cell><cell>927</cell><cell>229</cell><cell>781</cell><cell>1,106</cell><cell>1,203</cell><cell>967</cell><cell>1,078</cell><cell>1,146</cell><cell>*</cell></row><row><cell>Nagaland</cell><cell>926</cell><cell>901</cell><cell>896</cell><cell>1,142</cell><cell>835</cell><cell>1,040</cell><cell>1,043</cell><cell>1,047</cell><cell>1,048</cell><cell>*</cell></row><row><cell>Odisha</cell><cell>565</cell><cell>550</cell><cell>608</cell><cell>604</cell><cell>589</cell><cell>619</cell><cell>661</cell><cell>700</cell><cell>755</cell><cell>692</cell></row><row><cell>Punjab</cell><cell>1,097</cell><cell>1,111</cell><cell>1,288</cell><cell>1,276</cell><cell>1,354</cell><cell>1,336</cell><cell>1,360</cell><cell>1,350</cell><cell>1,335</cell><cell>1,065</cell></row><row><cell>Rajasthan</cell><cell>1,134</cell><cell>1,146</cell><cell>1,051</cell><cell>1,114</cell><cell>1,066</cell><cell>1,203</cell><cell>1,243</cell><cell>1,296</cell><cell>1,144</cell><cell>1,192</cell></row><row><cell>Sikkim</cell><cell>727</cell><cell>727</cell><cell>872</cell><cell>763</cell><cell>959</cell><cell>832</cell><cell>841</cell><cell>863</cell><cell>887</cell><cell>*</cell></row><row><cell>Tamil Nadu</cell><cell>1,624</cell><cell>1,829</cell><cell>1,739</cell><cell>1,782</cell><cell>1,898</cell><cell>2,077</cell><cell>2,479</cell><cell>2,103</cell><cell>2,362</cell><cell>2,292</cell></row><row><cell>Tripura</cell><cell>709</cell><cell>705</cell><cell>675</cell><cell>714</cell><cell>717</cell><cell>732</cell><cell>751</cell><cell>506</cell><cell>759</cell><cell>*</cell></row><row><cell>Uttar Pradesh</cell><cell>857</cell><cell>993</cell><cell>837</cell><cell>856</cell><cell>865</cell><cell>753</cell><cell>832</cell><cell>828</cell><cell>898</cell><cell>699</cell></row><row><cell>Uttarakhand</cell><cell>750</cell><cell>967</cell><cell>1,000</cell><cell>1,138</cell><cell>1,012</cell><cell>1,082</cell><cell>1,236</cell><cell>1,070</cell><cell>892</cell><cell>892</cell></row><row><cell>West Bengal</cell><cell>952</cell><cell>918</cell><cell>997</cell><cell>828</cell><cell>1,065</cell><cell>1,047</cell><cell>994</cell><cell>1,162</cell><cell>1,181</cell><cell>1,194</cell></row><row><cell>All India</cell><cell>1,004</cell><cell>916</cell><cell>1,115</cell><cell>1,006</cell><cell>958</cell><cell>1,193</cell><cell>1,133</cell><cell>1,168</cell><cell>1,168</cell><cell>1,037</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>Table 14 : Coverage of micro-irrigation in states (in hectares)</head><label>14</label><figDesc></figDesc><table><row><cell>State/UT</cell><cell>Drip</cell><cell>Sprinkler</cell><cell>Total</cell><cell>% of net sown area under micro-irrigation</cell></row><row><cell>Andhra Pradesh</cell><cell>8,34,865</cell><cell>3,28,441</cell><cell>11,63,306</cell><cell>10.5%</cell></row><row><cell>Arunachal Pradesh</cell><cell>613</cell><cell>-</cell><cell>613</cell><cell>0.3%</cell></row><row><cell>Assam</cell><cell>310</cell><cell>129</cell><cell>439</cell><cell>0%</cell></row><row><cell>Bihar</cell><cell>4,610</cell><cell>97,440</cell><cell>1,02,050</cell><cell>1.9%</cell></row><row><cell>Chhattisgarh</cell><cell>15,553</cell><cell>2,41,420</cell><cell>2,56,973</cell><cell>5.5%</cell></row><row><cell>Goa</cell><cell>965</cell><cell>899</cell><cell>1,864</cell><cell>1.4%</cell></row><row><cell>Gujarat</cell><cell>4,11,208</cell><cell>4,18,165</cell><cell>8,29,373</cell><cell>8.1%</cell></row><row><cell>Haryana</cell><cell>22,682</cell><cell>5,50,458</cell><cell>5,73,140</cell><cell>16.3%</cell></row><row><cell>Himachal Pradesh</cell><cell>291</cell><cell>684</cell><cell>975</cell><cell>0.2%</cell></row><row><cell>Jharkhand</cell><cell>6,303</cell><cell>9,919</cell><cell>16,222</cell><cell>2.2%</cell></row><row><cell>Karnataka</cell><cell>4,29,903</cell><cell>4,17,005</cell><cell>8,46,908</cell><cell>60.2%</cell></row><row><cell>Kerala</cell><cell>22,516</cell><cell>6,948</cell><cell>29,464</cell><cell>0.3%</cell></row><row><cell>Madhya Pradesh</cell><cell>1,66,358</cell><cell>1,85,759</cell><cell>3,52,117</cell><cell>17.2%</cell></row><row><cell>Maharashtra</cell><cell>8,96,343</cell><cell>3,74,783</cell><cell>12,71,126</cell><cell>8.3%</cell></row><row><cell>Manipur</cell><cell>47</cell><cell>30</cell><cell>77</cell><cell>0%</cell></row><row><cell>Mizoram</cell><cell>1,727</cell><cell>425</cell><cell>2,152</cell><cell>0.7%</cell></row><row><cell>Nagaland</cell><cell>200</cell><cell>5,005</cell><cell>5,205</cell><cell>1.8%</cell></row><row><cell>Odisha</cell><cell>18,431</cell><cell>82,147</cell><cell>1,00,578</cell><cell>86.7%</cell></row><row><cell>Punjab</cell><cell>30,805</cell><cell>12,161</cell><cell>42,966</cell><cell>11.3%</cell></row><row><cell>Rajasthan</cell><cell>1,70,098</cell><cell>15,14,451</cell><cell>16,84,549</cell><cell>38.4%</cell></row><row><cell>Sikkim</cell><cell>5,544</cell><cell>2,769</cell><cell>8,313</cell><cell>0.2%</cell></row><row><cell>Tamil Nadu</cell><cell>2,90,009</cell><cell>30,436</cell><cell>3,20,445</cell><cell>1.8%</cell></row><row><cell>Telangana</cell><cell>25,299</cell><cell>5,293</cell><cell>30,592</cell><cell>39.7%</cell></row><row><cell>Tripura</cell><cell>100</cell><cell>392</cell><cell>492</cell><cell>0%</cell></row><row><cell>Uttar Pradesh</cell><cell>15,519</cell><cell>21,164</cell><cell>36,683</cell><cell>14.3%</cell></row><row><cell>Uttarakhand</cell><cell>696</cell><cell>316</cell><cell>1,012</cell><cell>0.1%</cell></row><row><cell>West Bengal</cell><cell>604</cell><cell>50,576</cell><cell>51,180</cell><cell>0.3%</cell></row><row><cell>Others</cell><cell>15,500</cell><cell>31,000</cell><cell>46,500</cell><cell>0.9%</cell></row><row><cell>All India</cell><cell>33,87,099</cell><cell>43,88,215</cell><cell>77,75,314</cell><cell>5.6%</cell></row></table><note>Sources: Agricultural Statistics at a Glance 2015, Ministry of Agriculture; PRS.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_15"><head>Table 15 : Ground water development and coverage of irrigation in states</head><label>15</label><figDesc></figDesc><table><row><cell>State</cell><cell>Ground water development (%)</cell><cell>% Irrigated area</cell></row><row><cell>Andhra Pradesh</cell><cell>45%</cell><cell>38.0%</cell></row><row><cell>Arunachal Pradesh</cell><cell>0%</cell><cell>13.0%</cell></row><row><cell>Assam</cell><cell>14%</cell><cell>5.4%</cell></row><row><cell>Bihar</cell><cell>44%</cell><cell>47.8%</cell></row><row><cell>Chhattisgarh</cell><cell>35%</cell><cell>26.4%</cell></row><row><cell>Goa</cell><cell>28%</cell><cell>40.4%</cell></row><row><cell>Gujarat</cell><cell>137%</cell><cell>41.2%</cell></row><row><cell>Himachal Pradesh</cell><cell>71%</cell><cell>11.4%</cell></row><row><cell>Haryana</cell><cell>67%</cell><cell>90.2%</cell></row><row><cell>Jharkhand</cell><cell>21%</cell><cell>3.7%</cell></row><row><cell>Jammu and Kashmir</cell><cell>133%</cell><cell>39.9%</cell></row><row><cell>Karnataka</cell><cell>32%</cell><cell>26.9%</cell></row><row><cell>Kerala</cell><cell>64%</cell><cell>22.2%</cell></row><row><cell>Maharashtra</cell><cell>57%</cell><cell>16.7%</cell></row><row><cell>Meghalaya</cell><cell>0%</cell><cell>20.9%</cell></row><row><cell>Manipur</cell><cell>1%</cell><cell>18.6%</cell></row><row><cell>Madhya Pradesh</cell><cell>47%</cell><cell>43.8%</cell></row><row><cell>Mizoram</cell><cell>4%</cell><cell>9.5%</cell></row><row><cell>Nagaland</cell><cell>6%</cell><cell>7.0%</cell></row><row><cell>Odisha</cell><cell>28%</cell><cell>26.2%</cell></row><row><cell>Punjab</cell><cell>172%</cell><cell>99.5%</cell></row><row><cell>Rajasthan</cell><cell>26%</cell><cell>31.9%</cell></row><row><cell>Sikkim</cell><cell>137%</cell><cell>15.9%</cell></row><row><cell>Tamil Nadu</cell><cell>77%</cell><cell>50.2%</cell></row><row><cell>Tripura</cell><cell>7%</cell><cell>21.4%</cell></row><row><cell>Uttarakhand</cell><cell>74%</cell><cell>40.9%</cell></row><row><cell>Uttar Pradesh</cell><cell>57%</cell><cell>76.2%</cell></row><row><cell>West Bengal</cell><cell>40%</cell><cell>62.2%</cell></row><row><cell>All states</cell><cell>62%</cell><cell>47.2%</cell></row><row><cell cols="3">Sources: Central Water Commission; Agricultural Census 2011; PRS.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_16"><head>Table 17 : MSPs for major crops 2005-2016 (in Rs/quintal)</head><label>17</label><figDesc></figDesc><table><row><cell>Crop</cell><cell>2005-06</cell><cell>2010-11</cell><cell>2016-17</cell><cell>% increase 2010-</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_17"><head>11 to 2016-17 % increase 2005-06 to 2016-17</head><label></label><figDesc>MSPs include the bonuses declared for certain crops. Sources: Directorate of Economics and Statistics, Ministry of Agriculture; PRS.</figDesc><table><row><cell>Paddy Common</cell><cell>570</cell><cell>1,000</cell><cell>1,470</cell><cell>6.6%</cell><cell>9.0%</cell></row><row><cell>Jowar Hybrid</cell><cell>525</cell><cell>880</cell><cell>1,625</cell><cell>10.8%</cell><cell>10.8%</cell></row><row><cell>Maize</cell><cell>540</cell><cell>880</cell><cell>1,365</cell><cell>7.6%</cell><cell>8.8%</cell></row><row><cell>Ragi</cell><cell>525</cell><cell>965</cell><cell>1,725</cell><cell>10.2%</cell><cell>11.4%</cell></row><row><cell>Tur (Arhar)</cell><cell>1,400</cell><cell>3,500</cell><cell>5,050</cell><cell>6.3%</cell><cell>12.4%</cell></row><row><cell>Moong</cell><cell>1,520</cell><cell>3,670</cell><cell>5,225</cell><cell>6.1%</cell><cell>11.9%</cell></row><row><cell>Urad</cell><cell>1,520</cell><cell>3,400</cell><cell>5,000</cell><cell>6.6%</cell><cell>11.4%</cell></row><row><cell>Groundnut-in-shell</cell><cell>1,520</cell><cell>2,300</cell><cell>4,220</cell><cell>10.6%</cell><cell>9.7%</cell></row><row><cell>Sesamum</cell><cell>1,520</cell><cell>2,900</cell><cell>5,000</cell><cell>9.5%</cell><cell>11.4%</cell></row><row><cell>Cotton medium staple</cell><cell>1,760</cell><cell>2,500</cell><cell>3,860</cell><cell>7.5%</cell><cell>7.4%</cell></row><row><cell>Cotton long staple</cell><cell>1,980</cell><cell>3,000</cell><cell>4,160</cell><cell>5.6%</cell><cell>7.0%</cell></row><row><cell>Wheat</cell><cell>700</cell><cell>1,170</cell><cell>1,625</cell><cell>5.6%</cell><cell>8.0%</cell></row><row><cell>Masur</cell><cell>1,535</cell><cell>2,250</cell><cell>3,950</cell><cell>9.8%</cell><cell>9.0%</cell></row><row><cell>Rapeseed/mustard</cell><cell>1,715</cell><cell>1,850</cell><cell>3,700</cell><cell>12.2%</cell><cell>7.2%</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_18"><head>Table 18 : Status of APMC reforms in states as of October 2016</head><label>18</label><figDesc>Sources: Study Report on Agriculture Marketing and Farmer Friendly Reforms Across Indian States, NITI Aayog; PRS.</figDesc><table><row><cell></cell><cell>Fruits and</cell><cell>Taxes on</cell><cell>Direct</cell><cell></cell><cell>Number of</cell></row><row><cell>State/UT</cell><cell>vegetables out</cell><cell>agricultural</cell><cell>selling by</cell><cell>e-NAM</cell><cell>markets under</cell></row><row><cell></cell><cell>of APMC</cell><cell>commodities</cell><cell>producers</cell><cell></cell><cell>NAM</cell></row><row><cell>Andhra Pradesh</cell><cell>Not done</cell><cell>7.0%</cell><cell>Yes</cell><cell>Yes</cell><cell>5</cell></row><row><cell>Arunachal Pradesh</cell><cell>Not done</cell><cell>2.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Assam</cell><cell>Done</cell><cell>1.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Bihar</cell><cell>Not done</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Chhattisgarh</cell><cell>Partial</cell><cell>2.0%</cell><cell>Yes</cell><cell>Yes</cell><cell>12</cell></row><row><cell>Goa</cell><cell>Not done</cell><cell>5.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Gujarat</cell><cell>Done</cell><cell>5.8%</cell><cell>Yes</cell><cell>Yes</cell><cell>40</cell></row><row><cell>Haryana</cell><cell>Partial</cell><cell>10.5%</cell><cell>Yes</cell><cell>Yes</cell><cell>36</cell></row><row><cell>Himachal Pradesh</cell><cell>Partial</cell><cell>7.0%</cell><cell>Yes</cell><cell>Yes</cell><cell>7</cell></row><row><cell>Jammu and Kashmir</cell><cell>Not done</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Jharkhand</cell><cell>Not done</cell><cell>5.3%</cell><cell>Yes</cell><cell>Yes</cell><cell>8</cell></row><row><cell>Karnataka</cell><cell>Partial</cell><cell>7.5%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Kerala</cell><cell>Not done</cell><cell>3.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Madhya Pradesh</cell><cell>Partial</cell><cell>2.0%</cell><cell>Yes</cell><cell>Yes</cell><cell>20</cell></row><row><cell>Maharashtra</cell><cell>Partial</cell><cell>3.0%</cell><cell>Yes</cell><cell>Yes</cell><cell>0</cell></row><row><cell>Manipur</cell><cell>Not done</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Meghalaya</cell><cell>Done</cell><cell>1.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Mizoram</cell><cell>Not done</cell><cell>0.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Nagaland</cell><cell>Partial</cell><cell>0.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Odisha</cell><cell>Done</cell><cell>5.5%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Punjab</cell><cell>Not done</cell><cell>13.5%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Rajasthan</cell><cell>Partial</cell><cell>2.8%</cell><cell>Yes</cell><cell>Yes</cell><cell>11</cell></row><row><cell>Sikkim</cell><cell>Not done</cell><cell>1.3%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Tamil Nadu</cell><cell>Not done</cell><cell>5.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Telangana</cell><cell>Not done</cell><cell>0.0%</cell><cell>Yes</cell><cell>Yes</cell><cell>44</cell></row><row><cell>Tripura</cell><cell>Not done</cell><cell>2.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Uttar Pradesh</cell><cell>Not done</cell><cell>4.0%</cell><cell>No</cell><cell>Yes</cell><cell>66</cell></row><row><cell>Uttarakhand</cell><cell>Not done</cell><cell>9.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>West Bengal</cell><cell>Partial</cell><cell>5.0%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell>Andaman and Nicobar Islands</cell><cell>Not followed</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Chandigarh</cell><cell>Not followed</cell><cell>10.5%</cell><cell>Yes</cell><cell>No</cell><cell>0</cell></row><row><cell cols="2">Dadra and Nagar Haveli Not followed</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Daman and Diu</cell><cell>Not followed</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Delhi</cell><cell>Partial</cell><cell>7.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Lakshadweep</cell><cell>Not followed</cell><cell>0.0%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row><row><cell>Puducherry</cell><cell>Not followed</cell><cell>4.8%</cell><cell>No</cell><cell>No</cell><cell>0</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="300" xml:id="foot_0">2004-05 2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 Urea Phosphatic Potassic</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="0" xml:id="foot_1">20,000 40,000 60,000 80,000 2000-01 2001-02 2002-03 2003-04 2004-05 2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2">Sources: Study Report on Agriculture Marketing and Farmer Friendly Reforms Across Indian States, NITI Aayog; PRS.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Arunachal Pradesh 1,178 1,212 1,216 1,241 1,255 1,555 1,673 1,778 1,786 1,794 # Assam 1,405 1,416 1,286 1,378 1,551 1,662 1,763 1,704 1,962 1,916 2,012 Bihar 1,192 1,311 1,656 1,546 1,766 1,530 1,479 2,098 2,366 2,018 1,948 Chhattisgarh 979 1,111 1,148 1,238 1,041 1,008 1,424 1,384 1,506 1,524 1,433 Goa 2,456 2,509 2,254 2,091 2,231 1,990 2,264 2,272 2,361 2,659 # Gujarat 1,412 1,551 1,423 1,831 1,595 1,560 1,843 1,874 1,970 2,097 1,955 Haryana 3,092 3,045 3,393 3,420 3,388 3,383 3,526 3,879 3,689 3,855 3,772 Himachal Pradesh 1,923 1,731 1,714 1,918 1,757 1,297 1,787 1,911 1,850 1,962 2,011 Jammu and Kashmir 1,686 1,680 1,733 1,711 1,851 1,405 1,639 1,690 1,962 1,915 1,379 Jharkhand 1,234 1,073 1,550 1,709 1,720 1,330 1,257 1,798 1,876 1,891 1,855 Karnataka 1,388 1,776 1,289 1,548 1,511 1,377 1,684 1,629 1,488 1,620 1,684 Kerala 2,278 2,219 2,331 2,221 2,440 2,470 2,399 2,695 2,547 2,530 2,805 Madhya Pradesh 1,131 1,130 1,167 1,069 1,168 1,285 1,162 1,510 1,676 1,603 1,719 Maharashtra 836 948 940 1,150 1,001 1,039 1,184 1,155 1,038 1,207 1,043 Manipur 2,390 2,241 2,241 2,297 2,236 1,796 2,244 2,397 1,926 1,745 # Meghalaya 1,674 1,455 1,800 1,774 1,783 1,809 1,803 1,873 1,997 2,387 # Mizoram 1,888 1,754 822 285 898 1,047 1,246 1,382 1,756 1,506 # Nagaland 1,577 1,615 1,482 1,567 1,811 1,256 1,958 1,967 2,027 2,018 # Odisha 1,300 1,349 1,369 1,484 1,363 1,262 1,432 1,303 1,592 1,625 1,733 Punjab 4,040 3,986 1,359 4,255 4,231 4,144 4,280 4,364 4,347 4,500 4,144 Rajasthan 1,008 919 4,017 1,180 1,263 931 1,249 1,348 1,480 1,334 1,535 Sikkim 1,406 1,354 991 1,378 1,351 1,496 1,448 1,495 1,608 1,577 #</p></div>
+			</div>
+
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of water</head><p>Currently, about 51% of the agricultural area cultivating food grains is covered by irrigation. <ref type="bibr" target="#b33">36</ref> The rest of the area is dependent on rainfall (rain-fed agriculture). Sources of irrigation include ground water (wells, tube-wells) and surface water (canals, tanks). Table <ref type="table">5</ref> shows the various sources of irrigation used in agriculture.</p></div>
+			</div>
+
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Arunachal Pradesh 1,525 1,575 1,472 1,576 1,505 1,595 1,757 1,498 1,510 * Assam 1,074 1,117 1,268 1,090 1,087 1,179 1,147 1,304 1,292 1,257 Bihar 1,617 1,908 2,058 2,043 2,084 1,948 2,206 2,427 2,358 1,851 Chhattisgarh 886 1,002 1,059 1,040 1,086 1,144 1,227 1,396 1,304 1,388 Gujarat 2,700 2,498 3,013 2,377 2,679 3,155 3,014 2,875 3,255 2,810 Haryana 3,844 4,232 4,158 4,390 4,213 4,624 5,030 4,452 4,722 4,574 Himachal Pradesh 1,894 1,385 1,376 1,520 928 1,530 1,671 1,671 1,873 1,800 Jammu and Kashmir 1,790 1,893 1,782 1,735 1,003 1,535 1,689 1,595 2,061 1,200 Jharkhand 1,340 1,529 1,621 1,541 1,738 1,642 1,908 1,944 2,123 1,931 Karnataka 858 762 946 918 887 1,094 858 796 1,005 1,091 Madhya Pradesh 1,613 1,835 1,612 1,723 1,967 1,757 2,360 2,478 2,405 2,551 Maharashtra 1,393 1,325 1,659 1,483 1,610 1,761 1,558 1,528 1,460 1,381 Meghalaya 1,714 2,000 1,833 1,750 1,773 1,791 1,564 1,806 1,881 * Nagaland 1,583 867 1,067 1,500 1,200 1,712 1,711 1,801 1,823 * Odisha 1,364 1,487 1,554 1,396 1,450 1,458 1,644 1,894 1,574 1,772 Punjab 4,179 4,210 4,507 4,462 4,307 4,693 4,898 4,724 5,017 4,492 Rajasthan 2,762 2,751 2,749 3,175 3,133 2,910 3,175 3,028 3,083 2,974 Sikkim 1,385 1,385 1,000 1,345 1,135 1,023 1,060 1,058 1,083 * Tripura 2,636 1,800 1,900 2,000 1,984 2,025 2,000 2,000 2,000 * Uttar Pradesh 2,627 2,721 2,817 3,002 2,846 3,113 3,113 3,113 3,038 2,561 Uttarakhand 1,633 2,049 2,050 2,003 2,139 2,316 2,379 2,396 2,422 1,902 West Bengal 2,109 2,282 2,602 2,490 2,680 2,760 2,765 2,786 2,791 2,836 15 Andhra Pradesh 2,939 2,984 3,344 3,246 3,062 3,035 3,148 3,173 2,921 3,036 Arunachal Pradesh 1,195 1,195 1,275 1,293 1,777 1,925 2,065 2,086 2,092 * Assam 1,468 1,332 1,428 1,614 1,737 1,843 1,780 2,061 2,012 2,135 Bihar 1,075 1,486 1,237 1,599 1,120 1,095 2,155 2,282 1,759 1,951 Chhattisgarh 1,337 1,354 1,446 1,176 1,120 1,663 1,597 1,746 1,766 1,581 Goa 2,822 2,458 2,330 2,466 2,136 2,467 2,577 2,679 2,954 * Gujarat 1,949 1,894 1,942 1,744 1,903 1,852 2,141 2,198 2,076 2,085 Haryana 3,051 3,238 3,361 2,726 3,008 2,789 3,044 3,272 3,256 3,113 Himachal Pradesh 1,412 1,559 1,546 1,523 1,381 1,673 1,705 1,629 1,625 1,751 Jammu and Kashmir 2,150 2,194 2,133 2,186 1,914 1,942 2,078 3,126 2,250 1,710 Jharkhand 1,150 1,828 2,018 2,031 1,546 1,541 2,131 2,238 2,238 2,210 Karnataka 3,868 2,470 2,625 2,511 2,482 2,719 2,793 2,632 2,666 2,827 Kerala 2,284 2,390 2,310 2,519 2,557 2,452 2,733 2,577 2,551 2,818 3,858 3,868 4,019 4,022 4,010 3,828 3,741 3,998 3,952 3,838 Rajasthan 1,425 1,577 2,031 1,807 1,515 2,025 1,886 1,771 2,147 2,186 Sikkim 1,433 1,433 1,636 1,476 1,869 1,727 1,730 1,790 1,815 * Tamil Nadu 2,546 3,423 2,817 2,683 3,070 3,040 3,918 2,772 3,100 3,191 Tripura 2,260 2,472 2,633 2,586 2,606 2,655 2,700 2,800 2,800 * Uttar Pradesh 1,996 1,879 2,063 2,171 2,084 2,120 2,358 2,460 2,447 2,082 Uttarakhand 1,954 1,979 2,052 1,966 2,068 1,901 2,121 2,206 2,289 2,313 West Bengal 2,509 2,593 2,573 2,533 2,547 2,639 2,688 2,760 2,788 2,731</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Employment across various sectors</title>
+		<ptr target="http://planningcommission.gov.in/aboutus/committee/wrkgrp12/wg_emp_planing.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Report of the 12 th Plan Working Group on Employment, Planning and Policy</title>
+				<imprint>
+			<date type="published" when="2011-12">December 2011</date>
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Press Note on First Revised Estimates of National Income</title>
+		<ptr target="http://mospi.nic.in/sites/default/files/press_release/nad_PR_31jan17.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Statistics and Programme Implementation</title>
+				<imprint>
+			<date type="published" when="2017-01-31">January 31, 2017</date>
+			<biblScope unit="page" from="2015" to="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Tables 1.3A and 1.3B, Statistical Appendix, Economic Survey</title>
+		<ptr target="http://unionbudget.nic.in/es2015-16/estat1.pdf" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Fourth Advance Estimates of Production of Food grains for 2015-16, Directorate of Economics and Statistics, Ministry of Agriculture</title>
+		<ptr target="http://eands.dacnet.nic.in/Advance_Estimate/4th_Adv2014-15Eng.pdf" />
+		<imprint>
+			<date type="published" when="2015-08-17">August 17, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Second Advance Estimates of Production of Food Grains for 2016-17, Directorate of Economics and Statistics, Ministry of Agriculture and Farmers Welfare</title>
+		<ptr target="http://eands.dacnet.nic.in/Advance_Estimate/2nd_Advance_Estimate_ENG.pdf" />
+		<imprint>
+			<date type="published" when="2017-02-15">February 15, 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Impact of Chemical Fertilizers and Pesticides on Agriculture and allied sectors in the country</title>
+		<ptr target="http://164.100.47.134/lsscommittee/Agriculture/16_Agriculture_29.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Standing Committee on Agriculture</title>
+		<imprint>
+			<date type="published" when="2016-08-11">August 11, 2016</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Table 4.4: Season-wise Area, Production and Yield of food grains, Agricultural Statistics at a Glance</title>
+		<ptr target="http://eands.dacnet.nic.in/PDF/Agricultural_Statistics_At_Glance-2015.pdf.." />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Food and Agricultural Organisation of the United Nations</title>
+		<ptr target="http://www.fao.org/faostat/en/#compare" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Food and Agriculture Organisation</title>
+		<ptr target="http://www.fao.org/forestry/13128-0e6f36f27e0091055bec28ebe830f46b3.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2006-06">June 2006</date>
+		</imprint>
+	</monogr>
+	<note>Policy Brief</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The State of Food Insecurity in the World</title>
+		<ptr target="http://www.fao.org/3/a-i4646e.pdf" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Food and Agriculture Organization of the United Nations</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<ptr target="http://unionbudget.nic.in/es2015-16/echapvol2-05.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Chapter 5: Prices, Agriculture and Food Management, Economic Survey 2015-16</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<ptr target="http://dfpd.nic.in/writereaddata/Portal/Magazine/Document/1_43_1_NFS-Act-English.pdf" />
+		<title level="m">Ministry of Food and Public Distribution</title>
+				<imprint>
+			<publisher>Department of Food and Public Distribution</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Food Security Act</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<ptr target="http://dfpd.nic.in/writereaddata/images/EstdStatewiseNFSA.pdf" />
+		<title level="m">Department of Food and Public Distribution, Ministry of Consumer Affairs, Food and Public Distribution</title>
+				<imprint>
+			<date type="published" when="2013-12">2013. December 2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Food Security Act</orgName>
+		</respStmt>
+	</monogr>
+	<note>Food Grains Bulletin</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Nutritional Intake in India, 2011-12</title>
+		<ptr target="http://mospi.nic.in/sites/default/files/publication_reports/nss_report_560_19dec14.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Statistics and Programme Implementation</title>
+				<imprint>
+			<date type="published" when="2011-07">July 2011 to June 2012. October 2014</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Sample Survey Office</orgName>
+		</respStmt>
+	</monogr>
+	<note>NSS 68 th Round</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Incentivising productivity of pulses through minimum support prices</title>
+		<ptr target="http://finmin.nic.in/reports/Pulses_report_16th_sep_2016.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Finance</title>
+				<imprint>
+			<date type="published" when="2016-09-16">September 16, 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Agricultural Statistics at a Glance</title>
+		<idno>Table 12.1</idno>
+		<ptr target="http://eands.dacnet.nic.in/PDF/Agricultural_Statistics_At_Glance-2015.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<ptr target="http://unionbudget.nic.in/es2015-16/echapvol2-05.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Prices, Agriculture and Food Management</title>
+				<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>Economic Survey 2015-16</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">1: Agricultural Land by use in India, Agricultural Statistics at a Glance</title>
+		<ptr target="http://eands.dacnet.nic.in/PDF/Agricultural_Statistics_At_Glance-2015.pdf." />
+	</analytic>
+	<monogr>
+		<title level="j">Table</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<ptr target="http://agcensus.nic.in/document/agcensus2010/completereport.pdf" />
+		<title level="m">Agriculture Census 2010-11</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<ptr target="http://www.niti.gov.in/writereaddata/files/document_publication/Final_Report_Expert_Group_on_Land_Leasing.pdf" />
+		<title level="m">Report of the Expert Committee on Land Leasing, NITI Aayog</title>
+				<imprint>
+			<date type="published" when="2016-03-31">March 31, 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<ptr target="http://bhoomi.karnataka.gov.in/faq.htm" />
+		<title level="m">Frequently Asked Questions, Bhoomi, Government of Karnataka</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Report of the National Commission on Agriculture</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">V</forename><surname>Part</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Agrarian</forename><surname>Reforms</surname></persName>
+		</author>
+		<ptr target="http://krishikosh.egranth.ac.in/bitstream/1/2041446/1/CCS320.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture</title>
+				<imprint>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<ptr target="http://www.niti.gov.in/writereaddata/files/document_publication/Index_Agri_reform_%20Oct2016.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Study Report on Agricultural Marketing and Farmer Friendly Reforms Across Indian States and UTs</title>
+				<imprint>
+			<date type="published" when="2016-10">October 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<ptr target="https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/FFIRA27F4530706A41A0BC394D01CB4892CC.PDF" />
+		<title level="m">Report of the Committee on Medium-term Path on Financial Inclusion, Reserve Bank of India</title>
+				<imprint>
+			<date type="published" when="2015-12">December 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Report of the Internal Working Group to Revisit the Existing Priority Sector Lending Guidelines, Reserve Bank of India</title>
+		<ptr target="https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/PSGRE020315.pdf" />
+		<imprint>
+			<date type="published" when="2015-03-02">March 2, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<ptr target="https://" />
+		<title level="m">Report of the Advisory Committee on Flow of Credit to Agriculture, Reserve Bank of India</title>
+				<imprint>
+			<date type="published" when="2004-05">May 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<ptr target="http://164.100.47.134/lsscommittee/Finance/16_Finance_34.pdf" />
+		<title level="m">th Report: State of rural/agricultural banking and crop insurance, Standing Committee on Finance</title>
+				<imprint>
+			<date type="published" when="2011-11-15">November 15, 2011. August 10, 2016</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+	<note>12 th Plan Working Group Report on Natural Resource Management and Rainfed Farming</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<ptr target="http://agricoop.nic.in/imagedefault/whatsnew/sch_eng.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Cabinet approves New Crop Insurance Scheme -Pradhan Mantri Fasal Bima Yojana</title>
+				<imprint>
+			<publisher>Press Information Bureau</publisher>
+			<date type="published" when="2016-01-13">January 13. 2016</date>
+		</imprint>
+	</monogr>
+	<note>Ministry of Agriculture</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Department of Agriculture and Co-operation, Ministry of Agriculture and Farmers Welfare</title>
+		<ptr target="http://unionbudget.nic.in/ub2016-17/eb/sbe1.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Union Budget 2016-17</title>
+				<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<ptr target="http://unionbudget.nic.in/vol1.asp" />
+		<title level="m">Expenditure Profile, Union Budget 2017-18</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Lok Sabha Starred Question no. 196, Ministry of Agriculture and Farmers Welfare</title>
+		<ptr target="http://164.100.47.194/Loksabha/Questions/QResult15.aspx?qref=42786&amp;lsno=16" />
+		<imprint>
+			<date type="published" when="2016-11-29">November 29. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<ptr target="http://unionbudget.nic.in/ub2017-18/bs/bs.pdf" />
+		<title level="m">Union Budget 2017-18 Budget Speech</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Achievements of Ministry of Agriculture and Farmers Welfare</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture</title>
+				<imprint>
+			<publisher>Press Information Bureau</publisher>
+			<date type="published" when="2017-01-02">January 2, 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<ptr target="http://eands.dacnet.nic.in/PDF/Pocket-Book2015.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture and Farmers Welfare</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Raising Agricultural Productivity and Making Farming Remunerative for Farmers</title>
+		<ptr target="http://www.niti.gov.in/writereaddata/files/document_publication/RAP3.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">NITI Aayog</title>
+		<imprint>
+			<date type="published" when="2015-12-16">December 16, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Water and Related Statistics</title>
+		<ptr target="http://www.cwc.gov.in/main/downloads/Water%20&amp;%20Related%20Statistics%202015.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Central Water Commission</title>
+				<imprint>
+			<date type="published" when="2015-04">2015. April 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<ptr target="http://cacp.dacnet.nic.in/ViewReports.aspx?Input=2&amp;PageId=40&amp;KeyId=532" />
+		<title level="m">Price Policy for Kharif Crops 2015-16, Commission for Agricultural Costs and Prices, Ministry of Agriculture</title>
+				<imprint>
+			<date type="published" when="2015-03">March 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Draft Model Bill for the Conservation</title>
+		<ptr target="http://www.indiaenvironmentportal.org.in/files/file/Draft%20national%20framework%20bill,%202013.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Protection and Regulation of Groundwater</title>
+				<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Ministry of Water Resources</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Model Bill for the Conservation, Protection, Regulation and Management of Ground Water Bill</title>
+		<ptr target="http://wrmin.nic.in/writereaddata/Model_Bill_Groundwater_May_2016.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Water Resources, River Development and Ganga Rejuvenation</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Chapter 4: Agriculture: More from less</title>
+		<ptr target="http://unionbudget.nic.in/es2015-16/echapvol1-04.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Economic Survey 2015-16</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<ptr target="http://agricoop.nic.in/imagedefault/state_agri_1516.pdf" />
+		<title level="m">State of Indian Agriculture 2015-16, Ministry of Agriculture and Farmers Welfare</title>
+				<imprint>
+			<date type="published" when="2016-05">May 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>Natural Resource Management</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">46 Soil and its Survey, State of Indian Agriculture 2015-16, Ministry of Agriculture and Farmers Welfare</title>
+		<ptr target="http://eands.dacnet.nic.in/PDF/State_of_Indian_Agriculture,2015-16.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture</title>
+				<imprint>
+			<date type="published" when="2012-01">January 2012. May 2016</date>
+		</imprint>
+	</monogr>
+	<note>Compendium on Soil Health</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Progress Report for states, Soil Health Card scheme website, Department of Agriculture, Co-operation and Farmers Welfare</title>
+		<ptr target="http://soilhealth.dac.gov.in/PublicReports/StateWiseSampleEnteredTestedSHCPrintedDateFromTo." />
+		<imprint>
+			<date type="published" when="2017-02-15">February 15, 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Lok Sabha Unstarred Question no. 755, Ministry of Agriculture and Farmers Welfare</title>
+		<imprint>
+			<date type="published" when="2017-02-07">February 7, 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Reforming the Fertiliser Sector</title>
+		<ptr target="http://cag.gov.in/content/report-no-16-2015-performace-audit-nutrient-based-subsidy-policy-decontrolled-phosphatic" />
+	</analytic>
+	<monogr>
+		<title level="m">Performance Audit on Nutrient Based Subsidy Policy</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note>Economic Survey 2015-16</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<ptr target="http://www.fci.gov.in/app/webroot/upload/News/Report%20of%20the%20High%20Level%20Committee%20on%20Reorienting%20the%20Role%20and%20Restructuring%20of%20FCI_English_1.pdf" />
+		<title level="m">High Level Committee on Reorienting the role and restructuring the Food Corporation of India</title>
+				<imprint>
+			<date type="published" when="2015-01">January 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<ptr target="http://unionbudget.nic.in/ub2016-17/bs/bs.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Union Budget 2016-17</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Department of Fertilizers to conduct pilot in 16 districts to capture details as a precursor to DBT in fertilizer sector</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Chemicals and Fertilizers</title>
+				<imprint>
+			<publisher>Press Information Bureau</publisher>
+			<date type="published" when="2016-07-29">July 29, 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<ptr target="http://agricoop.nic.in/imagedefault/state_agri_1516.pdf" />
+		<title level="m">State of Indian Agriculture 2015-16, Ministry of Agriculture and Farmers Welfare</title>
+				<imprint>
+			<publisher>Farm Inputs and Management</publisher>
+			<date type="published" when="2016-05">May 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Productivity through seed development</title>
+		<ptr target="http://unionbudget.nic.in/es2015-16/echapvol2-05.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture and Farmers Welfare</title>
+		<title level="s">Agriculture and Food Management</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>Economic Survey 2015-16</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<ptr target="http://eands.dacnet.nic.in/PDF/State_of_Indian_Agriculture,2015-16.pdf" />
+		<title level="m">State of Indian Agriculture 2015-16, Ministry of Agriculture</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Agricultural Statistics at a Glance</title>
+		<idno>Table 4.21</idno>
+		<ptr target="http://eands.dacnet.nic.in/PDF/Agricultural_Statistics_At_Glance-2015.pdf.." />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<ptr target="http://envfor.nic.in/major-initiatives/geac-clearances" />
+		<title level="m">Ministry of Environment, Forest and Climate Change</title>
+				<imprint/>
+	</monogr>
+	<note>GEAC clearances</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">GEAC invites comments for the proposal on authorisation of environmental release of Genetically Engineered Mustard</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Environment, Forest and Climate Change</title>
+				<imprint>
+			<publisher>Press Information Bureau</publisher>
+			<date type="published" when="2016-09-06">September 6, 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Environmental release of Genetically Engineered Mustard hybrid DMH-11</title>
+		<ptr target="http://www.moef.gov.in/sites/default/files/Safety%20assessment%20report%20on%20GE%20Mustard_0.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Environment, Forests and Climate Change</title>
+				<imprint>
+			<date type="published" when="2016-09">September 2016</date>
+		</imprint>
+	</monogr>
+	<note>Assessment of Food and Environmental Safety</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Agriculture and Food Management, Economic Survey</title>
+		<ptr target="http://unionbudget.nic.in/budget2014-2015/es2013-14/echap-08.pdf" />
+		<imprint>
+			<date type="published" when="2013">2013-14</date>
+		</imprint>
+		<respStmt>
+			<orgName>Mechanization and Technology</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<ptr target="http://unionbudget.nic.in/es2015-16/echapvol2-05.pdf" />
+		<title level="m">Prices, Agriculture and Food Management</title>
+				<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>Economic Survey 2015-16</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Audit on the Preparedness for the Implementation of National Food Security Act</title>
+		<ptr target="http://www.cag.gov.in/sites/default/files/audit_report_files/Union_Civil_National_Food_Security_Report_54_of_2015.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Consumer Affairs, Food and Public Distribution, Comptroller and Auditor General of India</title>
+				<imprint>
+			<date type="published" when="2013-04">2013. April 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<ptr target="http://dfpd.nic.in/storage-intro.htm" />
+		<title level="m">Department of Food and Public Distribution</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Storage of Food Grains, State of Indian Agriculture 2015-16, Ministry of Agriculture and Farmers Welfare</title>
+		<ptr target="http://agricoop.nic.in/imagedefault/state_agri_1516.pdf" />
+		<imprint>
+			<date type="published" when="2016-05">May 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<idno>2014-15</idno>
+		<ptr target="http://wdra.nic.in/Annual-report2014-15%20English.pdf" />
+		<title level="m">Warehousing Development and Regulatory Authority</title>
+				<imprint/>
+	</monogr>
+	<note type="report_type">Annual Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Challenges to cold chain development</title>
+		<ptr target="http://www.nccd.gov.in/PDF/ChallengeColdChain-Development.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">National Centre for Cold-Chain Development</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Report on Evaluation of the Impact of the Scheme for Mega Food Park of the Ministry of Food Processing</title>
+		<ptr target="http://mofpi.nic.in/sites/default/files/ICRIERreportonimpactofMFPS%28Final%29_0.pdf" />
+		<imprint>
+			<date type="published" when="2015-07">July 2015</date>
+			<publisher>Indian Council for Research for International Economic Relations</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">72 Department of Food and Public Distribution</title>
+	</analytic>
+	<monogr>
+		<title level="m">Food Processing Units and Mega Food Parks</title>
+				<imprint>
+			<publisher>Food and Public Distribution</publisher>
+			<date type="published" when="2016-07-29">July 29, 2016</date>
+		</imprint>
+	</monogr>
+	<note>Ministry of Consumer Affairs</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Pricing, Costs, Returns and Productivity in Indian Crop Sector during</title>
+		<ptr target="http://cacp.dacnet.nic.in/ViewQuestionare.aspx?Input=2&amp;DocId=1&amp;PageId=42&amp;KeyId=480" />
+	</analytic>
+	<monogr>
+		<title level="m">Commission for Agriculture Costs and Prices, Ministry of Agriculture</title>
+				<imprint>
+			<date type="published" when="2000-06">2000s. June 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">)</forename><surname>Msps</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Aayog</surname></persName>
+		</author>
+		<ptr target="http://www.niti.gov.in/writereaddata/files/document_publication/MSP-report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Evaluation Report on Efficacy of Minimum Support Prices</title>
+		<imprint>
+			<date type="published" when="2016-01">January 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title/>
+		<ptr target="http://seednet.gov.in/PDFFILES/Essential_Commodity_Act_1955" />
+	</analytic>
+	<monogr>
+		<title level="j">The Essential Commodities Act</title>
+		<imprint>
+			<date type="published" when="1955">1955. No_10_of_1955</date>
+		</imprint>
+	</monogr>
+	<note>pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Department of Agriculture, Co-operation and Farmers Welfare</title>
+		<author>
+			<persName><forename type="first">Agricultural</forename><surname>Marketing</surname></persName>
+		</author>
+		<ptr target="http://www.agricoop.nic.in/divisiontype/agricultural-marketing" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture and Farmers Welfare</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<ptr target="http://agmarknet.nic.in/amrscheme/modelact.htm" />
+		<title level="m">Salient Features of the Model Act on Agricultural Marketing, Ministry of Agriculture and Farmers Welfare</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<ptr target="http://agricoop.nic.in/imagedefault/state_agri_1516.pdf" />
+		<title level="m">Agricultural Prices, Marketing and International Trade, State of Indian Agriculture 2015-16, Ministry of Agriculture and Farmers Welfare</title>
+				<imprint>
+			<date type="published" when="2016-05">May 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">A National Market for Agricultural Commodities -Some Issues and the Way Forward</title>
+		<ptr target="http://www.indiabudget.nic.in/es2014-15/echapvol1-08.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Economic Survey</title>
+				<imprint>
+			<date type="published" when="2014">2014-15</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Chapter</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Table 9: State-wise yield of food grains (in kg/ha) State/UT</title>
+		<imprint>
+			<date type="published" when="1382">April 14. 2016. 2004-05 2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15* Andhra Pradesh 2,138 2,365 2,231 2,613 2,744 2,294 2,530 2,519 2,670 2,661 2,653</date>
+			<publisher>Press Information Bureau</publisher>
+		</imprint>
+	</monogr>
+	<note>The Prime Minister launched National Agricultural Market</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tamil</forename><surname>Nadu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1252">1,874 1,847 1,354 2,125 2,225 2,477 2,393 3,162 2,131 2,554 2,529</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Tripura</title>
+		<imprint>
+			<date type="published" when="1792">2,179 2,194 2,610 2,563 2,526 2,544 2,587 2,620 2,711 2,680 # Uttar Pradesh 1,961 2,057 2,399 2,206 2,365 2,236 2,386 2,498 2,542 2,484 2,117</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Others</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">778</biblScope>
+			<pubPlace>A N/A N/A N/A N/A N/A N/A N/A N/A N/A 2</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">872 Note: Figures for 2014-15 are 4 th advance estimates. *in 2014-15, yield of Arunachal Pradesh</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture; PRS. All</title>
+				<meeting><address><addrLine>Meghalaya, Nagaland; Goa, Manipur, Meghalaya, Mizoram, Nagaland</addrLine></address></meeting>
+		<imprint>
+			<publisher>PRS</publisher>
+			<date type="published" when="1022">2015. India 2,619 2,708 2,802 2,907 2,839 2,989 3,177 3,117 3,145 2. 2015. 2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-All India 2,102 2,131 2,202 2,178 2,125 2,239 2,393 2,461 2,416 2,390. 2015</date>
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>yield of Arunachal Pradesh</orgName>
+		</respStmt>
+	</monogr>
+	<note>Note: Figures for 2014-15 are 4 th advance estimates. *in 2014-15. Sikkim and Tripura has been consolidated as 2,488 kg/ha. Sources: Agricultural Statistics at a Glance</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

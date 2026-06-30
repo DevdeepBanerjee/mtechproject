@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Status and use of pesticides in forage crops in India</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Pesticide Science Society of Japan</publisher>
+				<availability status="unknown"><p>Copyright Pesticide Science Society of Japan</p>
+				</availability>
+				<date type="published" when="2018-06-23">June 23, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Pushpendra</forename><surname>Koli</surname></persName>
+							<email>kolipushpendra@gmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Nitish</forename><forename type="middle">Rattan</forename><surname>Bhardwaj</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">ICAR-Indian Grassland and Fodder Research Institute</orgName>
+								<address>
+									<addrLine>Jhansi-284003</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">U.P</orgName>
+								<address>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Status and use of pesticides in forage crops in India</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Pesticide Science</title>
+						<title level="j" type="abbrev">Journal of Pesticide Science</title>
+						<idno type="ISSN">1348-589X</idno>
+						<idno type="eISSN">1349-0923</idno>
+						<imprint>
+							<publisher>Pesticide Science Society of Japan</publisher>
+							<biblScope unit="volume">43</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="225" to="232"/>
+							<date type="published" when="2018-06-23">June 23, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8291C979B0240041AA08C9F4ADDFB3A5</idno>
+					<idno type="DOI">10.1584/jpestics.d18-004</idno>
+					<note type="submission">Received January 16, 2018; Accepted May 3, 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>pesticides</term>
+					<term>forage crops</term>
+					<term>livestock</term>
+					<term>India</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The Indian livestock population is huge. Most (99%) of the livestock owners still follow traditional animal husbandry practices and graze their livestock, especially small ruminants, on natural pastures where no pesticides are used. In order to feed the everincreasing livestock population, efforts are being made to increase quality fodder productivity from limited land resources. In such situations, pesticides play an important role by minimizing the loss of green fodder due to disease and pest attack. In countries such as Canada, Israel, the UK, and other European countries, pesticides have been registered for forage crops; in India, however, although pesticides have been registered for cultivable grain, horticultural and cash crops, etc., there are no registration guidelines or authenticated information regarding pesticide use with regard to forage crops. Hence, there is a need to take necessary steps in this direction, keeping in view the importance of fodder and livestock in the country. In this review, detailed aspects of the status and use of pesticides in forage crops in India are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>India accounts for around 15% of world's livestock population and 2% of the world's total geographical area, which indicates enormous biotic pressure on the land. The Indian livestock population is more than 512 million heads at present and is expected to rise at a rate of 0.55% per year in the coming years, reaching about 780.7 million by the year 2050. <ref type="bibr" target="#b0">1)</ref> The present production of milk and meat is about 155 million tons and 7 million tons, respectively, whereas demand for milk and meat will be around 400 million tons and 14 million tons, respectively, in the year 2050. <ref type="bibr" target="#b1">2)</ref> Thus, in order to sustain this vast livestock population and to meet the growing demand for milk and meat, forage crops will certainly play a very important role. There is a wide scope of pesticide usage to improve forage crop productivity. The per hectare consumption of pesticides in India is amongst the lowest in the world and stands at 0.6 kg/ha against 5-7 kg/ ha in the UK and 13 kg/ha in China. In India, around 40% of the total cultivated area is treated with pesticides, and approximately 65-70% of the cultivated area treated with pesticides is irrigated. On average, 65% of the area for fiber crops in India is treated with pesticides, followed by treatment for fruits (50%), vegetables (46%), spices (43%), oilseeds (28%), and pulses (23%) (Fig. <ref type="figure" target="#fig_0">1</ref>). <ref type="bibr" target="#b2">3)</ref> However, there is no clear information on the extent of pesticide use in forage crops in India. In this review, we attempted to collect and compile information regarding the status of pesticide use in different forage crops in India from various available sources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Forage crops in India</head><p>The agricultural sector remains the backbone of India's economy, accounting for about 15% of the country's Gross Domestic Product. However, it must be understood that Indian agriculture is highly monsoon dependent, and irrigation facilities are available to only 45%, or 64 million ha, of the 142 million ha of net sown area. Out of the total cultivated area, only 4% of the land in India is used for forage production, a proportion that has remained stagnant for the last four decades. <ref type="bibr">4)</ref> The cultivated forage crops include many plant species, such as sorghum, maize, pearl millet, cowpea, guar, berseem, lucerne, oats, and several grasses. The status of grasslands is highly variable, and the area and productivity are decreasing because of increasing human pressure for the cultivation of food grain crops and the increase in animal population, including wild animal population, which results in overgrazing and ultimately shrinking the grasslands area. Pasture areas have been reduced from about 70 million ha in 1947 to just about 38 million ha in 1997, and the major portion of this loss is from village common lands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.1.">Area and production</head><p>Forage crops are plant species cultivated and harvested for feeding animals, in the form of forage (cut green and fed fresh), silage (preserved under anaerobic conditions), and hay (dehy-drated green fodder). The total area under cultivated fodder is 8.3 million ha on an individual crop basis. Sorghum (among the kharif crops, with an area of 2.6 million ha) and berseem, or Egyptian, clover (among the rabi crops, with an area of 1.9 million ha) occupy about 54% of the total cultivated fodder crop area 5) (Table <ref type="table" target="#tab_0">1</ref>). The area under fodder crops has remained almost static for the last three to four decades. This is mainly for want of proper land cover data reporting. However, the area under fodder crops has increased in peri-urban areas that have been developed as milksheds under intensive dairy production systems during the past years. The area under permanent pasture has been declining for years, and that trend could continue into the future. Due to overgrazing, pasture productivity has also been declining.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2.">Major biotic stresses affecting forage crops</head><p>India's livestock population is one of the largest in the world, at around 529.7 million, and is expected to grow at a rate of 0.55% in the coming years. The average yield of milk and meat from animals in India is 20-60% lower than the global average. Moreover, their production potential is not completely realized be-cause of various constraints related to feeding, breeding, health, and management. The deficiency of feed and fodder (50.2%) accounts for half of the total loss, followed by the problems of breeding and reproduction (21.1%), disease (17.9%), and management (10.5%). There is an urgent need to meet the demand of the increasing number of livestock and to enhance their productivity, for which the availability of feed resources must be increased. Forage-based economical feeding strategies are required to reduce the cost of quality livestock product, as the feed alone constitutes 60-70% of the milk-production cost. The increasing livestock population places great pressure on the total available feed and fodder, as land available for fodder production has been decreasing. At present, the country faces a net deficit of 35.6% in green fodder, 11% in dry crop residue, and 44% in concentrated feed ingredients. At the current level of growth in forage resources, there will be a 18.4% deficit in green fodder and a 13.2% deficit in dry fodder in the year 2050, as the livestock population is increasing concurrently. To decrease the net deficit of green fodder, the supply should grow at 1.7% annually, and efforts are underway in this direction via the adoption of highyield fodder varieties, improved fodder production, and protec-  tion technologies. However, additional efforts are required to increase the productivity of forage crops from the limited land area to ensure future fodder security. <ref type="bibr" target="#b3">6)</ref> In addition to the above-mentioned problems, pests and diseases can have a significant effect on the establishment, yield, and longevity of grass and forage crops. As with other agricultural crops, forage crops are subject to damage from pests and diseases that hamper crop establishment, impair forage quality, and reduce green fodder and seed yield. Pests and diseases also cause indirect losses, such as reduced nodule formation in legumes, eventually resulting in the reduction of nitrogen fixation capacity. Plant-pathogen (toxin-producing fungal pathogens) interaction could lead to the production of toxins (mycotoxins such as aflatoxins, zearalenone, and vomitoxin), which can adversely affect animal health if consumed. Mycotoxins have significant economic and commercial impacts, as both the productivity and nutritive value of the infected cereal/forage are affected by them. <ref type="bibr" target="#b4">7)</ref> The economic impact of reduced animal productivity, increased incidence of disease, damage to vital organs, and interference with reproductive capacity is far greater than death due to mycotoxin poisoning. <ref type="bibr" target="#b5">8)</ref> Many diseases and insect pests (Table <ref type="table" target="#tab_1">2</ref>) have been associated with significant damage in forage crops grown in various parts of the country. Plant protection in general has an obvious role to play in meeting the growing demand for food quality and quantity. <ref type="bibr" target="#b6">9)</ref> In order to sustain any fodder production system, biotic stresses such as insect pests, plant pathogens, and plant parasitic nematodes should be contained below a threshold level. In addition to high dependency on monsoons and limited irrigation facilities, direct yield losses ranging between 20 and 40% from pathogens, animals, and weeds make the agriculture situation in India even worse. <ref type="bibr" target="#b7">[10]</ref><ref type="bibr" target="#b8">[11]</ref><ref type="bibr" target="#b9">[12]</ref><ref type="bibr" target="#b10">[13]</ref> The quantitative and qualitative losses caused by these biological stress factors in major forage crops have been reviewed previously. <ref type="bibr" target="#b11">14)</ref> In order to meet the growing demand borne out of increasing livestock population, crop productivity and efficient utilization of arable land become essential factors. In such circumstances, pesticides play a vital role by curtailing pest damage, which in turn enhances productivity.</p><p>While pests are not considered to have great importance with regard to forage crops, factors such as climate change could lead to epidemics of particular pests and diseases in the near future, which could cause significant losses in forage production and aggravate the present deficit of green and dry fodder. The use of pesticides in forage crops has certain constraints, such as low feasibility due to high cost/benefit ratio, risk of pesticide residue accumulation in the food chain through milk and milk products, and even direct toxicity to livestock. <ref type="bibr" target="#b12">15)</ref> In spite of these facts, farmers still opt for pesticides, as other pest management practices may not produce instant results. However, information on the extent of pesticide use in forage crops remains obscure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Role of pesticides in pasture management</head><p>Pesticides have played an important role in the management of pasture and forage crop pests. Often, pesticides are applied to pastures or forage crops to protect vulnerable seedlings; however, established crops and pastures have also been treated with pesticides to reduce resident and damaging pest populations. The effective management of many pastures and forage crop pests poses a range of challenges for farmers:</p><p>• The damaging larval stages are often concealed (in soil, stems, root nodules, and seeds) and are difficult to detect.</p><p>• Failure to detect insect and other pests can result in poor pasture or forage crop establishment and production, thereby affecting the capacity to support livestock.</p><p>• Some pests occur sporadically and cause large outbreaks, which are often invoked by suitable weather conditions, and require immediate and rapid action to minimize pest damage.</p><p>• For a range of pests, few alternative (non-insecticide) controls are available, or if they are available, their effectiveness may be limited, or they may not be applicable at a particular time, e.g., some cultural controls. Furthermore, they may not be sufficiently fast acting to contain pest outbreaks or offer sufficient protection to seedlings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Current status of registered pesticides for crops</head><p>The Central Insecticides Board and Registration Committee (CIBRC) and the Food Safety and Standards Authority of India (FSSAI) are the two bodies that deal with pesticide regulations in India. The CIBRC, established in 1968 under the Department of Agriculture and Co-operation of Ministry of Agriculture, is responsible for advising central and state governments on technical issues related to the manufacture, use, and safety of pesticides. <ref type="bibr">16</ref>) The registration committee is responsible for registering pesticides after verifying manufacturer or importer claims about the efficacy and safety of the pesticides. 17) The FSSAI is responsible for recommending tolerance limits of various pesticides in food commodities. The FSSAI was established under the Food Safety and Standards Act of 2006. <ref type="bibr">18)</ref> The State Agriculture Universities, State Agriculture Departments, and other institutions related to specific crops, such as the National Horticulture Board and the Spices Board of India, make another set of recommendations for agricultural practices, including the use of pesticides. These recommendations are important, considering the local needs of the states and research about specific crops and their diseases and insects.</p><p>The farmers of India, who lack a technical understanding of pesticides, their uses, and safety aspects, are vulnerable to misguidance, which increases the chance of unnecessary and inappropriate use of pesticides. The ever-increasing population of India also puts constant pressure on agriculture to improve productivity. The misuse of pesticides in such a scenario is very likely. The harmful effects of pesticides are now established worldwide. Farmers and agricultural laborers are the direct users of pesticides and are more likely to be affected by the acute toxicity of pesticides. However, around 550 crops grown in India do not have label claims to all these pesticides (http://cibrc.nic. in/). India is the fourth largest global producer of pesticides after the USA, Japan, and China. Approximately 50% of the demand comes from domestic consumers and the rest from exports. At present, the per hectare consumption of pesticides in India is among the lowest in the world and stands at 0.6 kg/ha against 5-7 kg/ha in the UK and 13 kg/ha in China. However, in India, the problem is a high level of pesticide residue in food products, and consignments have often been rejected at foreign ports. The residue problem in food products is mainly due to the persistent use of pesticides as well as to their injudicious use. Following "Good Agricultural Practices" is an option that implies a thorough understanding about the use of various pesticides in an effective and eco-friendly way. During the last five years, the incidence of pesticide residues in various commodities has increased from 1.2 to 2.6%. However, there is no clear understanding of the usage and effect of pesticides on forage crops in India</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Current pesticides approved for use in grass and forage crops</head><p>Overall, the Indian pesticide market is characterized by a wide range of active substances registered (Table <ref type="table" target="#tab_0">S1</ref>) or restricted/ banned/refused registration (Tables <ref type="table" target="#tab_4">S2-S4</ref>) for use in various   <ref type="bibr" target="#b12">15)</ref> crops. While searching the available literature, it came to our attention that there is no recommended pesticide, as such, for forage crops. A few pesticides that are used on a large scale on cereals, pulses, and other crops, have "off-label" approval for use on grasses, legumes, and other fodder crops in India (Table <ref type="table" target="#tab_3">3</ref>). On the other hand, for crops such as sorghum, pearl millet, and maize, which are used both as food and fodder crops (dualpurpose crops), there are pesticide recommendations and maximum residue limits. In India, berseem, or Egyptian, clover (Trifolium alexandrinum) continues to be one of the major winter forage crops, and it suffers from diseases such as root and stem rot. Unfortunately, however, there is no single pesticide recommended directly for this so-called queen of forage crops, which suggests the extent to which fodder crops are neglected in India when it comes to the use of pesticides in plant protection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Maximum residue limits (MRLs) for pesticides in forage crops</head><p>MRLs for pesticides are the maximum concentrations of residue legally permitted in or on food resulting from the use of pesticides according to good agricultural practice. <ref type="bibr" target="#b13">19)</ref> The MRLs for pesticides may also be applicable to animal feed. In the case of food crops, MRLs are well described, and the values are defined respective to the commodity. A few examples related to the MRLs for pesticides on feed/fodder as recommended by Codex Alimentarius Commission (CAC) <ref type="bibr" target="#b14">20)</ref> are shown in Table <ref type="table" target="#tab_4">4</ref>. However, in India, there is no recommended/fixed MRL of pesticides for forage crops.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Pesticide contamination in animal feed and fodder</head><p>Some of the ways by which pesticides enter the animal system include chemicals used in treatment to control ectoparasites in animals; the ingredients of concentrated feed such as cottonseed cakes, grains, brans, and pulses; the feeding of contaminated unconventional feed, i.e., vegetable waste from local markets; drifting during spray on other crops; the use of contaminated irrigation water in fodder growing fields; and pesticide dusting in orchards where fodder intervention is conducted. Pesticides from major groups such as organophosphate, organochlorine, and pyrethroid compounds may contaminate the feed. <ref type="bibr" target="#b15">21)</ref> Although pesticides are potentially toxic to farm livestock, the main focus centers on residue accumulated in animal products destined for human consumption.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Reported cases of pesticide residue accumulation in fodder crops and livestock products</head><p>About 56.7% of the population in India is engaged in agriculture and is exposed to the pesticides used in agriculture. <ref type="bibr" target="#b16">22)</ref> There is increasing concern about pesticide residue in drinking water, food, livestock, and livestock products. Pesticide residues in livestock generally accumulate in two ways: either through direct application to animals or through direct application to agricultural and fodder crops. <ref type="bibr" target="#b17">23)</ref> The livestock reared on pesticidecontaminated soils, crops, and fodders may accumulate considerable residues in edible tissues. Animals can accumulate these substances from contaminated feed and water. Moreover, due to the lipophilic nature of pesticides, they easily accumulate in milk and other fat-rich substances, <ref type="bibr" target="#b18">24)</ref> which relates to an indirect source of pesticide accumulation represented by animal-derived products. Endosulfan, an organochlorine insecticide previously used widely in agriculture for the control of various crop pests in India, has been reported to be present as a residue in various green fodders and feed concentrates up to a concentration of 6 ppm. <ref type="bibr" target="#b19">[25]</ref><ref type="bibr" target="#b20">[26]</ref><ref type="bibr" target="#b21">[27]</ref><ref type="bibr" target="#b22">[28]</ref><ref type="bibr" target="#b23">[29]</ref> However, unlike other organochlorine insecticides, endosulfan apparently does not pass into the milk of cattle when ingested in feed, even at a high concentration for a prolonged period of time. Residues of organochlorine pesticides (OCPs) and endosulfan stereoisomers analyzed in dry and green fodder samples from rural areas of Ambala, Gurgaon, and Hisar (Haryana, India) revealed the persistence of OCP residues in both dry and green fodder samples as total OCPs, and endosulfan was found to be the highest in wheat straw (1.1-1.2 mg kg −1 ) from Ambala and Gurgaon, followed by sorghum straw (0.46 mg kg −1 ) from Hisar. Moreover, dry fodder samples were found to have higher residue levels than green fodder samples. In the case of green fodder samples, maximum OCP residues of 0.44 mg kg −1 were found in whole plant samples of sorghum from Gurgaon, followed by pearl millet (0.40 mg kg −1 ) from Ambala. <ref type="bibr" target="#b24">30)</ref> Among various meat products, the greatest contamination was observed in chicken muscle, followed by goat and beef, collected in Lucknow, India. <ref type="bibr" target="#b25">31)</ref> Milk samples from Kumaon and Tarai in the Indian state of Uttarakhand, which were analyzed using an HPLC technique, showed that 4.7% of total milk samples were detected to have chloropyrifos residue above the MRL (0.02 mg kg −1 ). <ref type="bibr" target="#b26">32)</ref> In another study, milk and fodder samples around the Musi River belt revealed a dicofol concentration of 0.07 ppm in fodder samples and a dimethoate concentration of 0.13 ppm in milk samples, which were above the MRL values established by the EU and CAC. <ref type="bibr" target="#b27">33)</ref> The increasing presence of pesticide residues in the meat <ref type="bibr" target="#b28">34)</ref> and milk <ref type="bibr" target="#b29">[35]</ref><ref type="bibr" target="#b30">[36]</ref><ref type="bibr" target="#b31">[37]</ref><ref type="bibr" target="#b32">[38]</ref> is of great concern with regard to ensuring food safety and human health and might be responsible for lack of pesticide recommendations specific to forage-crop protection by pesticide manufacturers and policy makers in India. However, a well-planned strategy involving the use of green pesticides along with good agricultural practices could enable the efficient use of pesticides for forage crops at a time when the country is faced with the challenge of feeding an increasing livestock population from limited land resources. This is possible only by increasing the productivity of fodder crops, in which effort pesticides can play an important role by curtailing serious pest outbreaks that are inevitable in this changing climate scenario.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Although pesticide use in forage crops can cause health prob-lems in animals when exposure is high, such use cannot be neglected in forage crops in today's changing climate scenario, which promotes more epidemics of new and emerging pathogens and insect pests in forage crops. In India, however, there is no working policy for pesticide regulation and safety issues with regard to forage crops. In other countries, such as Canada, Israel, the UK, and other European countries, in which livestock contribute significantly to economic development, there is a designated pesticide regulatory agency that regulates most pesticide-related matters in forage crops. In India, there is a genuine and urgent need to take steps and implement policies to establish the following: ➢ A forage policy encompassing plant protection chemical research and achieving forage security in combination with food security in the future.</p><p>➢ Tolerance limits, safety limits, and acceptable daily intake of pesticides in animal feed and fodder based on large-scale field trials.</p><p>➢ Maximum residue limits for pesticides in forage crops. ➢ Environmental risk assessment of the pesticides in a foragebased cropping system.</p><p>➢ Legal recommendations for pesticides through the approval of apex pesticides by a regulatory body (CIBRC) against diseases and pests of economic importance in forage crops.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Pesticides application area of each crops (Source: FICCI, 2016) 3</figDesc><graphic coords="2,163.69,74.40,284.62,126.01" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . The area and productivity of fodder crops grown in India a)</head><label>1</label><figDesc></figDesc><table><row><cell>Crop</cell><cell>Botanical name</cell><cell>Area ('000 ha)</cell><cell>Green fodder productivity (t/ha)</cell></row><row><cell>Berseem (Egyptian clover)</cell><cell>Trifolium alexandrinum</cell><cell>1900</cell><cell>60-110</cell></row><row><cell>Lucerne (Alfalfa)</cell><cell>Medicago sativa</cell><cell>1000</cell><cell>60-130</cell></row><row><cell>Senji (Sweet clover)</cell><cell>Melilotus indica</cell><cell>5</cell><cell>20-30</cell></row><row><cell>Shaftal (Persian clover)</cell><cell>Trifolium resupinatum</cell><cell>5</cell><cell>50-75</cell></row><row><cell>Metha (Fenugreek)</cell><cell>Trigonella foenum-graecum</cell><cell>5</cell><cell>20-35</cell></row><row><cell>Lobia (Cowpea)</cell><cell>Vigna unguiculata</cell><cell>300</cell><cell>25-45</cell></row><row><cell>Guar (Clusterbean)</cell><cell>Cyamopsis tetragonaloba</cell><cell>200</cell><cell>15-30</cell></row><row><cell>Rice bean</cell><cell>Vigna umbellata</cell><cell>20</cell><cell>15-30</cell></row><row><cell>Jai (Oat)</cell><cell>Avena sativa</cell><cell>100</cell><cell>35-50</cell></row><row><cell>Jau (Barley)</cell><cell>Hordeum vulgare</cell><cell>10</cell><cell>25-40</cell></row><row><cell>Jowar/Chari (Sorghum)</cell><cell>Sorghum bicolor</cell><cell>2,600</cell><cell>35-70</cell></row><row><cell>Bajra (Pearl millet)</cell><cell>Pennisetum glaucum</cell><cell>900</cell><cell>20-35</cell></row><row><cell>Makka (Maize)</cell><cell>Zea mays</cell><cell>900</cell><cell>30-55</cell></row><row><cell>Makchari (Teosinte)</cell><cell>Zea mexicana</cell><cell>10</cell><cell>30-50</cell></row><row><cell>Chara sarson (Chinese cabbage)</cell><cell>Brassica pekinensis</cell><cell>10</cell><cell>15-35</cell></row><row><cell cols="2">a) Source: Handbook of agriculture, (2013) 5)</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Major Diseases and insect-pests of important fodder crops and grasses in India Berseem (Trifolium alexandrinum)</figDesc><table><row><cell></cell><cell></cell><cell>Stem borer</cell><cell>Chilo partellus</cell></row><row><cell>Root rot complex</cell><cell>Rhizoctonia solani, Fusarium semitac-</cell><cell>Aphids</cell><cell>Rhapalosiphum maidis</cell></row><row><cell></cell><cell>tum, Tylenchorhynchus vulgaris</cell><cell>Sorghum mildge</cell><cell>Contarinia sorghicola</cell></row><row><cell>Stem rot</cell><cell>Sclerotinia trifoliorum</cell><cell>Army worm</cell><cell>Mythimna separata, Spodoptera exigua</cell></row><row><cell>Pod borer</cell><cell>Helicoverpa armigera</cell><cell>Sorghum cyst nematode</cell><cell>Heterodera sorghi</cell></row><row><cell>Stunt nermatode Oats (Avena sativa) Leaf blotch Crown rust Stem rust Sclerotial wilt Aphids Cyst nematode Cowpea (Vigna unguiculata) Root rot Mosaic Flea beetles Semilooper Leaf hoppers Root knot nematode Reniform nematode Pigeon pea cyst nematode Lucerne (Medicago sativa) Downy mildew Rust</cell><cell>Tylenchorrhyncus vulgaris, T. mash-hoodi Helminthosporium avenae Puccinia coronata Puccinia graminis avena Sclerotium rolfsii Rhapalosiphum maidis Heterodera avenae Macrophomina phaseolina Cowpea mosaic virus Monolepta signata Plusia nigrisigna Empoasca kerri Meloidogyne incognita Rotylenchulus reniformis Heterodera cajani Peronospora trifoliorum Uromyces striatus</cell><cell cols="2">Maize (Zea mays) Brown stripe downy mildew Scleropthora rayssi var. zeae Turcicum leaf blight Helminthosporium turcicum Maydis leaf blight Dreschslera maydis Bacterial stalk rot Erwinia carotovora var. zeae Shoot fly Atherigona soccata Stem borer Chilo partellus Aphids Rhapalosiphum maidis Maize cyst nematode Heterodera zea Pearl millet (Pennisetum glaucum) Downy mildew Sclerospora graminicola Ergot Claviceps fusiformis Smut Tolyposporium penicillariae Rust Puccinia pennisetl Shoot fly Atherigona varia soccata Stem borer Chilo partellus Blister beetle Zonabris pustulata Range grasses Rust Puccinia and Uromyces spp. Leaf spots Curvularia, Pyricularia, Scrossporium, Colletotrichum spp.</cell></row><row><cell>Common leaf spot</cell><cell>Pseudopeziza medicagenis</cell><cell>Grasshoppers</cell><cell>Hieroglyphus nigrorepletus, Catan-</cell></row><row><cell>Lucerne weevil</cell><cell>Hypera postica</cell><cell></cell><cell>tops pinguis, Oedaleus abruptus,</cell></row><row><cell>Aphids Stem nematode</cell><cell>Acyrthosiphon pisum and Theriophis trifolii f. maculata Ditylenchus dipsaci</cell><cell></cell><cell>Chrotogonus trachypterus, Aelopus tamulus, Colemania sp., Oxya sp., Locusta migratoria, Attractomor-pha sp.</cell></row><row><cell>Lesion nematode</cell><cell>Pratylenchus penetrans</cell><cell>Cyst nematode</cell><cell>Heterodera avenae, H. sorghi, H. zeae,</cell></row><row><cell>Root-knot nematode</cell><cell>Meloidogyne spp.</cell><cell></cell><cell>H. mothi, H. graminis, H. cyperi,</cell></row><row><cell>Clover cystnematode</cell><cell>Heterodera trifolii</cell><cell></cell><cell>H. sacchari, H. delvi</cell></row><row><cell>Sorghum (Sorghumbicolor)</cell><cell></cell><cell>Root-knot nematode</cell><cell>Meloidogyne spp.</cell></row><row><cell>Anthracnose</cell><cell>Colletotrichum graminicola</cell><cell>Seed gall nematode</cell><cell>Anguina spp.</cell></row><row><cell>Sooty stripe</cell><cell>Ramulisporia sorghi</cell><cell>Lesion nematode</cell><cell>Pratylenchus spp.</cell></row><row><cell>Zonate leaf spot</cell><cell>Gloeocercospora sorghi</cell><cell>Stunt nematode</cell><cell>Tylenchorhynchus spp.</cell></row><row><cell>Downy mildew</cell><cell>Scleropsora sorghi</cell><cell>Lance nematode</cell><cell>Hoplolaimus spp.</cell></row><row><cell>Shoot fly</cell><cell>Atherigona soccata</cell><cell>Spiral nematode</cell><cell>Helicotylenchus spp.</cell></row></table><note>Source: Saxena et al., (2013).<ref type="bibr" target="#b12">15)</ref> </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Major diseases and insect-pests of important fodder crops and grasses in India</figDesc><table /><note>Source: Saxena et al., (2013).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>Approved uses of registered pesticides on grains cum fodder crops in India a)</figDesc><table><row><cell>S.N.</cell><cell>Name of pesticide</cell><cell>Forage crop</cell><cell>Common name of the pest and diseases</cell></row><row><cell>1.</cell><cell>Carbaryl</cell><cell>Sorghum</cell><cell>Aphid, Earhead midge, Hoppers, Stem borer</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Stem borer, Shoot fly</cell></row><row><cell>2.</cell><cell>Carbofuran</cell><cell>Barley</cell><cell>Aphid, Jassids, Cyst nematode</cell></row><row><cell></cell><cell></cell><cell>Bajra</cell><cell>Shoot fly</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Shoot fly, Stem borer</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Stem borer, Shoot fly, Thrips</cell></row><row><cell>3.</cell><cell>Dimethoate</cell><cell>Bajra</cell><cell>Milky weed bug</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Stem borer, Shoot fly</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Midge</cell></row><row><cell>4.</cell><cell>Imidacloprid</cell><cell>Sorghum</cell><cell>Shoot fly</cell></row><row><cell></cell><cell></cell><cell cols="2">Pearl millet Shoot fly and termites</cell></row><row><cell>5.</cell><cell>Malathion</cell><cell>Sorghum</cell><cell>Earhead midge</cell></row><row><cell>6.</cell><cell>Monocrotophos</cell><cell>Maize</cell><cell>Shoot fly</cell></row><row><cell>7.</cell><cell>Oxydemeton-Methyl</cell><cell>Maize</cell><cell>Shoot fly</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Shoot fly</cell></row><row><cell>8.</cell><cell>Phenthoate</cell><cell>Sorghum</cell><cell>Red spider mite, Pink mite, Purple mite, Scarlet mite</cell></row><row><cell>9.</cell><cell>Phorate</cell><cell>Bajra</cell><cell>Shoot fly, White grub</cell></row><row><cell></cell><cell></cell><cell>Barley</cell><cell>Aphid</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Shoot fly, Stem borer</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Shoot fly, Aphids, White grub</cell></row><row><cell cols="2">10. Phosalone</cell><cell>Barely</cell><cell>Aphid</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Ear head midge</cell></row><row><cell cols="2">11. Quinalphos</cell><cell>Sorghum</cell><cell>Stem borer, Mite, Shoot fly, Earhead bug, Earhead midge</cell></row><row><cell cols="2">12. Thiamethoxam</cell><cell>Sorghum</cell><cell>Shoot fly</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Stem Fly</cell></row><row><cell cols="3">13. Thiamethoxam+Lambda cyhalothrin Maize</cell><cell>Aphid, Shootfly, Stem borer</cell></row><row><cell cols="2">14. Carbendazim</cell><cell>Barley</cell><cell>Loose smut</cell></row><row><cell cols="2">15. Carboxin</cell><cell>Barley</cell><cell>Loose smut, Covered smut</cell></row><row><cell cols="2">16. Mancozeb</cell><cell>Maize</cell><cell>Leaf blight, Downy mildew</cell></row><row><cell></cell><cell></cell><cell>Jowar</cell><cell>Leaf spot</cell></row><row><cell cols="2">17. Metalaxyl-M</cell><cell cols="2">Pearl millet Downey mildew</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Downey mildew</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Sorghum downy mildew, Sugarcane downy mildew, Phillippine downy mildew, Browny</cell></row><row><cell></cell><cell></cell><cell></cell><cell>stripe downy mildew</cell></row><row><cell cols="2">18. Sulphur</cell><cell>Beans</cell><cell>Powdery mildew</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Mites, Grain Smut</cell></row><row><cell></cell><cell></cell><cell>Cowpea</cell><cell>Powdery mildew</cell></row><row><cell cols="2">19. Thiram</cell><cell>Maize</cell><cell>Seedling blight</cell></row><row><cell></cell><cell></cell><cell>Barley</cell><cell>Leaf stripe</cell></row><row><cell></cell><cell></cell><cell>Sorghum</cell><cell>Loose smut, Seedling blight</cell></row><row><cell cols="2">20. Zineb</cell><cell>Jowar</cell><cell>Red leaf spot, Leaf spot, Leaf blight</cell></row><row><cell></cell><cell></cell><cell>Maize</cell><cell>Leaf Blight</cell></row><row><cell></cell><cell></cell><cell>Bajra</cell><cell>Blast</cell></row><row><cell cols="2">21. Azoxystrobin+Difenoconazole</cell><cell>Maize</cell><cell>Blight &amp; Downey Mildew</cell></row><row><cell cols="2">22. Metalaxyl+Mancozeb</cell><cell cols="2">Pearl millet Downy mildew</cell></row></table><note>a) Source: CIBRC (2017).16)   </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 .</head><label>4</label><figDesc>Few examples of MRLs of pesticides on feed/forage crops as recommended by CODEX a)</figDesc><table><row><cell>Pesticide</cell><cell>Fodder crop</cell><cell>Maximum residue limit b) (mg kg −1 )</cell></row><row><cell cols="2">Benzovindiflupyr (F) Barley straw and fodder, Dry; Oat straw and fodder, Dry Rye straw and fodder, Dry; Triticale straw and</cell><cell>15 (dw)</cell></row><row><cell></cell><cell>fodder, Wheat straw and fodder) Peanut fodder</cell><cell></cell></row><row><cell></cell><cell>Pea hay or fodder, dry</cell><cell>8 (dw)</cell></row><row><cell>Bixafen (F)</cell><cell>Barley, straw and fodder; Rye, straw and fodder; Wheat, straw and fodder</cell><cell>20 (dw)</cell></row><row><cell cols="2">Chlorantraniliprole (I) Straw, fodder (dry) and hay of cereal grains and other grasslike plants (except corn and rice).</cell><cell>30 (dw)</cell></row><row><cell cols="2">Fluazifop-P-butyl (H) Bean fodder</cell><cell>7</cell></row><row><cell></cell><cell>Soya bean fodder</cell><cell>4</cell></row><row><cell></cell><cell>Fodder beet</cell><cell>0.5</cell></row><row><cell>Flupyradifurone (I)</cell><cell>Alfalfa hay (dry weight)</cell><cell>30</cell></row><row><cell></cell><cell>Pea hay (dry weight)</cell><cell>50</cell></row><row><cell></cell><cell>Straw and fodder, dry of cereal grains (dry weight)</cell><cell>40</cell></row><row><cell>Flonicamid (I)</cell><cell>Wheat straw and fodder</cell><cell>0.3</cell></row><row><cell>Imazethapyr (H)</cell><cell>Clover hay or fodder</cell><cell>1.5 (dw)</cell></row><row><cell></cell><cell>Maize fodder</cell><cell>0.1</cell></row><row><cell></cell><cell>Rice straw and fodder, dry</cell><cell>0.15</cell></row><row><cell>Pendimethalin (H)</cell><cell>Alfalfa, fodder</cell><cell>4 (dw)</cell></row><row><cell></cell><cell>Bean fodder</cell><cell>0.3 (dw)</cell></row><row><cell></cell><cell>Hay or fodder (dry) of grasses</cell><cell>2500 (dw)</cell></row><row><cell>Pinoxaden (H)</cell><cell>Barley straw and fodder, dry; Wheat straw and fodder, dry</cell><cell>3 (dw)</cell></row><row><cell>Saflufenacil (H)</cell><cell>Alfalfa fodder, dry</cell><cell>0.06</cell></row><row><cell></cell><cell>Hay or fodder (dry) of grasses</cell><cell>30</cell></row><row><cell></cell><cell>Barley straw and fodder, dry; triticale straw and fodder, dry; wheat straw and fodder, dry</cell><cell>10</cell></row><row><cell>Spiromesifen (I)</cell><cell>Maize fodder dry</cell><cell>6</cell></row><row><cell>Penthiopyrad (F)</cell><cell>Maize fodder (dry)</cell><cell>10</cell></row></table><note>a) Source: JMPR Pesticide Residues in Food 2016; Joint FAO/WHO Meeting on Pesticide Residues, Report (2016) 20) b) dw: dry weight basis; I: insecticide; F: Fungicide; H: Herbicide</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors are highly thankful to the Director, ICAR-IGFRI, Jhansi for inspiring us to write this review and for providing valuable guidance and support while writing this review article.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Development of forages for animal production in India and climate change: Issues and options</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mahanta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mahanta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Misra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Rokde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Maity</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Kushwaha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nayak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>ICAR-IGFRI</publisher>
+			<biblScope unit="page" from="1" to="5" />
+			<pubPlace>Jhansi (India</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Earagariyanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Venkayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kammardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sriramaiah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Livest. Res</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="14" to="22" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">FICCI: A report on Indian Agrochemical Industry</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m">A report on Indian Agrochemical Industry: Tata strategic management group</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gashaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Res. Dev</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="137" to="144" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Seddon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Lyons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jacques</surname></persName>
+		</author>
+		<title level="m">Biotechnology in the Feed Industry</title>
+				<meeting><address><addrLine>Loughborough, U. K.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nottingham University Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="257" to="259" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Strange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.phyto.43.113004.133839</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Phytopathol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="83" to="116" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Teng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Krupa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="31" to="44" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Crop Loss Assessment and Pest Management</title>
+				<editor>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Teng</surname></persName>
+		</editor>
+		<meeting><address><addrLine>St Paul MN</addrLine></address></meeting>
+		<imprint>
+			<publisher>APS Press</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Crop Production and Crop Protection: Estimated Losses in Major Food and Cash Crops</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Oerke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Dehne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schonbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weber</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Elsevier</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Oerke</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0021859605005708</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Sci</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="31" to="43" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Panday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Bhaskar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian Farming</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="34" to="37" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Forage plant protection</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saxena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Faruqui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Bhaskar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ch</forename><surname>Padmavati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ICAR-IGFRI</title>
+		<editor>I. Azmi and J. B. Singh</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Research Periodicals and Book</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Agnihotri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kulshrestha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="138" to="140" />
+			<pubPlace>Texas, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Publishing House</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Acute Reference Doses, Short-term and Long-term Dietary Intakes, Recommended Maximum Residue Limits and Supervised Trials Median Residue</title>
+		<author>
+			<persName><forename type="first">Fao</forename><surname>Joint</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Meeting on Pesticide Residues in Food: Summary Report Acceptable Daily Intakes</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Van Barneveld</surname></persName>
+		</author>
+		<idno type="DOI">10.1071/AR98168</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Agric. Res</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="807" to="823" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tox.2004.01.021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="page" from="83" to="90" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Poppenga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nat. Toxins</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="47" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bakore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bhantnagar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0160-4120(00)00111-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Int</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="231" to="236" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S S</forename><surname>Dikshit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Raizada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Srivastava</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF01701989</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Environ. Contam. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="691" to="696" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S N</forename><surname>Prassad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>NDRI, Karnal (Haryana) INDIA</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Chahal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Battu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestic. Res. J</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="308" to="312" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Imran Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Barman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Atreja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Indian Dairym</publisher>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="61" to="66" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Deka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Barman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A L H</forename><surname>Baruah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestic. Res. J</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="86" to="89" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kaushik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Kaushik</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02772248.2012.748779</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Environ. Chem</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="69" to="81" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Kaphalia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Seth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestic. Monit. J</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="103" to="106" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Karabasanavar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1471-0307.12007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Dairy Technol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="189" to="193" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kotinagu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Krishnaiah</surname></persName>
+		</author>
+		<idno type="DOI">10.14202/vetworld.2015.545-550</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. World</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="545" to="550" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Animal Feed Technology</title>
+		<editor>S. S. Kundu, S. K. Mahanta and P. S. Sultan Singh, Pathak</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Satish Serial Publishing House</publisher>
+			<pubPlace>Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Agnihotri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Dewan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Pandey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="203" to="208" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Verma</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03067319008028318</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Anal. Chem</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="79" to="81" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">ICMR Bulletin: ICMR New Delhi</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lakshminarayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Menon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Plant Prot</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="4" to="19" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

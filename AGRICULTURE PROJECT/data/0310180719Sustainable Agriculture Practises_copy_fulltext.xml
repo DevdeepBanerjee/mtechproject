@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sustainable Agricultural Practices</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Risam</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Peshin</surname></persName>
+						</author>
+						<title level="a" type="main">Sustainable Agricultural Practices</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1332C40B737A677D3B8CD234545132D2</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Low Productivity Zones: Central Plateau Region Water scarcity 79 districts Ecologically Fragile Regions Himalayan and desert areas 212 districts 2. Overview of Agriculture in J&amp;K Jammu and Kashmir(J&amp;K), situated between 32º 17′ N and 36 58′ N latitudes and 73º 26′E and 80º 30′ E longitudes, constitutes the northern most extremity of India. The total area of Jammu and Kashmir is 22223.6 thousand ha of which 7811.4 thousand ha is under illegal occupation of Pakistan, and 3755.5 ha under China. In addition 518 thousand ha area of J&amp;K was illegally ceded to China by Pakistan. J&amp;K is the 6th largest state of India occupying 6.76% of the country's geographical area. The state has abundant water resources in view of its blessed riverine geography. The state is surrounded by mountains except in the South-West side. A major portion of the state's terrain is hilly.</p><p>The total reporting area as per revenue papers is 2416 thousand hectares for the year 2012-13 which is divided into the following five broad categories as per the concepts and definitions prescribed by the Union Ministry of Agriculture. Area not available for cultivation accounts for 564 thousand hectares constituting 23.34% of the reporting area figures. The category consists of 252 thousand hectares (10.43%) falling under land put to non-agricultural uses and 307 Thousand hectares (12.71%) under barren &amp; uncultivable land, 5 thousand hectares (0.21%) is land under still water, marshy and waterlogged category which is negligible proportion. Other uncultivable land excluding fallow lands constitutes 13.41% of reporting area with 324 thousand hectares. Out of which land under miscellaneous tree crops constitutes 66 thousand hectares (2.73%) permanent pastures and other grazing lands with 114 thousand hectares (4.71%) and 134 thousand hectares (5.55%) is the culturally waste land. Fallow land is 126 thousand hectares (5.21%) comprising of 13 thousand hectares (0.54%) fallow land other than current fallows. Forest land constitutes 27.24% with 658 thousand hectares. Net sown area is 745 thousand hectares. This indicates that proportion of area under agriculture in the state was 30.84% for the year 2012-13 .Area sown more than once constitutes 56.11% of the net area sown for the year 2012-13.</p><p>Agriculture plays an important role for development of economy of Jammu and Kashmir (J&amp;K) state. According to Economic Survey of J&amp;K 2014-15, around 70% of the population in the state get livelihood directly or indirectly from agriculture and allied sectors.</p><p>The state comprises of three regions namely Jammu, Kashmir and Ladakh having distinct geographical outlook and agro climatic zones. Each zone having its own characteristics that largely determines the cropping pattern and productivity of crops. Three broad climate types are: sub-tropical, temperate and cold arid regions. Politically also the state of Jammu and Kashmir is split into three distinct regions, Jammu, Kashmir and Ladakh. The Jammu region itself has been split into three agro-climatic zones,</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The process of modernization of agriculture in the twentieth century has produced three distinct types of agriculture. These are the Industrialized, Green Revolution and lowexternal input and unimproved <ref type="bibr" target="#b0">(Chambers et al. 1989</ref>). The Industrialized and the Green Revolution agriculture have been able to respond to the technological package, producing high input, high output systems of agriculture. Most agricultural systems in industrialized countries count as high external input systems save for the relatively small number of organic farmers <ref type="bibr">(Pretty 1995)</ref>. In the countries of the Developing World, for example India, high-external input systems are found in the large irrigated plains and high rainfall areas. In the industrialized countries farmers modernized by introducing machinery, replacing labour, specializing operations and changing practices to ensure greater production. In the Green Revolution, areas the success lay in agricultural scientists breeding new varieties of stable cereals that matured quickly, and use of inorganic fertilizers, pesticides, machinery, credit and water regulation .The third type of agriculture comprises all the remaining agricultural system and about 30-35 per cent of the world's population is directly supported by it <ref type="bibr">(Pretty 1995)</ref>. Here the productivity of cereal is only 0.5 to 1.0 t ha-1 and most of the food production in Africa comes from these low external input systems of agriculture <ref type="bibr">(Horwith et al 1989)</ref>.</p><p>In India, there are five distinct types of agriculture zones namely i)High productivity zone comprising of North with high irrigation and low rainfall and West Coastal regions having low irrigation and high rainfall, ii) Low Productivity High Potential Zone with low productivity despite abundant water availability and good soils, iii) Low Productivity Zones: Central Plateau Region having water scarcity and iv) Ecologically Fragile Regions comprising Himalayan and desert areas (Table <ref type="table">1</ref>). The state of Jammu and Kashmir falls in Western Himalayan Region agro-climatic zone.In Jammu and Kashmir we have high irrigation with low rainfall zone having potential for high productivity namely irrigated lands of the Kashmir Valley and sub-tropical irrigated areas of Jammu region, low productivity undulated areas without assured irrigation and cold desert of Ladakh. namely sub-tropical, intermediate and temperate zones. Total cropped area of the state is 11500 thousand ha and net sown area is 7410 thousand ha. This indicates that proportion of area under agriculture in the state was 30.84%. Area cultivated more than once constitutes 56.11% of the net area sown for the year 2012-13. Agricultural census 2005-2006 has recorded 1378 thousand agricultural holding with an area of 923 thousand hectares, thus making the average holding size of 0.67 hectares. The number of operational landholdings have increased to 1449 thousand in 2010-11 due to fragmentation ( an increase of 5.20%), but operated area decreased to 895 thousand ha ( a decrease of 3.03%) (Agricultural Census, MoA 2014), thus making the average holding size of 0.61 hectares (Fig. <ref type="figure" target="#fig_2">1</ref>). About 94% of the family farms fall in the category of marginal and small (&lt;2 ha), and only 5% have farm size between 2 and 4 ha (DES, 2014).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fig.1: Average operational land holdings: India and J&amp;K</head><p>The major crops cultivated in the state are cereals (rice, wheat, maize), oilseeds and pulses. The area under maize is the highest (323600 ha), followed by wheat (266110 ha), rice (252520 ha), oilseeds (64300 ha), pulses (29060 ha), bajra (20770 ha) and barley (10020 ha). Area under fruits in J&amp;K State has increased from 3.25 lakh hectares in 2010-11 to 3.55 lakh hectares in 2013-14. The production has increased from 17.13 lakh metric tonnes in 2009-10 to 21.17 lakh metric tonnes in 2013-14, recording an increase of 23.58 per cent <ref type="bibr">(Economic Survey, J&amp;K, 2013-14)</ref>.</p><p>Each agro-climatic zone has its own characteristics that largely determine the cropping pattern and productivity of crops. Rice is the main crop of Kashmir, followed by maize, oilseeds, pulses, vegetables, fodder and wheat. In Jammu region, wheat is the predominant crop followed by maize, rice, pulses, oilseeds, fodder, vegetables and other crops wherein Ladakh, barley is the major cereal crop followed by wheat. In Jammu region total area under vegetable crops is 32700 ha with total production of 6980 metric tons and average productivity equal to 213.45q/ha.</p><p>The percent irrigated area of the state is 42, however, in the Jammu region irrigation is available to less than 25% of cropped area.</p><p>An estimation made by the Directorate of Agriculture Jammu, food grain requirement for the state works out to 25 lakh metric tonnes per annum as against the estimated production of about 20.65 lac metric tonnes during 2013-14. Therefore, the state faces a deficiency of 4.35 lakh metric tonnes of food grains which is provided by the CAPD through the rationing system. During the year 2014-15 food production got reduced to  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Issues &amp; Challenge</head><p>The average size of operational landholding in India has declined to 1.15 ha in 2011 as compared to <ref type="bibr">1.23 ha in 2006</ref><ref type="bibr">1.23 ha in (MoA, 2015))</ref>. The small and marginal landholdings taken together (&lt;2 ha) constitute 85.01% of the farms in India. Semi-medium and medium operational landholding (2 to 10 ha) constitute 14.29% with the operated area at 44.88%. The large landholdings (10 ha &amp; above) are 0.70% of the total number of holdings with a share of 10.59% in the operated area. In developing countries, besides farming, farm families are also engaged in non-farm economic activities, and their production patterns and input use depends on agro-ecological conditions <ref type="bibr">(FAO, 2014)</ref>. In 2014, the Center for the Study of Developing Societies and Lokniti conducted a survey of 5,000 farm household across India and revealed that 75% of the family farmers prefer to do other work and 60% of these households want their children to migrate to cities <ref type="bibr">(CSDS &amp; Lokniti, 2014)</ref>. The survey did not cover Jammu and Kashmir (J&amp;K</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Small landholdings</head><p>In the Himalayan state of J&amp;K, there are 1.45 million family farmers with average landholding of 0.61 ha. About 94% of the family farms fall in the category of marginal and small (&lt;2 ha), and only 5% have farm size between 2 and 4 ha <ref type="bibr">(DES, 2014)</ref>. Thus the framers in J&amp;K are resource poor farmers as the landholdings are marginal and small. The small holding farming is not economically viable for providing economic prosperity to the farm households. This being one of the primary reasons that majority of the family farm households are involved in off-farm economic activities. Empirical sample surveys conducted by Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu (SKUAST-J), the farm households exclusively dependant on farm income is less than 30 % (ranging between 24-29%) <ref type="bibr" target="#b3">(Peshin et al. 2014;</ref><ref type="bibr" target="#b3">Peshin et al. 2017;</ref><ref type="bibr" target="#b3">Nanda et al. 2017)</ref>. The average monthly income per agricultural households during the agricultural year July 2012-June 2013 was estimated as Rs. 6426 and Among the agricultural households engaged in non-farm business during July 2012-June 2013, the average monthly net receipt per agricultural household from non-farm business was Rs. 5290 (NSSO 2013). In J&amp;K, income from agriculture per income households was Rs 6343/month and off-farm income was Rs 6558 /month. The challenge is how to augment the farm households' income, and that can be done by providing new frontiers of economic activities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Limited irrigation facilities</head><p>Irrigation is one the important drivers for increasing productivity of agriculture. The percent net sown area under irrigation in the state has almost remained static between 1955-56 to 2016-17. In absolute numbers, irrigated area increased from 2.61 lakh ha in 1950-51 (42.59% of net sown and 35.03 of gross cropped area) to 3.36 lakhs ha in 2016-17 ( 44.40% of net sown area and 28. 55% of gross cropped area) (DES 2017), an increase of 28.7% between 1950-51 and 2016-17 (DES 2017) . In the Jammu region, except district Jammu, in other districts irrigated area very low, and is ranging between 6 and 34%. A slight increase was witnessed, in 2016-17, in the net area irrigated, as it increased from 3.36 lakh hectares in 2011-12 to 3.25 lakh hectares in the state. Around 90% of the area irrigated was under rice in 2012-13, 28% area under wheat and 9.37% under maize was also irrigated during the same year. In the irrigated plains of Jammu, the irrigation water is not available to rabi crops as the Ranbir Canal is closed for maintenance in the winters. This alone causes a variation of 17% in wheat production ( Peshin at al. 2018) . The region-wise net sown area and irrigated area is given in Table <ref type="table" target="#tab_3">3</ref>. Augmenting irrigation facilities is a challenge for increasing production and productivity of crops in the state. Research has shown that irrigation water availability can lead to increased use of chemical fertilizers and higher yielding crop varieties, thereby increasing productivity (Fig. <ref type="figure" target="#fig_2">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Soil and water management</head><p>Near about 7.4 m ha of area has been reported to be degraded in the state of J&amp;K , which is nearly 31 % of the total land area. Of this 5.5 m ha is degraded due to water erosion and around 1.4 m ha is affected by wind erosion. Wind erosion occurs mainly in the cold arid zone of Ladakh region. It is estimated that nearly 5.8 m ha of degraded land is in the Ladakh region. About 1 m ha of land is degraded in the Jammu region of the state. Land degradation in the Jammu region is largely due to water erosion. This is mainly due to the undulating relief, which is largely mountainous, ranging from low hills to high mountains coupled with high intensity seasonal rainfall. The problem of erosion is more rampant in the Shivaliks and adjoining low mountains. This region represents the most fragile ecosystem of the Himalayan mountain range because of its peculiar geological formations and highly erodible soils. The high intensity rainfall during monsoon disturbs the top soil resulting in sheet and rill erosion. The problem is further aggravated as the soil in the area is coarse textured, low in organic matter and prone to erosion. Increased human population resulting in smaller land holdings coupled with poverty is putting further, pressure on land maintenance and promoting deforestation for bringing more area under cultivation. The productivity of the soils of the region is not only low but highly unstable. Soil erosion due to high runoff, results in sizeable loss of soil and nutrient and, is primarily responsible for land degradation, low productivity and poor economic status of the farmers in these rainfed areas. It is reported that upto 80 tons of soil ha -1 yr -1 is lost to erosion under certain conditions. The untreated watersheds in the region produce 30-50 percent of rainfall in the form of runoff.</p><p>The Jammu region is drained by a number of major and minor rivers which include Chenab, Tawi, Ravi, Basantar and Ujh. Apart from these, there are ephemeral streams (khads) like Devak, Bain, Bhagar, Sahar etc. dotting the landscape. However, the potential of the major rivers, Chenab, Tawi and Ravi as a source of irrigation water could only be utilized in the plains. The development of canal irrigation system has effectively utilized the water resources of these rivers. Moreover, with high water table in the plains, ground water has also been used as a source of irrigation. As we move up towards the hills, it becomes difficult to derive any benefit from the water from the rivers as they flow in hilly terrain and cost involved in lifting the water and construction of canals would be too high. Therefore, the remaining and much larger chunk of the region (about 75 %) has remained rainfed due to undulating topography. The rainfall in the lower shivaliks is about 1100 mm annually, where as it is upto 1500 mm in the upper shivaliks and then again falls down to around up to 700 mm in the temperate zone. Although such high cumulative amount of rainfall is received in the shivaliks, the region encounters moisture stress conditions, especially in the rabi season and frequent droughts. This is largely due to the skewed and erratic distribution of the rainfall as most of it occurs in the monsoonal months especially in the lower shivaliks. Such variations in rainfall make agriculture production highly unstable especially in the rabi. All these results in serious problem of soil erosion through rainfall excess in summer monsoon months and soil moisture deficit in the winter months in the region. Traditionally villages had ponds for harvesting of rainwater, however with passing time a majority of the ponds have silted up and perished.</p><p>Soil and water conservation measures are similar in the hills and needs to be carried out in combination, preferably on watershed basis. These measures can be grouped under the terminology Conservation Agriculture (CA). It is an approach to managing agro-ecosystems for improved and sustained productivity, increased profits and food security while preserving and enhancing the resource base and the environment. CA is characterized by three linked principles, namely (i) Permanent organic soil cover that includes mulching, residue retention etc. (ii) Continuous minimum mechanical soil disturbance such as minimum tillage or zero tillage (iii) Diversification of crop species grown in sequences and/or associations such as an healthy combination of erosion reducing crops (legumes, pulses) in combination with row crops. Conservation agriculture can bring about many positive benefits such as (i) reduced soil erosion, (ii) better soil water retention and nutrient availability for crops and (iii) increased soil organic matter accumulation. Moisture can be conserved either within the field (In-situ) or harvested separately in specialized structures for rainwater harvesting (ex-situ). The most efficient and cheapest way of conserving rainfall in the drylands, however, is to hold it in situ. Evaporation losses can also be reduced greatly if rainfall is stored in the soil rather than in structure with a free water surface. Moreover, the water in the soil is readily available to plants, whereas a large investment would be necessary if water is collected elsewhere and brought to the place of application.</p><p>Soil erosion in the hills causes severe floods in the plains, which form a narrow strip of land in the south-west of Jammu region. The plains of the state are a productive zone with rice, wheat and vegetables being commonly cultivated due to availability of irrigation facilities. However, these plains are prone to a different kind of problem ie. of water logging. There has been emergence of sodic soils in patches in the irrigated plains due to water logging, high water table and poor drainage. The canal systems (Ranbir canal and Ravi-Tawi canal) in the plains have also contributed to the emergence of sodic soils due to injudicious use and seepage raising the water table. Nearly 25,000 ha of land has been affected by waterlogging and of it 7500 ha has reported to be sodic in nature. Salt affected soils have emerged at several villages like Dyalachak, Saini, Tarore, Khokyal, Nagri etc. in the districts of Jammu, Samba and Kathua districts. High pHe(up to 9.9) and exchangeable sodium percentage (up to 30%)has been observed in these areas. These sodic soils can be effectively reclaimed by application of gypsum and creating drainage.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Low seed replacement rate</head><p>There has been significant increase in the seed replacement rates (SRR), across different crops in the state, with the infusion of more liquidity in the sector. The SRR of rice in the Valley has increased from 9.5 per cent in the in 2009 to 16.3 per cent in the in 2011. Likewise, in the case of wheat and oilseeds, the SRR has shown a spike to the levels even beyond the national average of 25 per cent during the same period. In Jammu division, the SRR of rice has increased to 25 per cent while in the case of maize and wheat, the replacement rate has enhanced to the levels of 11.20 and 30 per cent respectively during the same period (APD 2011).On year on year basis seed replacement rate in Punjab is higher, rice 55%, maize 100%, wheat 39% (http://agripb.gov.in/home.php?page=seeds). The fertilizer use in J&amp;K is 94.39 kg/ha compared to national average of 128.08 kg/ha. The NPK ratio is 7.79:2.59:1. The farmers do not balanced fertilizer dosages in the state. Comparing average per ha fertilizer use in neghbouring state shows that in Punjab it is 227.46kg (Punjab irrigated area98 % ), Haryana 221.44 kg( Irrigate area 85%) while as in Himachal Pradesh it is 53.96kg. Increasing area under irrigation will propel increase in chemical fertilizer use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4">Balanced use of chemical fertilizers</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5">Cropping intensity</head><p>Cropping intensity in the state is 125, which is low compared to our neighbouring state of Punjab. We have failed to increase gross cropped area significantly, and therefore cropping intensity has increased marginally from 95 in 1979-80 to 125 in 2016-17 ( DES 2017). In the Kashmir Valley out of 322152 ha , only on 84497 ha more than one crop is cultivated thus gross cropped area is 406649 ha which is 1.26. In comparison, in the Jammu region, out of 414883 ha, on 333824 ha more than one crop is cultivated which comes to 748707 ha gross cropped area which is 2.24 times.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5">Misuse of pesticides</head><p>In India, the pesticide use is 57000 metric tonnes of active ingredients and the common narrative is that Punjab, Haryana, Andhra Pradesh are the highest pesticide consuming states. In absolute numbers the narrative is correct. The second narrative is that pesticide use per ha is the highest in cotton. The facts are otherwise and facts do not have alternatives. On net sown area of 757000 ha , 2188 tonnes of pesticides are applied annually which comes to 2.890kg (a.i) /ha. Peshin and his co-workers (2017) have done exhaustive studies on pesticide misuse on apple and vegetables in the state. Apple is most dirtiest crop as per pesticide use per ha is concerned, pesticide use per ha is 23.787 kg. The rice crop by default is insecticide and fungicide free (with few exceptions). The farmers apply only herbicides. Thus the apple alone consumes estimated 3413 tonnes (on an area of 143.5 thousand ha in the Valley). The field environmental impact quotient (FEIQ) of the pesticides use is the highest in apple at 511.1. In summer vegetables, pesticide use per ha ranges between 0.751 and 1.338 kg/ha. There need to rationalize pesticide use . The farmers do not take protective measures while applying pesticides, and it poses great health hazard to farmers ( Peshin et al. 2017).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.Sustainable Agriculture</head><p>According to <ref type="bibr">Pretty (1998)</ref> there are 5 distinct schools of thought for future options in agriculture development. These are: business-as-usual optimists, environmental pessimists, industrialized world to the rescue of Third World countries, new modernists and sustainable intensification.</p><p>Many terms are used to describe alternatives to modern agriculture include sustainable, alternative, regenerative, low external input, balanced inputs sustainable agriculture, organic, agro-ecological so on and so forth. However, it is important to differentiate between organic agriculture and sustainable agriculture. Some people argue that the only form the sustainable agriculture is organic and would suggest that any agriculture using external inputs is fundamentally unsustainable <ref type="bibr">(Pretty 1995)</ref>. However, there are others who are of the opinion that organic practices can also damage the environment by leaching of nitrates under legumes, volatization of ammonia to the atmosphere from livestock. Nonetheless, organic agriculture is generally a form of sustainable agriculture, though not all sustainable agriculture is organic <ref type="bibr" target="#b5">(Pretty 1995a</ref>).</p><p>The Technical Advisory Committee of the Consultative Group on International Agricultural Research 1988 defined sustainable agriculture as: "Sustainable agriculture is the successful management of resources for agriculture to satisfy changing human needs while maintaining or enhancing the quality of the environment and conserving natural resources."</p><p>But since the Brundtland Commission definition of sustainable development in 1987, there have been at least 70 definitions constructed, each different in subtle ways, each emphasizing different values, priorities and goals <ref type="bibr" target="#b5">(Pretty 1995a)</ref>.But precise and absolute definitions of sustainability, and therefore of sustainable agriculture are impossible <ref type="bibr" target="#b5">(Pretty 1995a</ref>). Sustainable agriculture is ecologically sound, economically viable, socially just, humane and adaptable. Sustainability can be defined as the ability of system to maintain productivity in spite of a major disturbance such as is caused by intensive stress or a large perturbation. A stress is here defined as a regular, sometimes continuous, relatively small and predictable disturbance, for example the effect of soil salinity. A perturbation is an irregular, infrequent, relatively large and unpredictable disturbance, such as is caused by a rare drought or flood <ref type="bibr">(Convey 1988)</ref>.</p><p>Sustainable agricultural practices are: soil and water management, integrated plant nutrient management, integrated pest management, and biodiversity conservation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.Sustainable agriculture in Jammu and Kashmir</head><p>It is, critical that sustainable agriculture does not prescribe a concretely defined set of technologies, practices or policies at these levels. This will restrict the future options of farmers. As conditions change and as knowledge changes, so must farmers and communities be encouraged, and allowed to change and adapt too. As situation and conditions change, so must our construction of sustainability also change <ref type="bibr">(Pretty 1995)</ref>. Sustainable practices in agriculture include integrated pest management, integrated nutrient management, soil conservation, water management, among others.</p><p>In J&amp;K, we need to have different menus for different agro-ecological zones. In assured irrigated areas we must exploit the potential of increasing production and productivity to make state self sufficient in food grain production. Basmati rice cultivation in the subtropics of Jammu is insecticide and fungicide free and we must maintain this status and explore its export potential. Basmati exports from Punjab, Haryana and Western Uttar Pradesh is facing export problem due to pesticide residues being higher than maximum residue limits. As per the study of Indian Council for Research on International Economic Relations (ICRIER), more than 400 import refusals have been reported due to the presence of higher than approved level of pesticides residue in last three years. J&amp;K should take lead in propagating its basmati as insecticide and fungicide free. Besides, we should lay stress on increasing the productivity of basmati. Integrated pest management (IPM) education programmes for farmers should be a norm to have sustainable basmati production in the state.</p><p>In case of vegetables, reducing pesticide misuse is a serious issue. All out efforts should be made in reducing pesticide load on vegetable crops, thereby saving the consumers from human disease-causing hazards of pesticides. Farmers either do not apply pesticides or apply pesticides moderately on vegetables grown for self-consumption. IPM and integrated nutrient management programmes need to be implemented in right earnest.</p><p>Apple, called the dirty dozen in the west. In the Kashmir Valley, no IPM programmes have ever been implemented for educating farmers. Use of extremely high quantities of pesticides is a cause of concern. Fungicides are mostly used in apple orchards, on average 5.80 applications of fungicides are applied, followed by 0.48 applications of insecticides and 0.19 applications of acaricides /miticides <ref type="bibr" target="#b3">(Peshin et al. 2017)</ref>. A study by the Department of Neurosurgery, Sher-e-Kashmir Institute of Medical Sciences, Srinagar on pesticides and brain cancer linked that 90 percent of malignant brain tumours were reported in orchard farm workers <ref type="bibr">(Bhat etal., 2010)</ref> .</p><p>Integrated and optimum use of inorganic fertilizers and organic materials should be promoted for sustaining chemical, physical and biological fertility of soils. Organic cultivation practices need to be developed for different crops and for varied agroecological situations. Inoculation of legumes with efficient strains of Rhizobium needs to be promoted to increase the use of atmospheric nitrogen by the crops and to save on nitrogenous fertilizers as well as reducing the pollution hazards. Efficient Rhizobium strains need to be identified for solublizing sparingly soluble phosphorous compounds in order to increase phosphorus use for efficiency in soils. Indiscriminate use of untreated industrial waste water for irrigation must be discouraged to maintain soil health and sustain yield and quality of the crop produce. Fertilizer application based on "Soil Health Cards" recommendations though initiated, requires proper application.</p><p>Native beneficial soil microorganisms should be isolated, multiplied and applied for better crop growth and soil health.Optimum levels of soil organic matter for obtaining desirable crop yields under varying soil situations need to be defined. Change in cropping pattern in places where resources are depleting and are in high risk zone of un-sustainability need priority.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.Strategies and Action Plan</head><p>The strategies for sustainable agriculture must be based on the following principles that have been delineated by Food and Agriculture Organization ( FAO) in Save and Grow: A Policymaker's Guide to the Sustainable Intensification Of Smallholder Crop Production ( FAO 2011) to feed a growing world population.</p><p>Agricultural extension systems, in turn, generally focus on four major types of objectives, including 1) technology transfer, especially for the staple food crops; 2) human capital development, especially the technical and management skills and knowledge that poorly educated farm households need to increase farm income; 3) building social capital, or getting farmers organized into producer groups or other types of farm organizations to carry out specific activities, ranging from supplying high-value crops to urban markets to managing watersheds; and 4) educating farmers to utilize sustainable natural resource management practices <ref type="bibr">(Swanson 2008)</ref>.Technology transfer was the traditional role of public agricultural extension/advisory systems until many developing countries achieved national food security, owing in large part to the Green Revolution. Also, with the increasing privatization of many new types of agricultural technology, the private sector is playing an increasingly important role, both in developing and transferring these new agricultural technologies to farmers: i) new crop varieties and hybrids, were primarily public goods during much of the 20th century. However, with the advent of biotechnology research, an increasing number of new crop varieties and hybrids have been genetically modified; most of these new genetic technologies (including conventional technologies developed by the private sector) are now proprietary goods, ii) Agrochemical technologies for plant protection, including herbicides, insecticides, iii) Biological control technologies, such as predators and pathogens these technologies are public goods but must be purchased, iii) Agricultural mechanization technologies, which cover all types of mechanical technologies associated with crop and livestock production (e.g. tractors, planting and harvesting equipment), including irrigation and water management technologies and post-harvest handling equipment. Most of these technologies are private goods, but the management skills needed to use some of them may still be considered public goods, iv) Production management technologies include a broad range of farm management information, which provide cost-effective production management recommendations for specific crops (e.g. crop, fertilizer and plant population recommendations), livestock (e.g. breed, nutrition and health management practices) and/or entire farming systems. In addition to production technologies (public goods), the agricultural extension and research system must work on farmers' education for upgrading skills and knowledge in the domains of Production and Post-Harvest Handling of High-Value Crop, Livestock Fishery and Other Products, Natural resource management.</p><p>J&amp;K state specific interventions need to achieve sustainability, the thrust on diversification towards high value crops, creation of infrastructure and linkages with agro-processing and exports in areas with assured irrigation. Improving irrigation, ground water utilization, better input delivery, extension and flood control, for example, Shahpurkandi Dam Project , the project will help in irrigation of about 37,000 ha of land in Punjab and J&amp;K that will irrigate 32,000 hectares of agricultural land in the Kandi areas, upstream and downstream along the Jammu-Pathankot national highway in Samba and Kathua districts. This, he added, will ensure the prosperity of the farmers in these areas and will lead to overall development of the region. Developing/ augmenting efficient water harvesting and conservation, technologies suitable for resource poor areas, kandi areas. Development of allied sectors namely animal husbandry, fisheries, horticulture and plantation in the fragile areas of the state without any potential for irrigation and that includes Ladakh region.Introduction of multidimensional changes in terms of knowledge, attitude and skill development, intensive extension approaches for sustainable development of farmers and agriculture in the Himalayas are required. Increased investment should be made in infrastructure in rural areas especially on input and product markets. Formation of producer companies to mitigate the reduction in size of holdings and scattered marketed surplus. All development strategies/efforts should focus on natural resource management with effective involvement through empowerment of all stakeholders keeping them farmers centric. The input and residue testing laboratories particularly for fertilizers and pesticides should be established . Strict enforcement measures may also be undertaken to follow the quality standards of these inputs. Users of the inputs should also have the right to get the samples tested. Fertilizer usage based on soil testing be made mandatory. Farmers must be involved at various stages of development, evaluation and implementation of technologies regarding sustainable development. In area where farming by default is organic, integrated organic farming system (IOFS) for improving of farming, organic inputs availability and profit. IOFS comprising of cropping system involving cereals, pulses, oilseeds, fruits and fodder with dairy, fisheries, vermincompost can reduce the cost of market dependency for organic inputs.</p><p>Recommendations for use of insecticides as component of IPM lack insecticide resistance management strategies. The lack of effective spray technology may result in low efficacy of insecticide. Label claim of insecticides approved long back are not effective and need policy for review. Surveillance procedure for many insect pests needs standardization to represent actual population in field. The clear understanding of the functioning of agroecosystem under different environmental conditions needs intensive research to manipulate the ecosystem to the detriment of the pests and/or in favour of natural enemies. The spending on agricultural developmental programmes has increased and with this the demand for "All India Coordinated Research Project for Evaluation".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>7.Recommendations</head><p> Farming systems approach: Crop production intensification should be built on farming systems that offer a range of productivity, socio-economic and environmental benefits to producers and to society at large.  Soil health: Agriculture must, literally, return to its roots by rediscovering the importance of healthy soil, drawing on natural sources of plant nutrition, and using mineral fertilizer wisely.  Crops and varieties: Farmers will need a genetically diverse portfolio of improved crop varieties that are suited to a range of agro-ecosystems and farming practices, and resilient to climate change.</p><p> Water management: Sustainable intensification requires smarter, precision technologies for irrigation and farming practices that use ecosystem approaches to conserve water.  Plant protection: Pesticides kill pests, but also pests' natural enemies and their overuse can harm farmers, consumers and the environment. The first line of defence is a healthy agro-ecosystem.  Policies and institutions: To encourage smallholders to adopt sustainable crop production intensification, fundamental</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>abundant water availability and good soils 181 districts Eastern M.P., Central and Eastern U.P. , the Bihar plains, Assam &amp; W.B.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1 :</head><label>1</label><figDesc>Fig. 1: Irrigation, farm mechanization and fertilizers key drivers (Data Sources: FICCI-YES Bank Report, 2009, FAI 2012, MoA 2013)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>of Economics and Statistics, Ministry of Agriculture and Farmers Welfare, Government</head><label></label><figDesc>17.42 lakh metric tonnes due to devastating floods in the state, and it was the main driver of decelerated growth in agriculture sector (agriculture &amp;livestock only) that is likely to decelerate to -16.23% (advanced estimates) in the year 2014-15 at 2004-05 prices. Productivity of wheat, rice and maize in 2012-13 as per Directorate of Economics and Statistics, MOA, was 1595, 3126 and 1648 kg/ha, respectively. However, Economic Survey J&amp;K 2013-14 has shown the productivity of wheat at 2045kg/ha, rice 3300 kg/ha and maize 1925kg/ha. In that case the productivity of these crops has increased by 28%, 5.6% and 16.8% in wheat, rice and maize, respectively. But the Directorate</figDesc><table><row><cell>of</cell></row><row><cell>India statistics show a mismatch between the official statistics of two agencies. The</cell></row><row><cell>productivity of rice, wheat, maize reposted are given in Table 2. The studies conducted</cell></row><row><cell>by SKUAST of Jammu funded by the Agricultural Production Department J&amp;K, have</cell></row><row><cell>estimated the average yields in Jammu, Samba and Kathua irrigated areas. In case of</cell></row><row><cell>wheat it ranges between 2527 and 3086 kg/ha (in 2012-13) and in case of rice it is about</cell></row><row><cell>32% more than the Revenue Department estimates (</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Peshin et al. 2013, Peshin et al. 2014). Table : Brief agriculture statistics Indian and J&amp;K Particular</head><label></label><figDesc></figDesc><table><row><cell>Fertilizer use ( kg/ha) 6</cell><cell>128.08 2</cell><cell>94.39 3</cell></row><row><cell>N</cell><cell>84.86</cell><cell>65.26</cell></row><row><cell>P</cell><cell>30.54</cell><cell>20.74</cell></row><row><cell>K</cell><cell>12.68</cell><cell>08.39</cell></row><row><cell>N:P:K ratio 7</cell><cell>6.69:2.41 :1</cell><cell>7.79:2.59:1</cell></row><row><cell>Pesticide use 2015-16 (a.i)</cell><cell>57000</cell><cell>2188</cell></row><row><cell>(Tons) 8</cell><cell></cell><cell></cell></row><row><cell>Pesticide use (a.i) kg/ha 9</cell><cell>0.403</cell><cell>2.890</cell></row><row><cell>Agriculture exports (US</cell><cell>37292</cell><cell>34.12 4</cell></row><row><cell>million $)</cell><cell></cell><cell></cell></row><row><cell>1.Economic Survey GoI 2018</cell><cell></cell><cell></cell></row><row><cell>2. Economic survey J&amp;K 2017</cell><cell></cell><cell></cell></row><row><cell cols="2">3. Pocket Book of Agricultural Statistics 2016, DAC&amp;FW, MoA.</cell><cell></cell></row><row><cell></cell><cell>India</cell><cell>J&amp;K</cell></row><row><cell>Share of agriculture in total</cell><cell>16.4 1</cell><cell>16.05 2</cell></row><row><cell>GDP 2017-18 ( Decreasing</cell><cell></cell><cell></cell></row><row><cell>over the years)</cell><cell></cell><cell></cell></row><row><cell>Net cultivated area (</cell><cell>141.428 3</cell><cell>0.741 4</cell></row><row><cell>million ha)</cell><cell></cell><cell></cell></row><row><cell cols="2">Gross cropped area ( m ha) 200.860 3</cell><cell>1.155 4</cell></row><row><cell>Average landholding (ha)</cell><cell>1.15 3</cell><cell>0.61 1</cell></row><row><cell>Gross irrigated area ( m</cell><cell>95.77 3</cell><cell>0.371</cell></row><row><cell>ha)</cell><cell></cell><cell></cell></row><row><cell>Irrigated area (%)</cell><cell>47.7 3</cell><cell>42.9 4</cell></row><row><cell>Average yield 2015-16 (</cell><cell></cell><cell></cell></row><row><cell>kg/ha) 3 ( J&amp;K) 4</cell><cell></cell><cell></cell></row><row><cell>Rice</cell><cell>2404 (Highest Punjab 3974)</cell><cell>2020 (Un-husked</cell></row><row><cell></cell><cell></cell><cell>yield)</cell></row><row><cell>Wheat</cell><cell>3093 (Highest Punjab 4596)</cell><cell>1890</cell></row><row><cell>Maize</cell><cell cols="2">2509 (Highest Tamil Nadu 6549) 1833</cell></row><row><cell>Coarse cereals</cell><cell cols="2">1596 (Highest West Bengal 4305) 1455</cell></row><row><cell>Pulses</cell><cell>652 ( Highest Kerala 1252</cell><cell>444</cell></row><row><cell>Food grains</cell><cell>2056 (Highest Punjab 4273)</cell><cell>1490</cell></row><row><cell cols="2">Rapeseed and mustard 1184 (Highest Gujarat 1611)</cell><cell>697</cell></row><row><cell>All oilseeds</cell><cell>968 ( Highest Tamil Nadu 2230)</cell><cell>677</cell></row><row><cell>Productivity fruit crops (</cell><cell>14.33 5</cell><cell>2.32 5</cell></row><row><cell>tons/ha)</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Directorate of Economics and Statistics, Ministry of Agriculture and Farmers Welfare 4. DES. 2017. DES</head><label></label><figDesc></figDesc><table><row><cell>2017 . Digest of Statistics , Department of Economics and Statistics</cell></row><row><cell>JK</cell></row><row><cell>5. Horticultural Statistics at a Glance 2017</cell></row><row><cell>http://nhb.gov.in/statistics/Publication/Horticulture%20At%20a%20Glance%202017</cell></row><row><cell>%20for%20net%20uplod%20(2).pdf and for J&amp;K Division of Fruit Science SKUAST</cell></row><row><cell>Jammu</cell></row><row><cell>6.CONSUMPTION OF CHEMICAL PESTICIDES IN VARIOUS STATES/UTS DURING</cell></row><row><cell>2010-11 TO 2016-17 http://ppqs.gov.in/divisions/pesticides-monitoring-documentation</cell></row><row><cell>7. Own estimates</cell></row><row><cell>8. Directorate of Plant Protection, Quarantine &amp; Storage .</cell></row><row><cell>http://ppqs.gov.in/sites/default/files/1._statewise_consumption_chemical.pdf</cell></row><row><cell>9.Own estimates</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 : Cropped area irrigated in J&amp;K ( 2016-17)</head><label>3</label><figDesc></figDesc><table><row><cell>Region</cell><cell>Gross</cell><cell>Net</cell><cell>sown</cell><cell>Irrigated area</cell><cell cols="2">Irrigated area</cell></row><row><cell></cell><cell>cropped</cell><cell cols="2">area (ha)</cell><cell>(ha)</cell><cell>(%</cell><cell>of</cell><cell>net</cell></row><row><cell></cell><cell>area (ha)</cell><cell></cell><cell></cell><cell></cell><cell cols="2">sown area)</cell></row><row><cell>Kashmir</cell><cell>406649</cell><cell>322152</cell><cell></cell><cell>192090</cell><cell>59.63</cell></row><row><cell>Valley</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Jammu</cell><cell>748707</cell><cell>414883</cell><cell></cell><cell>124002</cell><cell>29.89</cell></row><row><cell>Ladakh</cell><cell>21718</cell><cell>19991</cell><cell></cell><cell>19991</cell><cell cols="2">100.00</cell></row><row><cell>J&amp;K state</cell><cell>1177074</cell><cell>757026</cell><cell></cell><cell>336083</cell><cell>44.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>40 Estimated based on the data of DES 2017</head><label></label><figDesc></figDesc><table /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Save and grow A policymaker&apos;s guide to the sustainable intensification of smallholder crop production</title>
+		<author>
+			<persName><forename type="first">Apd</forename><surname>References</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Html Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pacey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L A ; P N</forename><surname>Trupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J K</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Elfring</surname></persName>
+		</author>
+		<ptr target="http://www.fao.org/3/a-i4040e.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Digest of Statistics, 2010-11, Government of Jammu &amp; Kashmir, India. Division of Agricultural Extension Education, Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu. Education, She-e-Kashmir University of Agricultural Sciences and Technology of FAO (Food and Agricultural Organization)</title>
+		<title level="s">Directorate of Economics &amp; Statistics</title>
+		<meeting><address><addrLine>India; Rome Horwith B J, Windle</addrLine></address></meeting>
+		<imprint>
+			<publisher>Food And Agriculture Organization Of The United Nations</publisher>
+			<date type="published" when="1989">2011. 1989. 2014. 2014. 2014. May 25. 2014. 2014. May 25. 2014. 2011. 2014. May 21. 2015. 2011. 1989</date>
+			<biblScope unit="volume">6</biblScope>
+		</imprint>
+	</monogr>
+	<note>Agric Human Values</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Integrated Pest Management Technologies, Division of Agricultural Extension Jammu</title>
+		<imprint>
+			<pubPlace>India</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">All India Report on Number and Area of Operational Holdings. Agriculture Census Division Department Of Agriculture &amp; Co-Operation</title>
+		<author>
+			<persName><forename type="first">&amp;</forename><surname>Moa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fw</surname></persName>
+		</author>
+		<ptr target="http://agcensus.nic.in/document/agcensus2010/agcen2010rep.htm" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Agriculture and Farmers&apos; Welfare)</title>
+				<imprint>
+			<date type="published" when="2010">2014. 2010-2011. March 20. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Ministry Of Agriculture Government Of India</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Determinants of Income Diversification in Family Farm Households for Livelihood Security in J&amp;K, Division of Agricultural Extension Indian Council of Agricultural Research, New Delhi NSSO. 2013Income, Expenditure, Productive Assets and Indebtedness of Agricultural Households in India. National Sample Survey Office, Ministry of Statistics and Programme Implementation, Government of India Peshin</title>
+		<author>
+			<persName><forename type="first">&amp;</forename><surname>Moa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fw ; Nanda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Peshin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shrama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Liyaquat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Hansra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nanda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dwivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Nanda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Impact of Government Intervention in Procurement of Wheat and Factors Affecting Wheat Productivity, State Agriculture Management &amp; Extension Training Institute Jammu and Division of Agricultural Extension Education</title>
+				<imprint>
+			<date type="published" when="2014">2016. 2017. 2017. 2014</date>
+		</imprint>
+		<respStmt>
+			<orgName>Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu</orgName>
+		</respStmt>
+	</monogr>
+	<note>Ministry of Agriculture and Farmers&apos; Welfare)</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Technology adoption by small-scale full-time and part-time family farm households in the subtropics of Jammu &amp;Kashmir</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Peshin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ajrawat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Dwivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nanda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Risam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Economics Research Review</title>
+		<imprint>
+			<date type="published" when="2013">2013. 2018</date>
+			<publisher>In Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Impact of Government Intervention in Procurement of Rice Peshin</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Global Review of Good Agricultural Extension and Advisory Service Practices, Research and Extension Division, Natural Resources Management and Environment Department and Policy Assistance and Resources Mobilization Division Technical Cooperation Department</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pretty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ecological Agriculture and Sustainable Development, CRRID, Chandigarh Sainath, P. 2013. Over 2,000 fewer farmers every day</title>
+				<editor>
+			<persName><forename type="first">G</forename><surname>Dhaliwal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Randhawa</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N S</forename><surname>Arora</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Dhawan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Washington DC; Rome</addrLine></address></meeting>
+		<imprint>
+			<publisher>Earthscan Publication, London; National Academy Press</publisher>
+			<date type="published" when="1995-05-02">1995a. May 2 nd , 2013. 2008</date>
+		</imprint>
+		<respStmt>
+			<orgName>FOOD And Agriculture Organization Of The United Nations</orgName>
+		</respStmt>
+	</monogr>
+	<note>Action Aid, Bangalore Pretty J N (1998a) The Value of Natural and Social Capital for sustainable Agriculture</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

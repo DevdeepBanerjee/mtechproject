@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">7.5 Districtwise Area and Production for 2016-17 for Major Producing States/Districts</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">7.5 Districtwise Area and Production for 2016-17 for Major Producing States/Districts</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DE093FBF7147ED1A4CFA4F262C8D2446</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 7 .5.1 : Area and Production of Almond for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 7 .5.2 : Area and Production of Aonla for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 7 .5.3 : Area and Production of Apple for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 7 .5.4 : Area and Production of Banana for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 7 .5.5 : Area and Production of Total Citrus for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 7 .5.6 : Area and Production of Grapes for Major Producing States/ Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 .5.7 : Area and Production of Guava for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 7 .5.8 : Area and Production of Mango for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 7 .5.9 : Area and Production of Papaya for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>A: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 7 .5.10 : Area and Production of Pineapple for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 7 .5.11 : Area and Production of Pomegranate for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 7 .5.12 : Area and Production of Sapota for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>Table 7 .5.13 : Area and Production of Strawberry for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 7 .5.14 : Area and Production of Walnut for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>Table 7 .5.15 : Area and Production of Beans for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table><note>(Contd...)(Contd...)   </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_15"><head>Table 7 .5.16 : Area and Production of Bottleguard for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table><note>(Contd...)   </note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_16"><head>Table 7 .5.17 : Area and Production of Brinjal for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_17"><head>Table 7 .5.18 : Area and Production of Cabbage for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_18"><head>Table 7 .5.19 : Area and Production of Capsicum for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_19"><head>Table 7 .5.20 : Area and Production of Carrot for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_20"><head>Table 7 .5.21 : Area and Production of Cauliflower for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_21"><head>Table 7 .5.22 : Area and Production of Cucumber for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_22"><head>Table 7 .5.23 : Area and Production of Green Chillies for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_23"><head>Table 7 .5.24 : Area and Production of Muskmelon for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_24"><head>Table 7 .5.25 : Area and Production of Okra for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_25"><head>Table 7 .5.26 : Area and Production of Onion for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_26"><head>Table 7 .5.27 : Area and Production of Peas for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_27"><head>Table 7 .5.28 : Area and Production of Potato for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_28"><head>Table 7 .5.29 : Area and Production of Radish for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_29"><head>Table 7 .5.30 : Area and Production of Sweet Potato for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_30"><head>Table 7 .5.31 : Area and Production of Tapioca for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_31"><head>Table 7 .5.32 : Area and Production of Tomato for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_32"><head>Table 7 .5.33 : Area and Production of Watermelon for Major Producing States/Districts</head><label>7</label><figDesc></figDesc><table><row><cell>A: Area in '000 Ha</cell></row><row><cell>P: Production in '000 MT</cell></row></table><note>(Contd...)   </note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">(Contd...)   </note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

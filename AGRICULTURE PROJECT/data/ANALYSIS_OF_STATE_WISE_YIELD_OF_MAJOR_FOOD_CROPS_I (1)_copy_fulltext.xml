@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Analysis of State Wise Yield of Major Food Crops in India for the Year 2014-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Bhaskarjyoti</forename><surname>Talukdar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ph.D Research Scholar</orgName>
+								<orgName type="department" key="dep2">Department of Statistics</orgName>
+								<orgName type="institution">Cotton University</orgName>
+								<address>
+									<addrLine>Pincode-781001</addrLine>
+									<settlement>Guwahati</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">District-Kamrup Metro</orgName>
+								<address>
+									<region>Assam</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">ORCID ID</orgName>
+								<address>
+									<postCode>0009-0004-2768-7479</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pranjal</forename><surname>Kumar Chakravartty</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Data Analyst</orgName>
+								<orgName type="department" key="dep2">Assam Rural Infrastructure and Agricultural Services (ARIAS) Society</orgName>
+								<address>
+									<addrLine>District-Kamrup Metro</addrLine>
+									<postCode>Pincode-781022</postCode>
+									<settlement>Guwahati</settlement>
+									<region>Assam</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Bandana</forename><surname>Sharma</surname></persName>
+							<email>bandana0666@gmail.com</email>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Statistics</orgName>
+								<orgName type="department" key="dep2">District-Kamrup Metro</orgName>
+								<orgName type="institution">Cotton University</orgName>
+								<address>
+									<addrLine>Pincode-781001</addrLine>
+									<settlement>Guwahati</settlement>
+									<region>Assam</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Analysis of State Wise Yield of Major Food Crops in India for the Year 2014-15</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0253-7214</idno>
+					</monogr>
+					<idno type="MD5">38A7E7C86F20E4352BEB3AE4D86274B8</idno>
+					<note type="submission">Received: 01 June 2023 Revised: 07 Aug 2023 Accepted: 27 Aug 2023</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Biplots</term>
+					<term>Covariance matrix</term>
+					<term>Kruskal-Wallis test</term>
+					<term>PCA</term>
+					<term>Scatter plot</term>
+					<term>Sree Plot</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Agriculture plays a pivotal role in India's economy and food security. Understanding the state-wise yield variations of major food crops is essential for informed policymaking and sustainable agricultural practices. This study conducts a comprehensive analysis of state-wise crop yield data for major food crops, including rice, wheat, pulses, and sugarcane. Our findings reveal significant disparities in crop yields across different states in India. Factors such as climate variability, soil quality, irrigation infrastructure, and government interventions have profound effects on crop production. While states like Punjab and Haryana consistently exhibit high yields of wheat and rice, others face challenges in achieving similar productivity. The state-wise variability in crop yields underscores the need for region-specific agricultural strategies. In this study, covariance matrix of nine major food crops have been generated along with graphical representation of state wise food grains. Scatter plot represented nine variables considering major crops in India. Variation has been examined using PCA technique and justification has been done using Scree Plot. Biplots are plotted for all the five components of PCA technique. Kruskal-Wallis Rank Sum Test is conducted for Staple and Nonstaple food crops and found heterogeneity among six zones in India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CC License</head><p>CC-BY-NC-SA 4.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Agriculture is a major part of our lifestyle today. Without it, we probably would not have many of the features available to us today. Agriculture is the basis of all civilization, the basis of writing, of cities and towns, of our governing systems, of our technology, of almost everything we have. The term "AGRICULTURE" is late Middle English adaptation of Latin "AGRICULTURA", from 'ager', "field" and from 'cultura', "cultivation" or "growing", which means cultivation of land. i.e., In relation to crop farming and livestock farming, the term "agriculture" may be defined as: the art and science of growing plants and other crops and the raising of animals for food, other human needs, or economic gain. There are many online queries on what is agriculture although its history started more than 10,000 years ago. Agriculture has a large coverage as science, business, and for other purposes including legal matters, and with new technologies and specialized fields. No definition can be exacting for everybody and for all purpose, although there are some definitions where its coverage is limited to crop production and livestock production.</p><p>(a) Agriculture is the growing of both plants and animals for human needs <ref type="bibr" target="#b0">[1]</ref>; (b) Agriculture is the deliberate effort to modify a portion of Earth's surface through the cultivation of crops and the raising of livestock for sustenance or economic gain <ref type="bibr" target="#b1">[2]</ref>; (c) Agriculture includes farming in all branches and, among other things, includes the cultivation and tillage of soil, dairying, the production, cultivation, growing and harvesting of any agricultural and horticultural commodities, the raising of livestock or poultry, and any practices performed by a farmer on a farm as an incident to or in conjunction with such farming operations, but does not include the manufacturing or processing of sugar, coconuts, abaca, tobacco, pineapple or other farm products <ref type="bibr" target="#b2">[3]</ref>; (d) Agriculture is the science of cultivating the soil, harvesting crops, and raising livestock and also as the science or art of the production of plants and animals useful to man and in varying degrees the preparation of such products for man's use and their disposal <ref type="bibr" target="#b3">[4]</ref>. Due to its large population Indian agricultural is largely dominated by the predominance of the food crops which occupy 60.0% (in 2021) of the total cropped area of the country <ref type="bibr" target="#b4">[5]</ref>. These crops are bound to have priority in years to come despite the emerging trends of commercialization and diversification in the country's agriculture.</p><p>These crops are raised all over the country and throughout the year. In Assam, West Bengal and coastal regions of the Peninsula as many as three successive crops of rice are grown in a year. In irrigated areas of Punjab and Haryana the field is hardly vacant and wheat, gram, rice, bajra, and maize are the main crops <ref type="bibr" target="#b11">[12]</ref>.</p><p>Food crops have attracted highest attention of our planners, policy makers, administrators and agricultural scientists. It is in these crops, particularly in wheat, maize, bajra, jowar, and rice high yielding varieties have been developed and Green Revolution has set in. Whenever the production of these crops is adversely affected due to the vagaries of the weather famine and drought conditions develop which often leads to the political turmoil and instability.</p><p>Food crops include cereals and pulses amongst which rice, wheat, jowar, bajra, maize, barley, ragi (as cereals), gram and tur (as pulses) are important. The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials. Specific foods include cereals (grains), vegetables, fruits, oils, meats and spices. Fibers include cotton, wool, hemp, silk and flax. Raw materials include lumber and bamboo. Other useful materials are also produced by plants, such as resins, dyes, drugs, perfumes, biofuels and ornamental products such as cut flowers and nursery plants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In</head><p>India is an agriculture-based country. Agriculture is the single most important contribution of Indian economy. About 70% of our population demands on agriculture <ref type="bibr" target="#b5">[6]</ref>. In 2022-23 financial year, 18.30% of our National Income comes from agriculture <ref type="bibr" target="#b6">[7]</ref>. More than half (59% in 2016) of country's total workforce are working in agriculture and it's supporting sectors like fisheries, forestry, etc. <ref type="bibr" target="#b5">[6]</ref>. India's agriculture includes rice, wheat, pulses, tea, coffee, fresh vegetables, fresh fruits, dry fruits, coconuts, major spices, milk, millets, cotton, jute, castor oil seed etc.</p><p>Agriculture has been the backbone of the Indian economy and it will continue to remain so for a long time. It has to support almost 17% of world population from 2.3% of world landmass and 4.2% of world's water resources. The economic reforms, initiated in the country during the early 1990s, have Analysis of State Wise Yield of Major Food Crops in India for the Year 2014-15 put the economy on a higher growth trajectory. Annual growth rate in GDP has accelerated from below 6% during the initial years of reforms to more than 8% in recent years <ref type="bibr" target="#b7">[8]</ref>. This happened mainly due to rapid growth in non-agriculture sector.</p><p>Agriculture is the main source of livelihood for over 80% of the small and marginal farmers in India <ref type="bibr" target="#b5">[6]</ref>. Although, it employs about 52% of the labour force, it contributes to only 14.4% of GDP and 10.23% of all exports <ref type="bibr" target="#b8">[9]</ref>. 80% of rural women, who constitute 41.8% of the agricultural work force, are amongst the least paid workers <ref type="bibr" target="#b9">[10]</ref>.</p><p>The agriculture of India remained under developed for a long time. It did not produce enough food. India had to buy food-grains from other countries, but the things are changing now. India is producing more food-grains than its needs. Some food-grains are being sent to other countries. Great improvements have been made in agriculture through the five-year plans. Green Revolution has been brought about in the agricultural field. Now our country is partially self-sufficient in food-grains. It is now in a position to export surplus food-grains and some other agricultural products to other countries. Now India ranks first in the world in the production of tea and groundnuts. India ranks among the top five producers of many agricultural items like coffee, cotton, etc. India ranks 2 largest producers of wheat and rice in the world. Items like milk, many fresh fruits, spices, jute, millets, etc. where India is the largest producer. India is one the largest producer of Sugarcane in the world <ref type="bibr" target="#b10">[11]</ref>. India is also a major exporter of rice and wheat to countries like Nepal, Bangladesh, Africa and others.</p><p>Although India has attained self-sufficiency in food staples, the productivity of its farms is below that of Brazil, the United States, France and other nations. Indian wheat farms, for example, produce about a third of the wheat per hectare per year compared to farms in France. Rice productivity in India was less than half that of China. Other staples productivity in India is similarly low. Indian total factor productivity growth remains below 2% per annum; in contrast, China's total factor productivity growths is about 6% per annum, even though China also has smallholding farmers. Several studies suggest India could eradicate its hunger and malnutrition and be a major source of food for the world by achieving productivity comparable with other countries. <ref type="bibr" target="#b12">Roy, A. et. al. (2015)</ref> analyzed Production and productivity of foodgrains for the period 1972-1973 to 2011-2012, which was divided into three <ref type="bibr">decades, viz. 1982-1983 to 1991-1992, 1992-1993 to 2001-2002, 2002-2003</ref> to 2011-12 <ref type="bibr" target="#b12">[13]</ref>. Sharma, P. et. al. (2017) studied state-wise food security index (FSI) utilizing components related to food availability, food stability and food accessibility, and they explained the influence of climate change on FSI which is used as proxy for food security employing linear, non-linear and log-linear regression models and complied state-wise panel (during 1985-2009) of selected 13 Indian states <ref type="bibr" target="#b13">[14]</ref>. The performance of agriculture sector including the dynamics of gross and net cropped area, cropping intensity, yield of major crops, cropping pattern, use of consumable and durable agricultural inputs, and institutional credit at state and all India level since the economic reforms and accelerate growth for the period of 2003-2004 to 2014-2015 have been studied by <ref type="bibr" target="#b14">Khan, W. et. al. (2020)</ref>  <ref type="bibr" target="#b14">[15]</ref>. <ref type="bibr" target="#b15">Madhukar, A. et. al. (2020)</ref> examining three major food crops wheat, rice and maize across 29 Indian states and the four types of regression models were fitted on the annual yield data for the period 1967-2017 and Akaike information criterion (AIC) is used to best fit statistical models <ref type="bibr" target="#b15">[16]</ref>. <ref type="bibr" target="#b16">Kumar, A. et. al. (2015)</ref> estimates effects of various climatic, nonclimatic and geographical factors on agricultural productivity in India for the period of 1980-2009 and they applied Cobb-Douglas production function to estimate the outputs; Prais Winsten models with panels corrected standard errors (PCSEs) estimations, indicated average maximum temperature appears positive on agriculture productivity of Rabi crops and negative impact on Kharif crops <ref type="bibr" target="#b16">[17]</ref>. <ref type="bibr" target="#b17">Samal, P. et. al. (2018)</ref> evaluates the growth experience of production and profitability in rice using secondary data for the period 1970-1971 to 2015-2016 and they observe that area growth in most of the states have either exhausted or declined rapidly and also, they analyzed the trends in costs and profits for the period 1980-81 to 2014-15 and it was revealed that cost of cultivation increased over years, but profit has not increased commensurately <ref type="bibr" target="#b17">[18]</ref>. Kumar, A. (2013) et. al. focused on the impact of climate change on agricultural productivity in quantity terms, value of production in monetary terms and food security in India based on secondary data of 1980 to 2009 and they have used regression analysis to examine different climatic variables as well as used econometric model estimation for climatic, food security index and socio-economic variables <ref type="bibr" target="#b18">[19]</ref>. Singh, A. K. (2021) examined the impact of climatic change on yield production and they used state wise data for the period of 1977-2014 in 15 Indian states and forecasted food-grain production for the years of 2040, 2060, 2080 and 2100. Regression coefficients of food-grain production and yield with climatic and non-climatic factors are estimated using Cobb-Douglas production function and marginal impact analysis method is used to examine the projected food-grain production <ref type="bibr" target="#b19">[20]</ref>. <ref type="bibr" target="#b20">Mathur A. S. et. al. (2006)</ref> studied growth of agriculture production trend in India for the period of 1993-1994 to 2003-2004 and analyzed various constraints which affects growth sector and they projected future growth in line with 11th five-year plan and highlighted role of public investment/govt. expenditure towards agricultural production in India <ref type="bibr" target="#b20">[21]</ref>. Manogna, R. L. (2020) emphasized on analysis of the agricultural production of food grains in Indian states and also, they highlighted increasing agricultural production with efficient resource deployment and enhance production management and takes different variables effecting yield production for the period of 2006 to 2017 using Data Envelopment Analysis (DEA) and Malmquist Productivity Index (MPI) <ref type="bibr" target="#b21">[22]</ref>.</p><p>An analysis of the state-wise production of the major food crops so as to assess the difference in the production pattern with the geographical location would form an interesting research prospect. It will give us an idea about the how the topography of a place affects the production, followed by attempting to identify the underlying factor (s) responsible for the difference. This forms the broader objective of this dissertation.</p><p>The main objective of this study (a) To assess the correlation structure existing among the state-wise production of 9 major food crops viz. Rice, Maize, Wheat, Bajra, Gram, Groundnut, Soya bean, Rapeseed &amp; Mustard and Linseed for the year 2014-15; (b) To apply some dimensionality reduction technique with the aim of identifying the underlying sources of variation in the data; (c) To assess the homogeneity of the yield of staple and non-staple food crops across the different zones of India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Materials</head><p>To fulfill the objectives of the study, the data considered is secondary in nature. It has been collected from the report entitled "Agricultural Statistics at A Glance 2015", published by Government of India; Ministry of Agriculture and Farmers Welfare; Department of Agriculture, Cooperation and Farmers Welfare; Directorate of Economics and Statistics.</p><p>The data on only the major food crops classified in the above-mentioned report has been considered viz. Rice, Maize, Wheat, Bajra, Gram, Groundnut, Soya bean, Rapeseed &amp; Mustard and Linseed, for the year 2014-15, which is also the latest year for which the data is available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Methods</head><p>The following section contains the methods used for attaining the objectives of the study:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.1">Principal Component Analysis</head><p>Principal component analysis (PCA) is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.</p><p>The principal components can be used to visualize graphically the data. Also, it helps to identify the more important variables that explain the variations in the data.</p><p>PCA can be performed either on the correlation matrix or the covariance matrix. The covariance matrix is used when the variable scales are similar whereas the correlation matrixis used when the variables are measured on a different scale. In linear algebra, an eigenvector or characteristic vector of a square matrix is a vector that does not change its direction under the associated linear transformation. In other words-if vis a vector that is not zero, then it is an eigenvector of a square matrix A if Av is a scalar multiple of v.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The general objectives of principal component analysis are-(a) Volume reduction, (b) Interpretation</head><p>Procedure:</p><p>Let the random vector 𝑋 = [𝑥1,𝑥2,…….,𝑥𝑝 ] have the covariance matrix ∑ with the Eigen Values 𝜆1 ≥ 𝜆2 ≥. . . . . . . ≥ 𝜆𝑝 ≥ 0 . Consider the linear combination,</p><formula xml:id="formula_0">𝑌1 = 𝑎1𝑋 = 𝑎11𝑋1 + 𝑎12𝑋2 + … … … … + 𝑎1𝑃𝑋𝑃,𝑌2 = 𝑎2𝑋 = 𝑎21𝑋1 + 𝑎22𝑋2 + … … … … + 𝑎2𝑃𝑋𝑃 : : 𝑌 Then, 𝑉𝑎𝑟[𝑌 ] = 𝑎 / ∑𝑎 , 𝑖 = 1,2, … , 𝑝 ------------------------(i) 𝑖 𝑖 𝑖 𝐶𝑜𝑣[𝑌 𝑌 ] = 𝑎 / ∑𝑎 , 𝑘 = 1,2, … , 𝑝 ---------------------(ii) 𝑖, 𝑘 𝑖 𝑘</formula><p>The principal components are those uncorrelated linear combinations, 𝑌1, 𝑌2, … … , 𝑌𝑃 whose variances in (i) are as large as possible. = 𝟏 𝐚𝐧𝐝 𝑪𝒐𝒗 (𝒂 / 𝑿, 𝒂 / 𝑿) = 𝟎 and so on. Suppose we have the covariance matrix ∑ with eigen value eigen vector pairs (𝝀 𝟏 , 𝒆𝟏), (𝝀 𝟐 , 𝒆𝟐), … … , (𝝀 𝒑 , 𝒆𝒑), where, 𝝀𝟏 ≥ 𝝀𝟐 ≥. . . . . . . ≥ 𝝀𝒑 ≥ 𝟎 Let, 𝑌 = 𝑒 / 𝑋 , 𝑌 = 𝑒 / 𝑋 … … , 𝑌 = 𝑒 / 𝑋 be the principal components then, If most of the total population variance (say 85-90%) for large p can be attributed to the 1 st 1,2 or 3 components, then these components can replace the original p-variables without much loss of information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2">Kruskal-Wallis H Test</head><p>The Kruskal-Wallis test by ranks, Kruskal-Wallis H test (named after William Kruskal and W. Allen Wallis), or One-way ANOVA on ranks is a non-parametric method for testing whether samples originate from the same distribution. It is used for comparing 𝟏 two or more independent samples of equal or different sample sizes. The parametric equivalent of the Kruskal-Wallis test is the one-way analysis of variance (ANOVA). Since it is a non-parametric method, the Kruskal-Wallis test does not assume a normal distribution of the residuals, unlike the analogous one-way analysis of variance.</p><p>In case of several independent samples, Kruskal Wallis is used to test the null hypothesis that k independent samples are from the same population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Computation of Kruskal Wallis H test:</head><p>(a) The scores are arranged into groups in ascending order of score value; (b) All the observations are ranked in a single series without regard to their groups. The smallest score value is replaced by rank 1. Tied scores receives the average of ranks available to those scores. The ranks are totaled within each group. The data would be arranged in the following manner;</p><p>Groups</p><formula xml:id="formula_1">[𝑋11 … 𝑋1𝑗 … 𝑋1𝑘, 𝑋21 … 𝑋2𝑗 … 𝑋2𝑘 ⋮ 𝑋𝑖1 … ⋮ 𝑋𝑛1 ⋮ 𝑋𝑖𝑗 … ⋮ 𝑋𝑛𝑗 ⋮ 𝑋𝑖𝑘 ⋮ 𝑋𝑛𝑘]</formula><p>Where,</p><p>𝑋𝑖𝑗 is the data corresponding to the i th observation of the j th group, n is the number of observation in the j th group (j=1, 2 ,…, k).</p><p>(c)The attributes of H approximate the distribution of Chi Square with k-1 degrees of freedom.</p><p>The formula for obtaining the Kruskal Wallis test statistic can be written asfollows: </p><formula xml:id="formula_2">𝐻 = [ 12 𝑁(𝑁 + 1) 𝑘 ∑ 𝑗=1 𝑅 2 𝑗 ] − 3𝑁(𝑁 + 1) 𝑛𝑗</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(c) Principal Component Analysis</head><p>Through principal component analysis, by using the princomp () function in R, we have got the following results (Table <ref type="table" target="#tab_2">3</ref> Here, PC stands for the word 'principal component'.</p><p>We observe that the 1 st 5 principal components are able to explain more than 90% of the variation which exist in the data. Hence, we retain the 1 st 5 principal components. Following figure shows the scree plot corresponding to the principal component analysis performed:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of State</head><p>The above scree plot of the data justifies the results of principal component. The data are plotted asthe variances in y-axis and the PCs are in x-axis.  We see that variables X3 and X4 contribute most to the PC1, both negatively; variables X3 and X4 contribute most to the PC2, positively and negatively respectively; variables X2 and X7 contribute most to the PC3, both positively; variables X3 and X6 contribute most to the PC4, positively and negatively respectively and variables X2 and X6 contribute most to the PC5, positively and negatively respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Biplots and their Interpretation</head><p>Biplots are a type of exploratory graph used in statistical analysis, which allows the information on both the variables and samples under consideration to be explained graphically. Therein, the observations (samples) are displayed as points whereas the variables are displayed as vectors. It can be seen from the biplots of PC1 versus all the other 4 PCs that the observations corresponding to states of Mizoram, Manipur, Arunachal Pradesh, Assam, Sikkim scores highly on the first component. It means that among all of the variables for these states, is more completely explained by a single component which is the first PC. Again, the variables maize and wheat load moderately highly but negatively associated with the first PC, both of which are staple food crops.</p><p>Hence, we can say that these 5 states (belonging to the Northeast region) are not good producers of maize and wheat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(b) Biplots for Examining Component 2</head><p>It can be seen from the biplots of PC2 versus all the other 4 PCs that the observation corresponding to the states of Tamil Nadu and Goa scores highly on the second component. It means that among all of the variables for Tamil Nadu and Goa is more completely explained by a single component which is the second PC. Again, the variables maize and wheat load moderately highly but positively and negatively associated respectively with the 2nd PC. Hence, we can say that Tamil Nadu and Goa are good producers of Maize but not Wheat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(c) Biplots for Examining Component 3</head><p>It can be seen from the biplots of PC3 versus all the other 4 PCs that the observations corresponding to states of Madhya Pradesh, Uttar Pradesh and Himachal Pradesh scores highly on the third component. It means that among all of the variables for Madhya Pradesh, Uttar Pradesh and Himachal Pradesh is more completely explained by a single component which is the third PC. Again, the variables bajra and soyabean load moderately highly, both positively associated with the 3rd PC. Hence, we can say that Madhya Pradesh, Uttar Pradesh and Himachal Pradesh are good producers of both bajra and Soyabean.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(d) Biplots for Examining Component 4</head><p>It can be seen from the biplots of PC4 versus all the other 4 PCs that the observations corresponding to state of Andhra Pradesh + Telangana, Himachal Pradesh, West Bengal, Meghalaya, Arunachal Pradesh scores highly on the fourth component. It means that among all of the variables for Andhra Pradesh + Telangana, Himachal Pradesh, West Bengal, Meghalaya, Arunachal Pradesh is more completely explained by a single component which is the fourth PC. Again, the variables maize and groundnut load moderately highly, but positively and negatively associated respectively with the 4th PC. Hence, we can say that Andhra Pradesh + Telangana, Himachal Pradesh, West Bengal, Meghalaya, Arunachal Pradesh are good producers of Maize but not groundnut.</p><p>(e) Biplots for Examining Component 5</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>India there are three major crop seasons (a) Kharif; (b) Rabi, and (c) Zaid Kharif crops: (a) The Kharif crops are associated with the monsoon season. They are sown in the months of June and July and are harvested in autumn months i.e. in September and October; (b) Important Kharif crops are rice, jowar, maize, cotton, ragi, bajra, sugarcane and jute. Rabi crops: The Rabi crops are sown in the period between October and December and harvested in April and May. Important Rabi crops are wheat, peas, pulses, mustard and rapeseed. Zaid crops; (a) Zaid crops are sown in the summer season; (b) Important Zaid crops are rice, maize, sunflower, vegetables and groundnut.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Wise Yield of Major Food Crops in India for the Year 2014-15</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>. . . . . . + 𝝈𝒑𝒑 = ∑ 𝑽𝒂𝒓[𝑿𝒊] = 𝝀𝟏 + 𝝀𝟐+. . . . . . + 𝝀𝒑 𝒊=𝟏 The proportion of total variance due to the k th principal component is: 𝝀𝒌 𝝀 𝟏 + 𝝀 𝟐 +. . . . . . + 𝝀 𝒑 , 𝒌 = 𝟏, 𝟐, … … , 𝒑</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 1</head><label>1</label><figDesc>Figure 1</figDesc><graphic coords="6,135.85,530.25,322.50,198.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Wise Yield of Major Food Crops in India for the Year 2014-15 (d) Scree Plot:</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>(a) Biplots for Examining Component 1</head><label>1</label><figDesc>Following graph contains the biplot of the first principal component versus the second principal component: Here, the Left and the Bottom axis represent the loading of each variable on the principal components and the Right and the Top axis represent the score of each observation on the principal components under consideration. Scoring highly on a single component simply means that the original variable values for these locations (states) are overwhelmingly explained by a single component. Biplots of the first principal component against the third, fourth and fifth principal component are as follows:</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,114.30,79.60,351.60,342.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,123.40,461.75,324.18,267.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,134.75,70.00,328.13,258.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,137.35,452.00,313.85,266.93" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,134.25,69.55,317.87,241.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,139.40,364.60,311.75,262.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,148.45,70.00,310.60,246.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,140.15,475.40,339.55,254.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,120.90,70.10,354.90,308.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,120.00,428.75,361.38,313.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,138.75,44.00,323.30,286.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,142.40,481.90,321.69,266.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,114.80,70.10,364.10,325.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,111.75,430.30,361.65,300.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,123.00,49.00,336.57,279.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,139.50,479.75,320.70,269.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,128.25,74.05,345.18,283.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,127.50,395.75,346.50,276.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,123.00,31.00,359.50,292.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>)</figDesc><table><row><cell>Importance Of Components</cell><cell>PC1</cell><cell>PC2</cell><cell>PC3</cell><cell>PC4</cell><cell>PC5</cell></row><row><cell>Proportion Of Variance</cell><cell>0.4188</cell><cell>0.2951</cell><cell cols="3">0.0905 0.07143 0.05916</cell></row><row><cell>Cumulative Proportion</cell><cell>0.4188</cell><cell>0.7139</cell><cell cols="3">0.8044 0.87581 0.93497</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc>The first 5 principal components which replace the original variables with little loss of information are shown below sign indicates that the association of the variable with the principal component is positive whereas '-' sign indicates that the association of the variable with the principal component is negative.</figDesc><table><row><cell></cell><cell>PC1</cell><cell>PC2</cell><cell>PC3</cell><cell>PC4</cell><cell>PC5</cell></row><row><cell>X1</cell><cell>-0.28057412</cell><cell>0.16642878</cell><cell>-0.49617227</cell><cell>-0.06827129</cell><cell>0.020481</cell></row><row><cell>X2</cell><cell>-0.3836957</cell><cell>0.07422663</cell><cell>0.60017038</cell><cell>-0.2138676</cell><cell>0.610281</cell></row><row><cell>X3</cell><cell>-0.48861512</cell><cell>0.58508358</cell><cell>-0.0632901</cell><cell>0.558659</cell><cell>0.00391</cell></row><row><cell>X4</cell><cell>-0.57015613</cell><cell cols="2">-0.71380962 -0.19210026</cell><cell>0.14589293</cell><cell>-0.02976</cell></row><row><cell>X5</cell><cell>-0.20743503</cell><cell cols="2">-0.05373799 0.11987364</cell><cell>-0.01451981</cell><cell>-0.2727</cell></row><row><cell>X6</cell><cell>-0.38669193</cell><cell>0.20886251</cell><cell>0.11106854</cell><cell>-0.61892419</cell><cell>-0.53844</cell></row><row><cell>X7</cell><cell>0.05508183</cell><cell cols="2">-0.09897403 0.53112024</cell><cell>0.45566629</cell><cell>-0.49306</cell></row><row><cell>X8</cell><cell>-0.11855795</cell><cell cols="2">-0.23106759 0.04982461</cell><cell>0.12542949</cell><cell>0.120917</cell></row><row><cell>X9</cell><cell>-0.02414724</cell><cell cols="2">-0.07242579 0.20352721</cell><cell>-0.09784041</cell><cell>-0.06505</cell></row><row><cell>'+'</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 :</head><label>4</label><figDesc>The proportion of contribution of each variable for the selected principal component are shown below</figDesc><table><row><cell></cell><cell>PC1</cell><cell>PC2</cell><cell>PC3</cell><cell>PC4</cell><cell>PC5</cell></row><row><cell>X1</cell><cell>0.111562281</cell><cell>0.07549103</cell><cell>0.20960769</cell><cell>0.029695163</cell><cell>0.009505748</cell></row><row><cell>X2</cell><cell>0.152565628</cell><cell>0.03366873</cell><cell>0.25354163</cell><cell>0.093023485</cell><cell>0.283247936</cell></row><row><cell>X3</cell><cell>0.194283838</cell><cell>0.26539018</cell><cell>0.02673687</cell><cell>0.242993365</cell><cell>0.001814692</cell></row><row><cell>X4</cell><cell>0.22670629</cell><cell>0.32377949</cell><cell>0.08115265</cell><cell>0.063457342</cell><cell>0.013810193</cell></row><row><cell>X5</cell><cell>0.08248061</cell><cell>0.02437521</cell><cell>0.05064055</cell><cell>0.006315512</cell><cell>0.126566185</cell></row><row><cell>X6</cell><cell>0.153756995</cell><cell>0.0947387</cell><cell>0.04692084</cell><cell>0.269206208</cell><cell>0.249904559</cell></row><row><cell>X7</cell><cell>0.021901716</cell><cell>0.04489399</cell><cell>0.22437144</cell><cell>0.19819583</cell><cell>0.228840849</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">Analysis of State Wise Yield of Major Food Crops in India for the Year 2014-15</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Analysis of State Wise Yield of Major Food Crops in India for the Year 2014-15</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Conclusion and Discussion</head><p>(a) The principal component analysis reveals that the nine original variables can be replace by the first five principal components, which are nothing but the linear combinations of the original variables that accounts for more than 90% variation present in the data; (b) The most contributing variables to the variation in the data have been found to be that corresponding to the crops bajra, maize, wheat, groundnut and soya bean. All of these crops but wheat is kharif crops; (c) The principal component analysis together with the graphical display of the data reveals that the north-eastern states are not good producers of wheat and maize whereas the states belonging to central India are good producers of bajra and Soya bean, which are kharif crops. Tamil Nadu is a leading producer of bajra and maize, both of which are again Kharif crops. Thus, they are the kharif crops which are causing most of the variation in the data; (d) Kruskal-Wallis test results show that zone wise yield of staple and non-staple food crops for the 6 zones in India is not homogeneous.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of State Wise Yield of Major Food Crops in India for the Year 2014-15</head><p>The above fig. <ref type="figure">1</ref> displays the state wise production of major food crops (in million tons) during the year 2014-15. From this graph we may have the following conclusion about the highest and the lowest crop producing states as below:  Following is the scatter plot matrix of the nine variables corresponding to the major food crops under consideration. It can be seen from the biplots of PC5 versus all the other 4 PCs that the observations corresponding to states of Haryana, Uttar Pradesh, Tamil Nadu and Sikkim scores highly on the fifth component. It means that among all of the variables for Haryana, Uttar Pradesh, Tamil Nadu and Sikkim is more completely explained by a single component which is the fifth PC. Again, the variables bajra, groundnut and soyabean load moderately highly, but positively, negatively and negatively associated respectively with the 5th PC. Hence, we cansay that Haryana, Uttar Pradesh, Tamil Nadu and Sikkim are good producers of bajra, but not groundnut.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lowest</head><p>(6) Kruskal-Wallis Rank Sum Test (a) For staple food crops: Here, we consider the zone-wise yield of only the staple food crops among the major food cropsconsidered viz. rice, maize, wheat and bajra.</p><p>We intend to test the hypothesis H0: the zone wise yield of staple food crops for the 6 zones in India is homogeneous. Against H1: the zone wise yield of staple food crops for the 6 zones in India is not homogeneous.</p><p>Results: On performing the Kruskal-Wallis test in R, we find the p-value of the test to be 0.02174 &lt; 0.05. Hence, we reject our null hypothesis at 5% level of significance and conclude that the zone wise yieldof staple food crops for the 6 zones in India is not homogeneous.</p><p>(b) For non-staple food crops: Here, we consider the zone-wise yield of only the non-staple food crops among the major food cropsconsidered viz. Gram, Groundnut, Soya bean, R&amp;M and Linseed.</p><p>We intend to test the hypothesis H0: the zone wise yield of non-staple food crops for the 6 zones in India is homogeneous. Against H1: the zone wise yield of non-staple food crops for the 6 zones in India is not homogeneous.</p><p>Results: On performing the Kruskal-Wallis test in R, we find the p-value of the test to be 0.01324 &lt; 0.05. Hence, we reject our null hypothesis at 5% level of significance and conclude that the zone wise yield of non-staple food crops for the 6 zones in India is not homogeneous.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Introduction to Crop Science</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Abellanosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pava</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Publications Office</publisher>
+			<pubPlace>Musuan, Bukidnon</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Central Mindanao University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rubenstein</surname></persName>
+		</author>
+		<title level="m">The Cultural Landscape: An Introduction to Human Geography</title>
+				<imprint>
+			<publisher>Pearson Education, Inc</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>7th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Labour Code of the Philippines. Article</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Black&apos;s Law Dictionary: Definitions of the Terms and Phrases of American and English Jurisprudence</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Black</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>West Publishing Co</publisher>
+		</imprint>
+	</monogr>
+	<note>6th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Agricultural land (% of land area) -India</title>
+		<ptr target="https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?locations=IN" />
+	</analytic>
+	<monogr>
+		<title level="m">World Bank Open Data</title>
+				<imprint>
+			<publisher>World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<ptr target="https://www.fao.org/india/fao-in-india/india-at-a-glance/en/" />
+		<title level="m">India at a Glance</title>
+				<imprint>
+			<publisher>Food and Agriculture Organization of the United Nations</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<ptr target="https://www.pib.gov.in/PressReleasePage.aspx?PRID=1909213" />
+		<title level="m">Contribution of Agricultural Sector in GDP</title>
+				<imprint/>
+	</monogr>
+	<note>Ministry of Agriculture &amp; Farmers Welfare</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<ptr target="https://www.imf.org/en/Countries/IND" />
+		<title level="m">India</title>
+				<imprint>
+			<publisher>International Monetary Fund</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<ptr target="http://www.kscst.iisc.ernet.in/sppArchive/public/Abstract/038/7914.pdf" />
+		<title level="m">The Pipeline Trencher</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>Karnataka State Council for Science and Technology.</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><surname>Niti Aayog</surname></persName>
+		</author>
+		<ptr target="https://www.niti.gov.in/rural-women-key-new-indias-agrarian-revolution" />
+		<title level="m">Rural Women: Key to New India&apos;s Agrarian Revolution</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Agricultural Statistics at a Glance. www.agricoop.nic.in. Books Private Limited</title>
+	</analytic>
+	<monogr>
+		<title level="j">Govt. of India</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Agriculture, Cooperation and Farmers Welfare</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><surname>Website</surname></persName>
+		</author>
+		<ptr target="http://www.shareyouressays.com/120735/essay-on-important-food-crops-of-india-47-42-words" />
+		<title level="m">Essay on Important Food Crops of India</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">U</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Dkhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Mohanty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Tripathi</surname></persName>
+		</author>
+		<idno type="DOI">10.5958/0974-0279.2015.00041.5</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Food Security in North-East Region of India ---A State-wise Analysis</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="259" to="266" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Association of state-wise Food Security Index with Climatic Factors in India: Evidence from state-wise panel Data</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Global Agriculture and Ecology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="196" to="205" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Economic reforms and agriculture in India: A state-wise analysis of the post-reforms period</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ansari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ali</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pa.2390</idno>
+		<ptr target="https://doi.org/10.1002/pa.2390" />
+	</analytic>
+	<monogr>
+		<title level="j">J Public Affairs</title>
+		<imprint>
+			<biblScope unit="page">e2390</biblScope>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Spatial and Temporal Trends in the Yields of Three Major Crops: Wheat, Rice, and Maize in India</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Madhukar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dashora</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s42106-019-00078-0</idno>
+		<ptr target="https://doi.org/10.1007/s42106-019-00078-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Plant Prod</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="187" to="207" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Effects of Climatic Factors on Agricultural Productivity in India: A State-wise Panel Data Analysis</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">State-Wise Analysis of Growth in Production and Profitability of Rice in India</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Samal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Jambhulkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Repalli</surname></persName>
+		</author>
+		<idno type="DOI">10.5958/2322-0430.2018.00151.8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Indian Journal of Economics and Development</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="399" to="409" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impact of Climate Variation on Agricultural Productivity and Food Security in Rural India</title>
+		<author>
+			<persName><forename type="first">Ajay</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pritee</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.4144089</idno>
+		<ptr target="https://dx.doi.org/10.2139/ssrn.4144089" />
+	</analytic>
+	<monogr>
+		<title level="j">Kiel Institute for the World Economy</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Economics Discussion Papers</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Projected Food-grain Production and Yield in India: An Evidence from State-wise Panel Data Investigation during 1977-2014</title>
+		<author>
+			<persName><forename type="first">Ajay</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jyoti</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bhim</surname></persName>
+		</author>
+		<ptr target="http://repo.lib.sab.ac.lk:8080/xmlui/handle/123456789/1059" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Agricultural Sciences</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">Archana</forename><forename type="middle">S</forename><surname>Mathur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sircar</forename><surname>Das Surajit</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Subhalakshmi</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/4419078" />
+	</analytic>
+	<monogr>
+		<title level="m">Status of Agriculture in India: Trends and Prospects</title>
+				<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="5327" to="5336" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Agricultural production efficiency of Indian states: Evidence from data envelopment analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Manogna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Mishra</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ijfe.2369</idno>
+		<ptr target="https://doi.org/10.1002/ijfe.2369" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Fin. Econ</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

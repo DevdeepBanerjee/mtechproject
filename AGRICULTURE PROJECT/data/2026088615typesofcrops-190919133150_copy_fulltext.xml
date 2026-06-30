@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">38C945544058B91D2CEF541655718106</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CROPS IN INDIA</head><p>• Agriculture plays a vital role in the Indian economy.</p><p>• Agriculture is the backbone of our country.</p><p>• Two-third of the total population of India is engaged in agricultural activities.</p><p>• India is a top producer country of many crops.</p><p>• Some of the major crops produced here are wheat, rice, cotton, sugarcane and also tea, spices, etc.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>• Crops are classified into following three categories based on season:</p><p>1. Kharif crops 2. Rabi crops 3. Zaid crops Zaid Crops CLASSIFICATION OF CROPS</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Kharif Crops</head><p>• Kharif means "autumn" in Arabic.</p><p>• Also known as monsoon crops.</p><p>• Sown in: June (beginning of monsoon)</p><p>• Harvested in: November (end of monsoon)</p><p>• dependent on quantity of rain and water • Examples: Cotton, Soyabean, Sugarcane, Turmeric, Paddy (Rice), Maize, Moong (Pulses), Groundnut, Red Chillies Cotton Sugarcane Paddy</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Rabi Crops</head><p>• Rabi means "spring" in Arabic.</p><p>• Also known as winter crop.</p><p>• Sown in: mid-November(end of monsoon)</p><p>• Harvested in: April/May • The crops are grown either with rainwater that has percolated into the ground, or with irrigation.</p><p>• Examples: barley, wheat, pea, onion, tomato Barley Pea Onion</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Zaid Crops</head><p>• Also known as "summer crops".</p><p>• Grown: March to June(between Kharif and Rabi)</p><p>• They require warm dry weather for major growth period and longer day length for flowering. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>• India is the second largest producer of various crops.</p><p>• India has a diverse variety of crops grown in different seasons.</p><p>• If the problems faced in the agriculture field are overcome by the use of various strategies , we can become the no. 1 producer and exporter in the world.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>•</head><label></label><figDesc>Crops are classified into the following four categories based on their usage. 1. Food crops(Crop grown for human consumption.) 2. Cash crops(crop which is grown for sale to return a profit.) 3. Plantation crops (Crops grown large land areas called plantations for sale to return a profit .) 4It's the staple crop of India.  India is the 2 nd largest producer of rice in the world.  Type of crop: Kharif, Rabi  Temperature: 16°C -27°C  Rainfall : 100 cm to 200 cm  Soil: rice is grown well on the alluvial soil or on the fertile river basins. It is also grown in mixed soil or loamy and clayey soil.  States: West Bengal, Bihar, Orissa, Andhra Pradesh, Tamil Nadu, Kerala, Assam, Uttar Pradesh, Punjab. • Wheat  It is the 2 nd most important food crop in India.  India is second in production of wheat worldwide.  Type of crop: Rabi  Temperature: 17-20 °C  Rainfall: 20-100 cm (ideal is 75 cm)  States: U.P., Punjab, Haryana, Madhya Pradesh, Rajasthan, Bihar, West Bengal, Gujarat, Himachal Pradesh and Maharashtra • Cotton  It is a fiber crop and is known as 'White gold'.  India is 3 rd in the production of cotton worldwide.  Type of Crop: Kharif  Temperature: 21°C to 30°C  Rainfall: 60 to 120 cm  States: Gujarat, Maharashtra, Andhra Pradesh, Haryana, Madhya Pradesh, Punjab, Rajasthan, Karnataka, Tamil Nadu, Odisha • Sugarcane  Sugarcane is an important cash crop.  India stands at 2 nd position among all countries in the world in its production.  Type of crop: Kharif, Rabi  Temperature: 20-26 °C  States: Uttar Pradesh, Maharashtra, Tamil Nadu, Haryana, Punjab • Tea  It's a labour intensive crop and 50% of the employees are women.  India is the 2 nd largest producer and the largest consumer of tea in the world.  Temperature: 20-30 °C  Rainfall: 150-300 cm  States: Kerala, Assam, Meghalaya, Himachal Pradesh • Spices  Temperature: 10-30 °C  Rainfall: 200-300 cm  Some of the spices produced in India (state wise) are:  Cardamom (Queen of Aromatic Spices) -Assam, Kerala, Tamil Nadu  Pepper (King of Spices) -Kerala  Chillies -Andhra Pradesh, Maharashtra, Odisha, Rajasthan  Turmeric -Andhra Pradesh, Karnataka, Tamil Nadu  Nutmeg -Kerala  Areca nut -Kerala, Karnataka, Tripura, Assam  Cinnamon -Kerala  Clove -Kerala</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">© Aviyal Presentations : https://aviyalpresentations.wordpress.com/</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THANK YOU!</head></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

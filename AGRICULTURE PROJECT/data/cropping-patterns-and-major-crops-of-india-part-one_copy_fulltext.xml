@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Cropping Patterns and Major Crops of India: Part One</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Himachal Pradesh, Jammu and Kashmir</orgName>
+								<address>
+									<settlement>Punjab, Haryana</settlement>
+									<country>Uttarakhand and Uttar Pradesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">West Bengal, coastal regions of Odisha</orgName>
+								<address>
+									<settlement>Assam</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Andhra Pradesh</orgName>
+								<address>
+									<settlement>Telangana</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Tamil Nadu, Kerala and Maharashtra</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Cropping Patterns and Major Crops of India: Part One</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DBCCF3F600064A6A51E7EDFE43122624</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Food crops-Rice</term>
+					<term>Wheat</term>
+					<term>Millets</term>
+					<term>Maize and Pulses. Cash crops-Sugarcane</term>
+					<term>Oilseeds</term>
+					<term>Horticulture crops</term>
+					<term>Tea</term>
+					<term>Coffee</term>
+					<term>Rubber</term>
+					<term>Cotton and Jute. Cropping Seasons S. No Cropping Season Time Period Crops States</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Two-thirds of India's population is engaged in agricultural activities. It is a primary activity, which produces food grains and raw materials for industries. India is geographically a vast country so it has various food and non-food crops which are cultivated in three main cropping seasons which are rabi, kharif and zaid.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Zaid</head><p>Sown and harvested: March-July (between Rabi and Kharif)</p><p>Seasonal fruits, vegetables, fodder crops etc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Most of the northern and northwestern states</head><p>Major Food Crops </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rice</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Temperature:</head><label></label><figDesc>Between 22-32°C with high humidity. Rainfall: Around 150-300 cm. Soil Type: Deep clayey and loamy soil. Top Rice Producing States: West Bengal &gt; Punjab &gt; Uttar Pradesh &gt; Andhra Pradesh &gt; Bihar. It is the staple food crop of majority of Indian people. India is the second largest producer of rice in the world after China. In states like Assam, West Bengal and Odisha, three crops of paddy are grown in a year. These are Aus, Aman and Boro. National Food Security Mission, Hybrid Rice Seed Production and Rashtriya Krishi Vikas Yojana are few government initiatives to support rice cultivation. Wheat Temperature: Between 10-15°C (Sowing time) and 21-26°C (Ripening &amp; Harvesting) with bright sunlight. Rainfall: Around 75-100 cm. Soil Type: Well-drained fertile loamy and clayey loamy (Ganga-Satluj plains and black soil region of the Deccan) Being leguminous crops, all these crops except arhar help in restoring soil fertility by fixing nitrogen from the air. Therefore, these are mostly grown in rotation with other crops. National Food Security Mission for Pulses, Pulses Development Scheme and Technological Mission on Pulses are few of the government's plans to support pulses production. NOTE: Cash Crops will be covered in the Cropping Patterns and Major Crops of India: Part Two. 10/10</figDesc></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Top Wheat Producing States: Uttar Pradesh &gt; Punjab &gt; Madhya Pradesh &gt; Haryana &gt; Rajasthan. India is the second largest producer after China. This is the second most important cereal crop and the main food crop, in north and north-western India. Success of Green Revolution contributed to the growth of Rabi crops especially wheat. Macro Management Mode of Agriculture, National Food Security Mission and Rashtriya Krishi Vikas Yojana are few government initiatives to support wheat cultivation.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Millets (Nutri</head></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

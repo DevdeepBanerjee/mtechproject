@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">SBORNIK CESKOSLOVENSKE SPOLECNOSTI ZEMEPISNE</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">•</forename><surname>Cislo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>Svazek</surname></persName>
+						</author>
+						<title level="a" type="main">SBORNIK CESKOSLOVENSKE SPOLECNOSTI ZEMEPISNE</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">81DFF7D902466A1C0F1E304EDC3D09EE</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The first serious attempt to delimit the lagricultural regions of thp. Republic of India was made, to our knowledge, by M. S. Randhawa in his book on Indian agriculture (1958). He divided the territory of India into 5 agricultural and 5 animal husbandry regions. In determining these regions the territOrial differences in natural conditions and in the' speci.al1zation of agri culture and animal husbandry were chtefly taken into consideration.</p><p>The revised edition of the above book, published in 1962, contains a slightly modified 'version of the origina'l agricultural regionalizaUon of India. Also according to this modified version, 5 agricultural and 5 animal husbandry regions can be distinguished in India. Uufortunately, the book by M. S. Randhawa does not contain any cartographical representation of his agri'cultural division of India which would enable us to be'come acqua[nted with the exact area of the individual regions .and with the course of their lboundaries. The short description of the regions given by M. S. Randhawa in the 1962 edition of his book and their ne-arly identical names indicate that M. S. Randhawa's agricultural regions coincide terrHorially more or less with his animal husbandry regions. They are (in parentheses: the name of the animal husbandry region if it differs from the name of the corresponding agricultural region):</p><p>(1) The Temperate Himalayan Region includes the mountain areas of Assam, West Bengal, Punjab and Uttar Pradesh, and the entire territory of Jammu and Kashmir, of Himachal Pradesh and of Sikkim.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>(4) The Southern Region comprises South Gujarat and further the states of Maharashtra, Mysore, Andhra Pradesh and Madras (except their coastal regions).</p><p>(5) The Coastal Region comprises in the first place two strips of land bordering the west and east coast of Peninsular India. It consists of parts of the Maharashtra, Mysore, Kerala, Madras and Andhra Pradesh states. Andaman and Nicobar Islands and Laccadtve, Minicoy and Amindivi Islands are the other constituent p'arts of the region. M. S. Randhawa's agricultural division of India was essentially approved by the prominent Indian geographer, Professor S. P. <ref type="bibr">Chatterjee (1964, p. 129</ref>), who, nevertheless, stressed the need for its further elaboration. In his paper on the regions of India, published in 1966, however, S. P. Chatterjee did not mention either Randhawa's or any other agricultural division of India.</p><p>The author of the present contribution made an attempt at a new, more detailed agricultural regionalization of India in his paper on the development of agriculture in India since Independence (1966) which has been not yet published in full. We present in our paper a revised version of this agricultural regionalization. Space available for the present paper being limited, we can give here only the basic prinCiples used for this agricultural division of !india with a tlrief characterization of the separate regions.</p><p>The agricultural regions and their boundaries were determined chiefly on the basis of the evaluation of territorial differences (1) in natural, economic and technical conditions for agricuHure and animal husbandry,</p><p>(2) in the specialization of the agricultural and animal prodUction,</p><p>(3) in the general level and in the intensity of the agricultural and animal production in India.</p><p>Due attention was also paid to territorial differences in the development of agrnculture in IndIa since Independence.</p><p>Determining the agricultural regions of India, a synthetic approach was preferred, integrating (though with certain difficulties in some Gases) the poInt of view of agriculture and that of animal husbandry. No special animal husbandry regiOns were, therefore, determined.</p><p>The main source of ba:sic material for the proposed agricultural regionalization of India were the offiCial Indian statistics and other accessrible sources including the preliminary edition of the National Atlas of India <ref type="bibr">(1957)</ref>.</p><p>Altogether 13 agricultural regions were determined (Fig. <ref type="figure">1</ref>): * ) (1) The Northern Mountain Region comprises the northwestern mountain portion of India, 1. e. the entire area of Himachal Pradesh, the Jammu and Kashmir St.ate (except a narrow strip of land along the southern part of the state boundary) and the Himalayan parts of Punjab and of Uttar Pradesh.</p><p>The region includes vast, sparsely inhabited mountain areas. It has a high percentage of forests and of pastures, but only a limited extent of arable land. The annual avevage preCipitation, very low in the north of the region (about 100 mm), rises to over 2,000 mm in the southeast. Irrigation is important in some parts of the region, partricularly in the Vale of Kashmir where rice is grown to a significant extent. Wheat, maize and potatoes are the other most important food crops. The cultivation of pulses and that of cash crops is almost negligible. Animal husbandry, in the first instance sheep' -raising, is the main source of income of ' a considera:ble number of the region's inhabitants. The livestock is largely raised on summer pastures in high altitude and is moved to the valleys for winter.</p><p>(2) The Northern Plains include the plains of Punjab and of Western and Central Uttar Pradesh. Other parts of the region are Delhi State and a small portion of Northern Rajasthan.</p><p>This region has a high share of arable land (nearly 70 per cent of its entire area), little forested land and almost no permanent pastures. About 30 per cent of the net sown area is cropped twice a year thanks to irrigation which is widespread partrlcularly over the western, rather dry part of the region. To the southeast the annual rainfall rises up to ' about 1,100 mm.</p><p>The region is the main Indian foodgrain-growing area. Wheat, barley, bajra and maize, as well as rice (mainly in the wetter east) are the chief cereals. The region has the highest production of pulses (especially of gram) in Ind[a. Very significant is the extent of the cash crop cultivation, particularly that of sugar cane, of various oil seeds (rapeseed, mustard seed, sesame seed, groundnut atc.) and of cotton r grown mainly on irrigated land in Punjab).</p><p>In this region animal husbandry has attained its highest level in India, particularly as far as cattle and buffalo-raiSing are concerned. The Northern Plains occupy the first place in India in the number of horses and don'keys. Sheep-rearing is important as well. Camels are raised in the western part of the region.</p><p>(3) The N o.rthwestern Region is the driest agricultural region of India. It consists of the western, bigger half of Rajasthan and of Northwestern Gujarat.</p><p>The average annual rainfall ranges from about 100 mm In the west to 61bout 500 mm in the east of the region. Due to unfavourable natural conditions, the productivity of agriculture is low. There Is a hIgh percentage of barren and low productive land and of culturable waste in this region. The most important condltlon for the utlli'zation of these potential resources is the further extension of iITigation. The main crops are miUets, particularly bajra. Barley and wheat growing is of some importance mainly in the north. Cash crop culU!va1ion (1. e. chiefly of sesame and cotton) is inconSiderable.</p><p>Animal husbandry, in the first place sheep and goat-raiSing on poor pastures, is of a relatively great Significance. Camels are numerous p.artlcularly in the driest areas.</p><p>(4) The Northeastern Region comprises the eastern third of UUar Pradesh, Itbe northern and central Ipart of Bihar, the states of West Bengal and of Tripura, the coastal portion of Orissa and the greater part of Assam. The region consists mainly of lowlands, ibut it also includes some minor mountanious and 'hrilly areas (particularly the Darjeellng district in the Himalaya and the Garo, Khasi and Jaintia Hills) with strong economic ties to the adjoining plains.</p><p>Abundant rainfall is a characteristic feature of this region. Except for its. western part, the average rainfall exceeds 1,400 mm everywhere, in some areas of Assam even 3,000 mm.</p><p>A large part of cultivated land is cropped twice a year. Rice is the chief crop. The cultivation of other cereals (particularly of maize and wheat) and of pulses is of some importance in the western and central part of this region Jute, mesta and, to' a certain extent, some oil seeds (mainly rape and mustard] are the anly significant non-food crops. The extreme narth is the main tea-grawing area of the country.</p><p>The western part of the reglon has fairly developed cattle and buffaloraising. Goat-raiSing is significant all Olver the region. An important source of food is fishing.</p><p>(5) The Northeastern Borderland comprising Manipur, Nagaland, the North Eastern Frontier Tract and the southernmost part af Assam is a densely farested area with underdeveloped agriculture. Slash-and-burn farming is still pl"actlsed in 'some parts af this regian. Rice is the chief Cl"Op. Nearly no cash crops are grown. Cattle, buffaloes and goats ,as well as poultry are the most important domestic animals. <ref type="bibr" target="#b4">(6)</ref> The Central Region consists of Central and Northern Madhya Pradesh and of Southeastern RaJasthan. It can be described in broad lines as a complex of plateau and hilly land between the Indo-Gangetic Plain and the Deccan. The average rainfall, rather low in the nortwestern portion of the region (about 500 to 750 mm annually), rises to about 1,600 mm in the southeast. The central and southern part of the region is covered predominantly with black cotton soil. Forests and scrubland occupy nearly 20 per cent of the region's area. The region as a whole still has important reserves of culturable waste 'Used hitherto mainly as poor pastures. Irrigation is very limited.</p><p>The Central Region is an important Indian foodgrain producing region, especially of wheat, millets (mainly jowar) arid some pulses. Non-food crop pLanting is confined to the cultivation of oil seeds (the Central Region has a high production of I1nseed and of sesame seed) and, to a lesser degree, to cotton and sugar Dane groWing.</p><p>The main domestic animals are cattle, goats and huffaloes. Shee'p-raising is of some importance in the northwest only.</p><p>(7) The Western Region comprises the entire Ma:harashtra State (except the Konkan Coast), the state of Gujarat (excl. its nortwestern part), the southeastern corner of Rajasthan, Northern and Central Mysore and a minor part of Southwestern ,Andhra Pradesh. The greatest part of the region lies on the Deccan Plateau and is covered with black cotton soils.</p><p>Most of the region's territory has an average rainfall between 500 and 750 mm a year. W:estern Kathiawar is even drier. The' eastern border of the region and the crest zone of the Western Ghats, on the other hand, get much more rainfall than the central part of the region.</p><p>A high percentage of land under non-food crops (about one third of the total sown area] and little irrigation are characteristic features of this region. Various species of mlllets, particularly jowar and bajra, are the main food crops, whereas cotton is by far the most important cash crop. As far as other non-food crops are concerned, groundnut stands next to cottOll. The cultivation of other oU seeds, e. g. linseed and sesame seed, and of other cash crops is less Significant.</p><p>The extent and the intensity of animal husbandry are, generally speaking, below the Indian average. However, a large extent of sheep-raising in the southern part of the region is worth mentioning.</p><p>(8) The Eastern Region consists of Southern Bihar, of the interior of Orissa and of Southeastern Madhya Pradesh. The average annual rainfall ranges from about 1,400 to about 1,600 mm. Over a quarter of the region's area is covered with forests. Only about 10 per cent of the total cultivated area is under irrigation.</p><p>The main crop is rice which is cultivated on about 60 per cent of the total area sown. Other foodgrains of !importance are pulses, various millets and mai'ze. The culti~at1on of sweet potatoes is widespread. Non-food crop planting is almost without any importance. Only some oU seeds (e. g. linseed, mpe and mustard) deserve to be mentioned in this connection.</p><p>(g) The Konkan Region is the narrow strip of land between the crest of the Western Ghats and the Arabian Sea in the state of Maharashtra. We also count to it the territory of Goa. The region can be divided into two parts: North Konkan, extending norfh from Bombay, and South Konkan which forms the southern half of the region.</p><p>North Konkan has an average rainfall of over 1,000 mm, South Konkan of over 2,000 and partly even of 3,000 mm a year.</p><p>The economic development of South Konkan has be'en hampered by poor transportation faciliMes not only to the Indian interior, but also along the coast. Bombay, the main outlet for the agricultural product1on of the whole region, is easier accessible by far from North Konkan. Therefore, agriculture and animal husbandry have attained a higher level of development in North Konkan than in the southern half of the region.</p><p>Rice is the chief crop of the region. Other food crops most frequently grown are millets. The only non-food crops of some importance aI'e sesame and coconut.</p><p>The intensity of Uvestock raising is rather low. Fishing plays an important role in the economy of both parts of the region.</p><p>(10) The Malabar and Kannara Region comprises the state of Kerala, the western p.art of Mysore and a small portion of Madras State. Thus, we count to this region not only the coastal plains and the western slopes of the Cardamon Hills and of the Western Ghats in Kerala and Mysore, but also the greater part of the Nilgiri Hllls and the whole crest zOone of the Western Ghats in Mysore.</p><p>The greatest part of the region recei'ves an average annual rainfall of over 2,000 mm. Nearly a quarter of the region is covered with forests. As much as about 20 per cent of the cultivated area is under irrigation.</p><p>The principal food crop is rice. Almost no other fOOodgrains are cultivated. Other food crops of importance are cassava and various fruits and nuts. The Malabar and Kannara Region is the chief Indian producer Oof coconuts. Coconut trees are grown mainly on coastal sandy soils. Rubber""Planting is important in the south of the reglon. Another SIlgnilficant plantation crop is tea. Coffee is grown mainly in the Nilgiri Hills.</p><p>The most important domestic animals are cattle, goats and poultry. Sheepraising is very limited. The Malabar and Kannara region is the main Indian fishing region. It contributes nearly 30 per cent tOo the total of sea fish landed in India.</p><p>(11) The Southeastern Region comprises nearly all of Madras State, the greater part of Andhra Pradesh and the southeastern part of Mysore. The region includes coastal plains in the east and southeast as well as parts of the Deccan Plateau in the northwest and. west. These constituent parts of the region are separated by a strip of rather low hilly land.</p><p>Northeastern Andhra Pradesh and the coast south from Madras with a rainfall of over 1,000 mm 'a year are the wettest parts of the region. By contrast, Southeastern Mysore, Western Andhra Pradesh and a portion of Gentral Madras State receive no more pre•cipitation than 750 mm annually. The southe.astern tract of the coastal plain differs from the remainder of India in the incidence of the maximum rainfall which again affects the division of the year into agricultural seasons. October, November and December are the rainiest months here.</p><p>Rice is the chief crop of the region. The cultivation of millets, mainly of jowar, is also of importance, particularly in drier areas. The main non-food crops are groundnut and cotton. Furthermore, the Southeastern Region is the foremost producer of castor seed and of tobacco in India. It has also a large production of fruits, especially of citrus fruits, mangoes and bananas. In the Southeastern Region the highest Indian yields of most crops are obtained. The credit for that is due among others to the large extent of irrigation which comprises over one third of the sown ,area. In the coastal tract even about one half of the net sown area is irrigated.</p><p>The intensity of livestock raising is above the Indian average. This applies particularly to sheep-raising which is mostly carried out in the drier northwestern and northern parts of the region and which provides mainly mutton and skins. The Southeastern Region has more sheep than any other region i!l1 India. Both sea and fresh water fishing is the main source of living of a considerable number of the region's inhabitants.</p><p>(12) The natural conditions of the Laccadive, Minicoy and Amindivt Islands are similar to those of the Malabar Coast. Nearly all agricultural land 1s devoted to coconut cultivation. Fishing is another major source of income. There is practically no scope for the extension of the agricultural area on these overpopulated is'lands. Poultry and goats are the most numerous domestic animals.  (13) A great part of the sparsely inhabited Andaman and Nicobar Islands is covered with dense forests. Forestry is the main source of income of the islands' inhabitants. The hitherto very limited extent of agricultural land is growing rapidly as well as the number of domestic animals, particularly of pigs, buffaloes, goat'S and cattle. The main crops are cooonut and rice. The importance of rubber plantations is increasing. Fishing and hunting are other economically significant activities of the inhabitants.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>I</head><label></label><figDesc>Note: The data concerning the Northern Mountain Region include for Jammu and Kashmir the area and population of its Indian-held part only.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>.... ~ . J.-' ,</head><label></label><figDesc>'( . . . . .. . . . . . .. . . . .. . . . ..J</figDesc><table><row><cell>./</cell><cell>\</cell><cell></cell></row><row><cell>L...</cell><cell>•l.</cell><cell>&lt;J, ...,.</cell></row><row><cell cols="2">\ ' j (: ...... ~.</cell><cell></cell></row></table><note>!</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>l ecadive ,Minic:oy and Nni'rolYi I,lards ~ricultural Regions of India</head><label></label><figDesc></figDesc><table><row><cell>o 100 100 3ll I,(l) !oo $lO km</cell></row><row><cell>_ _ .ilouI'ld.ri .. of ~ricu~ul'8l R2gion.</cell></row><row><cell>___ _ Stal. Boundari.s in India</cell></row><row><cell>Worn.o erd Nicobar Islands</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1</head><label>1</label><figDesc>Area and Population of Agricultural Regions of India</figDesc><table><row><cell>Region</cell><cell>Area [sq.km)</cell><cell>Population as on March 1, 1961 [thousand)</cell><cell cols="4">Share of the region density of in the total Average in the total populatlon population area of India of India per sq. km [,per cent) [per cent)</cell></row><row><cell>Northern Mountain Region Northern Plains Northwestern Region Northeastern Region</cell><cell cols="2">i 8,077,500 ! 281,163 65, 624, 075 I 226,2371 259,061 10, 341, 809 , 440,045 122, 715, 254 I</cell><cell>36 233 40 279</cell><cell>I</cell><cell>7.1 8.9 8.2 13.8</cell><cell>1.8 14.9 2.4 28.0</cell></row><row><cell>Northeastern Border-Land</cell><cell>141,271</cell><cell>i 1,751,858 '</cell><cell>12</cell><cell></cell><cell>4.4</cell><cell>0.4</cell></row><row><cell>Central Region</cell><cell cols="2">258,807 21,766,047</cell><cell>84</cell><cell></cell><cell>8.1</cell><cell>5.0</cell></row><row><cell>Western Region</cell><cell cols="2">640, 790 69,891,692</cell><cell>109</cell><cell></cell><cell>20.2</cell><cell>15.9</cell></row><row><cell>Eastern Region</cell><cell cols="2">365, 694 30,569,950</cell><cell>84</cell><cell></cell><cell>11.5</cell><cell>7.0</cell></row><row><cell>Konkan Region</cell><cell>33, 592</cell><cell>9,298,962</cell><cell>277</cell><cell></cell><cell>1.1</cell><cell>2.1</cell></row><row><cell>Malabar and Kan-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>nara Region Southeastern Region Laccadive, Minicoy</cell><cell cols="2">90,421 23,417,954 75,530,136 432,324</cell><cell>259 175</cell><cell>t I</cell><cell>2.8 13.6</cell><cell>5.3 17.2</cell></row><row><cell>and Amindivi Islands</cell><cell>28</cell><cell>24, 108</cell><cell>861</cell><cell></cell><cell></cell></row></table><note>I I</note></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>(2) The Dry Northern Region comprises North Gujarat, the western parts of Madhya Pradesh and Uttar Pradesh, the states of Rajasthan, Delhi and Punjab (except the Himalayan parts of Punjab and U. P.).</p><p>(3) Eastern Region (the Wet Eastern Animal Husbandry Region) ;includes Assam and West Bengal (excl. their hilly parts), Eastern Uttar Pradesh and Eastern Madhya Pradesh, and the states and territories of Bihar, Orissa, Manipur and Tripura.</p><p>* J After finishing his work on the new agricultural division of India in 1966, the author of this paper became acquainted with the division of India into economiC regions, worked out by the Indian National Atlas Organisation (S. P. Chatterjee 1966, pp. 23-33). It Is remarkable that the proposed agricultural division of India has some common features with the division of India into economic regions of the second order (economic provinces) elabora1ted by the National Atlas Organisation.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Agriculture in India</title>
+		<imprint>
+			<biblScope unit="volume">I</biblScope>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>~hatterjee</surname></persName>
+		</author>
+		<title level="m">Fifty Years of Science In India. Progress of Geography</title>
+				<meeting><address><addrLine>Calcutta</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Aspects of the Study of Regional Geographical Structure</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Chatterjee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Regions of India</title>
+		<title level="s">Acta geol. et geogr. Universitatis Comenianae Nr</title>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Agrdculture and Animal Husbandry in India</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Randhawa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1958">1958. 1962</date>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Resume HLAVNl ZEMt:DELSKE OBLASTI INDIE Prvnim vazn~m pokusem 0 clenE!ni l1zemi Indicke republiky na zemE!dE!lske oblasti bylo clenE!ni M. S. Randhawy z roku 1958, uvei.&apos;ejn1me s llJE!kteryuni l1pravami znovu v roDe 1962. Tento Indlck~ autor rozdE!1il l1zemi Indle na 5 oblasti z hlediska v~by rostlinne a oa 5 oblasti z hledlska v~roby zivocisne. V souvislosti se studiem v~voje zemE!dE!lske vyroby v Indii po dosazenf nezavislosti jsem se pokusil 0 nove, podrobnE!jsi clenE!ni Indie na zemE!dtllske oblasti. Ve svem pi&apos;fspE!vku uvadfm ponE!kud pozmE!nE!nou verzi sveho pQvodniho clenE!nt Vymezujl v Iodii celkem 13 zem.i!dE!lsk~ch oblasti, a to soucasnE! pro v~bu rostlinnou I zivo-cHinou. V pi&apos;fspE!vku jsou shrnuty hlavnf z4sady</title>
+	</analytic>
+	<monogr>
+		<title level="m">Vyvoj zem1!dE!lske v~roby v Indi! po dosa2leni statni nezavislosti. (Development of Agricultural Production in India since Independenoe</title>
+				<imprint>
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+	<note>SLAMPA 0.. Unpublished. z nichz j88m ve svem clenE!ni vycb4-zel. Nasleduje struma&apos; charakteristIka vymezenych oblasti</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

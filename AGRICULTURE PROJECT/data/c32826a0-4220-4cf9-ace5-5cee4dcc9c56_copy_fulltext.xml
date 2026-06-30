@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Agricultural growth in Jammu and Kashmir: Cropping Pattern Analysis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Syed</forename><surname>Javed</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Head Department of Commerce and Management</orgName>
+								<orgName type="institution">Gandhi Memorial College</orgName>
+								<address>
+									<settlement>Srinagar</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Iqbal</forename><surname>Kamili</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Head Department of Commerce and Management</orgName>
+								<orgName type="institution">Gandhi Memorial College</orgName>
+								<address>
+									<settlement>Srinagar</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Waqar</forename><surname>Ul</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Education</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Agricultural growth in Jammu and Kashmir: Cropping Pattern Analysis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2A03FEB70DC44C4290199C0D01E2A957</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cropping pattern</term>
+					<term>Food crops</term>
+					<term>Jammu and Kashmir</term>
+					<term>Srinagar district</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Jammu and Kashmir is a hill state having majority of farmers falling under marginal and small holding categories. Diffusion of modern agricultural techniques and practices to the farmers by way of strengthening and activating the extension machinery can go a long way in improving the situation. This adoption of new technologies depends largely on the state of infrastructure and resources available with the farmers. The cropping pattern of Jammu and Kashmir was based on the traditional system of the subsistence farming without any surplus. But with the advent of New Agricultural Strategy, there has been the complementary relationship between the commercialization and cropping pattern of the state. The farmers are gradually diversifying to commercial crops for the sake of higher earnings. An attempt has been made in this study to analyze the changes in cropping pattern in Jammu and Kashmir employing secondary data. This paper will also give some suggestion for improving the cropping pattern in Jammu and Kashmir.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Agriculture literally means cultivation of soil. It is derived from a Latin word "Agriculture" which has its origin in word "ager" meaning a field and "cultura" meaning to "culture" or "cultivate". Etymologically agricultural geography deals with the art and science of domestication of plant and animal. In most of the developed countries like UK, France, Japan and USA, agriculture forms a very small percentage of 2 per cent of national income and only 2 to 3 per cent people are dependent on agriculture for their livelihood. Agriculture forms an important sector of Indian economy and at the time of Indian independence, the share of agriculture in Gross Domestic Product at National level was 50 per cent. Since then in these sectors of Production, some changes have taken places, GDP composition in 2014 shows that Agriculture (17.9%), Industry (24.2%) and Services (57.9%). Total production of agriculture sector is $366.92 billion. India is 2nd larger producer of agriculture product. India accounts for 7.68 percent of total global agricultural output. GDP of Industry sector is $495.62 billion and world rank is 12. In Services sector, India world rank is 11 and GDP is $1185.79 billion. Contribution of Agriculture sector in Indian economy is much higher than world's average (6.1%). Contribution of Industry and Services sector is lower than world's average 30.5% for Industry sector 63.5% for Services sector. Share of Agriculture &amp; allied sector has declined at 18.20% in 2013-14. Share of Services sector has improved to 57.03%. Share of Industry sector has also increased to 24.77% CIA Fackbook Dependence of the workforce on agriculture has not reduced significantly and the ratio of the people who are indirectly dependent upon agriculture rises to more than even three-fourths. The relationship between agriculture and economic stability is a very close-knit one. Its contribution to food security is immense. An average Indian still spends about half of his/her expenditure on food items since agriculture forms the resource base for sizeable number of agro based industries and agro services, it is appropriate to consider it not only from farming angle, but from holistic value chain. It is claimed, "Agriculture promotes economic development of the country. The economic history of many developed countries of the world like U .K., U.S.A., Russia, Germany, Japan, etc., demonstrates that agricultural development helped and smoothened the process of industrial development.... agriculture is the fountain-head... to help industrial development. Industrial development in a country hinges on the prosperity and development of agriculture. The first and foremost role of agriculture is its promotion of economic progress in the country... the economic development in general and industrial development in particular depends on agricultural development". <ref type="bibr" target="#b0">1</ref> The contribution of agriculture to national income is invaluable. It is shown that nearly one-half of our total annual national income comes from agriculture. It is often claimed, when taken independently no other sector contributes so much to the national income of our country. Though its share is decreasing continuously since independence, its influence cannot be ruled out. Hence, it is claimed, yet, even at present; the share of agriculture in the country's national income is very much higher than in developed countries.</p><p>Presently agriculture sector is contributing around 14% to the Gross Domestic Product (GDP) at National level, but it is still the main source of livelihood for majority of rural population. Therefore rapid growth of agriculture is indispensable for faster inclusive and sustainable growth. The average annual growth rates of GDP of agriculture and allied sectors during 11th Five Year Plan is now placed at 3.3 per cent at National level against target of 4 per cent but it is higher than achievement of 2.4 per cent in the Tenth Five Year Plan. The growth target for 12th Five Year Plan period for agriculture sector has been fixed at 4 per cent. About 58 per cent out of net sown area is rain fed areas, where most of the poor live. These areas are economically fragile and highly vulnerable to vagaries of climatic change, so the resilience of the system needs to be increased over the years to address the emerging challenges. Jammu and Kashmir is essentially a mountainous state in which only about 30 per cent of the reporting area is under cultivation. Agriculture is the predominant sector and plays a very prominent role for economic development as it supports about 80 percent of the population besides contributing nearly 60 to 65 per cent of state revenue. This explains the over dependency of the population on agriculture. Agriculture remains the backbone of the economy of Jammu and Kashmir and contributes about 65 per cent of the state revenue which explains the overdependence of the state on agriculture. Land is, however, limited and therefore, its judicious utilization is necessary to meet the growing need of the tremendously increasing population and for the sustainability of soils, ecosystems and environment. Though, the large diversity in agroclimatic conditions of the State is for propagation of diversified farming system, the terrain at the same time is tough and accessibility to a greater part of the region is poor. This causes a lot of hurdles to the inhabitants in provision of inputs, products and level of literacy and awareness. Over the years, the agriculturists and farmers have adopted several area specific and time specific cultivation practices to meet the requirement of their staple food crops. Rice, maize, wheat, pulses, fodder, oil seeds, potato and barley are the main crops of the region. The farmers are now diversifying to cash crops such as flowers, vegetables, quality seeds, aromatic and medicinal plants and mushrooms etc round the year. Honey-bee keeping, fodder intensification, production of quality saffron, basmati rice, off-season vegetables, potatoes etc are also practiced in specific areas, belts and clusters depending upon their agro-climatic suitability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scope of the Study:</head><p>The state of Jammu and Kashmir is an agrarian state as around 70 per cent population is living in rural areas. The economy of the state is mostly dependent on agricultural income. The present study focuses on use of land and various types of crops cultivated to generate employment and income. The study is governing on the objectives given below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objectives</head><p>The study has been conducted mainly to: 1. To analyze the changes in cropping pattern in Jammu and Kashmir. 2. To give some suggestion for improving the cropping pattern in Jammu and Kashmir.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology</head><p>The study is focused on secondary data sources. The secondary data was also collected from various published and unpublished sources from various journals, magazines, articles, yearbooks-statistical digest and media reports and from various departments including government official records, Directorate of Economics and Statistics, Department of Financial commissioner revenue. Keeping in view of the set objectives, this research design was adopted to have greater accuracy and in depth analysis of the research study. Available secondary data was extensively used for the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>Cropping pattern means the production of area under different crops at a point of time. The crop statistics published by the government are used to denote the cropping patterns. Cropping pattern is however, dynamic concept as it changes in space and time. As stated at the outset, cropping structure of a region is the direct outcome of the physical, socio-cultural and historical factors. Characterized with mountainous and undulating terrain and micro-level variations in temperature, precipitation and soils, the state of Jammu and Kashmir has a high degree of variation in its cropping patterns, crop combination and crop diversification. In general, the Jammu plain has a high concentration of wheat, rice, maize, pulses, fodder and oilseeds, while the Valley of Kashmir is well known for its paddy, maize, orchards (apples, almond, walnut, peach, cherry, etc.) and saffron cultivation. In Ladakh, barley, wheat, maize, vegetables, barseem and fodder are the main crops. The area of the total cropped area in Srinagar district have been given in Table <ref type="table" target="#tab_0">1</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The dominating crop in the state of Jammu and Kashmir is Paddy which is occupying around 97.45 of the total cropped area till 2013-14 while as the wheat crops is at the bottom level with only 2.75 till 2013-14. The other crops which needs attention for its further growth and development are oil seeds, pulses, maize etc. This reflects that the crop mechanism and pattern is not equally poised .Even though with the introduction of cropping pattern in the state, production of both food grains and non food grains have tremendously increases but comparatively production of food grains and non food grains had not been increased proportionately. The real difficulty in adopting a better cropping pattern is that farmers may not have adequate amount of capital to invest and therefore the farmers should know the new techniques. Government should come forward to help this. The state farmers should appreciate the importance of horticulture sector include fruits , vegetables, floriculture to improving the productivity of land, generate employment and improve their economic conditions. Initiative is needed for the agricultural diversification, as diversification taken place in the Kashmir valley have shown a positive trend in terms of return. There should be the diversification, a proper balance between the propagation of cereal and non-cereal crops and the mechanization of agriculture.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 : Area under High Yielding Variety Programme Area "000" Hectares</head><label>1</label><figDesc>Table1shows that Paddy is the first ranking crop in Srinagar, occupying about 97.458 of the total cropped area during 2001-02 to 2013-14. Vegetables with 38.01 and other species with 38.781 of the total cropped area are the second most important food during 2001-02 to 2013-14. Fodder occupies 41 of the total cropped area followed by maize with 32.876 of the total cropped area, oil seeds with 29.264 of the total cropped area, pulses with 12.534 of the total cropped area, wheat with 2.725 of the total cropped area during 2001-02 to 2013-14. Further Table1depicts that total cropped area was at its first highest peak of 48.940 during 2003-04, followed by total cropped area of 47.760 during 2002-03 and 36.12 during 2005-06. Further the analysis shows that the lowest cropped area of 5.531 was observed during 2012-13.</figDesc><table><row><cell>Year</cell><cell>Paddy</cell><cell cols="2">Maize Wheat</cell><cell>Oil</cell><cell cols="3">Pulses Fodder Vegetables</cell><cell>Other</cell><cell>Total</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Seeds</cell><cell></cell><cell></cell><cell></cell><cell>Species</cell><cell></cell></row><row><cell>2001-02</cell><cell>13.00</cell><cell>4.60</cell><cell>0.02</cell><cell>5.125</cell><cell>1.70</cell><cell>5.80</cell><cell>1.80</cell><cell>-</cell><cell>32.045</cell></row><row><cell cols="2">2002-03 12.500</cell><cell>4.60</cell><cell>00.02</cell><cell>2.910</cell><cell>1.70</cell><cell>5.80</cell><cell>2.70</cell><cell>17.530</cell><cell>47.760</cell></row><row><cell>2003-04</cell><cell>13.00</cell><cell>4.60</cell><cell>2.605</cell><cell>2.910</cell><cell>1.70</cell><cell>5.005</cell><cell>2.70</cell><cell>16.420</cell><cell>48.940</cell></row><row><cell>2004-05</cell><cell>13.00</cell><cell>4.60</cell><cell>0.02</cell><cell>3.00</cell><cell>1.70</cell><cell>5.00</cell><cell>2.70</cell><cell>2.180</cell><cell>32.200</cell></row><row><cell>2005-06</cell><cell>13.00</cell><cell>4.60</cell><cell>0.02</cell><cell>3.00</cell><cell>3.00</cell><cell>7.7</cell><cell>4.8</cell><cell>-</cell><cell>36.12</cell></row><row><cell>2006-07</cell><cell>13.00</cell><cell>4.60</cell><cell>0.03</cell><cell>3.00</cell><cell>1.70</cell><cell>6.200</cell><cell>2.8</cell><cell>0.13</cell><cell>31.46</cell></row><row><cell>2007-08</cell><cell>3.393</cell><cell>0.45</cell><cell>0.01</cell><cell>0.319</cell><cell>Nil</cell><cell>1.40</cell><cell>4.98</cell><cell>1.485</cell><cell>12.037</cell></row><row><cell>2008-09</cell><cell>3.400</cell><cell>1.966</cell><cell>Nil</cell><cell>1.500</cell><cell>0.250</cell><cell>1.40</cell><cell>5.1</cell><cell>Nil</cell><cell>13.616</cell></row><row><cell>2009-10</cell><cell>2.633</cell><cell>0.572</cell><cell>Nil</cell><cell>1.500</cell><cell>0.074</cell><cell>0.055</cell><cell>1.565</cell><cell>0.144</cell><cell>6.543</cell></row><row><cell>2010-11</cell><cell>2.633</cell><cell>0.572</cell><cell>Nil</cell><cell>1.500</cell><cell>0.074</cell><cell>0.38</cell><cell>1.565</cell><cell>0.220</cell><cell>6.944</cell></row><row><cell>2011-12</cell><cell>2.633</cell><cell>0.572</cell><cell>-</cell><cell>1.500</cell><cell>0.281</cell><cell>0.94</cell><cell>2.84</cell><cell>0.06</cell><cell>8.826</cell></row><row><cell>2012-13</cell><cell>2.633</cell><cell>0.572</cell><cell>-</cell><cell>1.500</cell><cell>0.074</cell><cell>0.38</cell><cell>1.57</cell><cell>0.302</cell><cell>5.531</cell></row><row><cell>2013-14</cell><cell>2.633</cell><cell>0.572</cell><cell>Nil</cell><cell>1.500</cell><cell>0.281</cell><cell>0.94</cell><cell>2.89</cell><cell>0.31</cell><cell>9.126</cell></row><row><cell>Net</cell><cell cols="2">97.458 32.876</cell><cell>2.725</cell><cell cols="2">29.264 12.534</cell><cell>41</cell><cell>38.01</cell><cell cols="2">38.781 291.148</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="5">Source: Chief Agricultural Officer, Srinagar</cell><cell></cell><cell></cell></row><row><cell cols="2">An examination of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0">Dr.S.Sankaran, Indian Economy: Problems, Policies and Development, (Chennai: Margham Publications, 1999), pp</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="249" xml:id="foot_1">-250.</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Agricultural Land Use and Cropping Pattern in Jammu and Kashmir</title>
+				<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">District Statistical Handbook of District Srinagar</title>
+	</analytic>
+	<monogr>
+		<title level="m">Srinagar: District Statistics and Evaluation Office</title>
+				<imprint>
+			<biblScope unit="page" from="2013" to="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sankaran</surname></persName>
+		</author>
+		<title level="m">Indian Economy: Problems, Policies and Development</title>
+				<meeting><address><addrLine>Chennai</addrLine></address></meeting>
+		<imprint>
+			<publisher>Margham Publications</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="249" to="250" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hussain</surname></persName>
+		</author>
+		<title level="m">Systematic Geography of Jammu and Kashmir</title>
+				<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rawat Publication</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Sadhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Singh</surname></persName>
+		</author>
+		<title level="m">Fundamentals Of Agricultural Economics</title>
+				<imprint>
+			<publisher>Himalayan Publishing House</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

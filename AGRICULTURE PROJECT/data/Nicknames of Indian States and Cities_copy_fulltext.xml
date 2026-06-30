@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nicknames of Indian States &amp; Cities</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date>May 2018 2 / 10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Andhra</forename><surname>Pradesh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Arunachal</forename><surname>Pradesh</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Egg bowl of Asia</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Rice-Bowl of India</orgName>
+								<address>
+									<region>Kohinoor</region>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">God&apos;s Own Country</orgName>
+								<address>
+									<country>Spice Garden of India Kerala</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Land of Five Rivers</orgName>
+								<address>
+									<region>Granary of India</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Nicknames of Indian States &amp; Cities</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published">May 2018 2 / 10</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">17DB2B550EFC0C3DFC635A3F420D9838</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>India's bread basket</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Punjab</head><p>The </p></div>		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>For Job updates Whatsapp 'Job' to 7661025557</p><p>Practice 100 free Online GK tests: https://cracku.in/free-gk-tests</p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

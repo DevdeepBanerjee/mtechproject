@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2582-8223</idno>
+					</monogr>
+					<idno type="MD5">631C6BDEDFD2D2BEC96B593094F0432C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction:</head><p>Agriculture is an important stream that generate vital sources for our survival.</p><p>Agriculture produces lot of crops, not only the food crops but also the commercial crops which provide the raw material for industrial production. These crops are affected by both biotic and abiotic factors. Insects which are the major culprits which reduces the productivity of the crops.</p><p>Most of the insects can be controlled while they belong to the biodiversity of the crops they attck and the resistance of the crops are high to the native insect pests. But in case of invasive pests, As they are completely new to the environment and the crop. They are highly dangerous and produce a drastic effect on both the crop and the environment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contents:</head><p>• Pest</p><p>• Importance of pest control in agriculture</p><formula xml:id="formula_0">• Invasive pest • Recent invasive pest in India • Quarantine • Conclusion Pest:</formula><p>Pest is an any organism that harmful to human or human concern, that include crops, livestock and household pets. For example, Fruit fly is the major pest of fruits.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Importance of pest control in agriculture:</head><p>Increased Crop Yields: Pests like insects, birds, and rodents can significantly reduce a farmer's harvest by feeding on crops. Effective pest control helps minimize this damage, leading to higher yields and increased profits. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Improved Crop and Animal</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Invasive pest:</head><p>An invasive pest is an organism, such as an insect, that is introduced to an area where it is not native and causes harm to the crops and environment. Example Dimond back moth is an invasive pest on India entry through Tamilnadu during 1914, DBM is a native to North America, it is a economically important pest of Brassicaceae family.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recent invasive pest in India:</head><p>Majorly six important insect pests are introduced in last ten years, they include;</p><p>• Apple leaf blotch miner Leucoptera malifoliella (2023)</p><p>• Mango soft scale Fistulococcus pokfulamensis (2023)</p><p>• Cassava mealybug Phenacoccus manihoti (2020)</p><p>• Fall armyworm Spodoptera frugiperda (2018)</p><p>• Rugose spiraling whitefly Aleurodicus rugioperculatus (2016)</p><p>• Tomato leafminer Phthorimaea absoluta (2014)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Apple Leaf Blotch Miner</head><p>It is a pest from order lepidoptera, larvae mines into leaves and fruits. It causes dropping of leaf. The pathway for introduction of L. malifoliella is through shipment of apples from Europe and Asia. Two to five generation occurs in a year. pupa may diapause during winter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mango soft scale:</head><p>Mango soft scale is a sucking pest which 1 st reported in Karnataka during 2022. It can be identified by the presence of sooty mould in the whole branch due to the secretion of honey dew. It is pest from order Hemiptera, family Coccidae.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cassava mealybug:</head><p>It is a major sucking pest of cassava it occurs all seasons, but during summer infestation of pest is severe. It presents in all the part of the plant, but most common in growing tip.it cause wilting of plant and splitting of tubers. Yield reduction by 50 to 70 percentage. Cassava mealybug native to south America.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Health: Pests can transmit diseases to plants and animals, harming their overall health and potentially causing large-scale crop failures Recent Invasive Pest in India M. Sathish Kumar, M.Arun, S. Mathavan and M. Vimalesan B.Sc. (Hons) Agriculture, The Indian Agriculture College ARTICLE ID: 35 (e-ISSN: 2582-8223) www.justagriculture.in Page190 or livestock deaths. Pest control helps prevent the spread of these diseases, keeping crops and animals healthy. Reduced Food Contamination: Pests can contaminate crops with harmful bacteria or parasites, making them unfit for consumption. Proper pest control practices minimize this risk, ensuring the safety of the food supply.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,72.28,212.19,450.75,450.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.28,212.19,450.75,450.75" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rugose spiraling whitefly:</head><p>It is a polyphagous pest ,1 st reported in Tamilnadu (polalchi) during 2018.It is the pest from Hemiptera that's suck the sap from the crops and lay eggs in a spiralling fashion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tomato leafminer :</head><p>It is the major pest of tomato, introduced from south America so it commonly called south American pin worm. It cause damage on both leaves and fruits. In leaves it causes mines and in fruits it causes pin head size holes. yield loss about 40%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quarantine:</head><p>• Plant quarantine is a legal restriction of movement of agricultural products like seeds, plant materials, grains to prevent the introduction of new pest and disease into a new area.</p><p>• Directorate of plant protection, quarantine and storage headquarters located at Faridabad, Haryana.</p><p>• Plant quarantine measures are regulated through 'Destructive insect and pest act,1914.</p><p>As per the plant quarantine order ( <ref type="formula">2003</ref> Phytosanitary certificate is a original document issued by NPPO, that certificate indicates the plant products or materials that all free from pest and diseases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion:</head><p>Eradication of pests in agriculture is not possible, invasion of new pest into new environment can cause serious damage in the agricultural ecosystem in an initial stage, after that new management practices are developed to manage that particular pest and the seriousness of the pest is reduced .To prevent the introduction of new pest into the new environment we have to follow quarantine and phytosanitary certificates in a proper manner .</p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

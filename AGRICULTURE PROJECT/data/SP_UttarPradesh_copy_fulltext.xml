@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">State Agriculture Profile: Uttar Pradesh</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sl</forename><surname>No</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Tarai and Bhabar Saharanpur</orgName>
+								<address>
+									<addrLine>Lakhimpur Kheri</addrLine>
+									<settlement>Muzaffarnagar, Bijnor, Moradabad, Rampur, Bareilly, Shahjahanpur, Pilibhit, Bahraich</settlement>
+									<country>Shravasti</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Western Plain Zone Saharanpur</orgName>
+								<address>
+									<addrLine>Bulandshahar 3. Mid Western Plain Zone Bijnor</addrLine>
+									<settlement>Muzaffarnagar, Shamli, Meerut, Bagpat, Ghaziabad, Hapur, Gautambuddha Nagar, Amroha, Moradabad, Sambhal, Rampur, Bareilly, Budaun, Pilibhit, Shahjahanpur, Sitapur</settlement>
+									<country>Lakhimpur Kheri</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">South Western Semi Arid Zone Agra</orgName>
+								<address>
+									<settlement>Mathura, Firozabad, Mainpuri, Aligarh, Hathras, Etah</settlement>
+									<region>Kasganj</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Central Plain Zone Farrukhabad</orgName>
+								<address>
+									<addrLine>Kanpur Nagar, Kanpur Dehat</addrLine>
+									<settlement>Kannauj, Etawah, Auraiya, Fatehpur, Prayagraj, Hardoi, Unnao, Raebareilly, Lucknow</settlement>
+									<region>Kaushambi</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Bundelkhand Zone Jhansi</orgName>
+								<address>
+									<settlement>Jalaun, Lalitpur, Hamirpur, Mahoba, Banda</settlement>
+									<region>Chitrakoot</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">North East Plain Zone Bahraich</orgName>
+								<address>
+									<settlement>Shravasti, Balrampur, Gonda</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="institution">Siddharth Nagar</orgName>
+								<address>
+									<settlement>Basti</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution">Sant Kabir Nagar</orgName>
+								<address>
+									<settlement>Maharajganj, Gorakhpur, Kushinagar</settlement>
+									<region>Deoria</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="institution">Eastern Plain Zone Barabanki</orgName>
+								<address>
+									<addrLine>Ambedkar Nagar</addrLine>
+									<settlement>Ayodhya, Amethi, Sultanpur, Jaunpur, Varanasi, Chandauli, Bhadohi, Ghazipur, Azamgarh, Mau, Ballia, Pratapgarh</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="institution">Vindhyan zone Mirzapur</orgName>
+								<address>
+									<settlement>Sonbhadra</settlement>
+									<country>Prayagraj</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">State Agriculture Profile: Uttar Pradesh</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7AB9269F80EEFF441198ECAB0250BA06</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Uttar Pradesh lies in the warm temperate zone and remains hot during the summer month. In the Terai area the climate is both hot and humid while in the southern plateau the heat is simply overpowering with not a grain of humidity. Summer Temperatures shoot up to 43 degree Celsius in the summer months of April, May and June. Torrid, scorching winds blow throughout the plains of U.P. generally. In the winter the weather temperature oscillates between 12.5 and 17.5 degree Celsius. The year has three seasonswinter from October to February, summer from March to June and thereafter monsoon lasting roughly from July to September.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Agro Climatic / Ecological Zones in the Uttar Pradesh:</head><p>The State of Uttar Pradesh is comprises 18 Divisions and 75 revenue districts. In order to derive maximum benefit from the available resources and prevailing growing conditions, an agro-climatic orientation is necessary in land use planning. Such an approach provides the desirable frame work of sustainable use of land, water and vegetation. The concept of zoning was mainly based on ecological land classification recognizing various components like soil, climate, topography, vegetation and crops etc. as major influencing factors. The zones were selected as contiguous areas within the State boundary and, to the extent possible, zones have homogenous physical characteristics such as topography, rainfall, soil, cropping pattern and availability of irrigation facilities. Uttar Pradesh, on the basis of rainfall, terrain and soil has been divided into 9 agro-climatic zones. State's agro-climatic zones are depicted as under:- </p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,98.74,322.04,284.57,288.17" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Tarai Central Western Plain Western Plain Central Plain South Western Semi Aridl Plain Bundelkhand Eastern Plain Northern Eastern Plain Vindhyan 3. Soil types in Uttar Pradesh:- Sl. No. Soil type Name of Agro climatic Zones</head><label></label><figDesc></figDesc><table><row><cell cols="2">4. Major Crops:</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sl.</cell><cell>Commodity</cell><cell></cell><cell></cell><cell>Major Crops</cell></row><row><cell>No.</cell><cell></cell><cell></cell><cell>Kharif</cell><cell>Rabi</cell><cell>Zaid</cell></row><row><cell>1.</cell><cell>Cereals</cell><cell></cell><cell>Paddy, Maize</cell><cell>Wheat, Barley, Rabi Maize</cell><cell>Maize</cell></row><row><cell>2.</cell><cell>Coarse Cereals</cell><cell cols="2">Bajra, Sorghum/Jowar</cell><cell>-</cell><cell>Bajra</cell></row><row><cell>3.</cell><cell>Nutri Cereals</cell><cell></cell><cell>Finger Millet, Sawan, Kodo</cell><cell>-</cell><cell>Chena, Sawan</cell></row><row><cell>4.</cell><cell>Pulses</cell><cell cols="2">Pigeon pea/Tur/Arhar, Urd, Moong</cell><cell>Gram, Lentil, Pea</cell><cell>Urd, Moong</cell></row><row><cell>5.</cell><cell>Oilseeds</cell><cell></cell><cell>Soybean, Groundnut, Sesame/Til</cell><cell>Rapeseed &amp; Mustard, Linseed</cell><cell>Sunflower</cell></row><row><cell>6.</cell><cell>Commercial Crops</cell><cell></cell><cell>Sugarcane</cell><cell></cell><cell>Cotton</cell></row><row><cell>5.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="3">Tarai and Bhabar, Western Plain Zone, Mid Western Plain</cell></row><row><cell>1.</cell><cell>Alluvial soil</cell><cell></cell><cell cols="3">Zone, South Western Semi Arid Zone, Central Plain Zone,</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="3">North East Plain Zone, Eastern Plain Zone</cell></row><row><cell>2.</cell><cell>Salty/saline soil</cell><cell></cell><cell cols="2">Bundelkhand Zone</cell></row><row><cell>3</cell><cell>Sandy loam soil</cell><cell></cell><cell cols="2">Bundelkhand Zone</cell></row><row><cell>4.</cell><cell>Red soil</cell><cell></cell><cell>Vindhyan zone</cell><cell></cell></row><row><cell>5.</cell><cell cols="2">Black or Regur soil (Mar &amp; Kabar)</cell><cell cols="2">Bundelkhand Zone</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Major Varieties Crops-wise (Within 10 Years):</head><label></label><figDesc></figDesc><table><row><cell>Crop Name</cell><cell>Release/</cell><cell>Varieties</cell></row><row><cell></cell><cell>Notified</cell><cell></cell></row><row><cell></cell><cell>Year</cell><cell></cell></row><row><cell>Cereals:</cell><cell></cell><cell></cell></row><row><cell>Paddy</cell><cell>2014</cell><cell>CSR 43 (IET 18259), JKRH 01 (IET 18181), CR Dhan 303 (IET 21589)</cell></row><row><cell></cell><cell>2015</cell><cell>Aize 6444 Gold, INH 97288, Vallabh Basmati 23, Vallabh Basmati 24 , Sambha Sub 1 (IET 21248), SAVA 127, NDR 2101</cell></row><row><cell></cell><cell></cell><cell>Pusa Basmati 1609, Pant Basmati 1, Pant Basmati 2, CR Dhan 310, SHIATS Dhan 4,</cell></row><row><cell></cell><cell>2016</cell><cell>SHIATS Dhan 5, NK-16520 hybrid, Pusa Basmati 1637, Pusa Basmati 1728, Bauna</cell></row><row><cell></cell><cell></cell><cell>Kakanamak 101</cell></row><row><cell></cell><cell>2017</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">Rajendra Arhar-2, Pant Arhar 7, Pusa 2018-4, DA 15-1</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">JR-81, HUR-1309 (Malviya Sugandh Dhan 1309), VNR-2111 PLUS, Improved Jeera Shankar</title>
+		<idno>CSR 46</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Malviya Sugandha Dhan HUR-917</title>
+				<meeting><address><addrLine>Arize Swift Gold; Arize 6129 Gold, Kalanamak Kiran</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014">2018. 2019. 2014</date>
+			<biblScope unit="volume">102</biblScope>
+		</imprint>
+	</monogr>
+	<note>SHIATS Dhan-2, SHIATS Dhan-3, Pusa Basmati 1718. Pranahitha JGL 11727 2020 Arize Tez Gold Wheat</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">SHIATS-W6, K 0607 (Mamta), WH 1124</title>
+				<imprint>
+			<biblScope unit="volume">4018</biblScope>
+			<biblScope unit="page">1006</biblScope>
+		</imprint>
+	</monogr>
+	<note>Narendra Wheat</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<idno>WH 1142</idno>
+	</analytic>
+	<monogr>
+		<title level="m">DBW 107, DBW 110, Pusa Vatsala (HD 3118)</title>
+				<imprint>
+			<date type="published" when="2015">2015. 2016</date>
+			<biblScope unit="volume">8737</biblScope>
+			<biblScope unit="page">725</biblScope>
+		</imprint>
+	</monogr>
+	<note>PBW</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<idno>HPBW 01, K-1317</idno>
+		<title level="m">Pusa Tejas, HD 3171, PBW 723 (Unnat PBW-343)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<idno>DBW-187</idno>
+		<title level="m">AAI-W9, AAI-W10 2019 PBW-752, PBW-757, Pusa Yashasvi (HD-3226), UP-2844, UP-2855, UP-2855, Pusa Wheat-1620</title>
+				<imprint>
+			<date type="published" when="2018">2018. Malviya 669</date>
+			<biblScope unit="volume">283</biblScope>
+		</imprint>
+	</monogr>
+	<note>Pusa Wheat 1612, HUW 669</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<idno>BHS-380</idno>
+		<title level="m">DWRB 92, HUB 113 (Mahamana), BH 946 2015 DWRB 101, BH 959 2016 RD 2849, RD 2794 Central Barley DWRB 123 2018 K-1055 (Prakhar), Central Barley DWRB 137</title>
+				<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="2021" to="2303" />
+		</imprint>
+	</monogr>
+	<note>Narendra Barley 1445 (NDB 1445). RD 2899, RD 2907 2019 VIB-118</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Karan</forename><surname>Maltsona</surname></persName>
+		</author>
+		<idno>DWRB 160</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Vivek Maize Hybrid 53 (FH 3556)</title>
+	</analytic>
+	<monogr>
+		<title level="m">Vivek Maize Hybrid 531(FH 3554), PC-3, PC-4 2015 PMH 6 (JH 31292), NMH 713, NMH 1242, BIO-9784, Kaindi 2016 KMH 7148, BIO 9782 (BIO 237), Dragon (NMH 1247)</title>
+				<imprint/>
+	</monogr>
+	<note>Central Maize VL Sweet Corn 1 (FSCH18). SHIATS Makka 3 (SHIATS MS 3</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<idno>ADV 7022</idno>
+	</analytic>
+	<monogr>
+		<title level="m">P3544 Hybrid, VMH 4106, GK 3150, DRONA (KMH-2589), Pusa HM-9, Pusa HM-4, DMRH-1301 Hybrid</title>
+		<title level="s">VL Maize Hybrid</title>
+		<imprint>
+			<date type="published" when="2017">2017 Vivek Hybrid 27. 2018 Shaktiman-5</date>
+			<biblScope unit="volume">838</biblScope>
+		</imprint>
+	</monogr>
+	<note>GK 3155 Hybrid. Pusa Jawahar Hybrid Maize-1</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Pearl</forename><surname>Millet</surname></persName>
+		</author>
+		<title level="m">Bajra) 2014 KBH 108 (MH 1737), Dhanashakti (ICTP 8203 Fe</title>
+				<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="86M" to="87" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<idno>HHB-299</idno>
+	</analytic>
+	<monogr>
+		<title level="m">JKBH 1100, JKBH 1105 2017 AHB-1200</title>
+				<imprint>
+			<date>2016 86 M 84</date>
+			<biblScope unit="volume">701</biblScope>
+		</imprint>
+	</monogr>
+	<note>MH 1928</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<idno>MP-552</idno>
+		<title level="m">PB 1720 (MH 2107)</title>
+				<imprint>
+			<publisher>MH</publisher>
+			<date type="published" when="2008">2018. 2008</date>
+		</imprint>
+	</monogr>
+	<note>PB 1705. PB 1852</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sorghum</surname></persName>
+		</author>
+		<idno>Jowar) 2014 CSH-32 2015 NSH 55</idno>
+		<imprint/>
+	</monogr>
+	<note>SPH 1703</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m">SPH 1820 JAICAR Gold</title>
+				<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>CSH 41</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Millets (sawan</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">2019</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Pulses: Chickpea (Gram)</title>
+		<imprint>
+			<biblScope unit="page" from="2014" to="2026" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Vallabh Kabuli Chana-1, Raj Vijay Gram 202 (RVG 202)</title>
+		<imprint>
+			<pubPlace>Bidisha</pubPlace>
+		</imprint>
+	</monogr>
+	<note>BG 1084</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">GNG 2144 (Teej), BDNGK 798 2017 Meera (GNG-2171)</title>
+				<imprint>
+			<publisher>Aman</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">515</biblScope>
+		</imprint>
+	</monogr>
+	<note>Pusa 3022 (BG 3022. Pant Gram 5 (PG 0109</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Pusa</title>
+		<imprint>
+			<biblScope unit="volume">3043</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Awadh (GNG-2207</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Pigeon pea/Tur/Arhar</title>
+		<idno>ICPH 2671</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">IPA 206 (Ganga), IPH 09-5, IPA 15-2, Bheema GRG-152, IPA-206</title>
+	</analytic>
+	<monogr>
+		<title level="j">Pusa Arhar</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2014">2020. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<idno>IPU 11-02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Vallabh Urd 1, Indira Urd</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m">Pant Urd-9</title>
+				<imprint>
+			<date type="published" when="2019-02">2019 Pratap Urd-2 2020 IPU 10-26</date>
+			<biblScope unit="page" from="11" to="25" />
+		</imprint>
+	</monogr>
+	<note>Pant Urd-7 (PU 10-16. Pant Urd-8 (PU 11-14</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">2021 Pant Urd-12</title>
+		<imprint>
+			<biblScope unit="page" from="17" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<idno>Kanika (IPM 302-2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">BGS-9 (Somanath) 2016 IPM 205-7 (Virat), Utkarsha 2018 Varsha (IPM 2K</title>
+				<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">421</biblScope>
+			<biblScope unit="page" from="14" to="19" />
+		</imprint>
+	</monogr>
+	<note>MH</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<idno>IPL-321</idno>
+	</analytic>
+	<monogr>
+		<title level="m">KLB 2008-4 (Krati), IPL 526 2017 RVL 11-6, L 4717 (Pusa Ageti Masoor)</title>
+		<title level="s">KLS</title>
+		<imprint>
+			<date type="published" when="2014">2020. 2014. 2018</date>
+			<biblScope unit="volume">31</biblScope>
+		</imprint>
+	</monogr>
+	<note>Pant Moong-9. Shekhar 4 (KLB 345</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<idno>IPFD 9-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pant Pea</title>
+		<imprint>
+			<biblScope unit="volume">250</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Oilseeds: Rapeseed &amp; Mustard 2013 Pusa Mustard-30</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Tapeshwari Groundnut</title>
+		<author>
+			<persName><forename type="first">Samriddhi</forename><surname>Jk</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">JK Pukhraj (JKYS 2)</title>
+				<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="20" to="34" />
+		</imprint>
+	</monogr>
+	<note>Bayer Mustard 5450. Avtar) Soybean 2014 JS 20-29</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Pusa</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="12" to="13" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Pant Soya 24</title>
+				<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+	<note>PS 1477</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<idno>Jawahar Soybean 20-98 (JS 20-98</idno>
+		<title level="m">NRC 127 Sesame 2016 Gujarat Junagarh Til-5 (GJT-5) Linseed 2015 Tiara 2016 Kota Barani Alsi 4 (RL 10193), Indu (LCK 1108), Uma (LCK 1101)</title>
+				<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Priyam 2018 Jawahar Linseed Sagar-95 (JLS-95), Sabour Tisi-1, Varsha Alsi. RLC-148</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

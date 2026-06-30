@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">INDIAN STATES AND CROP ENTITIES REPORT . ANDHRA PRADESH has Kharif crop: PADDY (RICE)has Kharif crop: COTTONhas Kharif crop: BAJRA (PEARL MILLET)has Kharif crop: JOWAR (SORGHUM)has Kharif crop: MAIZEhas Kharif crop: GROUNDNUThas Kharif crop: RED GRAM (TUR/ARHAR)has Kharif crop: GREEN GRAM (MOONG)has Kharif crop: BLACK GRAM (URAD)has Kharif crop: SUGARCANEhas Kharif crop: SOYBEANhas Rabi crop: WHEAT (limited areas)has Rabi crop: CHICKPEA (GRAM)has Rabi crop: SUNFLOWERhas Rabi crop: SAFFLOWERhas Rabi crop: LINSEEDhas Rabi crop: BARLEYhas Rabi crop: MAIZEhas Zaid crop: WATERMELONhas Zaid crop: MUSKMELONhas Zaid crop: CUCUMBERhas Zaid crop: RIDGE GOURD (TORI)has Zaid crop: BITTER GOURDhas Zaid crop: PUMPKINhas Commercial/Plantation crop: TOBACCO -Guntur district is famoushas Commercial/Plantation crop: SUGARCANEhas Commercial/Plantation crop: COTTONhas Commercial/Plantation crop: CHILLIES -Especially from Gunturhas Commercial/Plantation crop: OILSEEDS, Groundnut, Sunflowerhas Commercial/Plantation crop: FRUITS -Mango (Banganapalle), Banana, Papayahas Commercial/Plantation crop: SPICES -Turmeric, Gingerhas Commercial/Plantation crop: CASHEW NUT</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">INDIAN STATES AND CROP ENTITIES REPORT . ANDHRA PRADESH has Kharif crop: PADDY (RICE)has Kharif crop: COTTONhas Kharif crop: BAJRA (PEARL MILLET)has Kharif crop: JOWAR (SORGHUM)has Kharif crop: MAIZEhas Kharif crop: GROUNDNUThas Kharif crop: RED GRAM (TUR/ARHAR)has Kharif crop: GREEN GRAM (MOONG)has Kharif crop: BLACK GRAM (URAD)has Kharif crop: SUGARCANEhas Kharif crop: SOYBEANhas Rabi crop: WHEAT (limited areas)has Rabi crop: CHICKPEA (GRAM)has Rabi crop: SUNFLOWERhas Rabi crop: SAFFLOWERhas Rabi crop: LINSEEDhas Rabi crop: BARLEYhas Rabi crop: MAIZEhas Zaid crop: WATERMELONhas Zaid crop: MUSKMELONhas Zaid crop: CUCUMBERhas Zaid crop: RIDGE GOURD (TORI)has Zaid crop: BITTER GOURDhas Zaid crop: PUMPKINhas Commercial/Plantation crop: TOBACCO -Guntur district is famoushas Commercial/Plantation crop: SUGARCANEhas Commercial/Plantation crop: COTTONhas Commercial/Plantation crop: CHILLIES -Especially from Gunturhas Commercial/Plantation crop: OILSEEDS, Groundnut, Sunflowerhas Commercial/Plantation crop: FRUITS -Mango (Banganapalle), Banana, Papayahas Commercial/Plantation crop: SPICES -Turmeric, Gingerhas Commercial/Plantation crop: CASHEW NUT</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E6701226BCBED1BD8132B099EFDF14C1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body/>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">NBER WORKING PAPER SERIES CROP DISEASE AND AGRICULTURAL PRODUCTIVITY</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Christine</forename><forename type="middle">L</forename><surname>Carroll</surname></persName>
+							<email>clcarroll@csuchico.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Colin</forename><forename type="middle">A</forename><surname>Carter</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rachael</forename><forename type="middle">E</forename><surname>Goodhue</surname></persName>
+							<email>goodhue@primal.ucdavis.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">C.-Y</forename><surname>Cynthia</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lin</forename><surname>Lawell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Krishna</forename><forename type="middle">V</forename><surname>Subbarao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Julian</forename><surname>Alston</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Andre</forename><surname>Boik</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Colin</forename><surname>Cameron</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Erich</forename><surname>Muehlegger</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><surname>Novan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Peter</forename><surname>Orazem</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Rust</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wolfram</forename><surname>Schlenker</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><surname>Scott</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dan</forename><surname>Sumner</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sofia</forename><surname>Villas-Boas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marca</forename><surname>Weinberg</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jim</forename><surname>Wilen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jinhua</forename><surname>Zhao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mary</forename><surname>Zischke</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">NATIONAL BUREAU OF ECONOMIC RESEARCH</orgName>
+								<address>
+									<addrLine>1050 Massachusetts Ave</addrLine>
+									<postCode>02138, 2017</postCode>
+									<settlement>Cambridge, June</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">University of California at Davis</orgName>
+								<orgName type="institution" key="instit2">California State University at Chico</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">California Leafy Greens Research Program. Carter</orgName>
+								<address>
+									<settlement>Goodhue</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">NBER Working Paper No</orgName>
+								<address>
+									<postCode>23513, 2017</postCode>
+									<settlement>June</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">JEL No. Q00</orgName>
+								<address>
+									<postCode>Q10</postCode>
+									<region>Q12</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">College of Agriculture CSU Chico</orgName>
+								<address>
+									<addrLine>940 West First Street Chico</addrLine>
+									<postCode>95929</postCode>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">University of California at Davis Agricultural and Resource Economics One Shields Avenue Davis</orgName>
+								<address>
+									<postCode>95616</postCode>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">University of California at Davis Agricultural and Resource Economics One Shields Avenue Davis</orgName>
+								<address>
+									<postCode>95616</postCode>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">University of California at Davis Agricultural and Resource Economics One Shields Avenue Davis</orgName>
+								<address>
+									<postCode>95616</postCode>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">NBER WORKING PAPER SERIES CROP DISEASE AND AGRICULTURAL PRODUCTIVITY</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">04E173779D5AAB15CD7877AA2B406063</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>and Lin Lawell are members of the Giannini Foundation of Agricultural Economics. All errors are our own. The views expressed herein are those of the authors and do not necessarily reflect the views of the National Bureau of Economic Research.</p><p>NBER working papers are circulated for discussion and comment purposes. They have not been peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies official NBER publications.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Crop diseases can have a large impact on agricultural productivity. Invasive plant pathogens, including fungi, cause an estimated $21 billion in crop losses each year in the United States <ref type="bibr" target="#b15">(Rossman, 2009)</ref>. Verticillium dahliae is a soil borne fungus that is introduced to the soil via infested spinach seeds and that causes subsequent lettuce crops to be aicted with Verticillium wilt (V. wilt). Lettuce is an important crop in California, and the majority of the lettuce production in the United States occurs in California. The value of California's lettuce crop was $1.7 billion in 2013 <ref type="bibr">(National Agricultural Statistics Service, 2015)</ref>.</p><p>How crop diseases are managed can have a large impact on agricultural productivity as well. V. wilt can be prevented or controlled by the grower by fumigating with methyl bromide, planting broccoli (a low-return crop), or not planting spinach. These control options entail incurring costs or foregoing prot in the current period for future benet. V. wilt can also be prevented or controlled by the spinach seed company by testing and cleaning the spinach seeds. However, seed companies are unwilling to test or clean spinach seeds, as they are not aected by this disease. This paper analyzes the eects of V. wilt on agricultural productivity. In particular, we use a dynamic structural econometric model of V. wilt management for lettuce crops in Monterey County, California to examine the eects of V. wilt on crop-fumigation decisions and on grower welfare. We also discuss our research on the externalities that arise with renters, and between seed companies and growers due to V. wilt, as these disease-related externalities have important implications for agricultural productivity.</p><p>We use a dynamic model for several reasons. First, the control options (fumigation, planting broccoli, and not planting spinach) require incurring costs or foregoing prot in the current period for possible future benet, and are thus are best modeled with a dynamic model. 2 Second, because cropping and fumigation decisions are irreversible (as is the damage 2 Some of these actions may also generate benets in the current period for the current crop. For example, in addition to being an investment in protecting potential future lettuce crops from V. wilt, methyl bromide from V. wilt), because the rewards from cropping and fumigation decisions are uncertain, and because growers have leeway over the timing of cropping and fumigation decisions, there is an option value to waiting which requires a dynamic model <ref type="bibr">(Dixit and Pindyck, 1994)</ref>. Third, Verticillium dahliae takes time to build up in the soil, and once present, persists for many years.</p><p>There are several advantages to using a dynamic structural model to model grower crop and fumigation decisions. First, unlike reduced-form models, a structural approach explicitly models the dynamics of crop and fumigation decisions by incorporating continuation values that explicitly model how expectations about the future aect current decisions.</p><p>A second advantage of the structural model is that we are able to estimate the eect of each state variable on the expected payos from dierent crop and fumigation choices, and are therefore able to estimate parameters that have direct economic interpretations. The dynamic model accounts for the continuation value, which is the expected value of the value function next period. With the structural model we are able to estimate parameters in the payos from dierent crop and fumigation choices, since we are able to structurally model how the continuation values relate to the payos from the crop and fumigation choices.</p><p>A third advantage of our structural model is that we can use the parameter estimates from our structural model to simulate the eects of crop disease on agricultural productivity.</p><p>In particular, we run counterfactual simulations to analyze the eects of V. wilt on cropfumigation decisions and on grower welfare.</p><p>The balance of this paper proceeds as follows. Section 2 provides background on the California lettuce industry, V. wilt, and options to control the disease. Section 3 is a brief review of the relevant literature. Section 4 describes our dynamic structural econometric model. Section 5 describes our data. We present our results in Section 6 and our counterfactual simulations in Section 7. Section 8 concludes.</p><p>can also be benecial to the current crop of strawberries. However, on net, these control options generally require incurring net costs or foregoing prot in the current period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Background</head><p>California, a major agricultural producer and global trader, sustains signicant economic damage from invasive plant pathogens. Fungi damage a wide variety of California crops, resulting in yield-and quality-related losses, reduced exportability, and increased fungicide expenditures <ref type="bibr" target="#b13">(Palm, 2001)</ref>.</p><p>Measured by value, lettuce ranks in the top ten agricultural commodities produced in California <ref type="bibr">(National Agricultural Statistics Service, 2015)</ref>. Much of California's lettuce crop is grown in Monterey County, where lettuce production value is 27% of the county's agricultural production value <ref type="bibr">(Monterey County Agricultural Commissioner, 2015)</ref>. Approximately ten to fteen thousand acres are planted to lettuce in Monterey County each season (spring, summer, and fall). Spinach, broccoli, and strawberries are also important crops in the region.</p><p>Verticillium dahliae is a soil borne fungus that causes lettuce to be aicted with V.</p><p>wilt. No eective treatment exists once plants are infected by the fungus <ref type="bibr" target="#b28">(Xiao and Subbarao, 1998;</ref><ref type="bibr">Fradin and Thomma, 2006)</ref>. The fungus can survive in the soil for fourteen years as microsclerotia, which are resting structures that are produced as the pathogen colonizes a plant. This system allows the fungus to remain in the soil even without a host plant.</p><p>When a susceptible host is planted, microsclerotia attack through the roots, enter the water conducting tissue, and interfere with the water uptake and transport through the plant. If the density of microsclerotia in the soil passes a threshold, a disease known as V. wilt occurs.</p><p>V. wilt rst killed a lettuce (Lactuca sativa L.) crop in California's Parajo Valley in 1995. Prior to 1995, lettuce was believed to be immune. Since then, the disease has spread rapidly through the Salinas Valley, the prime lettuce production region of California. By 2010, more than 150 elds were infected with V. wilt <ref type="bibr" target="#b3">(Atallah, Hayes, and Subbarao, 2011)</ref>, 3 3 As not all the elds that were infected by 2010 were known at the time <ref type="bibr" target="#b3">Atallah, Hayes, and Subbarao (2011)</ref> was published, the number of elds aected by 2010 elds was actually even higher, numbering over 175 elds <ref type="bibr">(Krishna Subbarao, personal communication, 2013).</ref> amounting to more than 4,000 acres (Krishna <ref type="bibr">Subbarao, personal communication, 2013)</ref>. 4</p><p>Although growers have resisted reporting the extent of the disease since 2010, it is likely that the number of aected acres has increased since then <ref type="bibr">(Krishna Subbarao, personal communication, 2013)</ref>.</p><p>Verticillium dahliae is introduced to the soil in three possible ways. First, V. wilt can be spread locally from eld to eld by workers or equipment. Local spread is a relatively minor contributor, however, and growers have taken steps to mitigate this issue themselves, for example by cleaning equipment before moving between elds.</p><p>Second, V. wilt is introduced to the soil via infested lettuce seeds. However, studies of commercial lettuce seed lots from around the world show that fewer than 18% tested positive for Verticillium dahliae and, of those, the maximum incidence of infection was less than 5% <ref type="bibr" target="#b3">(Atallah, Hayes, and Subbarao, 2011)</ref>. These relatively low levels do not cause V. wilt in lettuce at an epidemic level. Models of the disease suggest that it would be necessary for lettuce seed to have an incidence of infection of at least 5% and be planted back to back for three to ve seasons in order for the disease to appear, with at least ve subsequent seasons required for the high disease levels currently seen <ref type="bibr" target="#b3">(Atallah, Hayes, and Subbarao, 2011)</ref>. Third, V. wilt is introduced to the soil via infested spinach seeds. Spinach seeds have been shown to be the main source of the disease <ref type="bibr">(du Toit, Derie, and Hernandez-Perez, 2005;</ref><ref type="bibr" target="#b20">Short, D.P.G. et al., 2015)</ref>; 89% of spinach seed samples are infected, with an incidence of infected seeds per sample of mean 18.51% and range 0.3% to 84.8% <ref type="bibr">(du Toit, Derie, and Hernandez-Perez, 2005)</ref>. The precise impact of planting infected spinach seeds on V. wilt of lettuce was recently assessed and proven to be the cause of the disease on lettuce <ref type="bibr" target="#b20">(Short, D.P.G. et al., 2015)</ref>. The pathogen isolated from infected lettuce plants is genetically identical to the pathogen carried on spinach seeds <ref type="bibr" target="#b4">(Atallah et al., 2010)</ref>.</p><p>Infected spinach seeds carry an average of 200 to 300 microsclerotia per seed (Maruthacha-4 Krishna Subbarao is a Professor of Plant Pathology and Cooperative Extension Specialist at the University of California at Davis. He has studied V. wilt for many years. <ref type="bibr">lam et al., 2013)</ref>. As spinach crops are seeded at up to nine million seeds per hectare for baby leaf spinach, even a small proportion of infected seeds can introduce many microsclerotia <ref type="bibr">(du Toit and Hernandez-Perez, 2005)</ref>.</p><p>One method for controlling V. wilt is to fumigate with methyl bromide. As methyl bromide is an ozone depleting substance, the Montreal Protocol has eliminated methyl bromide use for fumigation of vegetable crops such as lettuce; however, certain crops such as strawberries have received critical-use exemptions through 2016 5 (California Department of Pesticide Regulation, 2010; United States Environmental Protection Agency, 2012b), and the residual eects from strawberry fumigation provide protection for one or two seasons of lettuce before microsclerotia densities rise <ref type="bibr" target="#b3">(Atallah, Hayes, and Subbarao, 2011)</ref>. The long-term availability of this solution is limited and uncertain.</p><p>A second method for controlling V. wilt is to plant broccoli. Broccoli is not susceptible to V. wilt and it also reduces the levels of microsclerotia in the soil <ref type="bibr" target="#b21">(Subbarao and Hubbard, 1996;</ref><ref type="bibr" target="#b22">Subbarao, Hubbard, and Koike, 1999;</ref><ref type="bibr" target="#b19">Shetty et al., 2000)</ref>. Some growers have experimented with this solution, but relatively low returns from broccoli in the region prevent this option from becoming a widespread solution. Planting all infected acreage to broccoli may also ood the market, driving down broccoli prices.</p><p>A third method for controlling V. wilt is to not plant spinach, since spinach seeds are the vector of pathogen introduction <ref type="bibr">(du Toit, Derie, and Hernandez-Perez, 2005)</ref>. Growers who use this third control method of not planting spinach must forgo any relative prots they may have received if they planted spinach instead of another crop.</p><p>In addition to the control measures that the grower can take, V. wilt can also be prevented or controlled by a spinach seed company through testing and cleaning the spinach 5 Critical-use exemption requests through 2014 specify that up to one third of the California strawberry crop will be fumigated with methyl bromide, but actual use was much lower. The remainder of the crop is treated with alternatives such as chloropicrin or 1,3-Dichloropropene (1,3-D) (United States Environmental Protection Agency, 2012a). However, these alternatives (unless combined with methyl bromide) tend to be less eective for V. wilt <ref type="bibr" target="#b3">(Atallah, Hayes, and Subbarao, 2011)</ref>. Field trials of other chemical fumigants either have not been widely used due to township caps or are not yet registered and approved. seeds. Testing or cleaning seeds is an important option for preventing Verticillium dahliae from being introduced into a eld, but can be uncertain and potentially costly. Although Verticillium dahliae cannot be completely eliminated by seed cleaning, incidence levels in spinach seed can be signicantly reduced <ref type="bibr">(du Toit and Hernandez-Perez, 2005)</ref>. Very recent developments in testing procedures suggest that testing spinach seed for Verticillium dahliae might soon be feasible on a commercial basis. Moreover, a very recent innovation speeds up testing spinach seeds. Previously, testing for Verticillium dahliae in spinach seeds took approximately two weeks and could not accurately distinguish between pathogenic and nonpathogenic species <ref type="bibr">(Duressa et al., 2012)</ref>. This new method takes only one day to complete, is highly sensitive (as it is able to detect one infected seed out of 100), and can distinguish among species <ref type="bibr">(Duressa et al., 2012)</ref>.</p><p>V. wilt can also be controlled by restricting the imports of spinach seeds infested with Verticillium dahliae, but doing so would have trade implications. Currently, the United States has no phytosanitary restrictions on spinach seed imports, but Mexico prohibits the importation of seeds if more than 10% are infected <ref type="bibr">(IPC, 2003)</ref>.</p><p>V. wilt can therefore be prevented or controlled by the grower by fumigating with methyl bromide, planting broccoli, or not planting spinach. These control options require long-term investment for future gain. V. wilt can also be prevented or controlled by the spinach seed company by testing and cleaning the spinach seeds. However, seed companies are unwilling to test or clean spinach seeds, as they are not aected by this disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Literature Review</head><p>The rst strand of literature to which our paper relates is on the economics of pest management <ref type="bibr">(Hueth and Regev, 1974;</ref><ref type="bibr" target="#b6">Carlson and Main, 1976;</ref><ref type="bibr" target="#b27">Wu, 2001;</ref><ref type="bibr" target="#b12">Noailly, 2008;</ref><ref type="bibr" target="#b10">McKee et al., 2009)</ref>, which focuses on pests for which treatment is available after crops are aected.</p><p>In contrast, V. wilt cannot be treated once crops are aected. Existing work on crop disease, such as <ref type="bibr">Johansson et al. (2006) and</ref><ref type="bibr">Gomez, Nunez, and</ref><ref type="bibr">Onal (2009)</ref> on soybean rust, and <ref type="bibr" target="#b2">Atallah et al. (2015)</ref> on grapevine leafroll disease, focuses on spatial issues regarding the spread of the disease. In contrast, V. wilt has only a limited geographic impact, and thus dynamic considerations are more important than spatial ones for V. wilt.</p><p>A second strand of literature to which our paper relates is on dynamic models in agricultural management. As Verticillium dahliae persists in the soil for many years, a static model such as that proposed by <ref type="bibr" target="#b11">Mott, Hall, and Osteen (1984)</ref> will not properly account for the future benets of reducing microsclerotia in the soil. The dynamics of V.</p><p>wilt more closely t the seed bank management model by <ref type="bibr" target="#b27">Wu (2001)</ref>.</p><p>Dynamic models have been used in agricultural management to analyze many problems. <ref type="bibr" target="#b26">Weisensel and van Kooten (1990)</ref> use a dynamic model of growers' choices to plant wheat, or to use tillage fallow versus chemicals to store moisture. In a related paper, van Kooten, <ref type="bibr" target="#b25">Weisensel, and Chinthammit (1990)</ref> use a dynamic model that explicitly includes soil quality in the grower's utility function and the trade-o between soil quality (which may decline due to erosion) and net returns.</p><p>Our paper builds on the literature on dynamic structural econometric modeling. <ref type="bibr" target="#b17">Rust's (1987;</ref><ref type="bibr" target="#b17">1988)</ref> seminal papers develop a dynamic structural econometric model using nested xed point maximum likelihood estimation. This model has been adapted for many applications, including bus engine replacement <ref type="bibr" target="#b17">(Rust, 1987)</ref>, nuclear power plant shutdown <ref type="bibr" target="#b16">(Rothwell and Rust, 1997)</ref>, water management <ref type="bibr" target="#b23">(Timmins, 2002)</ref>, agriculture <ref type="bibr">(De Pinto and Nelson, 2009;</ref><ref type="bibr" target="#b18">Scott, 2013)</ref>, air conditioner purchases <ref type="bibr" target="#b14">(Rapson, 2014)</ref>, wind turbine shutdowns and upgrades (Lin Lawell, 2017), and copper mining decisions <ref type="bibr" target="#b1">(Aguirregabiria and Luengo, 2016)</ref>. <ref type="bibr" target="#b7">Carroll et al. (2017a)</ref> develop and estimate a dynamic structural model to analyze short-versus long-term decision-making for disease control. <ref type="bibr">Carroll et al. (2017b)</ref> develop and estimate a dynamic structural model to analyze the supply chain externality between growers and spinach seed companies in controlling V. wilt.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Dynamic Structural Econometric Model</head><p>To analyze the eects of V. wilt on, we develop and estimate a single-agent dynamic structural econometric model using the econometric methods developed by <ref type="bibr" target="#b17">Rust (1987)</ref>. Each month t, each grower i chooses an action d it ∈ D. The possible actions for each grower for each month include one of ve crops (resistant, susceptible (other than lettuce), lettuce, spinach, and broccoli), combined with the choice to fumigate with methyl bromide. To focus on the crops most relevant to this problem, we group the crops resistant to V. wilt together and the crops (other than lettuce) susceptible to V. wilt together. Lettuce, spinach, and broccoli are included separately as these crops are most relevant to V. wilt. Susceptible crops include strawberries, artichoke, and cabbage. Resistant crops include cauliower and celery.</p><p>Although the raw data are observations on the day and time any fumigant is applied on a eld, we aggregate to monthly observations. Growers are generally only making one crop-fumigation decision each season. The length of the season varies among crops, and can be as short as one month for spinach and more than a year for strawberries. For this reason, we choose a month as the time period for each crop-fumigation decision. To cover the case of multi-month seasons, we include a dummy variable for whether the grower continues with the same crop chosen in the previous month. Moreover, because not all crops are harvested in all months, we also include dummy variables for each crop-month indicating whether a particular month is a harvest month for a particular crop. For example, although Monterey County grows crops during a large portion of the year, few crops are harvested in the winter months.</p><p>To estimate growers' losses from V. wilt, it would be ideal to observe actual prices, quantities, costs, and level of microsclerotia for both growers facing losses from V. wilt and those who are not. In theory, prot maximizing growers make optimal planting and fumigating decisions factoring in planting and input costs, as well as the costs of microsclerotia building up in the soil over time and potentially impacting future crops. Unfortunately, data on growers' actual price, quantity, costs, and level of microsclerotia are not available. 6</p><p>We account for the important factors in a grower's prot maximizing decision by including in the payo function state variables that aect revenue; state variables that aect costs; state variables that aect both revenue and costs; and state variables that aect either revenue or cost by aecting the microsclerotia and the spread of V. wilt. The dierent state variables we include may have eects on price, yield, input costs, or microsclerotia levels.</p><p>Costs are accounted for by the crop-fumigation dummies and the constant in our model, and we allow these costs to dier between the early and later periods of our data set. The largest cost dierence among crops is due to fumigation, so we include a dummy for methyl bromide fumigation to account for the net costs of fumigation and to absorb cost dierences among crops.</p><p>The per-period payo to a grower from choosing action d it at time t depends on the values of the state variables s it at time t as well as the choice-specic shock it (d it ) at time t. The state variables s it at time t include crop prices for each crop (price it (d it )), dummy variables for each crop indicating whether this month is a harvest month for that crop (harvest month dummy it (d it )), dummy variables for each crop indicating whether that crop is the same as the crop chosen in the previous month (last crop dummy it (d it )), a variable measuring whether and how much the methyl bromide control option was used in the past (methyl bromide history it ), and a variable measuring whether and how much the broccoli control option was used in the past (broccoli history it ).</p><p>There is a choice-specic shock it (d it ) associated with each possible action d it ∈ D. Let it denote the vector of choice-specic shocks faced by grower i at time t: it ≡ { it (d it )|d it ∈ D}. The vector of choice-specic shocks it is observed by grower i at time t, before grower i makes his time-t action choice, but is never observed by the econometrician.</p><p>The per-period payo to a grower from choosing action d it at time t is given by:<ref type="foot" target="#foot_1">7</ref> </p><p>where spinach dummy it , methyl bromide dummy it , broccoli dummy it , and lettuce dummy it are among the possible actions d it ∈ D.</p><p>Spinach will tend to increase microsclerotia, thus decreasing the quantity harvested, increasing microsclerotia costs, and potentially increasing input costs as growers need to fumigate more. The coecient θ 1 on the spinach dummy captures the eects of spinach on payos that are not internalized in the spinach price.</p><p>Especially in more recent years, methyl bromide fumigation is very expensive and are no meaningful units associated with the variables, payos, or value functions; and the payo and value functions described in the model do not explicitly measure revenue or prot. However, the payo function does include action and state variables that aect revenue (such as price); costs (such as the methyl bromide dummy); both revenue and costs; and either revenue and/or costs through their eect on microsclerotia and the spread of V. wilt.</p><p>raises input costs dramatically. Fumigation is the largest cost dierence among crops. Thus, methyl bromide fumigation is a control option that requires incurring costs or forgoing prot in the current period for future benet. The coecient θ 2 on the dummy for methyl bromide fumigation accounts for the costs of fumigation and absorbs the cost dierences among crops. 8</p><p>Broccoli is not highly protable, but may yield future benets for lettuce growers.</p><p>Thus, planting broccoli is a control option that requires incurring costs or forgoing prot in the current period for future benet. The coecient θ 3 on the broccoli dummy captures the eects of broccoli on payos that are not internalized in the broccoli price.</p><p>Since the control options require incurring costs or forgoing prot in the current period for future benet, previous use of control options may aect current payos. We therefore include variables indicating the fumigation history with methyl bromide within the last twelve months and the broccoli history within the last twelve months. We expect methyl bromide fumigation history and broccoli history to be closely linked to the presence of microsclerotia in a eld. Methyl bromide fumigation history and broccoli history will tend to decrease microsclerotia levels in the soil, leading to increased harvest for susceptible crops, lower microsclerotia costs, and lower input costs.</p><p>We interact the variables measuring previous use of control options with a dummy variable for lettuce being planted in the current period because lettuce is the primary susceptible crop. Methyl bromide fumigation history interacted with planting lettuce today would have a positive coecient θ 4 if having fumigated with methyl bromide is an eective control option. Similarly, broccoli history interacted with planting lettuce today would have a positive coecient θ 5 if having planted broccoli is an eective control option. These two parameters therefore enable us to assess the eectiveness of these two respective control 8 In addition to being an investment in protecting potential future lettuce crops from V. wilt, methyl bromide can also be benecial to the current crop of strawberries. However, on net, methyl bromide fumigation generally requires incurring net costs or foregoing prot in the current period. A negative sign on the coecient on the dummy for methyl bromide fumigation would indicate a net cost to methyl bromide fumigation.</p><p>options.</p><p>We also interact the methyl bromide history and broccoli history variables with the dummy variable for spinach being planted in the current period, to capture whether the undesirability of spinach is mitigated by having methyl bromide history and/or broccoli history.</p><p>Growers continue to plant lettuce even though it is susceptible, and the coecient θ 8 on the lettuce dummy captures any additional benet of lettuce beyond its price.</p><p>Growers base decisions in part on the price or gross return they expect to receive for their harvested crops <ref type="bibr" target="#b18">(Scott, 2013)</ref>. We interact price with a dummy variable that is equal to one during the harvest season for each crop to capture the fact that although a grower may plant the same crop for multiple months, he only receives revenue during the months of the harvest season for that crop.</p><p>other issues that meant that crop was unhealthy.</p><p>The last crop dummy variable is equal to one if the crop chosen this month is the same as the crop planted in the previous month. The last crop dummy captures both the requirement to grow a particular crop over multiple months, as well as any tendency for a grower to choose to replant the same crop over and over again, perhaps harvest after harvest.</p><p>The value function for a long-term grower, which gives the present discounted value of the grower's entire stream of per-period payos at the optimum, is given by the following Bellman equation:</p><formula xml:id="formula_0">V (s, , θ) = max d∈D (π(d, s, θ) + (d) + β V (s , ; θ)d Pr(s , |s, , d, θ)), (<label>2</label></formula><formula xml:id="formula_1">)</formula><p>where β is the discount factor. We set our monthly discount factor to β = 0.999.</p><p>To estimate the unknown parameters θ = (θ 1 , ..., θ 11 ), we use a nested xed point maximum likelihood estimation technique developed by <ref type="bibr" target="#b17">Rust (1987</ref><ref type="bibr" target="#b17">Rust ( , 1988))</ref>. We assume the observed choices are the result of the optimal decision rule d t = γ(s t , t ) that solves the Bellman equation.</p><p>We assume the state variables evolve as a rst-order Markov process, with a transition density given by Pr(s t+1 , t+1 |s t , d t , t , θ). Since the price variable we use is the annual county average, we assume that the choice of any one grower would not have a large enough eect to inuence prices and therefore that the distribution of price next period does not depend on any single grower's decisions this period; we therefore model crop prices as evolving exogenously. The endogenous state variables (methyl bromide fumigation history, broccoli history, and last crop dummy) evolve deterministically as a function of this period's action.</p><p>We assume that the state variables and the choice-specic shocks it are conditionally independent and that the choice-specic shocks it are distributed multivariate extreme value. Under these assumptions, the value function for a long-term grower given in Equation ( <ref type="formula" target="#formula_0">2</ref>) can be rewritten as:</p><formula xml:id="formula_2">V (s, , θ) = max d∈D(s) (π(d, s, θ) + (d) + βV c (s, d, θ)),</formula><p>where V c (•) is the continuation value, which is the expected value of the value function next period conditional on the state variables and action this period: <ref type="figure">, d, θ</ref>).</p><formula xml:id="formula_3">V c (s, d, θ) = V (s , ; θ)d Pr(s , |s,</formula><p>(3)</p><p>The choice probability for a long-term grower is given by:</p><formula xml:id="formula_4">Pr(d|s, θ) = exp (π(d, s, θ) + βV c (s, d, θ)) d∈D(s) exp (π( d, s, θ) + βV c (s, d, θ))</formula><p>.</p><p>After obtaining the model predictions for the choice probabilities as functions of the state variables and the unknown parameters θ, the parameters θ can then be estimated using maximum likelihood. The likelihood function is a function of the choice probabilities, and therefore a function of the continuation value V c (•). Solving for the parameters θ via maximum likelihood thus requires an inner xed point algorithm to compute the continuation value V c (•) as rapidly as possible and an outer optimization algorithm to nd the maximizing value of the parameters θ, i.e., a xed point calculation is nested within a maximum likelihood estimation (MLE). From Blackwell's Theorem, the xed point is unique.</p><p>Identication of the parameters θ comes from the dierences between per-period payos across dierent action choices, which in innite horizon dynamic discrete choice models are identied when the discount factor β and the distribution of the choice-specic shocks it are xed <ref type="bibr" target="#b0">(Abbring, 2010;</ref><ref type="bibr" target="#b8">Magnac and Thesmar, 2002;</ref><ref type="bibr" target="#b17">Rust, 1994)</ref>. In particular, the parameters in our model are identied because each term in the deterministic component π(•) of the perperiod payo given in Equation (1) depends on the action d it being taken at time t, and therefore varies based on the action taken; as a consequence, the parameters do not cancel out in the dierences between per-period payos across dierent action choices and are therefore identied. For example, the coecient θ 1 on the spinach dummy is identied in the dierence between the per-period payo from choosing to plant spinach and the per-period payo from any action choice d it that does not involve planting spinach. 11</p><p>Standard errors are formed by a nonparametric bootstrap. Fields are randomly drawn from the data set with replacement to generate 100 independent panels each with the same number of elds as in the original data set. The structural model is run on each of the new panels. The standard errors are then formed by taking the standard deviation of the parameter estimates from each of the panels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Data</head><p>We use Pesticide Use Reporting (PUR) data from the California Department of Pesticide Regulation. 12 Our data set is composed of all elds in Monterey County on which any regulated pesticide was applied in the years 1993 to 2011, inclusive.</p><p>13 Additional data on prices, yields, and acreage come from the Monterey Agricultural Commissioner's Oce. We collapse the data set into monthly observations.</p><p>We group the crops into six categories: susceptible (which includes artichoke, strawberries, and cabbage, but excludes lettuce which we represent separately), resistant (cauliower and celery), lettuce, spinach, broccoli, and other. 14 From these, we form nine action choices:</p><p>susceptible, susceptible with recent fumigation, resistant, broccoli, broccoli with recent fumigation, lettuce, lettuce with recent fumigation, spinach, and other.</p><p>15 11 To identify the constant θ 11 , we normalize the deterministic component π(•) of the per-period payo from choosing "other" to 0.</p><p>12 For more information see: http://www.cdpr.ca.gov/docs/pur/purmain.htm. 13 We use the eld identier as as well as the section, township, and range data from the PUR data set to match elds across time. We delete a small number of observations that are non-agricultural uses (golf courses, freeway sidings, etc.).</p><p>14 To make the model manageable, we include only the most common crops in Monterey County and those that are most often grown in rotation with lettuce. The crops explicitly included in our model account for nearly 90% of the observations. We account for the many rarely planted crops by including an "other" option, which includes various herbs, berries, nursery products, nuts, wine grapes, livestock, and many others. 15 The data contain the crop planted in each eld for each recorded pesticide application. Although the For control options, we use recent histories for broccoli and methyl bromide because their eects on microsclerotia are relatively short-lived. Microsclerotia levels rebound within one to two seasons, or approximately one year. Thus, broccoli history is the number of months broccoli was planted in the last 12 months, and methyl bromide history is the number of months methyl bromide was used in the last 12 months.</p><p>The vast majority of elds (94% of observations) in our data set have only one grower over the entire time period. Of these, we analyze those long-term growers who appear in the data on from 1994 to 2010, and we model their decision-making as an innite horizon problem. This data set on long-term growers consists of 615 elds, each over seventeen years.</p><p>We use a marketing year average price for each crop 16 to represent growers' expectations about prices for each year. The marketing year average price is in units of dollars per acre, and therefore measures revenue per acre and incorporates yield.</p><p>17 Using the current year's marketing year average price assumes that growers have rational expectations about what focus of our research is on methyl bromide, the other pesticides provide observations regarding which crops are in the ground at which times. Due to the nature of the data, sometimes we do not observe the entire production cycle of a crop. For example, strawberries are often in the ground for a year or more; however, if there is no registered pesticide applied in one of those months, a gap in the production cycle may appear in our data. We account for this issue in several ways. As long as the missing data are missing for exogenous reasons, missing data will not bias the results. Since there are no pesticide treatments for V. wilt once crops are in the ground, we have reason to believe that missing months mid-production cycle due to no pesticide application in that month are exogenous to the impact of V. wilt on crop and methyl bromide fumigation choice. We compared the distribution of these months between short-term and long-term growers and nd that they are similar distributions. Finally, in the simulations, we simulate all months in the time period, but only count grower-months that are present in the actual data when calculating welfare and other statistics for comparison purposes. 16 For lettuce, we use a weighted average of the prices for head and leaf lettuce. In the early years of the data set, romaine and other types of lettuce were not broken out separately, so gross revenue numbers vary based on this reporting, but do not aect the discretized value of the price. 17 We look at gross revenue rather than net revenue due to data limitations. Costs are captured by our crop-fumigation dummies and our constant. Estimating net revenue did not improve the overall model, and cost dierences among crops are mainly driven by methyl bromide fumigation, which is explicitly included in the model, and/or the dierence between strawberry costs compared to other crops. Strawberry costs are generally an order of magnitude higher than for the vegetable crops, in part due to fumigation cost according to Richard Smith, Farm Advisor for Vegetable Crop Production &amp; Weed Science with the University of California Cooperative Extension in Monterey County. We also attempted to incorporate this eect by including dummy variables for the dierent crop choices and fumigation, with resistant crops as the baseline. Unsurprisingly, the susceptible dummy variables (which includes strawberries) was collinear with the methyl bromide fumigation variable; we therefore do not include the susceptible crop dummy variable in our model. We expect the crop-fumigation dummies to at least partially capture the cost dierences among the dierent crops.</p><p>the average marketing year price will be that year. 18 The Monterey County Agricultural Commissioner's Oce publishes annual crop reports including prices, yields harvest, and acreages for major crops in the county. Monterey County is a major producer of many of the crops included in our model. For most crops, these prices are highly correlated with California-wide price data published by the National Agricultural Statistics Service. We discretize the marketing year average price into 6 bins; the marketing year average price bins are shown in Figure <ref type="figure" target="#fig_1">1</ref>.</p><p>We combine the marketing year average price data with data on the timing of harvests for various crops in Monterey. For each crop, the harvest month dummy variable for that crop is equal to one in months during which that crop may be harvested, and zero in months during which that crop is not harvested (i.e., winter months for most crops). 19 For all crops, we have observations during the winter months, including crops that have just been planted and are not yet ready for harvest, and crops such as strawberries that overwinter for harvest in the coming year.</p><p>Summary statistics for the state variables for long-term growers are in Table <ref type="table" target="#tab_0">1</ref>. The mean discretized price for broccoli is relatively low, arming that broccoli is a low-return crop. Spinach is a relatively small portion of the acreage grown in Monterey County, approximately a tenth of the size of the acreage planted to lettuce according to the most recent Monterey County Crop Report.</p><p>Figure <ref type="figure">2</ref> plots the actual fraction of grower-months in each action type for the longterm growers. As seen in Figure <ref type="figure">2</ref>, lettuce accounts for over 60% of the grower-months for these long-term growers. Figure <ref type="figure">3</ref> plots the actual fraction of grower-months in each action by month of year. The actual fraction of grower-months in each action varies by the month 18 Instead of rational expectations about price, another possible assumption is that growers' best guess for this year's price is last year's price. The results are robust to whether we use lagged prices rather than current prices <ref type="bibr" target="#b7">(Carroll et al., 2017a)</ref>. 19 There is a separate harvest month dummy variable for each crop-month. These data come from Richard Smith, Farm Advisor for Vegetable Crop Production &amp; Weed Science with the University of California Cooperative Extension in Monterey County.</p><p>of the year, with lettuce predominant in the spring and summer months, and other and susceptible crops having the highest proportion in the winter months. Figure <ref type="figure">4</ref> plots the actual fraction of grower-months in each action type over the years. The proportions are relatively constant across years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6">Results</head><p>The results for long-term growers are presented in Table <ref type="table" target="#tab_1">2</ref>. We run our model on 3 dierent time periods: the entire time period of our data set (`all'), the early half of the data prior to 2001 (`early'), and the later half of the data from 2001 to 2011 (`late'). We report our estimates for the parameters in the per-period payo function in Equation ( <ref type="formula">1</ref>). The payos do not have units because price is discretized and therefore no longer in dollars. Since we do not have units for payos, we can compare only relative payos and welfare.</p><p>According to the results, the coecient on the spinach dummy is signicant and negative, suggesting that planting spinach is undesirable for reasons that are not fully captured by its price.</p><p>20 This coecient provides evidence that V. wilt is a problem, since it is likely due to the fact that spinach is associated with V. wilt that spinach is undesirable. 21</p><p>The coecient on methyl bromide in the current period is signicant and negative, which means there is a cost to methyl bromide that may yield future benet to either the current crop or a future crop. The coecient is more negative in the later half of the data, likely because the Montreal Protocol started to limit the legal availability of methyl bromide during this period (California Department of Pesticide Regulation, 2010; United 20 Because price is the discretized marketing average price of spinach per acre, the price measures revenue per acre, and therefore incorporates yield as well. Thus, the signicant negative coecient on the spinach dummy suggests that spinach is not desirable to plant for reasons that are not fully captured by its price, yield, or revenue per acre. 21 One may worry that the negative coecient on the spinach dummy is possibly also consistent with a problem in modeling where the other crops with longer crop cycles would potentially be more appealing than spinach. However, even when returns are divided by the length of season, the returns to spinach versus other crops still follow the same order. This result suggests that the season length is not the driving factor behind this coecient. We conrm in <ref type="bibr" target="#b7">Carroll et al. (2017a)</ref> that the signicant negative coecient on the spinach dummy is robust to whether we divide returns by season length.</p><p>States Environmental Protection Agency, 2012b), and also because there is more demand for methyl bromide in the later half of the data set when V. wilt became more of a problem, resulting in a higher price for using methyl bromide.</p><p>The broccoli dummy coecient is negative, but not signicant, suggesting that planting broccoli is not as desirable as planting lettuce (since the lettuce dummy has a signicant positive coecient) and requires foregoing current benets (or incurring current costs) for future gain.</p><p>The coecient on the interaction term between lettuce and methyl bromide history is signicant and positive in the later half of the time period, suggesting that methyl bromide is an eective control option in the later period. Similarly, the coecient on the interaction term between lettuce and broccoli history is signicant and positive, which suggests that planting broccoli is also an eective control option.</p><p>Although the coecient on the spinach dummy and methyl bromide history interaction term is not signicant, the point estimate is positive and smaller in magnitude than the spinach dummy coecient, suggesting that the undesirability of spinach is mitigated by having methyl bromide history. In addition to the signicant positive coecient on the lettuce and methyl bromide interaction in the later period, this further suggests that methyl bromide is an eective control option in the later period.</p><p>Similarly, although the coecient on the spinach dummy and broccoli history interaction term is not signicant, the point estimate is positive and smaller in magnitude than the spinach dummy, also suggesting that the undesirability of spinach is mitigated by broccoli history. In addition to the signicant positive coecient on the lettuce and broccoli history interaction, this further suggests that planting broccoli is an eective control option.</p><p>The lettuce dummy has a signicant positive coecient, which means that owners derive benets from planting lettuce beyond its price, such as meeting shipper contract requirements.</p><p>22 Thus, it is desirable for growers to control V. wilt, since they benet from planting lettuce.</p><p>The coecient on price at the time of harvest is negative. At rst blush this may appear counterintuitive, as economic theory predicts that price will have a positive eect on return. After looking further into the data, however, the reason for this result becomes more clear. Strawberries have a much higher revenue per acre than any of the vegetable crops included in this data set, on the order of $70,000 for strawberries versus $20,000 or less for some vegetable crops. Most growers concentrate on either strawberry crops or vegetable crops, so there are very few cases in the data of growers switching to strawberries from vegetable crops, even though that behavior is what one would expect based on price alone.</p><p>When strawberries are removed as an action choice in the analysis, the coecient for price is then positive. In addition, some strawberry growers are switching to contracts in which the price plays very little role in determining their prot. They are paid a baseline amount for growing the crop and may make more money in a particularly good year, but do not bear the downside risk in a poor year.</p><p>The negative coecient on price at the time of harvest therefore suggests that there may be something partially driving growers' decision-making that is not observable. For example, growers may have connections and contracts that tie them to certain crops that we cannot observe. They may have expertise or risk proles that better suit certain crops.</p><p>Perhaps some growers consider themselves vegetable growers and the cost of switching to strawberries is too high. Uncertainty related to the future of methyl bromide and its lack of suitable replacements for treating V. wilt could also play a role. Unobservable factors that may make growers less likely to switch crops are at least partially captured in our model by the last crop dummy. We hope to explore these issues further in future work.</p><p>The coecient on the last crop dummy is signicant and positive, which suggests that growers are committed to previous crops, which is also consistent with the hypothesis that growers do not switch crops often and therefore are less responsive to price.</p><p>we expect the return used in the model to be exogenous to contracting decisions.</p><p>The total average eects of the variables that appear in more than one term of the per-period payo function are reported at the bottom of Table <ref type="table" target="#tab_1">2</ref>. The spinach dummy has a total average eect that is signicant and negative on net, which provides evidence that V.</p><p>wilt is a problem, even if the undesirability of spinach is mitigated by having methyl bromide history and/or broccoli history.</p><p>The lettuce dummy has a signicant and positive total average eect, which means that owners derive benets from planting lettuce beyond its price, and that the benets of lettuce are enhanced in the presence of control options such as methyl bromide history and/or broccoli history.</p><p>Methyl bromide history has a positive total average eect that is signicant in the later half of the time period, suggesting that methyl bromide is an eective control option in the later period. Similarly, broccoli history has a signicant and positive total average eect, suggesting that planting broccoli is an eective control option.</p><p>In using a marketing year average price for each crop to represent growers' expectations about prices for each year, we assume that growers have rational expectations about the price.</p><p>Instead of rational expectations about price, another possible assumption is that growers' best guess for this year's price is last year's price. The results are robust to whether we use lagged prices rather than current prices <ref type="bibr" target="#b7">(Carroll et al., 2017a)</ref>.</p><p>We choose not to model the grower as only receiving the revenue for his crop the rst month of the harvest season, as this would not explain why growers may plant the same crop for multiple months in the harvest season. Staying in the harvest season longer sometimes yields higher revenue because it enables the grower to harvest more product or replant the crop for more harvest, both of which are better captured by having the grower receive more revenue if he stays in the harvest season longer. For similar reasons, we choose not to model the grower as only receiving the revenue for his crop the last month of the harvest season.</p><p>As seen in <ref type="bibr" target="#b7">Carroll et al. (2017a)</ref>, we nd that the results are robust to whether we divide the marketing year average price for each crop by its average harvest season length, and therefore to whether we assume growers who plant the same crop for multiple months in a harvest season receive more revenue than those who plant that crop for only one month in the harvest season.</p><p>We calculate the normalized average grower welfare per grower per month for the entire time period (`all'), the early time period (`early'), and the later time period (`late'). The welfare is calculated as the present discounted value of the entire stream of payos to growers evaluated at the parameter values, summed over all growers in the relevant data set, then divided by the number of grower-months in the relevant data set. The average grower welfare per grower per month is then normalized so that the average welfare per grower per month over the entire time period (`all') is 100.</p><p>The standard errors for the welfare values are calculated using the parameter estimates from each of 100 bootstrap samples. For each of the 100 bootstrap samples, we calculate the average welfare per grower per month using the parameter estimates from that bootstrap sample, and normalize it. The standard error of the normalized welfare is the standard deviation of the normalized welfare over all 100 bootstrap samples.</p><p>The welfare results are presented in Table <ref type="table" target="#tab_2">3</ref>. According to the welfare results, average grower welfare per grower-month is higher in the earlier time period than in the later time period, perhaps because V. wilt became more of a problem in the later time period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7">Simulations</head><p>We use the estimated parameters from our dynamic structural model to simulate the eects of crop disease on agricultural productivity. In particular, we use counterfactual simulations to analyze the eects of V. wilt on crop-fumigation decisions and on grower welfare.</p><p>The severity of the crop disease is measured by the coecient θ 1 on the spinach dummy in the grower's per-period payo function. The spinach dummy coecient captures the eects of spinach on payos that are not internalized in spinach price. The more negative the spinach dummy coecient θ 1 , the more severe the disease.</p><p>To analyze the eects of crop disease on agricultural productivity, we use the estimated parameters from our dynamic structural model in Section 6 to simulate how dierent values of the spinach dummy coecient would aect the choices and payos of growers. According to the results of the dynamic structural model for growers in Table <ref type="table" target="#tab_1">2</ref>, the coecient θ 1 on the spinach dummy when we use data over the entire time period (`all') is -1.1311.</p><p>We consider a set of twenty-one evenly spaced values of the spinach dummy coecient θ 1 between -2.00 and 0.00. A spinach dummy coecient θ 1 of -2.00 represents a scenario in which V. wilt is even more severe than it currently is, and therefore one in which spinach seeds have an even greater negative eect on grower payos than they currently do. A spinach dummy coecient θ 1 equal to zero represents a scenario in which V. wilt is no longer an economically damaging disease, and therefore one in which the eect of spinach on grower payos (aside from price eects) is neutral and not economically signicant.</p><p>For each possible value of the spinach dummy coecient θ 1 , we run 100 simulations of the choices and payos that would arise if the spinach dummy coecient were equal that values. For each of the 100 simulations, we calculate the average grower welfare per month, which is the total welfare divided by the number of grower-months. Then, for each possible value of the spinach dummy coecient, we average the grower welfare per month over the 100 simulations using that value of the spinach dummy coecient. We then calculate the average benets to the grower from mitigating the disease taking the average grower welfare per month at each value of the spinach dummy coecient, and then subtracting the average grower welfare per month when the spinach dummy coecient θ 1 is an extremely severe -2.00. In other words, we normalize the average grower welfare per month when the spinach dummy coecient θ 1 is an extremely severe -2.00 to 0.</p><p>Standard errors are calculated using a nonparametric bootstrap. In particular, we calculate the standard errors of the grower benets from disease mitigation using the parameter estimates from each of twenty-ve bootstrap samples. For each of the twenty-ve bootstrap samples, we run twenty-ve simulations using the parameter estimates from that bootstrap sample.</p><p>23 The standard error of the grower benets is the standard deviation of the respective statistic over all twenty-ve bootstrap samples.</p><p>Figure <ref type="figure" target="#fig_3">5</ref> plots the benets to a grower per month from mitigating the disease, averaged over 100 simulations, as a function of the coecient θ 1 on the spinach dummy achieved.</p><p>According to our results, the benets to the growers are the highest when the coecient on spinach is driven up to zero, which represents the scenario in which V. wilt is no longer an economically damaging disease. As the coecient on spinach becomes more negative (representing scenarios in which V. wilt is more severe a disease), the benets to growers decline.</p><p>To analyze the eects of mitigating V. wilt on crop-fumigation decisions, we simulate the crop choices of long-term growers when the spinach dummy coecient θ 1 is equal to -1.00, which represents the scenario in which V. wilt is less severe than it currently is; and when the spinach dummy coecient θ 1 is equal to zero, which represents the scenario in which V. wilt is no longer an economically damaging disease.</p><p>Standard errors and 95% condence intervals are calculated using a nonparametric bootstrap. In particular, we calculate the standard errors of the simulation statistics (e.g., mean fraction of grower-months in each action) using the parameter estimates from each of twenty-ve bootstrap samples. For each of the twenty-ve bootstrap samples, we run twentyve simulations using the parameter estimates from that bootstrap sample. 24 The standard error of the simulation statistics (e.g., mean fraction of grower-months in each action) is the standard deviation of the respective statistic over all twenty-ve bootstrap samples.</p><p>Figures 6-7 simulate growers crop choices when V. wilt is no longer an economically damaging disease (θ 1 = 0) and when V. wilt is less severe than it currently is (θ 1 = −1.00), respectively. The fraction of grower-months planted to lettuce is higher under both scenarios than they are in the actual data in Figure <ref type="figure">2</ref>. Thus, when V. wilt is less severe, growers plant more lettuce, likely because V. wilt then becomes less of a problem.</p><p>Figures <ref type="figure" target="#fig_7">8-9</ref> show the fraction of grower-months in each action type by month of year when V. wilt is no longer an economically damaging disease (θ 1 = 0) and when V. wilt is less severe than it currently is (θ 1 = −1.00), respectively. Compared to Figure <ref type="figure">3</ref>, which shows the actual data, the results of the simulations of less severe disease show more grower-months planted to lettuce, especially in the last months of the year when the actual data consists more of susceptible and other crops. wilt is no longer an economically damaging disease (θ 1 = 0) and when V. wilt is less severe than it currently is (θ 1 = −1.00), respectively. Compared to Figure <ref type="figure">4</ref>, which shows the actual data, the results of the simulations of less severe disease show more grower-months planted to lettuce and fewer grower-months planted to other crops. Thus, when the disease is less severe, growers plant more lettuce, likely because V. wilt then becomes less of a problem.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8">Conclusion</head><p>This paper discusses the eects on agricultural productivity of Verticillium dahliae, a soil borne fungus that is introduced to the soil via infested spinach seeds and that causes lettuce to be aicted with V. wilt. We use a dynamic structural econometric model of V. wilt management for lettuce crops in Monterey County, California to examine the eects of V.</p><p>wilt on crop-fumigation decisions and on grower welfare.</p><p>According to our results, planting spinach is undesirable for reasons that are not fully captured by its price, which is consistent with the conclusion that V. wilt is a problem.</p><p>Fumigating with methyl bromide and planting broccoli are both eective control options, but involve incurring costs or foregoing prot in the current period for future benet. We nd that average grower welfare per grower-month is higher in the earlier time period than in the later time period, perhaps because V. wilt became more of a problem in the later time period.</p><p>According to the results of our counterfactual simulations of the eects of V. wilt on agricultural productivity, the benets to the growers are the highest when the coecient on spinach is equal to zero, which represents the scenario in which V. wilt is no longer an economically damaging disease. As the coecient on spinach becomes more negative (representing scenarios in which V. wilt is more severe a disease), the benets to growers decline. When the disease is less severe, growers plant more lettuce, likely because V. wilt then becomes less of a problem. Thus, V. wilt has important eects on crop-fumigation decisions, grower welfare, and agricultural productivity.</p><p>There are two main externalities that arise due to V. wilt, and that have important implications for agricultural productivity. The rst externality is an intertemporal externality. When faced with managing a disease that requires future investment, short-and long-term decision-makers may have dierent incentives and choose to manage the disease dierently. In the case of V. wilt, because the options for controlling V. wilt require longterm investments for future gain, an intertemporal externality arises with short-term growers, who are likely to rent the land for only a short period of time. Renters, therefore, might not make the long-term investments needed to control V. wilt. As a consequence, future renters and the landowner may suer from decisions of previous renters not to invest in control options. Thus, decisions made by current renters impose an intertemporal externality on future renters and the landowner.</p><p>In <ref type="bibr" target="#b7">Carroll et al. (2017a)</ref>, we analyze the factors that aect crop choice and fumigation decisions made by growers and consider how the decisions of long-term growers (whom we call owners) dier from those of short-term growers (whom we call renters). We examine whether existing renter contracts internalize the intertemporal externality that a renter's decisions today impose on future renters and the landowner, and analyze the implications of renting versus owning land on welfare.</p><p>Although contracts can be a potential method for internalizing an externality between dierent parties, our empirical results in <ref type="bibr" target="#b7">Carroll et al. (2017a)</ref> show that existing rental contracts do not fully internalize the intertemporal externality imposed by renters on future renters and the landowner. This outcome may be because of the relatively recent development of the disease and knowledge of its causes, more restrictive contracts not being the norm, the possibility of land unknowingly being contaminated before rental, or diculty in enforcing or monitoring aspects of the contract such as whether boots and equipment are washed between elds.</p><p>In addition to the intertemporal externality, a second externality that arises due to V.</p><p>wilt is a supply chain externality between companies selling spinach seed and growers who may lettuce. Growers wish to protect their elds from V. wilt, but they cannot easily prevent introduction of the disease by spinach seeds when spinach is planted without incurring testing costs and cleaning fees. Currently, seed companies are unwilling to test or clean spinach seeds, especially as spinach producers are not aected by this disease. Thus, decisions made by seed companies regarding whether and how much to test or clean spinach seeds impose a supply chain externality on growers.</p><p>In <ref type="bibr">Carroll et al. (2017b)</ref>, we analyze the supply chain externality between growers and seed companies. We calculate the benets to growers from testing and cleaning spinach seed by simulating growers' optimal decisions and welfare under dierent levels of seed testing and cleaning. We then estimate the spinach seed company's cost to testing and cleaning spinach seeds in order to reduce the level of microsclerotia, and compare the spinach seed company's cost to the grower's benets. Because seed cleaning cost data are not available, we use several functional forms and parameters to estimate potential cost functions. We then use the benets and costs to determine the welfare maximizing level of seed testing and cleaning.</p><p>According to our results in <ref type="bibr">Carroll et al. (2017b)</ref>, using data over the entire time period, we nd that a cooperative solution would increase welfare, and in most cases, a cooperative solution would require that the spinach seed company engage in more spinach seed testing and cleaning than in the status quo. Our work regarding the supply chain externality between seed companies and growers sheds light on how treatment of spinach seeds could potentially reduce externalities between seed companies and growers.</p><p>Crop diseases and how they are managed can have a large impact on agricultural productivity. Externalities due to V. wilt that arise with renters, and between seed companies and growers have important implications for the management of V. wilt in particular, and also for the management of diseases in agriculture in general.  for that crop is equal to one in months during which that crop may be harvested, and zero in months during which that crop is not harvested (i.e., winter months for most crops).         Error bars represent the 95% condence interval, which is calculated using a nonparametric bootstrap.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figures 10 -</head><label>10</label><figDesc>Figures 10-11 show the fraction of grower months in each action type by year when V.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure 1Marketing year average prices per acre</figDesc><graphic coords="36,64.80,243.54,720.00,405.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Figure 2 Actual fraction of grower-months in each action</figDesc><graphic coords="38,72.00,108.97,468.00,468.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5</head><label>5</label><figDesc>Figure 5 Normalized average per-month (per-period) grower benets from disease mitigation</figDesc><graphic coords="43,72.00,180.04,468.00,351.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 6</head><label>6</label><figDesc>Figure 6 Simulated mean fraction of grower-months in each action when spinach dummy coecient θ 1 equals 0</figDesc><graphic coords="44,72.00,123.42,468.00,457.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 7</head><label>7</label><figDesc>Figure 7Simulated mean fraction of grower-months in each action when spinach dummy coecient θ 1 equals -1.00</figDesc><graphic coords="45,72.00,123.42,468.00,457.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 8</head><label>8</label><figDesc>Figure 8 Simulated fraction of grower-months in each action type by month of year when spinach dummy coecient θ 1 equals 0</figDesc><graphic coords="46,125.65,109.24,453.83,595.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 9</head><label>9</label><figDesc>Figure 9 Simulated fraction of grower-months in each action type by month of year when spinach dummy coecient θ 1 equals -1.00</figDesc><graphic coords="47,125.65,109.24,453.83,595.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 10 Simulated</head><label>10</label><figDesc>Figure 10 Simulated fraction of grower-months in each action type by year when spinach dummy coecient θ 1 equals 0</figDesc><graphic coords="48,125.97,109.35,450.40,591.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="39,125.65,239.19,453.83,340.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Summary statistics for state variables</figDesc><table><row><cell>Mean</cell><cell>Std. Dev.</cell><cell>Minimum</cell><cell>Maximum</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Results for long-term growers All Early Late Coecients in the per-period payo function on: Standard errors are in parentheses. Signicance codes: * * * 0.1% level, * * 1% level, * 5% level, † 10% level.</figDesc><table><row><cell>Spinach dummy</cell><cell>−1.1311  *  *  *</cell><cell>−1.1905  *  *  *</cell><cell>−1.0703  *  *  *</cell></row><row><cell></cell><cell>(0.2981)</cell><cell>(0.3297)</cell><cell>(0.2419)</cell></row><row><cell>Methyl bromide dummy</cell><cell>−6.0705  *  *  *</cell><cell>−5.6993  *  *  *</cell><cell>−6.3633  *  *  *</cell></row><row><cell></cell><cell>(0.064)</cell><cell>(0.1077)</cell><cell>(0.063)</cell></row><row><cell>Broccoli dummy</cell><cell>−0.332</cell><cell>−0.5953</cell><cell>−0.1615</cell></row><row><cell></cell><cell>(0.2035)</cell><cell>(0.4956)</cell><cell>(0.18)</cell></row><row><cell>Lettuce dummy*Methyl bromide history</cell><cell>0.2717</cell><cell>0.1992</cell><cell>0.8501  *</cell></row><row><cell></cell><cell>(0.4648)</cell><cell>(0.4174)</cell><cell>(0.3797)</cell></row><row><cell>Lettuce dummy*Broccoli history</cell><cell>0.3682  *  *  *</cell><cell>0.3674  *  *  *</cell><cell>0.3707  *  *  *</cell></row><row><cell></cell><cell>(0.0605)</cell><cell>(0.0632)</cell><cell>(0.0558)</cell></row><row><cell>Spinach dummy*Methyl bromide history</cell><cell>0.026</cell><cell>0.0787</cell><cell>0.2734</cell></row><row><cell></cell><cell>(0.1956)</cell><cell>(0.3034)</cell><cell>(0.1949)</cell></row><row><cell>Spinach dummy*Broccoli history</cell><cell>0.2643</cell><cell>0.2665</cell><cell>0.2573</cell></row><row><cell></cell><cell>(0.4769)</cell><cell>(0.2598)</cell><cell>(0.6341)</cell></row><row><cell>Lettuce dummy</cell><cell>1.4346  *  *  *</cell><cell>1.3844  *  *  *</cell><cell>1.4691  *  *  *</cell></row><row><cell></cell><cell>(0.1817)</cell><cell>(0.1874)</cell><cell>(0.1782)</cell></row><row><cell>Price*Harvest month dummy</cell><cell>−0.1585  *  *  *</cell><cell>−0.1558  *  *  *</cell><cell>−0.16  *  *  *</cell></row><row><cell></cell><cell>(0.0414)</cell><cell>(0.0458)</cell><cell>(0.0399)</cell></row><row><cell>Last crop dummy</cell><cell>21.2161  *  *  *</cell><cell>24.2249  *  *  *</cell><cell>20.0534  *  *  *</cell></row><row><cell></cell><cell>(1.0463)</cell><cell>(3.8795)</cell><cell>(0.786)</cell></row><row><cell>Constant</cell><cell>−1.1482  *  *  *</cell><cell>−1.0881  *  *  *</cell><cell>−1.1906  *  *  *</cell></row><row><cell></cell><cell>(0.3027)</cell><cell>(0.2381)</cell><cell>(0.2592)</cell></row><row><cell>Total average eects on per-period payo of:</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Spinach dummy</cell><cell>−1.1206  *  *  *</cell><cell>−1.1791  *  *  *</cell><cell>−1.0603  *  *  *</cell></row><row><cell></cell><cell>(0.2987)</cell><cell>(0.3299)</cell><cell>(0.2431)</cell></row><row><cell>Lettuce dummy</cell><cell>1.4498  *  *  *</cell><cell>1.4003  *  *  *</cell><cell>1.4838  *  *  *</cell></row><row><cell></cell><cell>(0.1817)</cell><cell>(0.1874)</cell><cell>(0.1782)</cell></row><row><cell>Methyl bromide history</cell><cell>0.2378</cell><cell>0.1276</cell><cell>0.5554  *</cell></row><row><cell></cell><cell>(0.2968)</cell><cell>(0.2630)</cell><cell>(0.2450)</cell></row><row><cell>Broccoli history</cell><cell>0.2424  *  *  *</cell><cell>0.2390  *  *  *</cell><cell>0.2460  *  *  *</cell></row><row><cell></cell><cell>(0.0409)</cell><cell>(0.0405)</cell><cell>(0.0400)</cell></row><row><cell>Number of observations</cell><cell>25,761</cell><cell>10,833</cell><cell>14,928</cell></row><row><cell>Notes:</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Normalized average present discounted grower welfare per grower-month The average grower welfare per grower per month is normalized so that the average welfare per grower per month over the entire time period (`all') is 100. Standard errors in parentheses. All welfare values are signicant at a 0.1% level.</figDesc><table><row><cell>All</cell><cell>Early</cell><cell>Late</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0">The University of California at Davis "Cost and Return Studies" have a limited number of estimates for the revenue and costs, but estimates are not available for all the crops and years in our model.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_1">Because the model requires discrete data, we bin the action and state variables. This means that there</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_2">In particular, the expected gross revenue to harvesting a crop during non-harvest season months (e.g., during the winter) is 0.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_3">Thus, by incorporating the expected gross return in the payo of function and by modeling the dynamic decisionmaking of growers of when and what to plant, and whether and when to fumigate, our model accounts for the biological reality of how long a crop needs to be in the ground, because a prot maximizing grower is unlikely to pull out the crop before it is ready to harvest (and therefore before he would receive the expected return), barring problems such as V. wilt or 9 On average, the length of the harvest season is less than 2 months in our data set, and equal to about 1.5 months on average for most crops. The exception are susceptible crops, which include strawberries, and which have an average harvest season length of 2.59 months. In the case of strawberries, however, strawberries are an ongoing harvest crop and therefore the more months in the harvest season it is grown, the more product can be harvested, so it is reasonable to assume that a grower may receive revenue each harvest month during which strawberries are grown. We choose not to model the grower as only receiving the revenue for his crop the rst month of the harvest season, as this would not explain why growers may plant the same crop for multiple months in the harvest season. Staying in the harvest season longer sometimes yields higher revenue because it enables the grower to harvest more product or replant the crop for more harvest, both of which are better captured by having the grower receive more revenue if he stays in the harvest season longer. For similar reasons, we choose not to model the grower as only receiving the revenue for his crop the last month of the harvest season. As seen in<ref type="bibr" target="#b7">Carroll et al. (2017a)</ref>, we nd that the results are robust to whether we divide the marketing year average price for each crop by its average harvest season length, and therefore to whether we assume growers who plant the same crop for multiple months receive more revenue than those who plant that crop for only one month.10  The costs of inputs are included in the constant, which we expect to be negative.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_4">In the model, returns are estimated at the county level, so although contracts can and do specify prices,</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_5">Constraints on computational time preclude us from running the twenty-ve simulations per bootstrap sample for more than twenty-ve bootstrap samples per scenario. When we calculated the standard error for welfare for scenario 1 using 100 bootstrap samples instead of twenty-ve bootstrap samples, the value of the standard errors were similar using both twenty-ve bootstrap samples and 100 bootstrap samples.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_6">Constraints on computational time preclude us from running the twenty-ve simulations per bootstrap sample for more than twenty-ve bootstrap samples per scenario. When we calculated the standard error for welfare for scenario 1 using 100 bootstrap samples instead of twenty-ve bootstrap samples, the value of the standard errors were similar using both twenty-ve bootstrap samples and 100 bootstrap samples.</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Error bars represent the 95% condence interval, which is calculated using a nonparametric bootstrap.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Identication of Dynamic Discrete Choice Models</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Abbring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Economics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">367394</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">A Microeconometric Dynamic Structural Model of Copper Mining Decisions</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Aguirregabiria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Luengo</surname></persName>
+		</author>
+		<ptr target="&lt;http://aguirregabiria.net/wpapers/copper_mining.pdf&gt;" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A Plant-Level, Spatial, Bioeconomic Model of Plant Disease, Diusion, and Control: Grapevine Leafroll Disease</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Atallah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Conrad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Jp</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<date type="published" when="2015">2015. 199218</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Fifteen Years of Verticillium Wilt of Lettuce in America&apos;s Salad Bowl: A Tale of Immigration, Subjugation, and Abatement</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Atallah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subbarao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Disease</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page">784792</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Population Analyses of the Vascular Plant Pathogen Verticillium dahliae Detect Recombination and Transcontinental Gene Flow</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Atallah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Maruthachalam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Toit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klosterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Subbarao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fungal Genetics and Biology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page">416422</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Department of Pesticide Regulation Announces Work Group to Identify Ways to Grow Strawberries without Fumigants</title>
+		<ptr target="&lt;http://www.cdpr.ca.gov/docs/pressrls/2012/120424.htm&gt;" />
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>California Department of Pesticide Regulation</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Economics of Disease-Loss Management</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Main</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Phytopathology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">381403</biblScope>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">University of California at Davis. Lin Lawell, C.-Y. C. 2017. Wind Turbine Shutdowns and Upgrades in Denmark: Timing Decisions and the Impact of Government Policy</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Carroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Goodhue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-Y</forename><forename type="middle">C</forename><surname>Lin Lawell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017a</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+	<note>The Economics of Decision-Making for Crop Disease Control. Working Paper, University of California at Davis</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Identifying Dynamic Discrete Choice Processes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Magnac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thesmar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page">801816</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Colonization of Spinach by Verticillium dahliae and Eects of Pathogen Localization on the Ecacy of Seed Treatments</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Maruthachalam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Klosterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Anchieta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Subbarao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytopathology</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">268280</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Population Dynamics and the Economics of Invasive Species Management: The Greenhouse Whitey in California-Grown Strawberries</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Mckee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Goodhue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Zalom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Chalfant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Management</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">561570</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Economic Thresholds Under Uncertainty with Application to Corn Nematode Management</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mott</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Monterey County Agricultural Commissioner</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hall</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Monterey County Agricultural Commissioner</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Osteen</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Monterey County Agricultural Commissioner</orgName>
+			</affiliation>
+		</author>
+		<ptr target="&lt;http://www.nass.usda.gov/Statistics_by_State/" />
+	</analytic>
+	<monogr>
+		<title level="m">California Agricultural Statistics: 2013 Crop Year</title>
+				<imprint>
+			<date type="published" when="1984">1984. 2015. 2015</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">151157</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>National Agricultural Statistics Service</orgName>
+		</respStmt>
+	</monogr>
+	<note>Crop Reports and Economic Contributions</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Coevolution of Economic and Ecological Systems</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Noailly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Evolutionary Economics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">129</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Palm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Systematics and the Impact of Invasive Fungi on Agriculture in the United States</title>
+				<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">141147</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Durable Goods and Long-run Electricity Demand: Evidence from Air Conditioner Purchase Behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rapson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Economics and Management</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page">141160</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Impact of Invasive Fungi on Agricultural Ecosystems in the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rossman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Invasions</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">97107</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">On the Optimal Lifetime of Nuclear Power Plants</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rothwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rust</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business &amp; Economic Statistics</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="1997">1997. 195208</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rust</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Econometrics</title>
+				<editor>
+			<persName><forename type="first">R</forename><surname>Engle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Mcfadden</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>North-Holland</publisher>
+			<date type="published" when="1987">1988. 1987. 1994</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">30813143</biblScope>
+		</imprint>
+	</monogr>
+	<note>Structural Estimation of Markov Decision Processes</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Dynamic Discrete Choice Estimation of Agricultural Land Use</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Scott</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ptscott.com&gt;" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Mechanism of Broccoli-Mediated Verticillium Wilt Reduction in Cauliower</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shetty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subbarao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Huisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hubbard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytopathology</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">305310</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Frequency of Verticillium Species in Commercial Spinach Fields and Transmission of V. dahliae from Spinach to Subsequent Lettuce Crops</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P G</forename><surname>Short</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gurung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Klosterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Subbarao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytopathology</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">8090</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Interactive Eects of Broccoli Residue and Temperature on Verticillium dahliae Microsclerotia in Soil and on Wilt in Cauliower</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Subbarao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hubbard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytopathology</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">13031310</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Evaluation of Broccoli Residue Incorporation into Field Soil for Verticillium Wilt Control in Cauliower</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Subbarao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Koike</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Disease</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page">124129</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Measuring the Dynamic Eciency Costs of Regulators&apos; Preferences: Municipal Water Utilities in the Arid West</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Timmins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page">603629</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">United States Environmental Protection Agency</title>
+		<ptr target="&lt;http://www.epa.gov/ozone/mbr/index.html&gt;" />
+		<imprint>
+			<date type="published" when="2012">2012a</date>
+		</imprint>
+	</monogr>
+	<note>The Phaseout of Methyl Bromide</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Valuing Tradeos between Net Returns and Stewardship Practices: The Case of Soil Conservation in Saskatchewan</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Van Kooten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Weisensel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chinthammit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page">104113</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Estimation of Soil Erosion Time Paths: The Value of Soil Moisture and Topsoil Depth Information</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Weisensel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Van Kooten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Western Journal of Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">6372</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Optimal Weed Control Under Static and Dynamic Decision Rules</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">119130</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Relationships Between Verticillium dahliae Inoculum Density and Wilt Incidence, Severity, and Growth of Cauliower</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subbarao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytopathology</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<date type="published" when="1998">1998. 1108 1115</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

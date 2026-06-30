@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C8C72CDEAF96CB9D13972A0DE748945E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Terms</head><p>• Parasite -an organism living on or in another living organism and obtaining food from another organism. • Obligate parasite -always a parasite; can only live on or in another organism.</p><p>Parasites causing leaf rust, stem rust of cereals.</p><p>• Facultative parasite -having the ability to be a parasite; can live on living or non-living host. • Mycoplasmas -microorganisms with no cell wall, no definite shape.</p><p>Aster yellows (purple top in potato and tomato).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Environmental Factors</head><p>• Basic methods of plant disease management.</p><p>• Exclusion of pathogens.</p><p>-Quarantine.</p><p>-Seed certification for low levels of pathogens. -Indexing, testing for pathogens, e.g.. viruses • Eradication or elimination of pathogens.</p><p>-Crop rotations keep populations low.</p><p>-Eradication of alternative hosts.</p><p>-Sanitation, removal of inoculum </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Crop Rotation a key factor</head><p>Basic methods of plant disease management. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>•</head><label></label><figDesc>any of the 3 factors is missing disease will not develop. Fungus, fungi -organisms which lack chlorophyll and range in form from a single cell to a body mass of branched filamentous hyphae. Includes the yeasts, molds, smuts, and mushrooms. • Hyphae, mycelium, thread-like filaments. • Fruiting bodies, structures containing spores; can be signs on the host. • Spores, reproductive unit; seeds; • E.g. Rusts, smuts, leafspots, powdery mildew Pathogen • Bacterium, bacteria -microscopic single-celled organisms; reproduction by division of body into two parts. -Bacterial blights, wilts, fireblight • Viruses -submicroscopic particles of RNA with a protein coat; obligate parasite. -Wheat streak mosaic, cucumber mosaic, potato viruses Pathogen • Nematodes -generally microscopic eelworms or roundworms Usually not a serious problem in North Dakota Carriers or vectors of viruses, fungi, or bacteria.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>--••</head><label></label><figDesc>Once disease established, local environment determines rate of disease development -Disease severity can differ from site to site or be similar in region • Rainfall Risk of disease greatest with highest rainfall levels Measurement of Disease • Incidence of disease -proportion of host units that show symptoms. • Severity of disease -proportion of area or amount of plant tissue that is diseased; percentage of plant destroyed by disease. • Yield loss -proportion of yield that grower will not harvest because of disease. Air-borne, long distance (rusts) -Air-borne, short distance -Seed-borne (smuts) -Insect transmitted (WSMV) How do pathogens survive? -Stubble or residue borne -Wind -Air-borne fungal spores -Wheat leaf rust, stem rust • Insects -Carriers of viruses -Aphids -barley yellow dwarf • Water -Carry or splash spores • People -Carry over long distances -e.g. contaminated farm equipment • Animals and birds Survival of pathogens • Soil -Resistant structures of pathogens, e.g. sclerotia • Seed and plant parts -Pathogens survive in infected seed and plant parts • Insects -e.g. Bacterial wilt pathogen in cucumber beetles • Mild climates Basic methods of plant disease management. • Exclusion of pathogens. • Eradication or elimination of pathogens. • Host Resistance. • Protection. Protect plants from infection.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>•"•</head><label></label><figDesc>Host Resistance. Two types  General resistance. Horizontal resistance. -Slows down disease development. -Stable against all races of pathogen.  Specific resistance. Race specific. -High level; may fail with new race. • Tolerance. Ability of plant to sustain disease without dying or suffering loss Protection. Protect plants from infection. -Cultural practices. » Time of planting; Destruction of volunteers -Handling practices. » Mature potato tubers less prone to infection by late blight fungus. -Managing insect vectors. does IPM stand for?</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>crops usually have similar diseases. • Disease severity and yield losses are higher with crop monoculture.</head><label></label><figDesc></figDesc><table /><note>• Similar</note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Two types of host resistance?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">What are the four main components of integrated pest management?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">What is inoculum?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">What the three most important types of pathogens in ND? a. Fungi, b. Bacteria, Nematodes, c. Mycoplasms, d. Viruses</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">What is a monocyclic or single cyle pathogen? Review</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Would it be easier to control a moncyclic or polycyclic pathogen?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Difference between systemic and non-systemic fungicide?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Why is crop rotation important for managing diseases?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

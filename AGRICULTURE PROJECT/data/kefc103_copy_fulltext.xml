@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">01630F7E0AAB2B3CAA260C8C29828254</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>With the introduction of modern technology in agriculture, and innovative research and development of various machines and tools, flower cultivation has become easier and more profitable than in the past. A cultivator, usually, adopts mechanical farming due to several factors, like uncertainty of weather, unavailability of skilled labour and time constraints. Mechanised farming, thus, helps in completing tasks in less time, saves excessive cost of labour, and is available at all times. Various advanced tools and equipment are now in practice, which eases the cultivation of various crops.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SESSION 1: IMPLEMENTS USED FOR PREPARATION OF LAND</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plough</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mouldboard plough</head><p>This is made of carbon steel or steel alloy, the base of which is at the right angle triangle. The size of the mouldboard plough is measured by the width of the furrow that is opened by the plough. Generally, it can</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tools and Equipment</head><p>open a furrow of about 20 cm and above. It throws the furrow slices only on one side.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disc plough</head><p>It consists of moving circular steel discs of varying sizes. The size of discs includes its diameter and thickness. Discs in different ploughs used are 50-90 cm in diameter. Discs cut, turn and break furrow slices. These can work well in sticky soil, as well as, in very hard and dry soil. It is much heavier and leaves the soil rough and cloddy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sub-soil single arm plough (Patashi plough)</head><p>This plough is useful for heavy soils. It consists of a single adjustable arm having shears at the base and breaks the hard pan developed below the soil surface. It improves drainage in water stagnant soils. It can be inserted up to 50 cm deep in the soil and is most suitable for making a trench of 5-7 cm wide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Harrows</head><p>These are used for the preparation of finer soil by breaking clods, cutting weeds, pulverising the soil surface during field preparation. The harrows may be disc, spike, spring or blade types (Fig. <ref type="figure" target="#fig_0">3</ref>.1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plank</head><p>It is a heavy wooden log, generally, used for compacting and levelling used for seed bed and field preparation for sowing the seeds. Planks are also used immediately after sowing the seeds to ensure proper covering of seeds with soil. It is also used for levelling the soil after ploughing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cultivator</head><p>A cultivator is used to stir and loosen the soil, breaking the clods and destroying the weeds. The cultivator performs intermediary ploughing and harrowing. It also maintains a good tilth, adequate aeration, prevents run-off, and evaporation losses. Cultivators may be shovel, disc and blade types. Tine and spike cultivators are used to tilth the soil (Fig. <ref type="figure" target="#fig_0">3</ref>.2). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SESSION 2: OTHER TOOLS AND EQUIPMENT</head><p>For carrying out various horticultural operations, one needs different kinds of tools and equipment, such as hand cultivator, harrow, spade, secateurs, hand trowel, garden fork, sprinklers, rake, pruning saw, spray pumps, grass shear, budding and grafting knives, etc. These tools and equipment can be categorised as hand tools and power equipment. Hand tools are less expensive than power equipment, often serve multiple uses, and are easier to be used in small spaces. These tools and equipment help one to carry out day-to-day farm operations efficiently, easily, timely and economically.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bill hook</head><p>Bill hook has single or double cutting edges. It is a hook-shaped tool consisting of a curved blade made of high carbon steel and manganese steel, attached to a wooden or plastic handle. It is commonly used for cutting big branches or to remove the old and dead branches from a tree (Fig. <ref type="figure" target="#fig_0">3</ref>.3).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Budding-cum-grafting knife</head><p>A budding-cum-grafting knife is a combination of two knives used for budding and grafting operation. It consists of two blades, one for budding and another for grafting. These blades are fixed to the ends of the handle. Both the blades are made from high carbon or alloy steel and are accommodated in one handle. Both the blades are foldable into the handle. The length of working blade may be 6.5-7.5 cm and width 1.5 cm (Fig. <ref type="figure" target="#fig_0">3</ref>.4). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Slashing and pruning knives</head><p>These knives are used to remove unwanted twigs or branches of a plant or tree. Such a knife is made up of a tang joined rigidly to the handle and a blade. One end of the blade is hooked or curved in order to cut or slash the small branches or twigs of a plant by pulling action.</p><p>The blade is made of high carbon or alloy steel. The handle is made of good quality wood or plastic (Fig. <ref type="figure" target="#fig_0">3</ref>.5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secateurs</head><p>These are meant for cutting the branches, de-shooting, disbudding, cutting of scion sticks, defoliation of leaves from the sticks and topping off of small trees, etc. These are also useful in pruning off pencil thick branches and making of cuttings for propagation (Fig. <ref type="figure" target="#fig_0">3</ref>.6).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grass shear</head><p>Grass shear in various types are used for the maintenance of lawns. A grass shear is used for trimming and side dressing of the lawn. The important parts are cutting blades made of high carbon steel or alloy steel.</p><p>The blades are sharpened at the cutting edges. The length of the blade varies from 15-20 cm (Fig. <ref type="figure" target="#fig_0">3</ref>.7).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hedge shear</head><p>It is used for trimming, pruning and cutting of hedges and shrubs in the desired shape.</p><p>It consists of two blades with tangs. The size of the shear is according to the size of the blades varying from 15-30 cm in length and 0.8 cm thickness (Fig. <ref type="figure" target="#fig_0">3</ref>.8).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Spade</head><p>It is made up of cast iron and is used for digging or turning over the soil, making bunds in the field, and to prepare irrigation channels, etc. (Fig. <ref type="figure" target="#fig_0">3</ref>.9). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rake</head><p>It is used for breaking the soil surface, removing stubbles, small stones and collecting weeds (Fig. <ref type="figure" target="#fig_0">3</ref>.10).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Khurpi</head><p>It is made up of cast iron having a wooden handle on one side end. It is meant for weeding, lifting of seedlings and plants in the nursery, for transplanting the plants in pots and field, and for performing various other operations (Fig. <ref type="figure" target="#fig_0">3</ref>.11).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sprayer</head><p>It is used for spraying insecticides, fungicides, herbicides, fertilisers and various other chemicals in the field. Different types of sprayers are available in the market as per the requirement (Fig. <ref type="figure" target="#fig_0">3</ref>.12).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Watering can</head><p>It is used for watering seed beds, nursery beds and potted plants to avoid washing of the soil and damage to young seedlings (Fig. <ref type="figure" target="#fig_0">3</ref>.13).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pruning saw</head><p>It is used to cut thicker branches of plants (Fig. <ref type="figure" target="#fig_0">3</ref>.14).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wheelbarrow</head><p>It can be used to move heavy things from one place to another, and also to hold garden trash (Fig. <ref type="figure" target="#fig_0">3</ref>.15). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hand cultivator</head><p>It is used for altering and loosening the soil without damaging the roots in the garden nursery (Fig. <ref type="figure" target="#fig_0">3</ref>.16).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tree pruner</head><p>It is used for pruning shoots of trees, which are beyond reach from the ground level (Fig. <ref type="figure" target="#fig_0">3</ref>.17).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Flower scissor</head><p>A flower scissor is used for cutting the flowers with stems. It has two short blades with handles (Fig. <ref type="figure" target="#fig_0">3</ref>.18). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Care and maintenance</head><p>(i) Ensure cleaning of equipment before and after use. (ii) Store all machinery and equipment in a dry place.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3.1: Disc harrows</figDesc><graphic coords="2,81.00,356.18,158.20,105.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3.3: Bill hook</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig</head><label></label><figDesc>Fig. 3.5: Pruning knife</figDesc><graphic coords="5,341.20,67.78,213.68,68.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig</head><label></label><figDesc>Fig. 3.10: Rakes</figDesc><graphic coords="6,78.73,144.86,175.35,66.46" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig</head><label></label><figDesc>Fig. 3.16: Hand cultivator    </figDesc><graphic coords="7,376.00,68.17,177.82,70.80" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fill in the Blanks</head><p>1. The tool used for cutting and budding is known as _______________. 2. ______________ is used for making of cuttings, pruning off pencil thick branches. 3. The tool consisting of two blades with tangs is identified as __________________. 4. Grass shears are used for ___________ and __________ of the lawn.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NOTES</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Check your Progress</head></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Indian Agriculture with Special Reference to Jammu and Kashmir-An Overview</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2023-01-16">16 January, 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Manpreet</forename><surname>Kour</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Agronomy</orgName>
+								<orgName type="institution">SKUAST-Jammu (J&amp;K</orgName>
+								<address>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Sharma</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Agronomy</orgName>
+								<orgName type="institution">SKUAST-Jammu (J&amp;K</orgName>
+								<address>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Harsimran</forename><surname>Singh Bindra</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Biotechnology</orgName>
+								<orgName type="institution">SKUAST-Jammu (J&amp;K</orgName>
+								<address>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Awdeep</forename><surname>Singh</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Kerela Veterinary University</orgName>
+								<address>
+									<settlement>Pookode</settlement>
+									<country>(Kerela) India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Prabjeet</forename><surname>Singh</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Division of Plant Breeding</orgName>
+								<orgName type="institution">SKUAST-Jammu</orgName>
+								<address>
+									<region>(J&amp;K) India</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Indian Agriculture with Special Reference to Jammu and Kashmir-An Overview</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">No. (Print): 0975-1130</idno>
+						<imprint>
+							<date type="published" when="2023-01-16">16 January, 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4F4E1529712E4C7DF68B8832B95ACE79</idno>
+					<note type="submission">Received: 17 November 2022; Revised: 19 December2022; Accepted: 29 December, 2022;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Climate change</term>
+					<term>Current agriculture</term>
+					<term>Natural farming</term>
+					<term>Neem coated urea</term>
+					<term>Rice</term>
+					<term>Wheat</term>
+					<term>Maize</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>At present Indian agriculture is existing on fragmented land holdings with majority of small and marginal farmers. To cater the need of growing population without dwindling natural resources. It is utmost significant to maintain the equilibrium among production of cereals, pulses and oilseeds. To combat the declining productivity, degrading environment under climatic change earlier reports has been presented that highlights to adopt holistic approach through judicial use of resources, establishment of tool like micro-irrigation techniques, promotion of water harvesting structures resources, standardization and adoption of location specific integrated crop management modules, organic and natural farming for agricultural sustainability. However, a collective outline of agriculture practicing tools with respect to challenges faced by Jammu and Kashmir itself has been reported rarely. Thus, in lieu to the discuss and study the current challenges in the agriculture practices of Jammu and Kashmir, a descriptive review is presented to study and deliver the suggestions as remedial. Also, the current review contributes to researchers depending on the scenarios of different resource availability, the further research programmes can be generated that have an impact on farmers community. Besides planners can consider the current review towards further projections, development and decision making purposes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Land use pattern. India globally leads in milk, pulses, spices as well as in livestock population whereas second in rice, wheat, cotton, sugarcane, farmed fish, sheep &amp; goat meat, fruit, vegetables and tea. From aerial point of view, the Indian continent houses ~ 200.20 million hectare gross cropped area out of which 68.77 % is rainfed while 48.65% is available for irrigation. The average holding size of the country is 1.15 mega hectare (mha) with cropping intensity of 143.60%. However, in Jammu and Kashmir (J&amp;K) the available gross cropped area matches to 1.08mha having cropping intensity of 152.11% with irrigated area of 28.04% having holding size 0.59 ha which includes mostly hilly terrain with forest coverage of 0.64 mha and 0.10mha of permanent pastures cover. From climate point of view, J&amp;K experience three agricultural agroclimatic zones namely subtropical, intermediate and temperate with two major agroecologies of irrigated and rainfed <ref type="bibr" target="#b10">(Padder and Mathavan 2022)</ref>. Table <ref type="table" target="#tab_1">1</ref> shows the details of area and productivity of major crops (Agricultural statistics at a glance 2022, 2022; <ref type="bibr" target="#b17">Usda, 2020)</ref>. Both country and state has temporal and spatial distribution of rainfall that lead to more fallow lands due to increase invariability in the precipitation and irrigation water, and low level of mechanization. Further, if these lands can be brought under cultivation it would enhance agricultural production and food security of the poor and marginal farmers <ref type="bibr" target="#b11">(Pandey and Ranganathan 2018)</ref>. Indian food production scenario. To feed the continuously rising population of 1.38 billion, there is a pressure to grow more food, especially cereals. India with total food production of 310.7 million tons has maximum area under rice crop 43.78mha followed by wheat ~31.45mha), besides maximum productivity is observed in sugar cane crop (77893 kg/ha). From state point of view, West Bengal, Uttar Pradesh, Andhra Pradesh and Madhya Pradesh are the leading producers of rice, wheat, maize and pulses. Currently India is actively producing 25.4 million tons of pulses with productivity of 817 kg/ha. The per capita availability of pulses has reached 55.9 gram/day, against ICMR recommendation of 52 gram/day pulse requirement. like pulses the oilseeds production is also stagnant with with further resulted productivity matching to 509 and 789 kg/ha respectively. Thus, these statistics indicates a strong need to bridge the huge gap in pulses and oilseeds production through motivating farmers to shift these marginal land crops to irrigated conditions, devising stable minimum support price (MSPs) and framing policies to boost their production besides restructuring infrastructure <ref type="bibr" target="#b3">(Choudhary, 2018)</ref>. Further, to sustain long term use of natural resources, It will also be necessary to promote direct seeded rice or aerobic rice, there should be demarcation of rice and wheat crop areas and farmers should be convinced to include high values crop in their cropping system <ref type="bibr" target="#b16">(Sunita et al., 2017)</ref>.     Irrigation Scenario. In India, spatial and temporal variation of precipitation has been boundless variation from 11000 mm to 90 m. Having maximum received from Cherrapunji (&gt;11000mm) to lowest receiver is the area of western Rajasthan (&lt;100 mm). Nevertheless, groundwater has been the major source of irrigation due to its timely and independent access over the years. Besides, the over utilisation of groundwater has depleted the water table ~ 64% of the county <ref type="bibr" target="#b6">(Jain et al., 2019)</ref>. As shown in Table <ref type="table" target="#tab_6">6</ref>, the J&amp;K region, the major water for irrigation is meet through the canals (257.51 thousand ha), wells (16.42 thousand ha), tanks (10.54 thousand ha) and others (23.07 thousand ha). Canals alone account for about 84 per cent of the total area irrigated, while the remaining about 16 per cent was irrigated by wells, tanks and other sources. Switching to micro irrigation structures with suitable water harvesting techniques can mitigate the crisis of water exploitation. Efficient method, like micro irrigation, can play greater role in management of irrigation water according to demand of the field crop. Properly designed and managed drip and sprinkler irrigation system have irrigation efficiency of about 90% and 70%, respectively contrast to surface irrigation method which have just about 40%. Further, Farmers should be made aware of the various national as well as state government schemes to utilize the utmost potential of micro irrigation <ref type="bibr" target="#b6">(Jain et al., 2019)</ref>. Fertilizer consumption scenario. As Indian agriculture is progressing, the financial constraints for small and marginal farmers are increasing proportionally. The economic fluctuations have made it hard for the marginal and small farmer segment to manage the basic farming necessities like machines and tractors maintenance or practicing of new technology for crop production. The variation in farmer's financial circle has affected its potential to maintain the fertility of its respective agriculture land through natural resources as they require significant preparation cost and time. Thus, they are left with the alternatives like use of consumable modern inputs viz., agrochemicals in the form of fertilizers and pesticides to enhance their productivity. As shown in Table <ref type="table" target="#tab_7">7</ref>, the subsidies in this sector is further aggravating to 4.16 percent per annum that can further results to disturbing of the N:P:K ratio to 6.7:2.7:1 from ideal requirement of 4:2:1 <ref type="bibr" target="#b13">(Sadhukhan et al., 2018)</ref>. India ranks second in the world and among the SAARC countries in terms of total fertilizer consumption with average per hectare application ~ 145 kg in India with reduced NUE of 15-30%, low P use recovery of 15% the rate of consumption may enhanced to 277kg/ha <ref type="bibr" target="#b5">(Jadhav, 2021;</ref><ref type="bibr" target="#b15">Shukla and Kumar Behera 2022)</ref>. Table <ref type="table" target="#tab_8">8</ref>, outlines the leading Indian states in fertilizer consumption are Telangana (245.3kg/ha) Haryana (224.5kg/ha) Punjab (224.5kg/ha). Whereas, Jammu and Kashmir have consumption of 61.9 kg/ha. However, the scenario of the fertilizer use in Jammu and Kashmir is increasing to the tune of 10 to 15 % every year <ref type="bibr" target="#b8">(Muktar, 2021)</ref>. This excessive use of chemical fertilizers has led to the problems of algae eutrophication in addition to environmental degradation and climate change. As a remedial to these issues, adoption of Integrated nutrient management practices, use of neem coated urea, adoption of location specific crops and genotypes can reduce the fertilizer use to the tune of 20-30 percent <ref type="bibr" target="#b15">(Shukla et al., 2022)</ref>.  Pesticide consumption scenario. Globally India captures the 12 th rank and 3rd across Asia Pacific in pesticide use with highest use share of insecticides (51%) <ref type="bibr" target="#b9">(Nayak and Solanki 2021)</ref>. However, in 2020-21, India share only 1% of the global pesticide use ~ 62193 MT. The Per hectare application rate of pesticide was only 0.31 kg in 2017. Although usage is less but uncontrolled , use of sub-standard pesticide is causing high pesticide residues as well as a polluted environment <ref type="bibr" target="#b2">(Bhat et al., 2021)</ref>. As indicative from Table <ref type="table" target="#tab_9">9</ref>. Indian states like Maharashtra (13243MT), U.P (11557 MT) and Punjab (5193 MT) are leading consumers of pesticides whereas Northeastern states are consuming least pesticides as maximum of them are converting to organic farming. Whereas, Jammu and Kashmir have utilized 2459 MT of pesticides during 2018-19. Use of bio-pesticides viz. Trichoderma spp., Pseudomonas, NPV, Azadirachin, Bacilus etc. have proven to be the finest alternative to chemical pesticides for promoting a sustainable method of development in the agriculture sector, besides reducing pollution. But The lower adaptability and declining interest of farmers community towards biopesticides have become a matter of concern. Besides the challenges in the form of production, manufacture and application in agroecosystems have also raised a question on their long-term sustainability <ref type="bibr" target="#b7">(Mishra et al., 2020)</ref>. However, increase in education level (illiterate to primary, primary to secondary, secondary to college level and college level to university level) leads to 1.35 per cent decline in defensive expenses and 2.5 per cent more willing to buy biodegradable packaged pesticides than the earlier ones <ref type="bibr" target="#b1">(Bhat et al., 2020)</ref>. Herbicide consumption Scenario. The use of herbicide under Indian scenario is ~ 16%, with average annual herbicide use of 40 g/ha due to the lack of technical know-how and less purchasing power of farmer <ref type="bibr" target="#b4">(Choudhury et al., 2016)</ref>. Also, high dose herbicides like butachlor in rice and isoproturon in wheat are replaced by low dose herbicides of pyrazosulfuron in rice, and sulfosulfuron or mesosulfuron + iodosulfuron in wheat crop due to resistance of isoproturon to Phalaris minor <ref type="bibr" target="#b14">(Shekhawat et al., 2022)</ref>. As outlined in Table <ref type="table" target="#tab_10">10</ref>, India is consuming 101 thousand metric tons of herbicides as compared to 3.5 million Metric tons usage globally with 3352 metric tons of consumption in Jammu and Kashmir. The real issues of Indian weed management are small holdings, constraints of labor and mechanical tools; inadequate information of weed biology and shifting weed flora; herbicide resistant weeds; less known impact of climate change. Further there is need role to play in the development, popularization of IWM and adoption of location specific effective, economical and eco-friendly weed management technologies for different ecosystems of India <ref type="bibr" target="#b12">(Rao et al., 2020)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION AND FUTURE SCOPE</head><p>Looking at the present context of agriculture with has been out leading with marginal farmers working on fragmented land holdings unable to satisfied the huge gap between deficit and requirement. To sustain continuous growth and interest of farmers in agricultural profession there is a need to create a general awareness and capacity building in farmers by switching to sustainable and remunerative practices viz., INM, Micro -irrigation, IPM, Promoting organic and natural farming besides devising stable MSPs and framing policies to boost their production and restructuring infrastructure.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Biological Forum -An International Journal 15(1): 308-314(2023)</head><label></label><figDesc></figDesc><table><row><cell>35.9 mt and productivity of 1236kg/ha having a huge</cell></row><row><cell>gap between demand and supply thus have made India</cell></row><row><cell>import reliant for oilseeds, leading to price volatility.</cell></row><row><cell>(Anonymous, 2021). However, as indicative from</cell></row><row><cell>Table 2, 3, 4 and 5 in J&amp;K, the maximum area of UT is</cell></row><row><cell>engaged for cultivating rice (280.51 thousand ha),</cell></row><row><cell>maize (268.67 thousand ha) owing to maximum</cell></row><row><cell>productivity ~2094 kg/ha for rice and 1872 kg/ha for</cell></row><row><cell>maize. Whereas a meagre area is available for pulses</cell></row><row><cell>(16.44 thousand ha) and oilseeds (49.26 thousand ha)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 : Area, Production and Productivity of major crops. Major Crops India World Area (mha) Production (mt) Productivity (kg/ha) Area under Irrigation (%) Area (mha) Production (mmt) Productivity (mt/ha) Food Grain</head><label>1</label><figDesc></figDesc><table><row><cell>Production</cell><cell>-</cell><cell>310.7</cell><cell>-</cell><cell>-</cell><cell></cell><cell>2678.9</cell><cell></cell></row><row><cell>Rice</cell><cell>43.78</cell><cell>124.3</cell><cell>2705</cell><cell>60.1</cell><cell>161.70</cell><cell>498.82</cell><cell>461</cell></row><row><cell>Wheat</cell><cell>31.45</cell><cell>109.86</cell><cell>3421</cell><cell>94.2</cell><cell>215.58</cell><cell>762.37</cell><cell>3.54</cell></row><row><cell>Sorghum/Jowar</cell><cell>4.71</cell><cell>4.8</cell><cell>1005</cell><cell>10.3</cell><cell>39.74</cell><cell>57.92</cell><cell>1.46</cell></row><row><cell>Maize</cell><cell>9.72</cell><cell>31.5</cell><cell>2945</cell><cell>26.7</cell><cell>193.54</cell><cell>1120.13</cell><cell>5.79</cell></row><row><cell>Bajra/Pearl millet</cell><cell>7.52</cell><cell>10.86</cell><cell>1368</cell><cell>10.5</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rapeseed and Mustard</cell><cell>6.78</cell><cell>10.2</cell><cell>1345</cell><cell>-</cell><cell>34.68</cell><cell>69.60</cell><cell>2.01</cell></row><row><cell>Soybean</cell><cell>12.09</cell><cell>12.6</cell><cell>928</cell><cell>-</cell><cell>122.96</cell><cell>339.97</cell><cell>2.76</cell></row><row><cell>Sunflower</cell><cell>0.24</cell><cell>0.22</cell><cell>891</cell><cell>-</cell><cell>26..03</cell><cell>54.20</cell><cell>2.08</cell></row><row><cell>Groundnut</cell><cell>4.89</cell><cell>10.2</cell><cell>2065</cell><cell>-</cell><cell>28.18</cell><cell>48.43</cell><cell>1.72</cell></row><row><cell>Total Oilseeds (9) @</cell><cell>27.04</cell><cell>35.9</cell><cell>1236</cell><cell>28.4</cell><cell>245.73</cell><cell>556.17</cell><cell>2.26</cell></row><row><cell>Sugarcane</cell><cell>4.57</cell><cell>405.3</cell><cell>77893</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gram (Chickpea)</cell><cell>10.17</cell><cell>11.9</cell><cell>1116</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Arhar (Tur)</cell><cell>4.54</cell><cell>4.3</cell><cell>842</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lentil*</cell><cell>1.32</cell><cell>-</cell><cell>894</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total Pulses</cell><cell>28.34</cell><cell>25.4</cell><cell>817</cell><cell>19.1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cotton</cell><cell>13.37</cell><cell>35.2</cell><cell>451</cell><cell>-</cell><cell>33.88</cell><cell>1.30</cell><cell>43.97</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 : Area, Production and Productivity of major crops (J&amp;K UT). Major Crops UT Area (000 ha) Jammu (000 ha) Kashmir (000 ha) UT Production (000 q) Jammu (000 q) Kashmir (000 q) UT Productivity (kg/ha) Jammu (kg/ha) Kashmir (kg/ha)</head><label>2</label><figDesc></figDesc><table><row><cell>Rice</cell><cell>280.51</cell><cell>127.48</cell><cell>153.30</cell><cell>5874</cell><cell>2444</cell><cell>3430</cell><cell>2094</cell><cell>1597</cell><cell>2690</cell></row><row><cell>Wheat</cell><cell>243.93</cell><cell>242.65</cell><cell>1.27</cell><cell>4883</cell><cell>4869</cell><cell>14</cell><cell>2002</cell><cell>2007</cell><cell>1065</cell></row><row><cell>Maize</cell><cell>268.67</cell><cell>197.67</cell><cell>70.99</cell><cell>5414</cell><cell>4085</cell><cell>1329</cell><cell>2015</cell><cell>2067</cell><cell>1872</cell></row><row><cell>Total Pulses</cell><cell>16.44</cell><cell>11.38</cell><cell>5.57</cell><cell>101</cell><cell>58</cell><cell>43</cell><cell>509</cell><cell>771</cell><cell>377</cell></row><row><cell>Total Oilseeds</cell><cell>49.26</cell><cell>12.91</cell><cell>36.34</cell><cell>389</cell><cell>-</cell><cell>-</cell><cell>789</cell><cell>-</cell><cell>-</cell></row><row><cell>Total food</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>grain</cell><cell>976.63</cell><cell>648.19</cell><cell>328.43</cell><cell>16397</cell><cell>11579</cell><cell>4818</cell><cell>1678</cell><cell>1786</cell><cell>1466</cell></row><row><cell>production</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Source: Digest of statistics 2019-20. Directorate of Economics &amp; Statistics, Government of Jammu and Kashmir.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 : Land use pattern of J&amp;K and India.</head><label>3</label><figDesc></figDesc><table><row><cell>Particular</cell><cell>J&amp;K</cell><cell>India</cell></row><row><cell>Net sown area (mha)</cell><cell>0.71</cell><cell>139.42</cell></row><row><cell>Gross sown area (mha)</cell><cell>1.08</cell><cell>200.20</cell></row><row><cell>Cropping Intensity (%)</cell><cell>152.11</cell><cell>143.60</cell></row><row><cell>Holding Size (ha)</cell><cell>0.59</cell><cell>1.15</cell></row><row><cell>Irrigated area (%)</cell><cell>28.04</cell><cell>48.65</cell></row><row><cell>Rainfed area (%)</cell><cell>71.96</cell><cell>68.77</cell></row></table><note>Source: Anonymous, 2020. Digest of statistics 2019-20. Directorate of Economics &amp; Statistics, Government of Jammu and Kashmir. Source: Anonymous, 2021, Ministry of agriculture and farmer welfare, Government of India 2021</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 : Land Resources in J&amp;K UT and India (mha).</head><label>4</label><figDesc>Anonymous, 2020. Digest of statistics 2019-20. Directorate of Economics &amp; Statistics, Government of Jammu and Kashmir. Source: Anonymous, 2021, Ministry of agriculture and farmer welfare, Government of India 2021</figDesc><table><row><cell>Particular</cell><cell>J&amp;K</cell><cell>India</cell></row><row><cell>Forest area</cell><cell>0.64</cell><cell>72.02</cell></row><row><cell>Land put to Non-Agricultural Uses</cell><cell>0.21</cell><cell>44.82</cell></row><row><cell>Barren and uncultivable Land</cell><cell>0.29</cell><cell>16.99</cell></row><row><cell>Permanent Pastures and other Grazing Lands</cell><cell>0.10</cell><cell>10.34</cell></row><row><cell>Fallow Land Including Current Fallow</cell><cell>0.03</cell><cell>26.36</cell></row><row><cell>Net sown area</cell><cell>0.71</cell><cell>139.42</cell></row><row><cell>Source:</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5 : Ranks of Indian states in different crops.</head><label>5</label><figDesc></figDesc><table><row><cell>Crop</cell><cell>Rank</cell></row><row><cell>Rice</cell><cell>West Bengal = 1 st Uttar Pradesh = 2 nd</cell></row><row><cell>Wheat</cell><cell>Uttar Pradesh = 1 st Madhya Pradesh = 2 nd</cell></row><row><cell>Maize</cell><cell>Andhra Pradesh = 1 st Karnataka = 2 nd</cell></row><row><cell>Sugarcane</cell><cell>Uttar Pradesh = 1 st Maharashtra = 2 nd</cell></row><row><cell>Pulses</cell><cell>Madhya Pradesh = 1 st Rajasthan = 2 nd</cell></row><row><cell>Source: (Agricultural statistics at a glance 2022, 2022)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6 : Sources of irrigation in India.</head><label>6</label><figDesc>a unit in the Indian numbering system equal to one hundred thousand (100,000; scientific notation: 10 5 ). http://indiabudget.nic.in/es2015-16/echapvol1-04.pdf Source: Anonymous, 2020. Digest of statistics 2019-20. Directorate of Economics &amp; Statistics, Government of Jammu and Kashmir. Source: Anonymous, 2021, Ministry of agriculture and farmer welfare, Government of India 2021</figDesc><table><row><cell>Particular</cell><cell>Canals</cell><cell>Tanks</cell><cell>Wells</cell><cell>Tubewells</cell><cell>Others</cell><cell>Total</cell></row><row><cell>India (lakh ha)</cell><cell>17005.7</cell><cell>2249.4</cell><cell>1149.4</cell><cell>29108.2</cell><cell>4289.2</cell><cell>64624.7</cell></row><row><cell>J&amp;K (000' ha)</cell><cell>257.51</cell><cell>10.54</cell><cell>16.42</cell><cell>-</cell><cell>23.07</cell><cell>307.55</cell></row><row><cell>A lakh is</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 7 : ALL India Consumption of N,P 2 O 5 &amp; K 2 O (1950-51 to 2020-21). ALL India Consumption of N,P2O5&amp; K2O (1950-51 to 2020-21)</head><label>7</label><figDesc></figDesc><table><row><cell>(`000 tonnes)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 8 : State-Wise (kg/ha) Consumption of Fertilizer (N+P+K).</head><label>8</label><figDesc>Anonymous 2020, RBI report, Agricultural Statistics At a Glance, Ministry of Agriculture and Farmers Welfare, Government of India.</figDesc><table><row><cell>State/Union Territory/Zone</cell><cell>2018-19</cell></row><row><cell>Andhra Pradesh</cell><cell>173.3</cell></row><row><cell>Telangana</cell><cell>245.3</cell></row><row><cell>Karnataka</cell><cell>183.2</cell></row><row><cell>Kerala</cell><cell>36.4</cell></row><row><cell>Tamil Nadu</cell><cell>186.4</cell></row><row><cell>Puducherry</cell><cell>227.9</cell></row><row><cell>Andaman and Nicobar Islands</cell><cell>16.1</cell></row><row><cell>Lakshadweep</cell><cell>-</cell></row><row><cell>Gujarat</cell><cell>135.5</cell></row><row><cell>Madhya Pradesh</cell><cell>90.3</cell></row><row><cell>Chhattisgarh</cell><cell>86.3</cell></row><row><cell>Maharashtra</cell><cell>126.0</cell></row><row><cell>Rajasthan</cell><cell>60.8</cell></row><row><cell>Goa</cell><cell>36.5</cell></row><row><cell>Daman &amp; Diu</cell><cell>38.6</cell></row><row><cell>Dadra &amp; Nagar Haveli</cell><cell>13.9</cell></row><row><cell>Haryana</cell><cell>224.5</cell></row><row><cell>Punjab</cell><cell>224.5</cell></row><row><cell>Uttar Pradesh</cell><cell>170.1</cell></row><row><cell>Uttaranchal</cell><cell>140.7</cell></row><row><cell>Himachal Pradesh</cell><cell>63.3</cell></row><row><cell>Jammu and Kashmir</cell><cell>61.9</cell></row><row><cell>Bihar</cell><cell>227.3</cell></row><row><cell>Jharkhand</cell><cell>59.8</cell></row><row><cell>Odisha</cell><cell>70.6</cell></row><row><cell>West Bengal</cell><cell>161.1</cell></row><row><cell>Assam</cell><cell>73.7</cell></row><row><cell>Tripura</cell><cell>0.0</cell></row><row><cell>Manipur</cell><cell>68.3</cell></row><row><cell>Meghalaya</cell><cell>0.0</cell></row><row><cell>Nagaland</cell><cell>-</cell></row><row><cell>Arunachal Pradesh</cell><cell>-</cell></row><row><cell>Mizoram</cell><cell>55.9</cell></row><row><cell>Sikkim</cell><cell>-</cell></row><row><cell>ALL INDIA (Average)</cell><cell>133.1</cell></row><row><cell>Inference of Highest fertilizer Consuming State (kg/ha)</cell><cell>2018-19</cell></row><row><cell>Telangana</cell><cell>245.3</cell></row><row><cell>Haryana</cell><cell>224.5</cell></row><row><cell>Punjab</cell><cell>224.5</cell></row><row><cell>Source:</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 9 : Consumption of Chemical Pesticides (MT) in Various States/Uts.</head><label>9</label><figDesc>Anonymous, 2020-21 States/UTs Zonal Conferences on Inputs (Plant Protection) for Rabi &amp; Kharif Seasons.</figDesc><table><row><cell>State/UT</cell><cell>2016-17</cell><cell>2017-18</cell><cell>2018-19</cell><cell>2019-20</cell><cell>2020-21</cell></row><row><cell>Andhra Pradesh</cell><cell>2015</cell><cell>1738</cell><cell>1689</cell><cell>1559</cell><cell>1559</cell></row><row><cell>Bihar</cell><cell>790</cell><cell>840</cell><cell>850</cell><cell>850</cell><cell>995</cell></row><row><cell>Chhattisgarh</cell><cell>1660</cell><cell>1685</cell><cell>1770</cell><cell>1672</cell><cell>1639</cell></row><row><cell>Goa*</cell><cell>22</cell><cell>24</cell><cell>25</cell><cell>30</cell><cell>30</cell></row><row><cell>Gujarat</cell><cell>1713</cell><cell>1692</cell><cell>1608</cell><cell>1784</cell><cell>1573</cell></row><row><cell>Haryana*</cell><cell>4050</cell><cell>4025</cell><cell>4015</cell><cell>4200</cell><cell>4050</cell></row><row><cell>Himachal Pradesh</cell><cell>341</cell><cell>467</cell><cell>322</cell><cell>881</cell><cell>56</cell></row><row><cell>Jharkhand</cell><cell>541</cell><cell>619</cell><cell>646</cell><cell>681</cell><cell>1161</cell></row><row><cell>Karnataka</cell><cell>1288</cell><cell>1502</cell><cell>1524</cell><cell>1568</cell><cell>1930</cell></row><row><cell>Kerala</cell><cell>895</cell><cell>1067</cell><cell>995</cell><cell>656</cell><cell>585</cell></row><row><cell>Madhya Pradesh</cell><cell>694</cell><cell>502</cell><cell>540</cell><cell>540</cell><cell>691</cell></row><row><cell>Maharashtra</cell><cell>13496</cell><cell>15568</cell><cell>11746</cell><cell>12783</cell><cell>13243</cell></row><row><cell>Orissa</cell><cell>1050</cell><cell>1633</cell><cell>1609</cell><cell>1115</cell><cell>1158</cell></row><row><cell>Punjab</cell><cell>5843</cell><cell>5835</cell><cell>5543</cell><cell>4995</cell><cell>5193</cell></row><row><cell>Rajasthan</cell><cell>2269</cell><cell>2307</cell><cell>2290</cell><cell>2088</cell><cell>2330</cell></row><row><cell>Tamil Nadu</cell><cell>2092</cell><cell>1929</cell><cell>1901</cell><cell>2225</cell><cell>1834</cell></row><row><cell>Telangana</cell><cell>3436</cell><cell>4866</cell><cell>4894</cell><cell>4915</cell><cell>4986</cell></row><row><cell>Uttar Pradesh</cell><cell>10614</cell><cell>10824</cell><cell>11049</cell><cell>12217</cell><cell>11557</cell></row><row><cell>Uttarakhand</cell><cell>198</cell><cell>210</cell><cell>195</cell><cell>224</cell><cell>135</cell></row><row><cell>West Bengal</cell><cell>2624</cell><cell>2982</cell><cell>3190</cell><cell>3630</cell><cell>3630</cell></row><row><cell>Arunachal Pradesh</cell><cell>18</cell><cell>NR</cell><cell>5</cell><cell>5</cell><cell>2</cell></row><row><cell>Assam</cell><cell>306</cell><cell>241</cell><cell>256</cell><cell>410</cell><cell>420</cell></row><row><cell>Manipur</cell><cell>33</cell><cell>27</cell><cell>NR</cell><cell>25</cell><cell>46</cell></row><row><cell>Meghalaya</cell><cell>Organic State</cell><cell>Organic State</cell><cell>Organic State</cell><cell>Organic State</cell><cell>Organic State</cell></row><row><cell>Mizoram</cell><cell>9</cell><cell>NR</cell><cell>26</cell><cell>27</cell><cell>NR</cell></row><row><cell>Nagaland*</cell><cell>20</cell><cell>20</cell><cell>21</cell><cell>19</cell><cell>36</cell></row><row><cell>Sikkim</cell><cell>Organic State</cell><cell>Organic State</cell><cell>Organic State</cell><cell>Organic State</cell><cell>Organic State</cell></row><row><cell>Tripura*</cell><cell>298</cell><cell>330</cell><cell>349</cell><cell>364</cell><cell>NR</cell></row><row><cell>Andaman &amp; Nicobar</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>1</cell></row><row><cell>Chandigarh</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Dadra &amp; Nagar Haveli</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Daman &amp; Diu</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Delhi</cell><cell>88</cell><cell>NR</cell><cell>110</cell><cell></cell><cell></cell></row><row><cell>Jammu &amp; Kashmir*</cell><cell>2188</cell><cell>2430</cell><cell>2459</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Ladakh</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>2198</cell><cell>3352</cell></row><row><cell>Lakshadweep</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Pondicherry*</cell><cell>43</cell><cell>43</cell><cell>42</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Grand Total</cell><cell>58634</cell><cell>63406</cell><cell>59670</cell><cell>61702</cell><cell>62193</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 10 : Herbicides Consumption Statistics-world, India, and J&amp;K.</head><label>10</label><figDesc></figDesc><table><row><cell>Particulars</cell><cell>World</cell><cell>India</cell><cell>Jammu &amp;Kashmir</cell></row><row><cell>Herbicide Consumption (2020-21)</cell><cell>3.5 million Metric tonnes</cell><cell>101 thousand metric tons</cell><cell>3352 Metric tones</cell></row></table><note>Source: Anonymous 2022, https://www.statista.com/statistics/reportcontent/statistic/1263069</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">Biological Forum -An International Journal 15(1): 308-314(2023)</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Conflict of Interest. None.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Government of India, Ministry of Agriculture &amp; Farmers Welfare, Department of Agriculture, Cooperation &amp; Farmers Welfare, Directorate of Economics and Statistics</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Krishi-Bhawan</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Wani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Kachroo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Qadir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Qureshi</surname></persName>
+		</author>
+		<title level="m">Pesticides Use in Jammu and Kashmir: Invisible Costs &amp; Willingness to Pay for Available Alternative Measures</title>
+				<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="410" to="417" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Apple industry and use of pesticides in Jammu and Kashmir: cost involvement and growers willingness to pay for its mitigation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Wani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Qadir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Qureshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sultan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sarhad Journal of Agriculture</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="607" to="612" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Causes of low production of oilseed in India &amp; further strategy for enhancing the production and productivity</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Choudhary</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Choudhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<title level="m">Herbicide use in Indian agriculture</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Growth &amp; Determinants of Fertilizer Consumption in India: Application of Demand and Supply Side Models</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Jadhav</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Affairs</title>
+		<imprint>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Irrigation in India: Status, challenges and options</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kishore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Soil and Water Conservation</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">354</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+		<title level="m">Biopesticides in India: technology and sustainability linkages. 3 Biotech</title>
+				<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">210</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Muktar</surname></persName>
+		</author>
+		<title level="m">Organic farming in Jammu and Kashmir: Progress, challenges and prospects -JK Policy Institute | Peace &amp; Sustainable Development in J&amp;K</title>
+				<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">PESTICIDES AND INDIAN AGRICULTURE-A REVIEW</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Solanki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Research -GRANTHAALAYAH</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="250" to="263" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Dynamics of Land Use and Land Cover Change in Jammu and Kashmir</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Padder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mathavan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal for Research in Applied Science and Engineering Technology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="26" to="35" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Changing land-use pattern in India: has there been an expansion of fallow lands?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ranganathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Economics Research Review</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">133</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Weed research issues, challenges, and opportunities in India</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mahajan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Wani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crop Protection</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">104451</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effect of Fertility Levels and Cow Urine Foliar Spray on Growth and Yield of Wheat</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sadhukhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bohra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Choudhury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Current Microbiology and Applied Sciences</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="907" to="912" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Exploring alternatives for assessing and improving herbicide use in intensive agroecosystems of South Asia: A review</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shekhawat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Rathore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shukla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Behera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chaudhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fertilizer Use in Indian Agriculture and its Impact on Human Health and Environment</title>
+				<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="218" to="237" />
+		</imprint>
+	</monogr>
+	<note>Advances in Weed Science</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Fertilizer Use in Indian Agriculture and its Impact on Human Health and Environment AICRP-MSPE View project Physiology and Biochemistry of Oil Palm View project</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Shukla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar Behera</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022-03">2022. March</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Changing Pattern of Area, Production and Productivity of Principal Crops in Haryana</title>
+		<author>
+			<persName><forename type="first">Jay</forename><surname>Sunita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kumar Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">India. International Journal of Current Microbiology and Applied Sciences</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1654" to="1661" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><surname>Usda</surname></persName>
+		</author>
+		<title level="m">AGENCY FINANCIAL REPORT United States Department of Agriculture</title>
+				<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Indian Agriculture with Special Reference to Jammu and Kashmir-An Overview</title>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Forum -An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="308" to="314" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

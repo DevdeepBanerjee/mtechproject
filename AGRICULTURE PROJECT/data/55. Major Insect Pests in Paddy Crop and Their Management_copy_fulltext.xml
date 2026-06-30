@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Major Insect Pests in Paddy Crop and Their Management</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jaya</forename><surname>Sai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Entomology, (SHUATS)</orgName>
+								<address>
+									<settlement>Prayagraj</settlement>
+									<country>U.P</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Deepika</forename><surname>Konda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Entomology, (SHUATS)</orgName>
+								<address>
+									<settlement>Prayagraj</settlement>
+									<country>U.P</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ashok</forename><forename type="middle">S</forename><surname>Chandar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Entomology, (SHUATS)</orgName>
+								<address>
+									<settlement>Prayagraj</settlement>
+									<country>U.P</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Major Insect Pests in Paddy Crop and Their Management</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2582-8223</idno>
+					</monogr>
+					<idno type="MD5">75D0AD9A06D8D066E832B67AC54E6475</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Insect</term>
+					<term>Management</term>
+					<term>Oryza sativa</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Rice is the staple food of India. While rice production has so far kept in pace with population increase, future demand for the growing population can be met with strong research support aimed at enhancing rice productivity and sustaining the production. Among the biotic stresses that limit the production, insect pests rank second to weeds. Understanding bio-ecology of the key insect pests forms the basis of developing strategies to regulate their populations. Despite over 100 species of insects being reported to feed on rice, about 6 major and an equal number of minor pests are of economic importance.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>India is the largest rice growing country with about 44-million-hectare area and second largest rice producer with over 97 million tonnes of milled rice. Rice contributes to 40% of the country"s food grain production, provides 32-59% of the dietary energy; 25-44% of dietary protein besides providing livelihood for 70% of the rural population. In short rice is life for us. However, rice production has just kept in pace with the population growth and demand over the past five decades and now showing a slow down. As per some of the projections we need to produce 120 million tonnes of rice by the year 2025 <ref type="bibr">(DRR 2006)</ref>.</p><p>Productivity of rice in India (3.0 tonnes/ha-rough rice) is far lower than that recorded by many rice growing countries including China (6-7 tonnes/ha). One of the reasons for this being the fact that rice is grown in different environments viz., rainfed uplands, rainfed shallow to deep water area with no control on water availability and in water controlled irrigated area. Rice crop in all these environments faces several biotic and abiotic stresses. In order to achieve and sustain higher productivity levels there is a need to manage these stresses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Major Insect Pests of Rice:</head><p>Over 100 insect species have been reported in India to feed on rice plant at various stages of growth and complete their life cycle. However, not all of these may be termed pests from point of economic yield loss. Of these six groups may be termed as major insect pests in terms of their wide spread distribution and intensity of damage to cause economic loss.</p><p>Besides, another six species cause serious economic loss at regional scale and infrequently. A brief description of these pests is given hereunder.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stem Borers:</head><p>Rice stem borers from the order Lepidoptera and families Pyralidae and Noctuidae form the major group of tissue borers. Five different species are reported from different regions of the country. Based on the colour and appearance of the larvae that bore the stem or the adult moths these species are given the common names. The yellow stem borer is widely spread across the country and is far more abundant than any other species. Pink stem borer is next in abundance in northern parts where rice, wheat cropping system prevails. However, more than one species is being reported from different rice growing regions and relative abundance of these species vary with location, crop growth stage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lifecycle:</head><p>A brief description of the life cycle of yellow stem borer that follows may be generalized for other species as well with minor variations. The affected tillers are unproductive and result in yield loss. Early damage in vegetative stage is slightly compensated by production of new tillers while white ear head damage leads to total loss of the grains by the dried panicle. Stem borer damage may be initiated even in the nursery stage but generally seen within one month after transplanting.</p><p>Dead heart damage may escape the notice of farmer when it is low to moderate scale, but white ear damage is distinct.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management:</head><p>Among different control methods that will be elaborated in the subsequent sections, host plant resistance against the pest is not satisfactory. While natural biological control agents are active and keep the pest population in check, augmentation with egg parasites is feasible and partly effective. Novel method of pest management with sex pheromones is effective and desirable. New ecological approach with trap cropping looks promising.</p><p>Effective chemical control methods are known as last resort.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MANAGEMENT:</head><p>Mechanical &amp; physical measures:  Flood the seedbed, for a day, so that only the tips of seedlings are exposed will control BPH.</p><p> Sweep small seedbeds with a net to remove some BPH (but not eggs), particularly from dry seed beds. At high BPH densities, sweeping will not remove sufficient numbers of BPH from the base of the plant. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1.</head><label></label><figDesc>Yellow stem borer (YSB), Scirpophagaincertulas, 2. Pink stem borer (PSB), Sesamia inferens, 3. White stem borer (WSB), Scirpophagainnotata, (e-ISSN: 2582-8223) www.justagriculture.in Page3 4. Dark headed borer (DHB), Chilo polychrysus, 5. Striped stem borer (SSB), Chilo suppressalis.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Fig. 1.1 Yellow stem borer Scirpophagaincertulas(a) Adult male &amp; female moths (b) egg mass (c) larva (d) pupa (e) dead heart (f) white ear head.</figDesc><graphic coords="3,73.50,589.01,452.25,120.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Rice planthoppers are major pests across the country especially in irrigated rice where intensive rice cropping is being done.Three species of planthoppers reported on rice are:  Brown planthopper (BPH), Nilaparvatalugens (e-ISSN: 2582-8223) www.justagriculture.in Page5  Whitebackedplanthopper (WBPH), Sogatellafurcifera (Horvath) and  Smaller brown planthopper (SBPH), LaodelphaxstriatellusFallén. First two of these are of economic importance. Besides direct damage to the crop, BPH and SBPH also transmit viral diseases like rice grassy stunt, rice ragged stunt, and yellowing syndrome. All the three species of planthoppers belong to the order homoptera consisting of bugs with piercing and sucking mouth parts. The planthoppers suck the plant sap from the phloem vessels through their proboscis. Due to this, plant starts wilting with outer most leaves drying first and then the entire plant dries upa symptom often called "Hopper burn". Adult BPH has brownish body (Fig. 1.2a), though body color may show wide range of variation from light brown to dark brown. Adult females are larger than males and bear dark brown ovipositor at the base of the abdomen. Two distinct wing forma are seen in adult stage (Fig. 1.2b). Large winged or macropterous forms have wings extended beyond the tip of the abdomen while short winged or brachypterous forms have smaller wings that do not extend beyond the tip of the body. Macropterous forms are adapted for long distance flights and are known to migrate thousands of kilometres distance across land and sea. These forms are the first to appear in the newly planted field and begin colonization. Eggs laid by these immigrants hatch into tiny nymphs. These nymphs under go four moults -with the intervening five nymphal instars -during the course of their development and turn into brachypterous adults. Such adults are not capable of flying but are more fecund. They lay 300-500 eggs per female and second-generation nymphs and adults crowd the base of the plant and their feeding results in hopper burn. When the plants start drying up, many of the third or fourth generation nymphs develop into macropterous adults and fly out of the field to neighbouring or distant healthy fields. Thus, wing polymorphism is an adaptive strategy of this pest for long distance immigration, colonization, rapid utilization of available resources and outward emigration. WBPH adults are slightly smaller in size with greyish body with a white strip on the upper middle part of abdomen (Fig. 1.2c). Though females display wing polymorphism like those of BPH, brachypterous males are seldom seen. Life cycle is similar to that of BPH. Typical circular patches of damage associated with BPH are not seen when only WBPH infestation is found in the field. Plant drying is more random to begin with, while rapidly www.justagriculture.in Page6 spreading to cover the entire field. SBPH has been recorded from Punjab during 1980s.However, no report of damage to the crop available so far.There are, however, subtle differences in population dynamics and damage symptoms by these two hoppers. WBPH, generally prefers young stage of the crop and is seen in greater numbers during early tillering stage of the crop. BPH, on the other hand, builds up later during reproductive phase of the crop. WBPH preferentially feeds at the base of upper leaves, while BPH prefers base of the plant. However, when the population density on plant increases, such preference will not be seen and plant hoppers are seen feeding on leaf blade and spikelet also. Oviposition marks on leaf sheaths are less distinct in case of BPH (Fig. 1.2d) while plant tissue is slit and an open window is seen where eggs are laid by WBPH (Fig. 1.2e). Initial feeding by WBPH leads to plant leaf turning orange before turning yellow and drying, while exclusive feeding by BPH turn the leaf yellow directly.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 1 . 2</head><label>12</label><figDesc>Fig. 1.2 Rice planthoppers: BPH &amp; WBPH (a) Adult BPH Nilaparvatalugens (Stal) (b) brachypterous (left) and macropterous (right) forms (c) white backed planthopperSogatellafurcifera (Horvath) (d) oviposition site of BPH eggs (e) oviposition site of WBPH eggs on leaf sheath.</figDesc><graphic coords="6,148.19,361.33,301.38,310.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>If natural enemies out-number BPH the risk of hopper burn is low. Even rice already damaged by hopper burn should not be treated with insecticides if natural enemies Brown or White Adults feeding near the base of tillers. Plants nearing to maturity have Hopper burns</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,72.25,212.20,450.75,450.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.25,212.20,450.75,450.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,72.25,212.20,450.75,450.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,72.25,212.20,450.75,450.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,72.25,212.20,450.75,450.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,72.25,212.20,450.75,450.75" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>www.justagriculture.in</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Page13</head><p>There is no wing polymorphism but color polymorphism is reported with blue forms occasionally seen. While direct damage by feeding of these hoppers seldom cause economic loss, their pest status as vectors of virus diseases is high and they need to be controlled through chemicals. Related species, zigzag leafhopper, Recilia dorsalis (Mot.) (Fig. <ref type="figure">1</ref>.5b) and white leafhopper Tettigella spectra are also seen in the rice fields, with former species being reported as vector for visuses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gundhi Bugs (Ear Head Bugs)</head><p>Gundhi bugs or earhead bugs (Heteroptera: Alydidae) (Fig. <ref type="figure">1</ref>.6) cause serious damage to the grains during filling stage.</p><p>Three species of ear head bugs are reported:</p><p>1. Leptocorisaoratorius(F.)</p><p>2. L. acuta (Thunberg) 3. L. pesudolepida Recent studies have indicated that L. oratorius is the most common species in south, west and eastern regions of the country while L. acuta is the dominant species in the north.</p><p>Since the bugs exclusively feed on filling grains, they also feed on many grasses like</p><p>Echinocloacrusgalli, E . colonaand other weeds in the rice field when suitable stage crop is not found. The bugs have also been found to feed on millets and other crops and then migrate to paddy crop. Both adults and nymphs suck the milk from the developing grains in the early stage of grain formation. Infestation is characterised by the discolouration of the panicles as well as the presence of some empty or ill-formed grains in the panicles.</p><p>Though egg predators and parasites are reported to be active in containing the pest populations in the field, severe infestation demand chemical treatment. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A survey of rice insect pests in Nigeria</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Alam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Pest Management</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="115" to="118" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Insect pests of rice in India and their management. Pests and pathogens: management strategies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bentur</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>CRC Press</publisher>
+			<biblScope unit="page" from="1" to="42" />
+			<pubPlace>Boca Raton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pests of rice</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Tiwari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pests and their management</title>
+				<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="9" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Studies on major insect pests of rice crop (Oryzasativa) at Balaghat district of Madhya Pradesh</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Bisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bisen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Entomology and Zoology Studies</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="625" to="629" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Screening of Newer Insecticides Against Major Insect Pests of Rice</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Chaudhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Shamkuwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Raut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Shende</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Undirwade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Katti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biology and management of rice insects</title>
+		<editor>Dale, D.</editor>
+		<imprint>
+			<biblScope unit="page" from="438" to="442" />
+			<date type="published" when="1994">2017. 1994</date>
+		</imprint>
+	</monogr>
+	<note>Insect pests of the rice plant-their biology and ecology</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Comparative bioefficacy of insecticides against major sucking pests of rice</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Firake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Karnatak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Insect Science</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="43" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Major insect pests of rice on hilly tracts of Uttar Pradesh</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Tandon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">India. International Rice Research Newsletter</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="12" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Incidence and severity of rice diseases and insect pests in relation to climate change. In Climate change and food security in South Asia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Rabbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ali</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="445" to="457" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Latest and effective methods of controlling insect pests on rice</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Israel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings/Indian Academy of Sciences</title>
+				<meeting>/Indian Academy of Sciences</meeting>
+		<imprint>
+			<date type="published" when="1959-05">1959. May</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="363" to="368" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Insect pests of rice and their management</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Kalode</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rice in Indian perspective, Part</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="817" to="854" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Efficacy of Chlorantraniliprole 18.5 EC against major pests of rice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Karthikeyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Christy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian journal of plant protection</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Techniques for assessment of losses due to pests and diseases of rice</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Khosla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian Journal of Agricultural Sciences</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="171" to="174" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Pest management in rice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiritani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="279" to="312" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<imprint>
+			<date type="published" when="2022-11">November 2022</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Rice insect pests and agricultural change</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Loevinsohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Litsinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Heinrichs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The entomology of indigenous and naturalized systems in agriculture</title>
+				<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="161" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Insect management in rice. Arkansas rice production handbook</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lorenz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hardke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="139" to="162" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Rice insect pests and their management</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nwilene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Freitas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>BurleighDodds Science Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Management of major insect pests of rice through HPR and judicious insecticides application</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hembrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Prasad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ecofriendly Agriculture</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="60" to="64" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Incidence of insect pests on rice crop under various nitrogen doses</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramzan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akhter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Animal and Plant Sciences</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="67" to="69" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Evaluation of different insecticides against major insect pests of rice in Punjab</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Sandhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Dhaliwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Plant Protection</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="187" to="192" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Efficacy of some insecticides against major insect pests of rice</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Seni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Naik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oryza sativa L. Journal of Entomology and Zoology studies</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1381" to="1385" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Contemporary Management of Insect Pests in Rice</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Razaq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Islam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Modern Techniques of Rice Crop Production</title>
+				<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="349" to="376" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Insect pests of rice and their management in karnataka state of india-a review</title>
+		<author>
+			<persName><forename type="first">Sidde</forename><surname>Gowda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Reviews</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">32</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Field efficacy of some new granular insecticides against major pests of rice</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sontakke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Dash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian Journal of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="353" to="357" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Seasonal variation in major insect pest&quot;s incidence on rice and impact of various abiotic factors on their incidence under Varanasi conditions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sulagitti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raghuraman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Sathua</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Entomology and Zoology Studies</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1060" to="1063" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Efficacy of certain newer insecticides in the control of major pests of rice</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uthamasamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jayaraj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesticides</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

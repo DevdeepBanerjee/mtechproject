@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Bacterial Diseases of Crops: Epidemiology, Symptoms and Management</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Excellent Publishers</publisher>
+				<availability status="unknown"><p>Copyright Excellent Publishers</p>
+				</availability>
+				<date type="published" when="2020-06-10">10 June 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Abha</forename><surname>Saxena</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ayurvet Research Foundation</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Deepti</forename><surname>Rai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ayurvet Research Foundation</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anup</forename><surname>Kalra</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ayurvet Research Foundation</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mohan</forename><forename type="middle">Ji</forename><surname>Saxena</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Ayurvet Research Foundation</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Bacterial Diseases of Crops: Epidemiology, Symptoms and Management</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Current Microbiology and Applied Sciences</title>
+						<title level="j" type="abbrev">Int.J.Curr.Microbiol.App.Sci</title>
+						<idno type="ISSN">2319-7692</idno>
+						<idno type="eISSN">2319-7706</idno>
+						<imprint>
+							<publisher>Excellent Publishers</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="1483" to="1499"/>
+							<date type="published" when="2020-06-10">10 June 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">363DE4EAF1570D34E5FA3E650620AE37</idno>
+					<idno type="DOI">10.20546/ijcmas.2020.906.183</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Bacterial diseases</term>
+					<term>Epidemiology</term>
+					<term>Symptoms and management</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Most of plant pathogenic bacteria are rod shaped; the only exceptions are those belonging to genus Streptomyces which are filamentous. The cell walls of most species are enveloped with slimy substance, which in case of forming the thicker layer is called a capsule. The capsule slimes facilitate surviving of bacteria the unfavorable conditions, e.g. dryness and protecting them against deleterious factors. Most of bacteria produce out of the cell delicate flagella, which are filamentous structures build of proteins. Flagella are significantly longer than bacterial cells; in some species only one flagellum occurs (monotrichous flagellation), in others flagella are located on both ends of cell (lophotrichous), there are also bacteria flagellated at various places on cell Plants are the source of the air we breathe and most of the food we eat, yet we often don't ponder about keeping them healthy. This can have disturbing results. FAO estimates that up to 40% of food crops are lost due to plant pests and diseases annually. This leaves millions of people without enough food to eat and seriously damages agriculture -the primary source of income for rural poor communities. Plant health is increasingly under threat. Climate change and human activities, have altered ecosystems, reducing biodiversity and creating new niches where pests can thrive. At the same time, international travel and trade has tripled in volume in the last decade and can quickly spread pests and diseases around the world causing great damage to native plants and the environment. Protecting plants from pests and diseases is far more cost effective than dealing with full-blown plant health emergencies. Plant pests and diseases are often impossible to eradicate once they have established themselves and managing them is time consuming and expensive. Prevention is critical to avoiding the devastating impact of pests and diseases on agriculture, livelihoods and food security and many of us have a role to play. <ref type="bibr">(peritrichous)</ref>. When single cell multiplies on artificial agar media, it produces the colony. The shape and size of colonies of various bacterial species vary and constitute an important feature helping their identification. The colonies can be flat, raised or wrinkled, circular or oval, shiny or mat. The colony colour of most species is whitish or greyish, sometimes yellowish.</p><p>The bacterial proteins play protective, nutritional and transportation functions. In cytoplasm nucleoid (chromosome) built of deoxyribonucleic acid (DNA) is located. Moreover, autonomic DNA structures called plasmids are often present. The plasmid genes are responsible for various traits of bacteria, like synthesis of toxins and other compounds related to their pathogenicity, as well as the resistance to unfavorable environmental conditions. Some of gram positive bacteria produce endospores, which help them survive unfavourable conditions <ref type="bibr" target="#b2">(Billing, 1987;</ref><ref type="bibr" target="#b0">Agrios, 1997;</ref><ref type="bibr" target="#b6">Sobiczewski, Schollenberger, 2002;</ref><ref type="bibr">Kryczynski et al., 2002;</ref><ref type="bibr" target="#b4">Janse, 2005)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Epidemiology</head><p>Plant pathogenic bacteria are heterotrophic organisms, which can develop on host plants as parasites. They are not able to penetrate directly plant tissue. Infection usually occurs through natural openings like stomata, hydatodes, nectaroides as well as injures of various origin. The important places of infection appeared to be leaf scars. <ref type="bibr">(Zemdirbyste Agriculture, Vol 95, no.3 (2008)</ref> p151-157)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Major Bacterial diseases in food crops</head><p>Listing below few important food plant's disease:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rice</head><p>Rice (Oryza sativa L) is an important cereal crop grown in different countries of the world. In India, during 2018-19 the total production of Rice was 283.3MT. (Agribusiness, New Delhi Published on June 03, 2019). Out of 70 diseases known to attack the crop, 11 are of bacterial origin. These diseases are grouped into seedling, foliar, leaf sheath and grain and culm and root disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Seedling diseases</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Seedling blight</head><p>Seedling blight is a secondary syndrome associated with foot and root rot diseases. It is common in Japan, and India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>Early symptoms are characterized by a basal chlorosis and withering of the second or third leaves. Infected seedlings later become reddish brown and desiccated but do not exhibit a soft rot. With severe infection, root growth is retarded and seedlings easily lodge (Fig. <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>The disease is caused by Pseudomonas plantarii. The bacterium is a Gram-negative, non-spore forming, non-encapsulated rod, with one to three polar flagella. P. plantarii produces a compound called tropolone, which is responsible for the retardation of root growth and leaf chlorosis of infected rice seedlings <ref type="bibr" target="#b1">(Azegami et al., 1987)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>The application of iron compounds suppresses seedling blight, because the production of tropolone is inhibited in the presence of iron. Athionine producing gene from oat, coding for antimicrobial activity, when transferred to rice by biotechnological intervention, conferred resistance against the pathogen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial brown stripe</head><p>Bacterial Brown Stripe also in known a bacterial stripe, occurs in upland and wet land nurseries as well as in nursery boxes. Although it is widely distributed in the rice growing countries <ref type="bibr" target="#b7">(Shakya et al., 1985)</ref>, it does not cause much damage to production.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>The symptoms of the disease in the seedling stage were divided into four types, viz, inhibition of germination, brown stripes occurring interveinally or along the midrib or leaf margins, curving of a sheath and abnormal elongation of mesocotyl (Fig. <ref type="figure">2</ref>). After the infected seedlings were transplanted to paddy fields, symptoms were masked. Natural occurrence of the disease was not seen after the tillering stage, except for the case where rice plants were submerged in the water by flood <ref type="bibr">(Kadota and Ohuchi, 1983)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>Bacterial brown stripe is caused by both Pseudomonas avenae and P. syringaepv. panici. P. avenae is a Gram-negative, nonspore forming, non-encapsulated rodwith one or two flagella. P. syrinage pv. panici, is also a Gram-negative, spore forming, nonencapsulated rod <ref type="bibr" target="#b7">(Shakya et al., 1985)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>Dry heat treatment at 65 O C for 6 days can eliminate the pathogen from seeds <ref type="bibr">(Zeigler and Alvarez, 1988)</ref>. In nursery boxes, spraying of Kasugamycin can control the pathogen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Foliar diseases: Through Leaf surface</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial blight</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Distribution</head><p>Bacterial blight is one of the most devastating diseases of rice worldwide and is found both in tropical and temperate regions. Common in India and Bangladesh</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>There are three main symptoms caused by bacterial blight-leaf blight, wilt and yellow leaf or pale yellow. Leaf blight, the most common syndrome, generally occurs from the maximum tillering stage onward. It begins as water-soaked stripes on the leaf blades. The stripes increase in length and width, become yellow and then white, and may coalesce to cover the entire leaf blade. Drops of bacterial exudates may be observed on young lesions. Older infected leaves may appear grayish from the growth of saprophytic fungi. Small, circular lesions with water-soaked margins may also form on the glumes with severe infections. Infected plants produce fewer and lighter grains and the grain is of poor quality. The wilt syndrome, known as 'Kresek' is the most destructive manifestation of the disease found between the temperature 28 0 C and 34 °C. It occurs in the tropics from the seedlings to the early tillering stage. Leaves of infected plants wilt and roll up, turning grayish green. The leaves then turn yellow to straw-colored and entire plant generally dies. Plants that do survive are stunted and yellowish. Total crop failure is not uncommon with Kresek. In the tropics, yellow leaf or pale yellow syndrome is associated with bacterial blight (Fig. <ref type="figure">3</ref>). The youngest leaf of the plant becomes uniformly pale yellow or has a broad yellow stripe. The bacteria are not present in the leaf itself but can be found in the internodes and crowns of affected stems <ref type="bibr" target="#b9">(Saha et al., 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal Organism -Xanthomonas oryzae</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>Management of bacterial blight, comprises ofi) use of host resistance ii) modification in cultural practices iii) biological control iv) use of natural products or botanicals extracts and v) use of conventional and non-conventional chemicals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Host resistance</head><p>Genetic resistance is the most effective, practical and economic method of disease management. Considerable emphasis is being given on identification and incorporation of bacterial blight resistant gene donors in commercial cultivars using conventional breeding methods and molecular approaches</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial Leaf streak</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Distribution</head><p>The disease is widely distributed in tropical Asia and in West Africa in both lowland and upland rice growing areas. This disease is common in India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>The disease can occur at any growth stage and initially appears as small as interveinal, water soaked streaks. The streaks are at first dark green and later become translucent. The streaks enlarge and coalesce and eventually become light brown (Fig. <ref type="figure">4</ref>). Numerous tiny yellow beads of bacterial excaudate are common, covers the surface on lesions. Eventually, entire leaves turn brown and then grayish white and die. According to <ref type="bibr">Shekhawat and Srivastava (1972)</ref> infection of florets and seeds results in brown or black discoloration and death of ovary, stamens and endosperm and browning of glumes. Seeds fail to mature but the rachis do not show any symptoms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>The disease is caused by Xanthomonas oryzae pv. oryzicola. The bacterium is a gramnegative, non-spore forming rod with a single polar flagellum.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>According to <ref type="bibr">Shekhawat and Srivastava (1972)</ref>, since the disease is seed-borne, seed treatment i.e overnight soaking of seeds in 0.025%streptocycline solution and hot water treatment at52 0 C for 30 minutes are effective in eradicating seed infection. They have also reported that the sprays of Vitavax at 0.15-0.3% are effective in preventing infection and lesion development. In India IR-20, Krishna and Jagannath have shown good tolerance to the disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Halo blight</head><p>Halo blight, was first reported in 1985 in Japan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pseudomonas syringae</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>The disease is characterized by circular, pale green to yellowish brown lesions (Fig. <ref type="figure">5</ref>), 2-10 um in diameter on leaf blades. The lesions are surrounded by a distinct halo and have a dark brown spot or stripe in the center. The lesions may coalesce to form large blotches. The disease has not caused serious damage to date <ref type="bibr" target="#b5">(Kuwata, 1985)</ref> Leaf sheath and grain rot</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sheath brown rot</head><p>Sheath brown rot has been reported inAsia, South America, Central Africaand Madagascar.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>On seedlings, a systemic discoloration of the leaf sheath occurs, which may spread to the midrib or veins of the leaves. On the mature plants, symptoms typically occur on the flag leaf sheath from the booting to heading stage, become dry and the panicle withers. Glumes of panicles emerging from infected sheaths exhibit watersoaked lesions that turn light brown. Grains of infected panicles are discolored, deformed or empty <ref type="bibr">(Zeigler and</ref><ref type="bibr">Alvarez, 1987, 1990)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>The disease is caused by Pseudomonas fuscovaginae, which is a Gram negative, nonspore forming rod, with one to four polar flagella <ref type="bibr" target="#b10">(Tanii et al., 1976)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>Use of clean seed or seed treated with dry heat at 64 0 C for 6 days is important in management of sheath brown rot. Antibiotics such as streptpmycin, alone or in combination with oxytetracycline also, can effectively manage sheath brown rot if applied at or a few days after panicle emergence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sheath rot</head><p>Sheath rot caused by Pseudomonas syringae pv syringae (syn P. oryzicola) is identicalin symptomatology to sheath brown rot caused by P. fuscovaginae. It is the only reported sheathrot pathogen of rice in Chile and has been reported from Asia, Australia and Hungary <ref type="bibr" target="#b13">(Zeigler and Alvarez, 1990)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grain rot</head><p>Grain rot occurs in Japan, Korea and Taiwan. The disease is manifested as a grain rot of mature plants in the field and also as a seedling rot <ref type="bibr" target="#b2">(Chien et al., 1983)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>On seedlings, symptoms consist of abrown, water-soaked soft rot of leaf sheaths accompanied by wilting or soft rot of the leaves. On the panicle grains are shrunken and pale green, becoming dirty yellow to brown and dry (Fig. <ref type="figure">7</ref>). A brown margin between the infected and healthy parts of the grain is a diagnostic feature of the disease. Amild rot of the flag leaf sheath or the flag leaf sheath collar occurs <ref type="bibr" target="#b13">(Zeigler and Alvarez, 1990)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>Grain rot is caused by Pseudomonas glumae. The bacterium is a Gram negative rod with one to three polar flagella.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>The pathogen may be eradicated fromsmall seed samples with dry heat treatment of 65 0 Cfor 6 days. Pre-treatment of rice seeds with a high concentration of (1010cfu/ml) of the avirulent strain of P.glumae is the most effective method for reducing the incidence. (Ref-https://www.plantdiseases.org/grain-rotrice)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial palea browning</head><p>The disease occurs in Japan and affects grain quality. Disease incidence as high as 32%and reduction in 1000 seed weight by as much as15% have been reported <ref type="bibr">(Azegami et al., 1983)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>Symptoms usually first appear at early. Initially, light brown, water soaked lesions occur on the lemma or palea. The lesions then turn dark brown, The discoloration occurs most frequently on the palea. Infected panicles have more immature grains and lighter grains at harvest, and infected grains become brown after milling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>The bacterium responsible for the disease is Erwnia herbicola. It is Gram negative, and fermentative, with peritrichous flagella.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>No management for the disease is available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Culm and root disease</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial foot rot</head><p>Foot rot occurs in India, Bangladesh, Korea and the Philippines <ref type="bibr" target="#b3">(Goto, 1979)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>Leaf sheaths of infected plants typically exhibit a dark brown decay, and attached leaves turn yellow and wilt. Infection often begins in the ligules. The nodes, culms, and crown also become rotted, and infected tillers can easily be detached from the crown. Infected culms and internodes turnblack (Fig. <ref type="figure">8</ref>). Roots attached to infected nodes decay and fall off. Bacterial ooze may be present inside theculms and infected plants have an unpleasant odor. In some cases, the young leaves of tillers that show no sheath browning may wilt as a result of systemic infection of the crown alone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>The disease is caused by Erwinia chrysanthemi. The bacterium is a Gramnegative rod with four to six peritrichous flagella.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>No management for the disease is available</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wheat</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial leaf streak</head><p>Bacterial leaf streak (BLS) of Wheat, also known as bacterial leaf stripe, is caused by Xanthomonas translucens. The disease, called black chaff when on the glumes, is seed-borne and a constraint for international germplasm exchange Symptoms Leaf streak and black chaff Typical symptoms on the leaf consist of elongated, light brown lesions, several centimeters long, which are initially distinct but later coalesce to cover larger solid areas. Early symptoms are characterized by translucent stripes that are easily seen under incident light (Fig. <ref type="figure">9</ref>). Initially lesions are water-soaked and produce honey-like exudates under humid conditions. If undisturbed, the exudates harden into yellowish, resinous granules studding the surface of the lesions and are easily detachable. Frequently, these droplets coalesce when there is dew, rain or guttation water to form conspicuous milky drops that may later spread over the leaf surface and dry down as thin, greyish, almost transparent flakes. In commercial wheat fields, particularly without sprinkler irrigation, lesions with no exudate can be observed this makes it difficult to identify the cause of the symptoms without isolating the pathogen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal Organism -Xanthomonas translucens</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>Discarding infected seed prior to planting should be the primary control measure, since sowing pathogen-free seed is the first logical step in avoiding an outbreak. Foundation seed should be multiplied in disease-free areas where climatic conditions are unfavourable for the development of epidemics. Seed should be disinfected before sowing even if currently available seed treatments are not fully satisfactory. Wheat growers should keep in mind that dry environments do not hamper the multiplication of X. t. pv. undulosa once it is in the leaf and that temperature has a major effect on pathogen multiplication in leaf tissue.</p><p>The most economical and environmentally friendly way of controlling BLS is through genetic resistance.</p><p>(Ref-https://extension.umn.edu/small-grainspest-management/bacterial-leaf-streak-andblack-chaff-small-grains)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial leaf blight</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Description</head><p>The bacterium, Pseudomonas syringae pv. syringae, causes a disease favored by cool to mild temperatures and high relative humidity. The bacterium is in seeds, soil, plant residues, and water and may spread by infected seed or water. Severe epidemics are periodic in irrigated heat. Other cereals may be affected, including oats, rye, and triticale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal organism</head><p>The bacterium, Pseudomonas syringae pv. syringae, causes a disease</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>Generally, after boot stage, water-soaked spots develop which expand and progress from gray-green to tan-white. Spots may coalesce into irregular streaks or blotches, and entire leaves may turn brown and die while heads and glumes remain symptomless. Slimy droplets may develop on leaves in wet weather (Fig. <ref type="figure">10</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cultural measures</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Basal glume rot</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Description</head><p>The leaves, culms, and spikes of wheat can be infected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Casual organism</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pseudomonas syringae pv. atrofaciens</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>Infections begin as small, dark green, watersoaked lesions that turn dark brown to blackish in colour. On the spikelets, lesions generally start at the base of the glume and may eventually extend over the entire glume. Diseased glumes have a translucent appearance when held toward the light. Dark brown to black discoloration occurs with age (Fig. <ref type="figure">11</ref>). The disease may spread to the rachis, and lesions may also develop on the kernels. Under wet or humid conditions, whitish grey bacterial ooze may be present. Stem infections result in dark discoloration of the stem; leaf infections result in small, irregular, water-soaked lesions. Symptoms can be confused with those of other bacterial diseases, genetic melanism (false black chaff), septoria blotch, and frost damage Management Grow resistant varieties. Follow field sanitation. Use certified seeds. Avoid late sowing. Use solarisation technique for seed Treatment that is during hot summer months in morning hours the seed is soaked in cold water and kept in hot sun from 8.00 AM to 12.00 noon and then dried in the afternoon, precautions should be taken so that there is no damage to the viability of the seed. Up-root the affected plants before ear emergence if they are affected with disease.</p><p>(Ref-http://agropedia.iitk.ac.in/content/basalglume-rot)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Horticulture crops</head><p>Common bacterial diseases of vegetable crops are provided in the table below with some typical symptoms</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other bacterial diseases of vegetables include</head><p>Peppery leaf spot -Pseudomonas syringae pv. maculicola (brassicas) Varnish spot -Pseudomonas spp. (lettuce) Corky root -Rhizomonas suberifaciens (lettuce); Angular leaf spot -P. syringae pv. lachrymans (cucurbits); Bacterial pith necrosis -Pseudomonas corrugata and other bacteria (tomatoes); Common bacterial blight -Xanthomonas campestris pv. phaseoli (beans) Halo blight -Pseudomonas syringae pv. phaseolicola (beans) Black leg -Erwinia carotovora pv. atroseptica (potatoes).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management</head><p>Disease management strategies aim to favour the host plant's growth and development while attacking vulnerable stages in the lifecycle of the pathogen to prevent or restrict its development. The key means of bacterial disease management include: Exclusion or eradication of the pathogen (quarantine and use of pathogen-tested seeds and propagated materials) Use of clean transplants Monitor crops regularly and use predictive models Reduce the pathogen levels by crop rotation Remove weeds and incorporate crop residues that can host the disease Protect the host plant by using resistant plant varieties Minimise mechanical damage to crops and damage by insect pests Avoid working in crops when they are wet Spray with a registered bactericide when weather conditions favour disease development to prevent infection Understand chemical resistance and rotation of chemical groups If the plants are already infected, isolate and destroy them and prune infected leaves, but avoid excessive handling of diseased plants; if the disease is systemic and has spread throughout the plant, the plant cannot recover and should be destroyed (burning or burying) Use correct temperatures and packing conditions during transport and storage. (Ref-https://ausveg.com.au/biosecurityagrichemical/crop-protection/overviewpests-diseases-disorders/bacterialdiseases) In conclusion, bacterial diseases continue to intrigue the plant pathologists in its management as chemical control is really hard to devise. Specific bactericides are gradually coming to the fore but it has to be coupled with cultural, breeding and biotechnological techniques so as to usher in new approaches of the disease management. Humidity and overhead irrigation.</p><p>Tomato. Small dark spots surrounded by a yellow halo on leaves dark raised specks on fruit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial brown spot (Pseudomonas syringae pv. syringae)</head><p>Cool, wet, windy conditions.</p><p>Beans.</p><p>Tan to reddish-brown spots on leaves.</p><p>Water-soaked spots on pods which enlarge and become sunken and tan with distinctive reddish-brown margins. In conclusion, Bacterial diseases continue to intrigue the plant pathologists in its management as chemical control is really hard to devise. Specific bactericides are gradually coming to the fore but it has to be coupled with cultural, breeding and biotechnological techniques so as to usher in new approaches of the disease. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>International</head><label></label><figDesc>Journal of Current Microbiology and Applied Sciences ISSN: 2319-7706 Volume 9 Number 6 (2020) Journal homepage: http://www.ijcmas.com</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 Fig. 2 Fig. 3 Fig. 4 Fig. 6 Fig. 7 Fig. 9</head><label>1234679</label><figDesc>Fig.1 Seedling blight of rice</figDesc><graphic coords="11,218.30,99.60,175.40,131.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig- 1 -Fig. 3 -Fig. 12 -</head><label>1312</label><figDesc>Fig-1 -Seedling Blight of Rice PUB-3117 The LSU AgCenter is a statewide campus of the LSU System and provides equal opportunities in programs and employment Fig.2-Bacterial Brown Stripe -Rice Ref-http://www.knowledgebank.irri.org/training/fact-sheets/pestmanagement/diseases/item/bacterial-leaf-streak Fig.3-Bacterial Blight of Rice Ref-Online plant Clinic , Dept of Agriculture Govt.Of Kerala Fig.4-Bacterial Leaf Streak Refhttp://www.cpsskerala.in/OPC/pages/riceDiseasebacleafstreak.jsp Fig. 5-Halo Blight Ref-https://www.agric.wa.gov.au/mycrop/diagnosing-halo-blight Fig.6-Sheath Brown rot-Rice Ref-http://www.knowledgebank.irri.org/training/fact-sheets/pestmanagement/diseases/item/bacterial-sheath-brown-rot Fig. 7-Grain rot of Rice Ref-https://www.plantdiseases.org/grain-rot-rice Fig.8-Bacterial Foot Rot -Rice Ref-https://www.lsuagcenter.com/topics/crops/rice/diseases/photos Fig.9-Bacterial Leaf Streak-Wheat Ref-Internet source of Minnesota Wheat growers Fig 10.-Bacterial Leaf Blight in Wheat Ref-http://agropedia.iitk.ac.in/content/bacterial-diseases Fig-11. Basal Glume rot in Wheat Ref-http://agropedia.iitk.ac.in/content/basal-glume-rot Fig.12-Black rot in Cabbage Ref-https://www.growveg.com/plant-diseases/us-andcanada/brassica-black-rot Fig.13-Bacterial canker in tomato Ref-Educational material -University of Minnesota Extension Fig. 14-Bacterial soft rot in carrot Ref-Greenlife crop protection -Africa Fig.15-Bacterial slime oozes from the eyes of tubers and soil sticks to the tubers where the slime has emerged (Andrew Taylor). (©2020 DPIRD)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,162.70,99.60,286.45,198.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,205.45,339.70,201.10,290.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,321.25,250.20,261.10,195.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>diseases are difficult to control once symptoms are evident in the field.</figDesc><table><row><cell cols="2">Avoid the disease by planting pathogen-free</cell></row><row><cell>seed.</cell><cell></cell></row><row><cell cols="2">Irrigate less frequently to keep relative</cell></row><row><cell cols="2">humidity lower.</cell></row><row><cell cols="2">Seed treatment Du-Ter and Captan, dissolved</cell></row><row><cell cols="2">in dichloromethane and Blitox, Terramycin</cell></row><row><cell cols="2">and Benlate dissolved in acetone were</cell></row><row><cell cols="2">effective in elimination of the pathogen from</cell></row><row><cell>seed.</cell><cell></cell></row><row><cell cols="2">Spray Streptocycline at 0.3 g in 10 liter of</cell></row><row><cell cols="2">water has significant effect in controlling the</cell></row><row><cell cols="2">initial infection.</cell></row><row><cell>(Ref-</cell><cell>http://agropedia.iitk.ac.in/content/</cell></row><row><cell cols="2">bacterial-diseases)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table . 1</head><label>.</label><figDesc>Common bacterial diseases of vegetable crops are provided in the table below with some typical symptoms</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>soaked markings.</cell></row><row><cell>Bacterial wilt</cell><cell>High temperatures, high</cell><cell>Potato; tomato;</cell><cell>Wilting, yellowing and</cell></row><row><cell>(Ralstonia</cell><cell>soil moisture and poor</cell><cell>capsicum; eggplant.</cell><cell>stunting of plants but they may</cell></row><row><cell>solanacearum)</cell><cell>drainage. Once infection</cell><cell></cell><cell>wilt rapidly and die without</cell></row><row><cell></cell><cell>has occurred, severity of</cell><cell></cell><cell>any spotting or yellowing</cell></row><row><cell></cell><cell>symptoms is increased</cell><cell></cell><cell>vascular tissue appears brown</cell></row><row><cell></cell><cell>with hot and dry</cell><cell></cell><cell>and water-soaked</cell></row><row><cell>Bacterial disease</cell><cell>Factors conducive to conditions, which facilitate wilting. spread</cell><cell>Crops affected</cell><cell>a white ooze appears when Symptoms pressure is applied to affected tubers or stems.</cell></row><row><cell>Black rot Bacterial leaf</cell><cell>Warm, wet conditions. Long periods of leaf</cell><cell>Brassicas. Beet; spring onions;</cell><cell>Light-brown to yellow V-Beet -irregular, round leaf</cell></row><row><cell>(Xanthomonas spot/Bacterial</cell><cell>wetness.</cell><cell>leeks; rocket;</cell><cell>shaped lesions on the leaf, spots with a grey centre</cell></row><row><cell>campestris pv. spot/Bacterial</cell><cell></cell><cell>coriander.</cell><cell>which become brittle and dry surrounded by a purple margin.</cell></row><row><cell>campestris) blight</cell><cell></cell><cell></cell><cell>with age. Spring onions/shallots -pale</cell></row><row><cell>(Pseudomonas</cell><cell></cell><cell></cell><cell>Vein blackening with the yellow to light-brown lesions</cell></row><row><cell>syringae -various</cell><cell></cell><cell></cell><cell>necrotic area. with a water-soaked</cell></row><row><cell>Bacterial canker strains)</cell><cell>Moderate temperatures</cell><cell>Tomato; capsicum;</cell><cell>Seedlings may die and older appearance around the margins</cell></row><row><cell>(Clavibacter</cell><cell>and high humidity.</cell><cell>chilli</cell><cell>plants may wilt and die outer leaves wither and die and</cell></row><row><cell>michiganensis pv.</cell><cell></cell><cell></cell><cell>eventually. Older plants have youngest leaf turns lemon to</cell></row><row><cell>michiganensis)</cell><cell></cell><cell></cell><cell>leaves that turn yellow and wilt light-green.</cell></row><row><cell></cell><cell></cell><cell></cell><cell>only on one side. Leeks -brown streaking on</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Cankers on stems and fruit. the shank.</cell></row><row><cell>Bacterial blight</cell><cell>Cool, wet, windy</cell><cell>Peas.</cell><cell>Tissue inside stems becomes Water-soaked spots on leaves</cell></row><row><cell>(Pseudomonas</cell><cell>conditions.</cell><cell></cell><cell>discoloured. and stipules which become</cell></row><row><cell>Bacterial soft rot syringae pv. pisi)</cell><cell>Warm, wet conditions.</cell><cell>Wide range of</cell><cell>Wet, slimy, soft rot that affects dark-brown and papery in</cell></row><row><cell>(Pseudomonas spp.,</cell><cell></cell><cell>vegetables, including</cell><cell>any part of vegetable crops warm weather or black in cool</cell></row><row><cell>Erwinia spp.)</cell><cell></cell><cell>lettuce; brassicas;</cell><cell>including heads, curds, edible weather.</cell></row><row><cell></cell><cell></cell><cell>cucurbits; tomato;</cell><cell>roots, stems and leaves. Water-soaked spots on pods</cell></row><row><cell></cell><cell></cell><cell>capsicum; potato;</cell><cell>May have a disagreeable that become sunken and dark-</cell></row><row><cell></cell><cell></cell><cell>sweet potato; carrots;</cell><cell>odour. brown.</cell></row><row><cell>Bacterial speck</cell><cell></cell><cell>herbs.</cell><cell></cell></row><row><cell>Bacterial leaf (Pseudomonas</cell><cell>Overhead irrigation and</cell><cell>Range of vegetables</cell><cell>Lettuce -Large brown to black</cell></row><row><cell>spot/Bacterial spot syringae pv.</cell><cell>windy conditions.</cell><cell>including lettuce;</cell><cell>circular areas that start as small</cell></row><row><cell>(Xanthomonas tomato)</cell><cell></cell><cell>cucurbits; tomato;</cell><cell>translucent spots; usually on</cell></row><row><cell>campestris -various</cell><cell></cell><cell>capsicum.</cell><cell>outer leaves.</cell></row><row><cell>strains)</cell><cell></cell><cell></cell><cell>Tomatoes and capsicums -</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Greasy spots on leaves and</cell></row><row><cell></cell><cell></cell><cell></cell><cell>stems that go from tan to black;</cell></row><row><cell></cell><cell></cell><cell></cell><cell>fruit may have circular spots</cell></row><row><cell></cell><cell></cell><cell></cell><cell>with central scab.</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Cucurbits -Begin as small</cell></row><row><cell></cell><cell></cell><cell></cell><cell>water-soaked/greasy spots on</cell></row><row><cell></cell><cell></cell><cell></cell><cell>underside of leaves with</cell></row><row><cell></cell><cell></cell><cell></cell><cell>corresponding yellowing on</cell></row><row><cell></cell><cell></cell><cell></cell><cell>upper side; fruit may produce</cell></row><row><cell></cell><cell></cell><cell></cell><cell>light-brown ooze from water-</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Plant Pathology</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Agrios</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Academic Press</publisher>
+			<biblScope unit="volume">635</biblScope>
+			<biblScope unit="page">p</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Pseudomonas plantarii sp. nov., the causal organism of rice seedling blight</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Azegami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nishiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kadota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ohuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fukazawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Syst. Bacteriol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="144" to="152" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Bacterial grain rot of rice A new disease in Taiwan</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Billing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bacteria as Plant Pathogens. Aspects of Microbiology</title>
+				<editor>
+			<persName><forename type="first">Reinhold. -Wokingham</forename><surname>Van Nostrand</surname></persName>
+		</editor>
+		<meeting><address><addrLine>UK)</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1983">1987. 1983</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="360" to="366" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">International year of plant Health, Food and Agriculture Organization of the United Nation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pl. Dis. Rep</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="100" to="103" />
+			<date type="published" when="1979">1979. 2020</date>
+		</imprint>
+	</monogr>
+	<note>Dissemination of Erwinia chrysanthemi, the causal organism of bacterial foot rot of rice</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Janse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">. -Wallingford ;</forename><surname>Phytobacteriology</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kryczyński</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mańka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sobiczewski</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Słownikfitopatologiczny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kadota I and Ohuchi A. Symptoms of bacterial brown stripe of rice seedlings in nursery boxes</title>
+				<meeting><address><addrLine>Warszawa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hortpress</publisher>
+			<date type="published" when="1983">2005. 2002. 1983</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="561" to="564" />
+		</imprint>
+	</monogr>
+	<note>Phytopathological Dictionary, in Polish)</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pseudomonas syringae pv. oryzae pv. Nov, causal agent of bacterial halo blight of rice</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kuwata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Phytopathol. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Bakteryjne chorobyroślinogrodniczych. Podręcznik dlastudentów. (Bacterial diseases of horticultural plants -manual for students</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sobiczewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schollenberger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="156" to="187" />
+			<pubPlace>Warszawa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Polish</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">World wide distribution of bacterial stripe pathogen of rice identified as Pseudomonas avenae</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shakya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vinther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mathur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytopathol Z</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="256" to="259" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Control of bacterial leaf streak of rice</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Shekhawat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Srivastava</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ind. J. Agric. Sci</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1098" to="1101" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sujoy</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruchi</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arunava</forename><surname>Biswas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Rai</surname></persName>
+		</author>
+		<title level="m">Bacterial Diseases of Rice: An Overview-Journal of Pure and Applied Microbiology</title>
+				<imprint>
+			<date type="published" when="2015-03">2015. March 2015</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="725" to="736" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The sheath brown disease of rice plant and its causal bacterium. Pseudomonas fuscovaginae</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tanii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Miyajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Akita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Phytopathol. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="540" to="548" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Hindustan Business -Agribusiness, Agri Ministry projects record Rice output for</title>
+		<imprint>
+			<date type="published" when="2018">2018-2019. June 03, 2019</date>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bacterial sheath of rice caused by Pseudomonas fuscovaginae in Latin America</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Zeigler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Alvarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant. Dis</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="592" to="597" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Characteristics of Pseudomonas spp. Causing grain discolouration and sheath rot of rice and associated pseudomonad epiphytes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Zeigler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Alvarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Dis</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="917" to="922" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Zemdirbyste agriculture</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">overviewpests-diseases-disorders/bacterialdiseases How to cite this article</title>
+		<idno type="DOI">10.20546/ijcmas.2020.906.183</idno>
+		<ptr target="https://doi.org/10.20546/ijcmas.2020.906.183" />
+	</analytic>
+	<monogr>
+		<title level="j">Int.J.Curr.Microbiol.App.Sci</title>
+		<editor>Abha Saxena, DeeptiRai, AnupKalra and Mohan Ji Saxena</editor>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">06</biblScope>
+			<biblScope unit="page" from="1483" to="1499" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>Bacterial Diseases of Crops: Epidemiology, Symptoms and Management</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

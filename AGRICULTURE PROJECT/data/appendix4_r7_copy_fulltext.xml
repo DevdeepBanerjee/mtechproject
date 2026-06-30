@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">ALPHABETICAL LIST OF CROPS WITH BOTANICAL NAME AND CROP CODE Crop name Botanical name ICC code Previous code</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<settlement>Abaca (Manila hemp)</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">ALPHABETICAL LIST OF CROPS WITH BOTANICAL NAME AND CROP CODE Crop name Botanical name ICC code Previous code</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E2D955CDFB26ABC78FA23DFE1B6227B7</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ricinus communis 1.4.2.1.0 Cauliflower Brassica oleracea var. botrytis 1.5.5.1 Celeriac Apium graveolens var. rapaceum 1.5.3.8 Celery Apium graveolens 1.5.1.0.5 Chayote Sechium edule 1.5.2.1.2 Cherry (all varieties) Prunus spp. 2.1.3.2 Chestnut Castanea sativa 2.1.7.4 Chickpea (gram pea) Cicer arietinum 1.3.4 Chicory Cichorium intybus 1.4.5.2 Chicory for greens Cichorium intybus 1.5.1.0.6 Chili</term>
+					<term>dry (all varieties) Capsicum spp. (annuum) 1.4.3.1 Chili</term>
+					<term>fresh (all varieties) Capsicum spp. (annuum) 1.5.2.0.2 Cinnamon Cinnamomum verum 2.2.3.2 Citron Citrus medica 2.1.1.6 Citronella Cymbopogon citrates/ Cymbopogon nardus 2.2.7.1 Clementine Citrus reticulata 2.1.1.2 Clove Eugenia aromatica (Syzygium aromaticum) 2.2.3.3 Clover for fodder (all varieties) Trifolium spp. 1.7.1.2 Clover for seed (all varieties) Trifolium spp. 1.8.3 Cocoa (cacao) Theobroma cacao 2.2.1.2 Coconut Cocos nucifera 2.2.2.1 Cocoyam Colocasia esculenta 1.2.8 Coffee Coffea spp. 2.2.1.1 Cola nut (all varieties) Cola acuminata 2.2.1.6 Colza (rapeseed) Brassica napus 1.4.2.0.5 Corn (maize)</term>
+					<term>for cereals Zea mays 1.1.3 Corn (maize)</term>
+					<term>for silage Zea mays 1.7.3.1 Corn (sweet)</term>
+					<term>for vegetable Zea mays 1.5.5.2 Corn for salad Valerianella locusta 1.5.1.1.5 Cotton (all varieties) Gossypium spp. 1.4.4.1 Cottonseed (all varieties) Gossypium spp. 1.4.2.0.8 Cowpea</term>
+					<term>for grain Vigna unguiculata 1.3.6 Cowpea</term>
+					<term>harvested green Vigna unguiculata 1.5.4.3 Cranberry Vaccinium spp. 2.1.5.2 Cress Lepidium sativum 1.5.1.0.8 Cucumber Cucumis sativus 1.5.2.0.3 Currants (all varieties) Ribes spp. 2.1.5.3 Custard apple Annona reticulate 2.1.6.0.4</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Musa textilis 2.2.4.1 Alfalfa for fodder Medicago sativa 1.7.1.1 Alfalfa for seed Medicago sativa 1.8.2 Almond Prunus dulcis 2.1.7.1 Anise seeds Pimpinella anisum 1.4.3.4 Apple Malus sylvestris 2.1.2.1 Apricot Prunus armeniaca 2.1.3.1 Areca (betel nut) Areca catechu 2.2.7.6 Arracha Arracacia xanthorrhiza 1.2.9 Arrowroot Maranta arundinacea 1.2.5 Artichoke Cynara scolymus 1.5.1.0.1 Asparagus Asparagus officinalis 1.5.1.0.2 Avocado Persea americana 2.1.6.0.1 World Programme for the Census of Agriculture 2010 Crop name Botanical name ICC code Previous code 1</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" />			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0">. Crop codes used in</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2000" xml:id="foot_1">agricultural census programme.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2">World Programme for the Census of Agriculture 2010</note>
+		</body>
+		<back>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>code Previous code 1 Crop name Botanical name ICC code Previous code 1 Crop name Botanical name ICC code Previous code 1</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

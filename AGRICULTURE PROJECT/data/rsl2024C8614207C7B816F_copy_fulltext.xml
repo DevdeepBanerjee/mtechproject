@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Futuristic Trends in Agriculture Engineering &amp; Food Sciences e-ISBN: 978-93-5747-760-4 IIP Series, Volume 3, Book 22, Chapter 2 PLANT PROTECTION EQUIPMENT FOR CHEMICAL APPLICATION ON CROP TO EFFECTIVELY CONTROL PESTS AND DISEASES</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kadam</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of FMPE CAE</orgName>
+								<orgName type="institution">JNKVV</orgName>
+								<address>
+									<settlement>Jabalpur</settlement>
+									<region>Madhya Pradesh</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Shrivastava</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Professor Department of FMPE CAE</orgName>
+								<orgName type="institution">JNKVV</orgName>
+								<address>
+									<settlement>Jabalpur</settlement>
+									<region>Madhya Pradesh</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Panse</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">College of Agriculture Balaghat JNKVV</orgName>
+								<address>
+									<settlement>Jabalpur</settlement>
+									<region>Madhya Pradesh</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kalluri</forename><surname>Prveeen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of FMPE JNKVV</orgName>
+								<address>
+									<settlement>Jabalpur</settlement>
+									<region>Madhya Pradesh</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ph</forename><forename type="middle">D</forename><surname>Scholar</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of FMPE JNKVV</orgName>
+								<address>
+									<settlement>Jabalpur</settlement>
+									<region>Madhya Pradesh</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Futuristic Trends in Agriculture Engineering &amp; Food Sciences e-ISBN: 978-93-5747-760-4 IIP Series, Volume 3, Book 22, Chapter 2 PLANT PROTECTION EQUIPMENT FOR CHEMICAL APPLICATION ON CROP TO EFFECTIVELY CONTROL PESTS AND DISEASES</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2AD633A7100C5A5CC1118E6D7ABD61D8</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Plant Protection, Pests And Diseases</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Pesticides play an integral role in the control of pests such as insects, fungi and weeds on field crop and orchards, to produce and conserve food grains, fruits, vegetables and fibre. All insects are not pests. Some help in pollinating plants or feeding on other insects which are pests. Control of pests is a need to protect crop for better yield. Proper use of pesticide is however a critical. Excessive dosage may damage or even kill the plant, whereas under dosage will not give effective control. Desirable flora and fauna and environment may be harmed by indiscriminate use of pesticides. Success of plant protection will depend upon the use of right pesticide, at the right time, with the right technique and by the right equipment. So, an attempt has been made in this chapter to makes aware and familiar farmers, researchers, scientists and readers, with the plant protection equipment, their basic classification, basic components of sprayers, nozzle and their types, brief description of various types of sprayers and dusters used for plant protection, selection of plant protection equipment, calibration of plant spraying equipment, maintenance of plant protection equipment, safety precautions to be taken by operator before, during and after spraying etc. This crucial information on plant protection equipment will be useful for effectively controlling pests and diseases on field crops as well as orchards.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. INTRODUCTION</head><p>Chemical application is a crucial element of modern agriculture for safeguarding crops from various threats, including insects, fungi, viruses, parasites, and weeds, which can hinder cultivated plant growth. While effective cultivation methods can eradicate weeds, controlling pests and diseases often necessitates the use of chemical sprays and powders. To minimize damage to crops, chemicals are now employed to kill weeds without harming the crops, in conjunction with traditional weeding tools. These chemicals are available in liquid or dry powder form and can be applied using various sprayers and dusters. However, there is a tendency among farmers to apply excessive quantities of pesticides, resulting in higher pesticide losses (approximately one-third of the applied pesticides are lost due to ground application and drift). This not only requires more time for application but also poses health hazards and contributes to ecological and environmental destruction. Therefore, it is crucial to adopt precise pesticide application techniques that cover the target leaf foliage with the required quantity of pesticides, reducing environmental pollution and ensuring maximum pest control. Efficient spraying system can ensure more effective spraying resulting in saving of chemical and reduction in losses to environment or carbon foot print in site-specific chemical application in an emerging area in developed world, wherein application of chemical is concentrated at affected part of the field rather than whole field approach currently followed by farmers. This saves substantial amount of chemical along with checking the environmental issues.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. EQUIPMENT FOR APPLICATION OF CHEMICALS</head><p>The equipment for chemical spraying can be broadly classified based on form of chemical being sprayed. Equipment used for spraying of powdery material is called as dusters and equipment being used for liquid spraying is called as sprayers. In general plant protection equipment can be classified in five categories: Duster Sprayer Fog or Smoke generator Aerial Application (Fixed wing or rotary wing aircraft) Others (seed dressing drum, flame thrower, bird scarer etc.)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Dusters:</head><p>A duster is a machine used to apply chemicals in dust form. It utilizes air streams to disperse pesticides in finely divided dry form onto the plants. A typical duster comprises a hopper, agitator, feed control, fan or blower, delivery tube, and nozzle. Various types of dusters exist, including plunger type, knapsack type, rotary type, and power-operated dusters.</p><p>Figure1: Hand operated duster  Power Operated Dusters: Field dusters or power-operated dusters are commonly used in agriculture. They are mounted on a platform bolted to the rear of a tractor and operated by PTO (Power Take-Off). The duster typically consists of a power-driven fan, a hopper, and a delivery spout. The fan generates strong airflow, which propels the dust from the hopper to a significant distance, either vertically or horizontally. A movable delivery spout, appropriately attached to the unit, allows for the regulation of dust direction. To ensure uniform distribution, an agitator is placed at the bottom of the hopper, maintaining the dust in a fluffy condition and metering it out uniformly through the feed system into the air stream. This type of duster is ideal for treating large areas.</p><p> Electrostatic Duster: The main goal of charging dust particles is to enhance the deposition percentage on the plant surface. Generally, the electrostatic force has little impact on large particles and does not affect their trajectory from the application equipment to the target. However, if a charged particle reaches the plant, the likelihood of its deposition increases. Charging dust particles improves the control of insects and pests. The increased deposition efficiency, especially for small particles, can help reduce drift. Electrostatic dusters and sprayers are more complex than conventional equipment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Sprayers:</head><p>A sprayer is machine to atomize the chmicals into slight precipitations (to split a liquid into droplets), or create an emulsion (a mixture in which one liquid is suspended as minute globules in another liquid) or a solution and eject it with some force for proper distribution over sprayed surface. Most sprayers used today are hydraulic types, where the spray pressure is generated by the direct action of the pump on the liquid spray material. This pressure forces the liquid through nozzles, breaking it into fine droplets and dispersing them in the desired spray pattern. The spray droplets receive sufficient energy to carry them from the nozzle to the surface to be treated. The key components of a hydraulic sprayer include the pump, a tank with an agitator, a framework for mounting the sprayer, a pressure regulator and relief valve, a pressure gauge, strainers and screens, control valves, pipes and fittings, distribution system, and power source.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sprayers can be classified based on different criteria</head><p> Classification Based on Volume of Liquid Applied: Sprayers can be categorized into three groups: high volume sprayers, low volume sprayers, and ultra-low volume sprayers. High volume sprayers are used when more than 400 liters of spray liquid per hectare need to be applied. Sprayers that use between 5 to 400 liters per hectare are referred to as low volume sprayers. Ultra-low volume sprayers, on the other hand, apply less than 5 liters per hectare.</p><p> Classification Based on Power Source Used: Sprayers are of four types viz. manually operated, animal drawn, power tiller or tractor drawn and self-propelled sprayers.   at atmospheric pressure. When the handle moves upwards, the piston also moves upwards resulting in suction stroke and a certain volume of liquid enters into the cylinder. During the pressure stroke the handle moves downwards causing downward movement of the piston and the liquid in the pump cylinder is forced through a valve into the pressure chamber. This results in trapping of air in the upper portion of the pressure chamber (trigger in closed position). Thus, in each stroke certain volume of liquid is forced into the pressure chamber reducing the volume of air and at the same time increasing the pressure inside it. Figure <ref type="figure">5</ref>: Foot-Operated Sprayer  Rocking Sprayer: The sprayer is composed of a pump assembly, platform, operating lever, pressure chamber, suction hose with strainer, delivery hose, and an extension rod with a spray nozzle. The pump is operated by rocking the handle, which builds up pressure in the pressure chamber. Similar to the previous sprayer, it also requires an additional container to hold the fluid. The sprayer can generate a pressure of 14-18 kg/cm, and in some cases, it can reach up to 36 kg/cm. The spray liquid is expelled by an air current generated within the tank. Some of the air generated is diverted into the hopper to create an air cushion over the liquid, ensuring a uniform delivery. The liquid flows through a tube to the nozzle on the spray lance via gravity. The effective swath width horizontally is 4-5 meters and vertically is 3-4 meters. The sprayer can cover approximately 3 hectares a day. When fitted with a rotary pump and tree-spray lance, it can effectively spray trees up to 6 meters in height. Some of these sprayers can also be converted for dusting and ULV (ultra-low volume) applications.  The spray liquid is stored in a pressure tank, and the spraying pressure is generated by an engine-powered air compressor. As a result, the spray material does not pass through a pump or come into contact with any other moving parts. These sprayers are available in mounted types, and the tank size is limited to around 1000 liters due to the cost and weight of the pressure tank. Agitation within the tank is achieved either through a mechanical agitator or by using an air tube that discharges air below the surface of the liquid.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head> Manually Operated Sprayer</head><p> Electrodynamic Sprayer: In recent years increasing interests have been using less solvent spraying pesticides. There have been many developments in this direction and development of sprayer based on charging of droplets is one of them. The operation of an electro-dynamic sprayer is based on electrically charged droplets that emerge from the delivery gun. As the droplets carry the same charge, they repel each other, resulting in the formation of a wide spray pattern. This spraying technique uses the rotary atomization principle. One of the key features of the electro-dynamic sprayer is the device that provides a high-tension voltage within a compact space, allowing the liquid to emerge via gravity. The power source for this sprayer consists of four standard torch light batteries, which can last for approximately 60 hours. The absence of moving parts contributes to the sprayer's longer lifespan. The sprayer has a backpack unit enclosing the charging circuit and battery and a long handle having multiplier unit. The spray tank and nozzle are supported at the other end of handle. A high voltage of 20 kV is applied to the stud inside the nozzle, which creates a powerful field against the ground electrode outside the nozzle. This field pulls out the liquid from the tank and disintegrates it.</p><p> Ultra-Low Volume Sprayer (ULV): The equipment use high rpm spinning disc devices. Motorized knapsack sprayers and aircraft fitted with special spinning disc attachment are also used as ULV sprayers. ULV sprayers use blower for creating a blast of air for atomizing the spray liquid and for carrying the droplets to the target. The low volume concentration (LVC) used in ULV perform better due to higher initial deposits. LVC droplets remain in the liquid form and more readily picked up by the pest that gives higher mortality of the pests. The sprayer has a motor powered by 6 to 12 volt batteries. The spinning disc having grooves or teeth is attached to motor and rotates at 4000-9000 rpm. Average droplet size varies from 35-100 micron.  They are operated at pressures ranging from 20-55 kg/cm. The pump is powered by the tractor's PTO (Power Take-Off). These sprayers consist of a pump, one or more drums, control valves, a pressure gauge, pressure regulator, relief valve, and a spray boom equipped with nozzles. The boom can be made of flexible hosepipe with mounted nozzles to accommodate different row spacing. It is secured with a rigid beam using clamps. Liquid supply to the boom is provided at two points to ensure even distribution. The frame of the sprayer has holes that allow for adjusting the beam height to suit the crop height. Typically, the sprayer boom is equipped with 13-15 triple action nozzles and can cover a width of 7-8 meters. The capacity of tractormounted sprayer is about one hectare per hour while operating at a speed of 3.5 km/h. The tractor is operated in the same pathways and in the same direction for all sprays. Sprayers are used in row and tall crops such as cotton, maize, sugarcane etc. The tractor-operated sprayer can be used for spraying all the 6-7 sprays on the cotton crop if same path and direction is used during all the sprayings. This reduces crop damage under the tractor. The pest control is better in case the spraying is done by tractoroperated sprayer as compared to knapsack sprayer. There is a net increase of about 29% yield in the field sprayed by tractor-mounted sprayer as compared to that sprayed by knapsack sprayer.    Intra Canopy Sprayer: The intra-canopy sprayers are designed to apply pesticide from all three sides of the plant. Chemical spray is done from the top and both sides of the canopy to ensure better droplet penetration in tall crops such as cotton and pigeon pea. To improve application efficiency, an air blast provision allows the droplets to reach desired locations where insects lay their eggs or hide during various stages of their growth. CIAE, Bhopal, has developed a front-mounted six-row intra-canopy spraying system for operation with a self-propelled high clearance power unit equipped with a 30 hp engine. The sprayer is equipped with six vertical sleeves, each with a five-nozzle arrangement for the boom, a centrifugal blower with an air discharge of 2 m/s, and a liquid tank with a capacity of 1000 liters, covering about 2 hectares in a single tank filling. Additionally, an extra pump is included for filling the liquid in the tank. The system has the flexibility to adjust the height of spray for chemical application on the crop foliage, as well as the row-to-row spacing of the nozzle system to suit the crop's requirements. The total width of coverage can be adjusted from 3.6 to 7.0 meters. The actual field capacity of the machine was found to be 1.06 hectares per hour and 0.95 hectares per hour in the plots of cotton and pigeon pea crops, respectively, with field efficiency rates of 64.2% and 59.4%.</p><p> Laser Sensor-Based Herbicide Applicator: A two-row tractor operated laser sensor- based herbicide applicator has been developed to spray herbicide on weeds between rows. The developed herbicide applicator has two components -laser sensor for sensing the greenness and applicator part, which has controller, solenoid valve and applicator for application of herbicide. Laser sensor acts as "eye" to the equipment, which sprays liquid only on the weed patches. Solenoid controlled valves with a twoway micro controller facilitate spraying on weed patches detected by sensors. The laser sensor is trained to sense green colour with a threshold of ± 10% (green colour for which it is trained). The row to row spacing can be adjusted from 150-450 mm to accommodate crops sown at different row to row spacing. To avoid spraying of herbicide on useful plants guards have been provided on either side of the nozzle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. CONCLUSION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head><p>As agricultural science has progressed and agriculture has developed, there has undoubtedly been an increase in production and productivity. However, simultaneously, there has also been a significant rise in plant pests and diseases. As a result, the use of pesticides and fungicides has become necessary for controlling these issues. These chemicals are applied to plants in the form of sprays and dust using sprayers and dusters, commonly known as plant protection equipment. A number of chemical application equipment has been developed over the years. The efficient use of chemical using proper spraying technique helps in reducing the chemical requirement, thereby reduces the cost of cultivation to farmers. It also helps in reduction of carbon footprint created in production of the agro-chemicals and adverse impact on environment. So, it has become very necessary to have thorough and proper knowledge about construction of plant protection equipment, their selection, application method, calibration, safety precautions and maintenance. The above discussed information in the chapter will certainly fulfil these objectives.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Stirrup-Pump Sprayer: It consists of a brass pump, a footrest (stirrup), hose, lance and nozzle. It may have a single barrel or double barrel pump. In this type of sprayer continuous pumping is necessary for getting uninterrupted discharge of spray fluid. It develops a pressure of 4-10 kg/cm. It is suitable for small scale field spraying. It does not give uniform spray, as single barrel pump has no mechanism to retain pressure. Two persons are required for operating this sprayer; one to operate the pump and other to direct spray from the nozzle at the end of spray lance. The length of nozzle varies depending upon the requirement in the field but it is generally kept as 5 m.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Stirrup-Pump Sprayer</figDesc><graphic coords="5,225.96,178.44,161.16,167.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Hand compression sprayer</figDesc><graphic coords="5,139.80,470.28,170.76,162.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Lever operated knapsack (LOK) sprayer</figDesc><graphic coords="6,132.00,217.32,197.76,191.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 6 :</head><label>6</label><figDesc>Figure 6: Rocking Sprayer</figDesc><graphic coords="7,120.48,178.44,184.68,179.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Futuristic</head><label></label><figDesc>Trends in Agriculture Engineering &amp; Food Sciences e-ISBN: 978-93-5747-760-4 IIP Series, Volume 3, Book 22, Chapter 2 PLANT PROTECTION EQUIPMENT FOR CHEMICAL APPLICATION ON CROP TO EFFECTIVELY CONTROL PESTS AND DISEASES</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 :</head><label>7</label><figDesc>Figure 7: Motorized Knapsack Sprayer</figDesc><graphic coords="8,339.00,100.56,157.08,194.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 8 :</head><label>8</label><figDesc>Figure 8: Spinning disc ULV Sprayer</figDesc><graphic coords="9,315.72,192.36,189.00,174.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 9 :</head><label>9</label><figDesc>Figure 9: Bullock drawn boom sprayer</figDesc><graphic coords="9,164.04,509.40,284.88,190.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 10 :</head><label>10</label><figDesc>Figure 10: Tractor drawn boom Sprayer</figDesc><graphic coords="10,183.12,385.92,246.12,168.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 11 :</head><label>11</label><figDesc>Figure 11: Tractor Drawn Blower Sprayer</figDesc><graphic coords="11,205.68,100.56,201.00,121.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 12 :</head><label>12</label><figDesc>Figure 12: Tractor Drawn Air blast Sprayer</figDesc><graphic coords="11,196.56,416.40,219.24,133.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,130.92,100.56,351.12,161.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>Pesticide Sprayers May be Classified on the Basis of Source of Energy and</figDesc><table><row><cell> Classification Based on Source of Energy and Droplet Spectra Produced</cell></row><row><cell>Based on the source of energy sprayers are classified in to three groups i.e. hydraulic</cell></row><row><cell>energy sprayer, gaseous energy sprayer and centrifugal energy sprayer. The broad</cell></row><row><cell>classification is given in Table 1.</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Handbook of Agricultural Engineering</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Pandey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Farm machinery an approach</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Grace</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Standard Publishers</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Principles of Agricultural Engineering, volume-I, Ninth edition, Jain brothers</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Ojha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Michael</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sahay</surname></persName>
+		</author>
+		<title level="m">Elements of Agricultural Engineering</title>
+				<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note>second edition, Standard publishers</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kepner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roy</forename><surname>Bainer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Berger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Principles of Farm Machinery</title>
+		<title level="s">CBS publishers and distributors pvt. Limited</title>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note>third edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Crop protection -Handbook of Agricultural Engineering</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Agrawal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="117" to="129" />
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Pesticide Application Equipment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Bindra</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>Janmapath</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

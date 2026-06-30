@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Introduction of Plant Disease</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Introduction of Plant Disease</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">91BCF1DD6D19BA56FC8BA1DB9A4900B0</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In general, a plant becomes diseased when it is continuously disturbed by some causal agent that results in an abnormal physiological process that disrupts the plant's normal structure, growth, function, or other activities. This interference with one or more of a plant's essential physiological or biochemical systems elicits characteristic pathological conditions or symptoms.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction of Disease:</head><p>In nature, plants may be affected by more than one disease-causing agent at a time. A plant that must contend with a nutrient deficiency or an imbalance between soil moisture and oxygen is often more susceptible to infection by a pathogen, and a plant infected by one pathogen is often prone to invasion by secondary pathogens. The combinations of all disease-causing agents that affect a plant make up the disease complex. Knowledge of normal growth habits, varietal characteristics, and normal variability of plants within a species-as these relate to the conditions under which the plants are growing-is required for a disease to be recognized.</p><p>One of the important characteristics of pathogenic organisms, in terms of their ability to infect, is virulence. Many different properties of a pathogen contribute to its ability to spread through and to destroy the tissue. Among these virulence factors are toxins that kill cells, enzymes that destroy cell walls, extracellular polysaccharides that block the passage of fluid through the plant system, and substances that interfere with normal cell growth. Not all pathogenic species are equal in virulence-that is, they do not produce the same amounts of the substances that contribute to the invasion and destruction of plant tissue. Also, not all virulence factors are operative in a particular disease. For example, toxins that kill cells are important in necrotic diseases, and enzymes that destroy cell walls play a significant role in soft rot diseases.</p><p>Many pathogens, especially among the bacteria and fungi, spend part of their life cycle as pathogens and the remainder as saprotrohos.</p><p>Saprogenesis is the part of the pathogen's life cycle when it is not in vital association with living host tissue and either continues to grow in dead host tissue or becomes dormant. During this stage, some fungal produce their sexual fruiting bodies; the apple scab (Venturia inaequalis), for example, produces perithecia, flask-shaped sporeproducing structures, in fallen apple leaves. Other fungi produce compact resting bodies, such as the sclerotia formed by certain root-and stem-rotting fungi (Rhizoctonia solani and Sclerotinia sclerotiorum) or the ergot fungus (Claviceps purpurea). These resting bodies, which are resistant to extremes in temperature and moisture, enable the pathogen to survive for months or years in soil and plant debris in the absence of a living host.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Types of Plant Disease:</head><p>Ten of thousand diseases affect cultivated and wild plants. It means each kind of crop plant can be affected by a hundred or more plant disease. Some pathogens can be affects only one varieties of plant but some disease can be affect more than one variety.</p><p>It can be two types </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1 . 2 .</head><label>12</label><figDesc>That can cause disease and are generally referred to as pathogens, usually cause disease in plants by distributing the metabolism of plant cell through enzymes, toxins growth regulators. Abiotic: Environmental factors cause disease in plants such as temperature, moisture, mineral nutrients and polentas , occur at levels above or below a certain range tolerance by the plants. Infectious biotic plant diseases: Disease caused by fungi Disease caused by prokaryotes 3. Disease caused by green algee and parasites plants 4. Disease caused by nematodes 5. Disease caused by protozoa 6. Disease caused by virouses Noninfectious or Abiotic plant disease: 1. Disease caused by too low or high temperature 2. Disease caused by lack or excess of soil temperature 3. Disease caused by lack of excess light 4. Disease caused by lack of oxygen 5. Disease caused by air pollution 6. Disease caused by nutrient deficiency 7. Disease caused by mineral toxicities 8. Disease caused by soil acidity 9. Disease caused by toxicity of pesticides 10. Disease caused by interior cultural practices</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">References</forename><surname>Book</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Shweta</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashish</forename><surname>Kumar Tripathi</surname></persName>
+		</author>
+		<title level="m">Crop Disease and Management</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Neelu</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Singh</surname></persName>
+		</author>
+		<title level="m">Plant Disease Management, principles and practices</title>
+				<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

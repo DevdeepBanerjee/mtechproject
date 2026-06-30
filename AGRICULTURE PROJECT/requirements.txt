@@ -1,0 +1,15 @@
+openai>=1.0.0
+python-dotenv
+neo4j
+beautifulsoup4
+lxml
+tiktoken
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+neo4j
+rapidfuzz
+graphviz
+python-dotenv
+google-generativeai

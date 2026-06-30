@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PESTICIDES AND INDIAN AGRICULTURE-A REVIEW</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2021-05-31">31 May 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Pragati</forename><surname>Nayak</surname></persName>
+							<email>pragatinyk@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Environment science</orgName>
+								<orgName type="department" key="dep2">School of Sciences</orgName>
+								<orgName type="laboratory">PhD Research scholar</orgName>
+								<orgName type="institution">Gujarat University</orgName>
+								<address>
+									<settlement>Ahmedabad</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hitesh</forename><surname>Solanki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Professor and Coordinator</orgName>
+								<orgName type="department" key="dep2">Department of Botany and Environment science</orgName>
+								<orgName type="department" key="dep3">School of Sciences</orgName>
+								<orgName type="institution">Gujarat University</orgName>
+								<address>
+									<settlement>Ahmedabad</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PESTICIDES AND INDIAN AGRICULTURE-A REVIEW</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">(Print): 2394-3629</idno>
+						<imprint>
+							<date type="published" when="2021-05-31">31 May 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7938DB508FFBBA4A15CB2D33D69A5EE8</idno>
+					<idno type="DOI">10.7821/granthaalayah.v9.i5.2021.3930</idno>
+					<note type="submission">Received 4 May 2021 Accepted 19 May 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pesticides</term>
+					<term>Chemical Pesticides</term>
+					<term>Bio-Pesticides</term>
+					<term>Indian Agriculture</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Globally more than half of the pesticides are utilized in Asia. India stands 12 th in pesticide use globally and 3rd in Asia after China and Turkey. In present study, the data of different types of pesticides, pesticide use pattern and detailed pesticide consumption of the India and world were collected, organized and summarized. Around 70% of the total population is employed under agriculture sector which is the most important sector of Indian economy. And pesticides and fertilizers are major integral part of modern agriculture. Commonly used pesticides includes insecticides, fungicides and herbicides for management of uncontrolled weeds and pests on agricultural sites. However in total pesticide consumption, insecticides occupies highest share in India. India share only1% of the global pesticide use. As per the data of FAO, India has utilized around 58160 tonnes of pesticide in 2018. Per hectare application rate of pesticide was only 0.31 kg in 2017. While consumption in China, Japan and America was around 13.07, 11.76 and 3.57 kg ha −1 of pesticides respectively. So it is clear that India applies less amount of pesticides in per hectare of cropland area, but uncontrolled and haphazard pesticide usage is responsible for the presence of high pesticide residues in both natural and physical environment. Bio-pesticides have proven to be the inest alternative to chemical pesticides for promoting a sustainable method of development in the agriculture sector, while also reducing pollution caused by chemical pesticides. Many biopesticides are now being developed in India and could be excellent alternatives to chemical pesticides. There are many eco-friendly plant based and microbial bio-pesticides available in the market. Bio-pesticides consumption is only 8% in India. For sustainable agricultural development and to protect environment from adverse effect of chemical pesticides, formulation and utilization of biopesticides should be prompted.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">INTRODUCTION</head><p>Pesticides are substances (natural or manmade) used to control pests, weeds, and diseases in plants in various agronomic practices. Herbicides, insecticides, fungicides, rodenticides, nematicides, and other pesticides are examples of pesticides. The losses of crops caused by insect pests are quite high in both developing and developed countries <ref type="bibr" target="#b8">Dhaliwal et al. (2015)</ref>. Reduced crop loss will be a key component, and enhanced pest management, including diseases and weeds, will require signi icant effort. Pesticides have become a key tool for plant protection and improvement of crops in the process of agricultural development. A. <ref type="bibr" target="#b35">Sharma et al. (2019)</ref> . Pathogens and pests are causing global wheat losses ranging from 10% to 28%, rice losses ranging from 25% to 41%, maize losses ranging from 20% to 41%, potato losses ranging from 8% to 21%, and soybean losses ranging from 11% to 32%, according to a study published in the journal Nature, Ecology &amp; Evolution. <ref type="bibr" target="#b34">Savary et al. (2019)</ref>. The intensity of protection for crops, as shown by a 15-20-fold increase in pesticides used around the world, has increased signi icantly in order to make agriculture more productive and pro itable. Despite a clear increase in pesticide use, crop losses have not decreased signi icantly over the last 40 years. <ref type="bibr" target="#b29">OERKE (2006)</ref>.</p><p>Food, feed, ibre, biofuel, and other bio-based goods are in high demand, and agriculture must meet it. An increase in population size in developing countries is forecast to raise food production demand by 70% in view of shifts in dietary trends towards high-quality food, e.g. increased meat and dairy intake, and increased use of kernels for livestock feed <ref type="bibr" target="#b30">Popp et al. (2013)</ref>. The world population also increased from 1.65 billion to 7.7 billion throughout the twentieth century alone <ref type="bibr" target="#b14">Green (2018);</ref><ref type="bibr">Nations (2019)</ref>. Moreover, the world population is predicted to expand to about 8.5 billion by 2030, 9.7 billion in 2050 and 10.9 billion in 2100 Nations <ref type="bibr">(2019)</ref>.</p><p>Pesticides are used to increase agricultural productivity, but they are used indiscriminately and pollute the biota. Non-target species are harmed as a result of pesticide transfer in the environment. Some insecticides have the potential to harm human health and the environment. Only around 0.1 percent of pesticides are believed to reach the intended organisms, with the rest polluting the environment and causing environmental harm <ref type="bibr" target="#b4">Carriger et al. (2006)</ref>; <ref type="bibr" target="#b12">Gill and Garg (2014)</ref>.</p><p>A closer look at pesticide use inds that we're using more pesticides and treating crops more frequently than ever before. Global pesticide use (in tonnes of active ingredient) increased by 46% between 1996 and 2016, according to the FAOSTAT database <ref type="bibr" target="#b43">WHO (2019)</ref>. Pesticides work by causing harm to the creatures they target. However, pesticides do not function in the same way for every species. They also have an impact on non-target species. Organophosphate, carbamate, and pyrethroid insecticides are the most often used pesticides <ref type="bibr" target="#b11">Gilbert (2012)</ref>. Currently, around four million tonnes are used per year on a global basis, most of which are herbicides (56%), followed by insecticides (19%), fungicides (25%) and other types such as rodenticides and nematicides <ref type="bibr" target="#b9">FAO (2018)</ref>. This literature review irstly provides basic scienti ic information about the classi ication of pesticide in use and pesticides usage pattern in India and world. The review shows the current scenario of pesticide usage pattern in Indian agriculture.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">CLASSIFICATION OF PESTICIDES</head><p>Diverse criteria are used to describe the pesticides, for example, their toxicity, pest organisms that are killed and their functioning as pesticides, chemical composition and route of entrance, mode of action, how or when it works, formulations and sources of origin I. <ref type="bibr" target="#b45">Yadav and Devi (2017)</ref>; <ref type="bibr" target="#b1">Akashe et al. (2018)</ref>; <ref type="bibr" target="#b10">Freedman (2018)</ref>; <ref type="bibr" target="#b16">Hassaan and Nemr (2020)</ref>; <ref type="bibr" target="#b28">Nayak et al. (2020)</ref>; <ref type="bibr" target="#b39">Tudi et al. (2021)</ref>.</p><p>1. Classi ication of pesticides according to its toxicity: Pesticide toxicity is primarily determined by two factors: dose and time. Thus, the amount of this chemical (dose) is involved and how often (time) the material is exposed to lead to two different kinds of toxicity, acute and chronic. Unlikely to present acute hazard 5000 or higher 2. Classi ication of Pesticides according to Chemical Composition : This is the most popular and useful way of pesticide classi ication based on chemical makeup. Pesticides such as insecticides, fungicides, herbicides, and rodenticides are also classed based on their chemical compositions, as shown below:</p><p>Insecticides: Insecticides are classed chemically as Carbamates (Carbaryl), Organochlorine (Endosulfan), Organophosphorus (Monocrotophos), Pyrethroids (permethrin), Neonicotinoids (Imidacloprid), various pesticides such as Spinosyns (Spinosad), Benzolureas (di lubenzuron), Antibiotics (abamectin), Fungicides: Fungicides are categorised as aliphatic nitrogen fungicides (dodine), amide fungicides (carpropamid), aromatic fungicides (chlorothalonil), dicarboximide fungicides (famoxadone), dinitrophenol fungicides (dinocap), and others.</p><p>Herbicides: Herbicides include anilide herbicides ( lufenacet), phenoxyacetic herbicides (2, 4-D), quaternary ammonium herbicides (Paraquat), chlorotriazine herbicides (atrazine), sulfonylurea herbicides (chlorimuron), and others.</p><p>Rodenticides: Rodenticides are classed as inorganic rodenticides (Zinc phosphide, Aluminium Phosphide) or organic coumarin rodenticides (bromadiolone, coumatetralyl) 3. Classi ication of pesticides based on the pest organism they kill and pesticide's functionality (Use): Pesticides are characterized in this way based on the pest organisms they kill and their functions. Different type of pesticides are mentioned below:</p><p>Insecticides are chemicals that are used to kill insects and other arthropods. Fungicides are chemicals that kill fungi. Acaricides are pesticides that kill mites and ticks. Algicides are chemicals that kill or suppress algae. Herbicides are chemicals that are used to kill undesired plants. Antifeedants are chemicals that stop insects and other pests from eating. Avicides are poisonous chemicals used to kill birds. Bactericides are substances that kill or inhibit bacteria. Larvicides stop larvae from growing. Repellents are substances that repel bugs based on their taste or odour. Dessicants work by drying the tissues of plants. Virucides are antiviral agents. Ovicides inhibits the growth of insect and mite eggs. Nematicides are chemicals that kill nematodes, which are plant parasites. Termiticides are chemicals that kill termites. Chemicals that make an insect sterile and hence prevent it from reproducing are known as chemosterillants. Plant growth regulators are substances that affect the expected rate of plant growth, lowering, or reproduction. 3. Stomach poisons: These toxins enter the body of the pest through the mouth and digestive system. Malathion is one example.</p><p>4. Fumigants: Pesticides that kill or may kill target pests by creating vapour and entering the pest's body through the trachea.</p><p>5. Repellents: Repellents do not kill but they are disgusting enough to keep them away. The capacity of the pesticide to locate a crop also interferes. Organochlorine, organophosphate, carbamate, and pyrethroid pesticides are further classi ied into organochlorine, organophosphate, carbamate, and pyrethroids, as explained in the previous section.</p><p>Pesticides originating from natural sources such as animal, plant, and microorganisms are known as bio-pesticides (bacteria, viruses, fungi, and nematodes). They are divided into three categories.</p><p>1. Microbial pesticides: They are a type of pesticide that is produced by microorganisms Microorganisms such as bacteria, fungi, and protozoa are the active ingredient in microbial pesticides. These pesticides kill insects by releasing poisons produced by microbiological organisms or infecting them.</p><p>2. Plant-incorporated pesticides: These pesticides are naturally produced by plants. In addition, genetic engineering is used to insert the gene required for pesticide production into the plant. As a result, the pesticide produced by such a plant, as well as the genetic material injected, are referred to as plant integrated protectants (PIPs).</p><p>3. Biochemical pesticides: These are natural compounds with nontoxic pest control processes. Insect sex pheromones (which interfere with mating) and a variety of fragrant plant extracts are examples of biochemical insecticides (work by attracting insect pests into traps).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">PESTICIDE USAGE PATTERN</head><p>There are 293 pesticides registered in India, and it is reported that 104 pesticides are still being produced/used in the country despite being prohibited in two or more nations around the world <ref type="bibr" target="#b13">Goi (2021)</ref>. Out of total insecticides used for pest management in India, 50% are diverted to cotton pest management <ref type="bibr" target="#b27">Mooventhan et al. (2020)</ref>. Due to over dependence and indiscriminate use of insecticides, many ill-effects including residue in plant parts, resistance to insecticides, secondary pest out-break, pollution to natural resources, health complications for human and wildlife etc., warrant to switch over to eco-friendly pest management methods <ref type="bibr" target="#b2">Birthal and Sharma (2004)</ref>. In 2017 the Indian use is low, compared to 19.6 kg per ha in Saint Lucia, 16.59 in Hong Kong, 13.9 in Ecuador, 13.3 in Taiwan and 13.07 in China, at about 0.31 kg per ha of pesticide. America has reduced its use by 2.54 kg per hectare <ref type="bibr" target="#b32">Roser (2019)</ref> .</p><p>Pesticide usage patterns in India differ from those in the world as a whole (Figure <ref type="figure">1</ref>). In India, insecticides, fungicides, and herbicides are used. Insecticides account for the majority of the total. The present pesticide use pattern in India is insecticides&gt;herbicides&gt;fungicides+bactericides&gt;other-pesticides, whereas the global pesticide use pattern is herbicides&gt;fungicides+bactericides&gt;insecticides&gt;otherpesticides. Currently, India is the world's fourth largest producer of pesticides. The Indian pesticides industry was worth Rs 214 billion in 2019, according to Research and Markets. The market is expected to reach Rs. 316 billion by 2024, with a compound annual growth rate of 8.1 percent. TAAS (2020).</p><p>Chlorpyriphos is the most widely used insecticide pesticide (Figure <ref type="figure">2</ref> ). The most often used insecticides are organophosphates, followed by neonicotinoids and pyrethroids. According to one study, cotton is the most pesticideconsuming agri-product (93.27 percent), followed by vegetables (87.2 percent), wheat (66.4 percent), millet (52.6 percent), and mustard (12.6 percent ) <ref type="bibr" target="#b25">(Maurya and Malik, 2016;</ref><ref type="bibr" target="#b46">Yadav and Dutta, 2019;</ref><ref type="bibr" target="#b28">Nayak et al., 2020)</ref>  (1999); FAO (2018). In India, there has been consistent rise from 5,000 metric tonnes in 1958 to 102,240 metre tonnes in 1998 in the manufacturing of technical grade pesticides. Pesticide demand was anticipated to be at Rs. 22 billion (USD 0.5 billion) in 1996-97, accounting for around 2% of the overall global market <ref type="bibr" target="#b20">Kumar (2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">PESTICIDES CONSUMPTION SCENARIO</head><p>According to the graph, pesticide usage in India has surged hundreds of times over the previous seven decades, <ref type="bibr">from 154 MT in 1953</ref><ref type="bibr">-54 to 57,000 MT in 2016</ref><ref type="bibr">-17. In 1994</ref><ref type="bibr">-1995</ref>, India used the most pesticides (80,000 MT) in a single year <ref type="bibr" target="#b5">Chand and Birthal (1997)</ref>; <ref type="bibr" target="#b0">Agnihotri (2000)</ref>; <ref type="bibr" target="#b6">Chelliah et al. (2007)</ref>; FAO <ref type="bibr">(2018)</ref>. Due to a prohibition or limit on using organochlorine pesticides, including HCH (BHC), DDTaldrin etc, and the decrease was recorded between 2000 and 2010. One of the reasons for reducing pesticide usage is the adoption of the Stockholm Convention with high levels of application and the development of integrated pesticides management programmes <ref type="bibr" target="#b22">Mansouri et al. (2017)</ref>; van den <ref type="bibr" target="#b41">Berg et al. (2017)</ref>.</p><p>Pesticide application in India is hampered by the use of low-grade pesticides and a lack of information about pesticide use. Pesticide usage without suf icient restrictions has resulted in a rise in pesticide residue identi ied in food items in India, according to the Economic Survey 2015-16 Upadhyay and Nishant (2016); <ref type="bibr" target="#b15">Grewal et al. (2017)</ref> During 2016-17, Maharashtra had the highest total pesticide consumption, followed by Uttar Pradesh, Punjab, and Haryana. While Punjab had the greatest per acre pesticide consumption (0.74 kg), followed by Haryana (0.62 kg), and Maharashtra (0.57 kg). According to the data (Figure <ref type="figure" target="#fig_5">5</ref> ), Maharashtra and Uttar Pradesh account for 41% of India's pesticide consumption. More than 70% of crop protection chemicals are used in India by the top six states combined. In these days, many individuals prefer natural alternatives to synthetic chemicals with a greater concern for the environment and for their own health. Because of the bene its related with environmental safety, target-speci icity, ef icacy, biodegradability, and applicability in integrated pest management (IPM) programmes, biopesticide is gaining popularity. The potential environmental safe application of biopesticides is well known. In view of increased requests for organic food, attention has been gaining <ref type="bibr" target="#b21">Kumar and Singh (2015)</ref>.</p><p>Pesticides derived from natural resources such as plants, animals, microbes, and certain minerals are known as biopesticides. Included in biopesticides are natural pests (Biochemical Pesticides), pesticide control (Microbial Pesticides) microorganisms and regulators of biochemical plant growth. Biopesticides have come a long way from the time of the emergence and general usage of more harmful synthetic pesticides to control agriculture as early as the 17th century <ref type="bibr" target="#b18">Koul (2011)</ref>; <ref type="bibr" target="#b42">Villaverde et al. (2016)</ref>; <ref type="bibr" target="#b33">Samada and Tambunan (2020)</ref>.</p><p>The graph (Figure <ref type="figure" target="#fig_6">6</ref> ) depicts changes in the use of chemical and biological insecticides during the last six years. In India, bio-pesticide consumption accounts for about 9% of overall pesticide consumption. Bio pesticides are being used less frequently. However, data indicate that biopesticide use has surged in India during the previous few decades. Consumption of neem, one of India's most widely used biopesticides, increased from 83 metric tonnes (MT) in 1994-1995 to 686 MT in 1999-2000, while consumption of Bacillus thuringiensis (Bt) climbed from 40 to 71 MT during the same period. The standing committee on chemicals and fertilisers submitted a report on pesticide production and availability in India during the 15th There are currently 970 biopesticide products registered with the Central Insecticides Board and Registration Committee (CIBRC), which is the key governing organisation in India for all sorts of biopesticide usage <ref type="bibr" target="#b44">Wickramaarachchi et al. (2017)</ref>; <ref type="bibr" target="#b26">Mishra et al. (2020);</ref><ref type="bibr">Tripathi et al. (2020). Bacterial, fungal, viral, and other (plant-based, pheromones)</ref> biopesticides account for 29, 66, 4, and 1 percent of total biopesticide production, respectively <ref type="bibr" target="#b26">Mishra et al. (2020)</ref>.</p><p>In comparison to other products such as bioherbicides, biofungicides, and bionematicides, bioinsecticides continue to be in high demand. Bioinsecticides account for about 70 percent of the market, with special focus on that category for manufacturers, providing greater control and food safety market (2021).</p><p>In India, only 12 different kinds of biopesticides under the Insecticide Act of 1968 have been recorded <ref type="bibr" target="#b17">Kandpal (2014)</ref>. The main biopesticides manufactured and used in India are Neem-based insecticides, Bacillus thuringensis, NPV, and Trichoderma. While the register for use as chemical pesticides is greater than 230 synthetics K. <ref type="bibr" target="#b36">Sharma et al. (2018)</ref>. According to Figure <ref type="figure" target="#fig_6">6</ref>, Tricoderma, Psedomonas, and NPV-H (nuclear polyhedrosis virus of Helicoverpa armigera) are the most often used insecticides in 2019-20. Most biopesticides, except some used in agriculture, are employed in public health. Besides transgenic plants and bene icial organisms known as bio-agents are also used for pest management in India. <ref type="bibr" target="#b7">Deevi and Biswas (2011)</ref>. When chemical pesticides failed to eradicate Helicoverpa armigera, Spodoptera litura, and other cotton pests in India, a signi icant technological breakthrough in the ield of biocontrol occurred <ref type="bibr" target="#b19">Kranthi et al. (2002)</ref>. It was found that biocontrol is the only technology that can be used to control the widespread resistance of chemical pesticides to pest insects in a safe, cost-effective, and environmentally bene icial manner. Biopesticides were later included in IPM, which had previously relied only on the application of chemical pesticides Samada and Tambunan (2020); <ref type="bibr" target="#b26">Mishra et al. (2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">CONCLUSION</head><p>For more than 60 years, pesticides have been regarded a rapid, convenient, and lowcost alternative for managing weeds and insect pests in agriculture, public health, and other sectors in India. It is established that pesticides have contributed signi icantly in increasing agricultural production and the farmers' income globally. India has become self-suf icient in production of pesticides and also an important exporter of pesticides. More than 50% of the pesticides used in India are of insecticides. Chlorpyriphos insecticide has been utilized in highest amount compared to other insecticides. Average chemical pesticide consumption noted around 55000 tonnes/year during 2014-2018 while average bio-pesticides consumption observed around 3500 tonnes/year during 2014-2019. Maharashtra and Uttar Pradesh, both states of India occupies total 40% of segment in pesticide use. Trichoderma viride is the most fre-quently utilised species in the Indian biopesticide industry, having been utilised on 87 different crops, 70 soil-borne diseases, and 18 foliar diseases, respectively. Biopesticides can help farmers transition away from chemical pesticides and toward more dependable, sustainable, and environmentally friendly options. It is proposed that the commercial and public sectors work together to help farmers at the grassroots level by developing an integrated policy and supporting guidelines for the use of bio-pesticides and chemical pesticides.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>4 .</head><label>4</label><figDesc>Classi ication of pesticides based on Mode of Entry: Pesticide modes of entry refer to the various ways pesticides come into touch with or enter the target. 1. Systemic pesticides: pesticides absorbed into and transported to untreated tissue by plants and animals. 2, 4-Dichlorophenoxyacetic acid (2, 4-D) and glyphosate are both examples of systemic insecticides. 2. Contact (non-systemic) pesticides: When target pests come into contact with them, the pesticide acts on them. Paraquat and diquat dibromide, both contact insecticides, are examples.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>5.</head><label></label><figDesc>Classi ication of p esticides by mode of action: various pesticides have various mode of action. And pesticides are categorised as following according to mode of action 1. Physical poison: Pesticides kill an insect with a physical effect 2. Protoplasmic poisons: protein precipitation is caused by pesticides 3. Respiratory poison: chemical substances which are respiratory enzymes that are in-active 4. Nerve poison: Chemicals block the transmission of impulses 5. Inhibition of chitin: Compounds hinder synthesis of chitin in pests 6. Classi ication based on sources of origin: Pesticides are divided into two categories: bio-pesticides and chemical pesticides, depending on their source of origin.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1 Figure 2</head><label>12</label><figDesc>Figure 1 Pesticide use pattern-Worldwide and India (Source: http://www.fao.org/faostat/en/#d ata) FAO (2018)</figDesc><graphic coords="6,187.10,81.80,388.09,157.19" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Its consumption has risen from 471 MT in 2014-15 to 1431 MT in 2019-20. Sulphur is the most often used fungicide, with a consumption of 1548 MT in 2014-15, which has climbed to 3878 Mt in 2019-20. In India, a high concentration of 2, 4-D amine salts is used as a weedicide (herbicide). Its usage was 1MT in 2014-15, but it increased to 1067 MT in 2019-20. Zinc phosphide has been the most often used rodenticide, with consumption ranging from 65 to 200 MT from 2014 to 2020 GOI (2020).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 Figure 4</head><label>34</label><figDesc>Figure 3 Worldwide Pesticide consumption (1990 to 2016) (Source: http://www.fao.org/faostat/ en/#data/RP/visualize)</figDesc><graphic coords="7,187.09,419.34,388.08,191.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5</head><label>5</label><figDesc>Figure 5 State wise pesticide consumption in India (2019-2020) (Source: GOI (2020))</figDesc><graphic coords="9,187.09,70.86,388.09,232.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 6</head><label>6</label><figDesc>Figure 6 Chemical and Bio pesticide consumption of last six years in India (Source: GOI (2020))</figDesc><graphic coords="10,187.09,70.87,388.07,209.59" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 7</head><label>7</label><figDesc>Figure 7 Most consumed bio-pesticides in India (2019-20) (Source: GOI (2020))</figDesc><graphic coords="11,187.10,70.87,388.09,255.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,187.09,70.86,388.08,187.41" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 Pesticides classi icationon the basis of its toxicity WHO Class LD50 for rats (mg/kg of body weight) Oral Dermal</head><label>1</label><figDesc></figDesc><table><row><cell cols="2">Class-Ia Extremely Hazardous</cell><cell>Less than 5</cell><cell>Less than 5</cell></row><row><cell>Class-I b</cell><cell>Highly Hazardous</cell><cell>5 to 50</cell><cell>5 to 200</cell></row><row><cell>Class-II</cell><cell>Moderately Hazardous</cell><cell>50 to 2000</cell><cell>200 to 2000</cell></row><row><cell cols="2">Class-III Slightly Hazardous</cell><cell>Over 2000</cell><cell>Over 2000</cell></row><row><cell>Class-V</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">International Journal of Research -GRANTHAALAYAH</note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This research received no speci ic grant from any funding agency in the public, commercial, or not-for-pro it sectors.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Pesticide Consumption in Agriculture in India -an Update</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Agnihotri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestic. Res. Journa</title>
+		<imprint>
+			<biblScope unit="page" from="150" to="155" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">CLASSIFICATION OF PESTICIDES: A REVIEW</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Akashe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">V</forename><surname>Pawade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Nikam</surname></persName>
+		</author>
+		<idno type="DOI">.org/10.7897/2277-4343.09413110.7897/2277-4343.094131</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Research in Ayurveda and Pharmacy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="144" to="150" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Integrated Pest Management in Indian Agriculture</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Birthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Sharma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceeding</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Chemistry of Pesticides</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Buchel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<pubPlace>New york, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Pesticides of Potential Ecological Concern in Sediment from South Florida Canals: An Ecological Risk Prioritization for Aquatic Arthropods. Soil and Sediment Contamination</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Carriger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Rand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Gardinali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Tompkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Fernandez</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1532038050036309510.1080/15320380500363095</idno>
+		<ptr target="https://dx.doi.org/10.1080/1532038050036309510.1080/15320380500363095" />
+	</analytic>
+	<monogr>
+		<title level="j">An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="45" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pesticide Use in Indian Agriculture in Relation to Growth in Area and Produciton and Technological Change</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Birthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Agric. Econ</title>
+		<imprint>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Academic Foundation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Chelliah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Appasamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Sankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pandey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ecotaxes on Polluting Inputs and Outputs. In and others</title>
+				<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Organic Input Production and Marketing in India Ef iciency</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Deevi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Biswas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Issues and Policies</title>
+		<imprint>
+			<biblScope unit="issue">239</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Crop Losses due to insect pests: Global and Indian Scenario</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Dhaliwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Jindal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mohindru</surname></persName>
+		</author>
+		<idno type="DOI">10.5958/0974-8172.2015.00033.410.5958/0974-8172.2015.00033.4</idno>
+		<ptr target="https://dx.doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Indian Journal of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="165" to="165" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Pesticide Use Data-FAOSTAT</title>
+		<author>
+			<persName><surname>Fao</surname></persName>
+		</author>
+		<ptr target="http://www.fao.org/faostat/en/#data/RP" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Environmental Science</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Freedman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Dalhousie University Libraries Digital Editions</publisher>
+		</imprint>
+	</monogr>
+	<note>6th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">A Small Dose of Toxicology: The Health Effects of Common Chemicals</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gilbert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Healthy World Press</publisher>
+			<pubPlace>Boca Raton, FL, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Pesticides: Environmental Impacts and Management Strategies</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Garg</surname></persName>
+		</author>
+		<idno type="DOI">10.5772/57399</idno>
+		<ptr target="https://doi.org/10.5772/57399" />
+	</analytic>
+	<monogr>
+		<title level="m">Pesticides -Toxic Aspects. IntechOpen</title>
+				<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>In and others</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Statistical Database | Directorate of Plant Protection, Quarantine &amp; Storage | GOI</title>
+		<author>
+			<persName><surname>Goi</surname></persName>
+		</author>
+		<ptr target="http://ppqs.gov.in/statistical-databaseGoi" />
+		<imprint>
+			<date type="published" when="1968">2020. 2021. 1968</date>
+		</imprint>
+	</monogr>
+	<note>Insecticides / Pesticides Registered under section 9(3) of the Insecticides Act. for use in the Country :(As on 01.03.2021</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Sixty years of being A Little Out There</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Green</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Independently Published</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Pesticide Residues in Food Grains, Vegetables and Fruits: A Hazard to Human Health</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Grewal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kamboj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Dua</surname></persName>
+		</author>
+		<idno type="DOI">10.15436/2575-808x.17.135510.15436/2575-808x.17.1355</idno>
+		<ptr target="https://dx.doi.org/10.15436/2575-808x.17.135510.15436/2575-808x.17.1355" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medicinal Chemistry and Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="46" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pesticides pollution: Classi ications, human health impact, extraction and treatment techniques</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hassaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Nemr</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejar.2020.08.00710.1016/j.ejar.2020.08.007</idno>
+		<ptr target="https://dx.doi.org/10.1016/j.ejar.2020.08.00710.1016/j.ejar.2020.08.007" />
+	</analytic>
+	<monogr>
+		<title level="j">The Egyptian Journal of Aquatic Research</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="207" to="220" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kandpal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopesticides. Res. India Publ</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="190" to="196" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K O</forename><surname>Koul</surname></persName>
+		</author>
+		<idno type="DOI">10.1079/pavsnnr2011605610.1079/pavsnnr20116056</idno>
+		<ptr target="https://dx.doi.org/10.1079/pavsnnr2011605610.1079/pavsnnr20116056" />
+		<title level="m">Microbial biopesticides: opportunities and challenges. CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources</title>
+				<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Insecticide resistance in ive major insect pests of cotton in India</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Kranthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Jadhav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kranthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wanjari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Russell</surname></persName>
+		</author>
+		<idno type="DOI">s0261-2194(01)00131-410.1016/s0261-2194(01)00131-4</idno>
+		<ptr target="https://dx.doi.org/10.1016/" />
+	</analytic>
+	<monogr>
+		<title level="j">Crop Protection</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="449" to="460" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Use of pesticides in agriculture and livestock animals and its impact on environment of India</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ASIAN JOURNAL OF ENVIRONMENTAL SCIENCE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="57" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Biopesticides: Present Status and the Future Prospects</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fertil. Pestic</title>
+		<imprint>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Environmental Issues of DDT Pollution and Bioremediation: a Multidisciplinary Review</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mansouri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cregut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Abbes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-J</forename><surname>Durand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Landoulsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thouand</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12010-016-2214-510.1007/s12010-016-2214-5</idno>
+		<ptr target="https://dx.doi.org/10.1007/s12010-016-2214-510.1007/s12010-016-2214-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Biochemistry and Biotechnology</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="309" to="339" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Global Market Study on Biopesticides: The Growing Focus on Sustainable and Organic Agriculture. Persistence Mark. Res</title>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+		<ptr target="https://www.persistencemarketresearch.com/market-research/biopesticides-market.asp" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Future of Indian pesticides industry in next millennium</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mathur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tannan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestic. Inf</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="9" to="23" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bioaccumulation of Xenobiotics Compound of Pesticides in Riverine System and Its Control Technique: A Critical Review</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Maurya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Malik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Ind. Pollut. Control</title>
+		<imprint>
+			<biblScope unit="page">32</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Arora</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13205-020-02192-7</idno>
+		<ptr target="https://doi.org/10.1007/s13205-020-02192-7" />
+		<title level="m">Biopesticides in India: technology and sustainability linkages. 3 Biotech 10</title>
+				<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">World population prospects Highlights</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mooventhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Murali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kaushal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2020. 2019. 2019</date>
+			<publisher>NIBSM Publ. Nations, U</publisher>
+			<biblScope unit="page">2019</biblScope>
+		</imprint>
+	</monogr>
+	<note>revision Highlights</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sahoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kolanthasamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rao</surname></persName>
+		</author>
+		<idno type="DOI">10.26832/aesa-2020-edcrs-03</idno>
+		<ptr target="https://doi.org/10.26832/aesa-2020-edcrs-03" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Crop losses to pests</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Oerke</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s002185960500570810.1017/s0021859605005708</idno>
+		<ptr target="https://dx.doi.org/10.1017/s002185960500570810.1017/s0021859605005708" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Agricultural Science</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="43" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Pesticide productivity and food security. A review. Agronomy for Sustainable Development</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Popp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pető</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nagy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13593-012-0105-x10.1007/s13593-012-0105-x</idno>
+		<ptr target="https://dx.doi.org/10.1007/s13593-012-0105-x10.1007/s13593-012-0105-x" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="243" to="255" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prabha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kumar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>WWW Document</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesticides. Our World Data</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Biopesticides as Promising Alternatives to Chemical Pesticides: A Review of Their Current and Future Status</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Samada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S F</forename><surname>Tambunan</surname></persName>
+		</author>
+		<idno type="DOI">10.3844/ojbsci.2020.66.7610.3844/ojbsci.2020.66.76</idno>
+		<ptr target="https://dx.doi.org/10.3844/ojbsci.2020.66.7610.3844/ojbsci.2020.66.76" />
+	</analytic>
+	<monogr>
+		<title level="j">OnLine Journal of Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="66" to="76" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The global burden of pathogens and pests on major food crops</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Savary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Willocquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Pethybridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Esker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mcroberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nelson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41559-018-0793-y10.1038/s41559-018-0793-y</idno>
+		<ptr target="https://dx.doi.org/10.1038/s41559-018-0793-y10.1038/s41559-018-0793-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Ecology &amp; Evolution</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="430" to="439" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Worldwide pesticide usage and its impacts on ecosystem</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shahzad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanveer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P S</forename><surname>Sidhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Kohli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Bali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Parihar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">I</forename><surname>Dar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jasrotia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bakshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bhardwaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Thukral</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s42452-019-1485-1</idno>
+		<ptr target="https://doi.org/10.1007/s42452-019-1485-1" />
+	</analytic>
+	<monogr>
+		<title level="j">SN Appl. Sci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Biopesticides: an effective tool for insect pest management and current scenario in India</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Raju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thakur</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Stakeholders Dialogue on Current Challenges and Way Forward for Pesticides Management -A Road Map</title>
+		<author>
+			<persName><surname>Taas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+			<publisher>Indian Phytopathological Society</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Trust for Advancement of Agricultural Sciences), SPS, (Society of Pesticide Science), IPS, (Indian Phytopathological Society), ESI, (Entomological Society of India</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Biopesticides: Current Status and Future Prospects in</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Tripathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Divyanshu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Jaiswal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Birla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Upadhyay</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-13-9431-7_6</idno>
+		<ptr target="https://doi.org/10.1007/978-981-13-9431-7_6" />
+		<editor>India (Keswani &amp; C.</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Singapore; Singapore</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Agriculture Development, Pesticide Application and Its Impact on the Environment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Ruan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Phung</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph1803111210.3390/ijerph18031112</idno>
+		<ptr target="https://dx.doi.org/10.3390/ijerph1803111210.3390/ijerph18031112" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1112" to="1112" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Presence of pesticide residue in vegetable crops: A review</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Upadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nishant</surname></persName>
+		</author>
+		<idno type="DOI">10.18805/ag.v37i3.353310.18805/ag.v37i3.3533</idno>
+		<ptr target="https://dx.doi.org/10.18805/ag.v37i3.353310.18805/ag.v37i3.3533" />
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Reviews</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="173" to="185" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Global trends in the production and use of DDT for control of malaria and other vector-borne diseases</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Den Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Manuweera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Konradsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12936-017-2050-210.1186/s12936-017-2050-2</idno>
+		<ptr target="https://dx.doi.org/10.1186/s12936-017-2050-210.1186/s12936-017-2050-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Malaria Journal</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Villaverde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sandín-España</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sevilla-Morán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>López-Goti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Alonso-Prados</surname></persName>
+		</author>
+		<idno type="DOI">10.15376/biores.11.2.villaverde10.15376/biores.11</idno>
+		<ptr target="https://dx.doi.org/10.15376/biores.11.2.villaverde10.15376/biores.11" />
+	</analytic>
+	<monogr>
+		<title level="m">Biopesticides from Natural Products: Current Development, Legislative Framework, and Future Trends</title>
+				<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="5618" to="5640" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Global situation of pesticide management in agriculture and public health: report of a 2018 WHO-FAO survey</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>World Health Organization</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Facilitating microbial pesticide use in agriculture in South Asia. Presented at the SAARC Regional Expert Consultation on Facilitating Microbial Pesticide Use in Agriculture in South Asia</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A R T</forename><surname>Wickramaarachchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chaudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Patil</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>National Bureau of Agricultural Insect Resources</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Pesticides Classi ication and Its Impact on Human and Environment</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Devi</surname></persName>
+		</author>
+		<ptr target="https://www.researchgate.net/profile/Ishwar-Yadav/publication/313445102_Pesticides_Classification_and_Its_Impact_on_Human_and_Environment/links/589b09a04585158bf6fb8080/Pesticides-Classification-and-Its-Impact-on-Human-and-Environment.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. &amp; Engg</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="140" to="158" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Toxicology</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">A Study of Pesticide Consumption Pattern and Farmer&apos;s Perceptions towards Pesticides: A Case of Tijara Tehsil</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yadav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dutta</surname></persName>
+		</author>
+		<idno type="DOI">10.20546/ijcmas.2019.804.01210.20546/ijcmas.2019.804.012</idno>
+		<ptr target="https://dx.doi.org/10.20546/ijcmas.2019.804.01210.20546/ijcmas.2019.804.012" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Current Microbiology and Applied Sciences</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">04</biblScope>
+			<biblScope unit="page" from="96" to="104" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">INTEGRATED PEST MANAGEMENT PACKAGE FOR RICE</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Anand</forename><surname>Prakash</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bentur</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">DRR</orgName>
+								<address>
+									<postCode>500030</postCode>
+									<settlement>Rajendernagar</settlement>
+									<region>Hyderabad</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Srinivas</forename><surname>Prasad</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Tanwar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Sharma</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Someshwar</forename><surname>Bhagat</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mukesh</forename><surname>Sehgal</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Singh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Chattopadhyay</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Sushil</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Directorate of Plant Protection, Quarantine &amp; Storage</orgName>
+								<address>
+									<postCode>121 001</postCode>
+									<settlement>Faridabad</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sinha</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Directorate of Plant Protection, Quarantine &amp; Storage</orgName>
+								<address>
+									<postCode>121 001</postCode>
+									<settlement>Faridabad</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ram</forename><surname>Asre</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Directorate of Plant Protection, Quarantine &amp; Storage</orgName>
+								<address>
+									<postCode>121 001</postCode>
+									<settlement>Faridabad</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kapoor</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Directorate of Plant Protection, Quarantine &amp; Storage</orgName>
+								<address>
+									<postCode>121 001</postCode>
+									<settlement>Faridabad</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Satyagopal</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">National Institute of Plant Health Management</orgName>
+								<address>
+									<postCode>500030</postCode>
+									<settlement>Rajendranagar</settlement>
+									<region>Hyderabad</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><forename type="middle">2014</forename><surname>Jeyakumar</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">National Institute of Plant Health Management</orgName>
+								<address>
+									<postCode>500030</postCode>
+									<settlement>Rajendranagar</settlement>
+									<region>Hyderabad</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Sharma</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Integrated</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Srinivas</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">DRR</orgName>
+								<address>
+									<postCode>500030</postCode>
+									<settlement>Rajendernagar</settlement>
+									<region>Hyderabad</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Prasad</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Tanwar</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Centre for Integrated Pest Management LBS Building</orgName>
+								<orgName type="institution" key="instit2">IARI Campus</orgName>
+								<address>
+									<addrLine>New Delhi -110</addrLine>
+									<postCode>012</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Directorate of Plant Protection</orgName>
+								<orgName type="institution">Quarantine &amp; Storage (DPPQ&amp;S) CGO Complex</orgName>
+								<address>
+									<region>NH IV</region>
+									<country>Faridabad Haryana-121001</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">National Institute of Plant Health Management (NIPHM) DAC</orgName>
+								<orgName type="institution" key="instit2">Min of Agri</orgName>
+								<address>
+									<postCode>Hyderabad-500030</postCode>
+									<settlement>Rajendranagar</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">CGO Complex</orgName>
+								<address>
+									<postCode>Faridabad-121001</postCode>
+									<region>NH IV</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">National Centre for Integrated Pest Management</orgName>
+								<orgName type="institution" key="instit1">LBS Building</orgName>
+								<orgName type="institution" key="instit2">IARI Campus</orgName>
+								<address>
+									<addrLine>New Delhi-110 012 1 CRRI</addrLine>
+									<postCode>753006</postCode>
+									<settlement>Pusa, Cuttack</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">National Centre for Integrated Pest Management</orgName>
+								<orgName type="department" key="dep2">Directorate of Plant Protection, Quarantine &amp; Storage</orgName>
+								<orgName type="institution" key="instit1">LBS Building</orgName>
+								<orgName type="institution" key="instit2">IARI Campus</orgName>
+								<address>
+									<addrLine>New Delhi -110 012</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="institution" key="instit1">CGO Complex</orgName>
+								<orgName type="institution" key="instit2">NH IV</orgName>
+								<address>
+									<postCode>Haryana-121 001</postCode>
+									<settlement>Faridabad</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">INTEGRATED PEST MANAGEMENT PACKAGE FOR RICE</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D394EC6AC8E825D422E26503F94583D1</idno>
+					<note type="submission">Year : 2014 Copies : 500</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Pests are major biotic constraints to achieve self sufficiency in ensuring food security. Losses due to pest vary range 10-30% depending upon the genetic constituent of crop, its health and the governing environment. General national estimate of annual crop losses due to pest amounts to 260000 million per year. However, negligence of endemic areas can result in complete crop failures. In view of inefficacy of chemical pesticides and environmental problems thereof, Integrated Pest Management (IPM) has been accepted as a cardinal principle of Plant Protection in the overall Crop Protection Programme under the National Agricultural Policy of the Govt. of India. IPM being an eco-friendly approach, socially acceptable and economically viable has been widely accepted across the country. The IPM package encompasses various management strategies for pest and disease problems. Pest monitoring is also one of the important components of IPM to take proper decision to manage any pest problem. It can be done through Agro-Ecosystem Analysis (AESA), field scouting, light, pheromone, sticky/yellow pan traps. The economic threshold level (ETL) of important pests and diseases are also given in the package to activate appropriate control measures on standing crops. The existing package and practices was developed way back in 2001-02 by DPPQ &amp; S, Faridabad catering the need of extension personals in extending IPM tactics to farmers. Though these were useful, there is a need to update them in view of changing climate and its impact on pests and their protection measures.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Integral India has the largest area under rice cultivation in the world (44.6 million hectares) and ranks second in production (104.31million tonnes in 2011-12). In India, Rice is grown under different agro ecological conditions viz., water logged, deep water, hills, high humidity, high temperatures, salinity, alkalinity and flood prone areas. The cropping intensity differs from one environment to the other with a maximum of three rice growing seasons in a year in the fertile deltaic regions due to availability of continuous irrigation. The rice crop is prone to stress throughout the crop growth period due to onslaught from different pests such as insects, nematodes, diseases, weeds and rats. Adoption of integrated pest management (IPM) strategies is the best solution to tackle the pest problems. Rice IPM provides a framework for integrating knowledge, skills and information on rice pest management. An IPM practice in rice production initiatives includes regular pest monitoring, research on the optimal use of pesticides, complementary weed control strategies, and alternative cultural and biological controls. In this regard, several efforts have been made to develop, verify, demonstrate and document location specific IPM technologies suited to different ecosystems. Since IPM is a dynamic process, therefore, it needs continuous up gradation of the technology as per the changing pest scenario. To achieve the target of increasing the productivity levels to meet the future demand, it requires adoption of modern and intensive agricultural practices by the farmers. However, concomitant with the practice of intensive agriculture, there is aggravation of biotic constraints like insect pests, diseases and weeds. More than 100 species of insects have been recorded as pest of rice, of which about a dozen are of significance in India. The co-ordinated network trials conducted at different centres in India have indicated that controlling of insect pests alone increase yield by around 1 ton /ha. The diseases of rice accounts for about 10% loss in rice production annually or approximately 2.5 million tons. Even if the average loss caused by rice disease in a year were to be only 5% of the total rice production in the country, it would amount to a great deal, and prevention of such a loss should constitute one of the important methods of augmenting our food security.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">IPM Approach</head><p>There are over seventy two (72) definitions of IPM, issued by governments, research organizations, NGOs, and universities (Bajwa and <ref type="bibr">Kogan, 2002)</ref>. Some assume that IPM will eliminate the use of crop protection products, specially the chemical pesticides, which is most unlikely. Extreme views equating IPM with "pest free" farming will become increasingly marginalised and more balanced views will prevail. There is no reason not to support IPM as defined by the FAO International Code of Conduct on the Distribution and Use of Pesticides (Article 2): Integrated Pest Management (IPM) means a pest management system that, in the context of the associated environment and the population dynamics of the pest species, utilizes all suitable techniques and methods in a compatible manner as possible and maintains the pest populations at levels below those causing economically unacceptable damage or loss <ref type="bibr">(FAO, 1967)</ref>. Thus, IPM is the best combination of cultural, biological and chemical measures that provides the most cost-effective, environmentally sound and socially acceptable method of managing diseases, insects, weeds and other pests.</p><p>IPM is a knowledge-intensive sustainable approach for managing pests by combining compatible cultural, biological, chemical, and physical tools in a way that minimizes economic, health, and environmental risks with the help of pest scouts. IPM relies heavily on knowledge of pests and crop interaction to choose the best combination of locally available pest management tools (Fig. <ref type="figure" target="#fig_0">1</ref>). Therefore, IPM is not a single product that can be stored on shelves like pesticide, and it does not rely on single method to solve all our pest problems. Pests also co-evolve and adapt very quickly to single control tactics through natural selection, and that multiple methods used simultaneously, or an "integrated" approach, is the most effective for long-term, sustainable management programs. IPM is neither organic nor it relies solely on biological control to achieve the desired sustainable outcome. It does often try to assist and augment the efficacy of natural enemies by limiting the impact of pesticide on their populations and provide clean and safe niche. It seeks to conserve balance between the crop and the natural environment. The World Bank policy (OP 4.04 -Natural Habitats) also promotes the conservation of natural habitats, and enhancement of the environment for long-term sustainable development. In the IPM concept, use of pesticides involves a trade-off between pest control and the risks of adverse effects on non-target organisms, such as natural enemies, pollinators, wildlife, and plants, contamination of soil and water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Pest Monitoring:</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>a. Survey/Field Scouting</head><p>The objective through roving surveys is to monitor the initial development of pests in endemic areas. Therefore, in the beginning of crop season survey routes based upon the endemic areas are required to be identified to undertake roving surveys. Based upon the results of the roving surveys, the state extension functionaries have to concentrate for greater efforts at block and village levels as well as through farmers to initiate field scouting. Therefore, for field scouting farmers should be mobilised to observe the insect pest and disease occurrence at the intervals as stipulated hereunder. The plant protection measures are required to be taken only when insect pests and diseases cross Economic Threshold Level (ETL) as per results of field scouting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Roving survey:</head><p>-Undertake roving survey at every 10 km distance at 7-10 days intervals (depending upon pest population). Everyday at least 20 spots should be observed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Field scouting:</head><p>-Field scouting for pests and bio-control fauna by extension agencies and farmers once in 3-5 days should be undertaken to workout ETL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>b. Pest monitoring through pheromones/light traps etc.</head><p>Majority of insects population can be monitored by fixing and positioning of pheromones or light traps at appropriate stage of crop. The State Department of Agriculture can initiate this action at strategic locations at village level as per the following details:</p><p>1. Pheromone trap-monitoring -5 traps per ha may be used to monitor yellow stem borer and moth population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Light trap -Chinsurah light trap or any other light trap can be operated for two hours in the evening to observe photo-tropic insect pests.</p><p>3. Sweep-nets -water pans -Besides visual observations sweep-nets and water pans may also be used to assess the population of insect pests, and biocontrol agents to determine the type of pesticides to be recommended or used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.1.">Agro Eco System Analysis (AESA)</head><p>IPM has been evolving over the decades to address the deleterious impacts of synthetic chemical pesticides on environment ultimately affecting the interests of the farmers. In modern IPM <ref type="bibr">(FAO, 2002)</ref> emphasis is given to Agro Eco System Analysis (AESA) where farmers take decisions based on larger range of field observations. The health of a plant is determined by its environment which includes physical factors (i.e. sun, rain, wind and soil nutrients) and biological factors (i.e. pests, diseases and weeds). All these factors can play a role in the balance which exists between herbivore insects and their natural enemies. Understanding the intricate interactions in an ecosystem can play a critical role in pest management.</p><p>It is an approach, which can be gainfully employed by extension functionaries and farmers to analyse field situations with regard to pests, defenders, soil conditions, plant health, the influence of climatic factors and their interrelationship for growing healthy crop. Such a critical analysis of the field situations will help in taking appropriate decision on management practice. The basic components of AESA are 1. Plant health at different stages.</p><p>2. Built-in-compensation abilities of the plants. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AESA Methodology</head><p>Field observations on insect pests and diseases are to be initiated after 20 days of transplanting. In each field select five spots randomly as shown in the figure (four in the corner, at least 5 feet inside the border and one in the centre). At each spot select four hills randomly for recording observations (Total 20 hills/field). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data recording</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Important instructions while taking observations</head><p>While walking in the field, manually collect insects in plastic bags. Use a sweep net to collect additional insects. Collect plant parts with disease symptoms. Find a shady place to sit as a group in a small circle for drawing and discussion. If needed, kill the insects with some chloroform (if available) on a piece of cotton. Each group will first identify the pests, defenders and diseases collected. Each group will then analyze the field situation in detail and present their observations and analysis in a drawing (the AESA drawing as shown in MODEL AESA CHART. Each drawing will show a plant/hill representing the field situation. The weather condition, water level, disease symptoms, etc. will be shown in the drawing. Pest insects will be drawn on one side. Defenders (beneficial insects) will be drawn on another side. Write the number next to each insect. Indicate the plant part where the pests and defenders were found. Try to show the interaction between pests and defenders. Each group will discuss the situation and make a crop management recommendation. The small groups then join each other and a member of each group will now present their analysis in front of all participants. The facilitator will facilitate the discussion by asking guiding questions and makes sure that all participants (also shy or illiterate persons) are actively involved in this process. Formulate a common conclusion. The whole group should support the decision on what field management is required in the AESA plot. Make sure that the required activities (based on the decision) will be carried out.</p><p>Keep the drawing for comparison purpose in the following weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pest: Defender ratio (P: D ratio):</head><p>Identifying the number of pests and beneficial insects helps the farmers to make appropriate pest management decisions. Sweep net, visual counts etc. can be adopted to arrive at the numbers of pests and defenders. The P: D ratio can vary depending on the feeding potential of natural enemy as well as the type of pest. The P: D ratios for yellow stem borer are given below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sr. No. Predator</head><p>Predator :YSB Ratio </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Soil condition :</head><p>Weather condition :</p><p>No. of insect pests :</p><p>No. of natural enemies :</p><p>Diseases types and severity :</p><p>Weeds types and intensity :</p><p>Rodent damage (if any) :</p><p>For the success of Integrated Pest Management pest monitoring, prevention (Cultural and genetic) and timely intervention (Biological or chemical) are the key components. d. Seed treatment (for diseases) with carbendazim 50% WP @ 2 g/kg seed or Trichoderma/Pseudomonas @ 5-10 g/ha of seed for seed or soil borne diseases and carbosulfan 2 g/kg of seed for root nematodes or as per local recommendations. In termites endemic areas, seed treatment with chlorpyriphos 20% EC @ 10000 ml/ha along with 10% solution of gum arabica or imidacloprid 200 SL (20%) @ 0.25 litre/100 kg seed along with 10% solution of gum Arabica in 3.75 litre of water just before sowing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.2.">ECONOMIC THRESHOLD LEVEL (ETL) OF MAJOR PESTS OF RICE CROP STAGE WISE</head><p>e. Timely planting/sowing.</p><p>f. Pre-sowing irrigation: Many weeds can be controlled by applying pre-sowing irrigation to area where nursery or seedlings are to be transplanted. The emerged weeds can be ploughed under.</p><p>g. Raising of healthy nursery.</p><p>h. As far as possible rice seedling should be free from weed seedlings at the time of transplanting.</p><p>i. Destruction of left over nursery, removal of weeds from field and cleaning of bunds.</p><p>j. Normal spacing with 30-36 hills/ m 2 depending on the duration of the variety.</p><p>k. 30 cm alley formations at every 2.5 to 3 m distance in plant hopper and sheath blight endemic areas.</p><p>l. Balanced use of fertilizers and micro-nutrients as per local recommendations. Proper water management (alternate wetting and drying to avoid water stagnation) in plant hopper, bacterial blight and stem rot endemic areas. Maintain a thin layer of water on soil surface to minimize weed growth.</p><p>m. In direct sown rice, the crop should be sown in lines at recommended spacing to facilitate interweeding operations. Mechanical methods of weed should be practiced after 2-3 weeks and second time if necessary after 4-6 weeks of sowing.</p><p>n. Harvest close to ground level to destroy insect pest present in the internodes/stubbles. This will also expose the insects to birds thus help in natural biocontrol of insect pests.</p><p>o. After harvest, the fields should be thoroughly flooded with water and ploughed with discs or rotators to kill hibernating larvae of stem borer present in the stubbles. Summer ploughing of fields also expose larvae and pupae of rice swarming or ear cutting caterpillar (climbing cutworm) hidden in the soil to birds and weather factors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Important cultural practices reducing insect pests incidence</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S. No. Insect Pest Cultural Practices</head><p>1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caseworm (Nymphula depunctalis)</head><p>Rice fields with wider hill spacing (30 x 20 cm) usually suffers less damage from caseworm.</p><p>Early planting may escape the peak caseworm moth activity period. Draining of fields for 5-7 days kills caseworm larvae. Use of older seedlings reduces the duration of the susceptible stage of the crop.</p><p>Nitrogen fertilizer use at optimal dosages and split applications reduce the rice caseworm's abundance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S. No. Insect Pest Cultural Practices</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Whorl maggot (Hydrellia philippina)</head><p>Adult flies are more attracted to standing water. Therefore, by draining the water at 3-4 days intervals during the first 30 days after transplanting, egg lying is reduced.</p><p>Covering the water surface with Azolla and Salvinia molesta prevents rice whorl maggot infestation. Direct-seeded rice is not as attractive to adults as a transplanted rice crop is. Fields with higher plant density suffers less damage.</p><p>Close planting decreases oviposition and subsequent damage 3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gall midge (Orseolia oryzae)</head><p>Plowing under the ratoon of previous crops can reduce infestation. Control of grassy weeds and wild rice (alternate hosts) from surrounding areas can reduce gall midge incidence. Draining of rice fields for 5-7 days affects midge populations. Planting of early and using early maturing varieties may help to avoid high infestations.</p><p>Using only moderate amounts of nitrogen and potassium fertilizers and adopting split applications to reduce population growth rates.</p><p>Avoiding staggered planting (complete planting in an area within 3 weeks) to reduce infestation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rice hispa (Dicladispa armigera)</head><p>Clipping and destruction of the top three-fourths of the leaves of highly infested crops with eggs and grubs at the early vegetative stage can suppress populations. Sustained collection of adults by sweep net and destruction suppress populations and reduces damage. The removal of rice ratoons and volunteer rice during the crop-free season affects the rice hispa's survival and multiplication of over-wintering populations. In situations of high hispa incidence, skip nitrogen fertilizer top-dressing. Note that top-dressing after the pest is controlled can enhance recovery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rice leaf folders (Cnaphalocrocis medinalis)</head><p>Early planting may help to avoid greater degrees of leaf damage. Wider spacing (22.5 x 20 cm and 30 x 20 cm) and low usage of nitrogenous fertilizers decreases leaf damage. Highly fertilized plots seem to attract females for oviposition. Therefore, it is advisable to avoid over-fertilization. Egg predators (crickets) inhabit surrounding grass habitats and move to the field at night for predation. Maintenance of non-rice habitats might be worthwhile. Higher damages will occur in shaded areas. Therefore, remove the causes of shading within the field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yellow stem borer (Scirpophaga incertulas)</head><p>Clipping the tips of seedlings before transplanting greatly reduces the carryover of eggs from the seedbed to the transplanted fields Rice varieties with short stature and shorter growth duration periods suffer less damage than long growth duration varieties. Rice -rice with shorter growth duration varieties suffer less damage than long duration varieties. This may be because of stem-borer mortality due to harvests occurring twice in the double cropping system. Community-wide destruction of diapausing larvae (in stubble) through tillage after harvest, followed by flooding, reduces stem borer populations resulting in low incidence in the next crop.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S. No. Insect Pest Cultural Practices</head><p>Planting or seeding times may be delayed to avoid the peak emergence of moths from the diapausing populations. Rice seedbeds may be used as a trap crop for moths emerging from diapause.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>7.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Green leafhoppers (Nephotettix cincticeps)</head><p>Reducing the number of rice crops to two per year and synchronized establishment across farms reduces leafhoppers and other insect vectors of rice virus or phytoplasma diseases.</p><p>Transplanting older seedlings (&gt;3 weeks) also reduces viral disease susceptibility transmitted by leafhoppers. Avoid planting at peak activity (shown by historical records) period to avoid infestation.</p><p>Early planting within a given planting period, particularly in the dry season, reduces the risk of insect-vector disease.</p><p>Nitrogen should be applied at an optimal level to discourage population buildup and influence plant recovery. Good weed control in the field and on the bunds removes the preferred grassy hosts and promotes crop vigor.</p><p>Crop rotation with a non-rice crop during the dry season decreases disease reservoirs.</p><p>Upland rice intercropped with soybean reduces the incidence of leafhoppers on rice compared to rice alone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>8.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brown planthopper (Nilaparvata lugens)</head><p>High dosages of nitrogenous fertilizers, close spacing, and high relative humidity increases planthopper populations. Sensible use of fertilizer by splitting nitrogen applications can also reduce chances of plant hopper outbreaks. Draining rice fields can be effective in reducing initial infestation levels. The field should be drained for 3 -4 days when heavy infestations occur. Growing no more than two crops per year and using early-maturing varieties reduces planthopper abundance and damage. Synchronous planting (planting neighboring fields within 3 weeks) and maintaining a rice-free period may be effective.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>9.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Green stinkbug (Nezara viridula)</head><p>Early-maturing varieties can be used as trap crops to protect the late maturing main crop. However, insecticides need to be applied to the trap crop for the stinkbug's control. The green-manuring crop, Sesbania rostrata, can also be used as a trap crop.</p><p>Intercropping of soybean with rice can also be effective.</p><p>Adjusting the planting date allows a degree of manipulation of N. viridula numbers</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Genetic management</head><p>Insect pest and disease resistant/ tolerant varieties mentioned below should be used:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Varieties resistant/tolerant to various insect pests and diseases</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Insect pests</head><p>Resistant/tolerant varieties </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Mechanical Practices</head><p>Collection of egg masses and larvae of pest to be placed in bamboo cages for conservation of biocontrol agents.</p><p>Removal and destruction (burn) of diseased/pest infested plant parts. Clipping of rice seedlings tips at the time of transplanting to minimize carryover of rice hispa, case worm and stem borer infestation from seed bed to the transplanted fields. Use of coir rope in rice crop for dislodging case worm, cut worm and swarming caterpillar and leaf folder larvae etc. on to kerosinized water (1 L of kerosene mixed on 25 kg soil and broadcast in 1ha).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Biological Control Practices</head><p>The details of biological control practices are given below</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.1.">Augmentation and Conservation</head><p>Trichogramma japonicum and T chilonis may be released @ 1 lakh/ha on appearance of egg masses / moth of yellow stem borer and leaf folder in the field.</p><p>Natural biocontrol agents such as spiders, drynids, water bugs, mirid bugs, damsel flies, dragonflies, meadow grasshoppers, staphylinid beetles, carabids, coccinellids, Apanteles, Tetrastichus, Telenomus, Trichogramma, Bracon, Platygaster etc. should be conserved.</p><p>Collection of egg masses of borers and putting them in a bamboo cage-cum-percher till flowering which will permit the escape of egg parasites and trap and kill the hatching larvae. Besides, these would allow perching of predatory birds.</p><p>Habitat management: Protection of natural habitats within the farm boundary may help in conserving natural enemies of pests. Management of farmland and rice bunds with planting of flowering weeds like marigold, sun hemp increases beneficial natural enemy population and also reduce the incidence of root knot nematodes. Provide refuge like straw bundles having charged with spiders to help in build up spider population and to provide perch for birds </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Major parasitoids and predators of insect pests of rice</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Copidosomopsis nacoleiae</head><p>Egg parasitoid of leaf folder. 200-300 wasps are produced from a few eggs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Larval parasitoids Amauromorpha accepta</head><p>Larval parasitoid of yellow and white stem borer. Adults are medium sized red and black in colour with white band at the abdominal tip.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stenobracon nicevillei</head><p>Larval parasitoid of leaf folder. Adult wasp has orange brown body, black head, 3 pairs of black spots on forewings.</p><p>Ovipositor is black and double the length of its body.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cotesia flavipes</head><p>Larval parasitoid of stem borer and semi-looper. Adult wasps are similar to Cotesia antustibasis except the antenna is short and yellow brown to red marking at the base of hind legs.</p><p>Elasmus sp. Larval parasite of leaf folder. Wasp emerges from larva or pupa. Adults are small elongated wasps with pointed abdomen. Thoracic segment is enlarged and disc shaped. They are black with reddish markings/bands on the abdomen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural enemy category Natural enemy Pest attacked and feeding potential</head><p>Haplogonatopus sp Pseudogonatopus spp.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haplogonatopus attack leaf hoppers and</head><p>Pseudogonatopus attack plant hoppers and act as parasites and predators. Adults of Pseudogonatopus are brown or black in colour.</p><p>Females are wingless with pincher like front claws.</p><p>Bracon sp. Larval parsitoid of yellow stem borer and rice hispa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Larval and pupal parasitoids</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Xanthopimpla flavolineata</head><p>Larval, pupal parasitoid of stem borer Adult wasp is medium sized yellow orange in colour with black ovipositor and transparent wings. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.2.">Pest defender ratio</head><p>Pest defender ratio (P: D) 2:1 may be useful to avoid application of pesticides against plant hoppers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.3.">Behavioural Control</head><p>Mass trapping of yellow stem borer male moths by installing pheromone traps @ 20 traps/ha with lures containing 10-15 mg pheromone at 20 days after transplanting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Chemical Control Measures</head><p>The details of the chemical control measures to be adopted against insect pests and diseases are given in Generic IPM module based on vegetative stage. Resort to chemical as the last choice only after the regular pest and when pest population cross ETL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Generic IPM module based on vegetative stage</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CROP STAGE/ PEST VIS-À-VIS IPM PRACTICES</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PESTS PESTICIDES</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. INSECTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nursery</head><p>Gall midge Carbofuran 3% CG @ 25000-66600 g/ha or carbosulfan 6% G @ 16700 g/ha or carbosulfan 25% EC @ 800-1000 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stem borer</head><p>Cartap hydrochloride 4% granules @ 18750 g/ha or cartap hydrochloride 50% SP @ 1000 g/ ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vegetative stage</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stem borer</head><p>Carbofuran 3% CG @ 25000-66600 g/ha or cartap hydrochloride 4% granules @ 18750 g/ha or cartap hydrochloride 50% SP @ 1000 g/ha or monocrotophos 36 % SL @ 625-1250 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Leaf folder</head><p>Spray cartap hydrochloride 4% granules @ 18750-25000 g/ha or cartap hydrochloride 50% SP @ 1000 g/ha or monocrotophos 36 % SL @ 625-1250 ml/ha or chlorpyrifos 1.5% DP @ 25000 g/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brown plant hopper and WBPH</head><p>Spray of imidacloprid 70% WG @ 30-35 g/ha or imidacloprid 30.5% m/m SC @ 60-75 ml/ha or ethofenoprox 10% EC @ 500-750 ml/ha or acephate 75% SP @ 666-1000 g/ha or buprofezin 25% SC @800 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gall midge</head><p>Application of carbofuran 3% CG @ 25000-66600 g/ha or fipronil 0.3% GR @16670-25000 g/ ha at 20 days after transplanting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hispa</head><p>Spray quinalphos 25% gel @ 1000 ml/ha or chlorpyrifos 20% EC @ 1250 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caseworm</head><p>Spray carbaryl 10% DP @ 25000 g/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Panicle initiation to booting</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stem borer</head><p>Carbofuran 3% CG @ 25000-66600 g/ha or cartap hydrochloride 4% granules @ 18750-25000 g/ha or cartap hydrochloride 50% SP @ 1000g/ha or monocrotophos 36 % SL @ 625-1250 ml/ ha.</p><p>Leaf folder Spray cartap hydrochloride 4% granules @ 18750-25000 g/ha or cartap hydrochloride 50% SP @ 1000 g/ha or monocrotophos 36 % SL @ 625-1250 ml/ha or chlorpyrifos 1.5% DP @ 25000 g/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PESTS PESTICIDES</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brown plant hopper/White backed plant hopper</head><p>Spray of imidacloprid 70% WG @ 30-35 ml/ha or imidacloprid 30.5% m/m SC @ 60-75 ml/ha or ethofenoprox 10% EC @ 500-750 ml/ha or acephate 75% SP @ 666-1000 g/ha or buprofezin 25% SC @ 800 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Flowering</head><p>Brown plant hopper/White backed plant hopper Spray of imidacloprid 70% WG @ 30-35 ml/ha or imidacloprid 30.5% m/m SC @ 60-75 ml/ha or ethofenoprox 10% EC @ 500-750 ml/ha or acephate 75% SP @ 300-500 g/ha or buprofezin 25% SC @ 800 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. DISEASES Nursery</head><p>Blast Spray carbendazim 50% WP @ 250-500 g/ha or isoprothiolan 40% EC @ 750 ml/ha or tricyclozole 75% WP @ 300-400 g/ha or tricyclazole 70% WG @ 300 g/ha.</p><p>BLB Spray of streptomycin sulphate 9% + tetracycline hydrochloride 1% SP @ 100-150 ppm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vegetative</head><p>Blast Spray carbendazim 50% WP @ 250-500 g/ha or isoprothiolan 40% EC @ 750 ml/ha or tricyclozole 75% WP @ 300-400 g/ha or tricyclazole 70% WG @ 300 g/ha.</p><p>Bacterial leaf blight Spray streptocycline 100 to 150 ppm solution at early root stage. Second spray, if necessary before grain set. Reduce nitrogen application and apply if needed only small dose of N in more split doses. Chemicals as recommended earlier.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sheath blight</head><p>Apply validamycin 3% L @ 2000 g/ha or hexaconazole 5% EC @ 1000 ml/ha or propiconazole 25% EC @750 ml/ha or propiconazole 10.7% + tricyclazole 34.2% SE @ 500 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Panicle initiation to booting</head><p>Blast Spray carbendazim 50% WP @ 250-500 g/ha or isoprothiolan 40% EC @ 750 ml/ha or tricyclazole 75% WP @ 300-400 g/ha or tricyclazole 70% WG @ 300 gm/ha.</p><p>Bacterial leaf blight Reduce nitrogen application and apply if needed only small dose of N in more split doses, chemicals as recommended earlier.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sheath blight</head><p>Apply validamycin 3% L @ 2000 ml/ha or hexaconazole 5% EC @ 1000 ml/ha or propiconazole 25% EC @ 750 ml/ha or propiconazole 10.7% + tricyclazole 34.2% SE @ 500 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Flowering</head><p>Blast Spray ediphenphos 50% EC @ 500-600 ml/ha or isoprothiolan 40% EC @ 750 ml/ha or tricyclazole 75% WP @ 300-400 g/ha. Apply nitrogen in small dose, if needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sheath blight</head><p>Apply validamycin 3% L @ 200 g/ha or hexaconazole 5% EC @ 1000 ml/ha or propiconazole 25% EC @750 ml/ha or propiconazole 10.7% + tricyclazole 34.2% SE @ 500 ml/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Weeds</head><p>1. Apply cyhalofop-butyl 10% EC @ 0.75-0.80 l/ha @ 18-20 days after sowing in grassy weeds in direct seeded rice followed by one hand weeding given after 4-6 weeks.</p><p>2. Apply butachlor 50% EC @ 2.5-4 l/ha or pretilachlor 50% EC @ 1.0-1.5 l/ha or oxadiargyl 80% WP @ 0.125 kg/ha or chlorimuron ethyl 25% WP @ 24 g a.i./ha or metsufluran methyl 20% WG @ 20 gm/l or anilophos 2% G @ 20-25 kg/ha or ethoxysulfuron 15% WDG @ 83.3-100 g/ha or cinmethalin10% EC @ 0.75-1.0 l/ha as pre-emergence within 4-6 days after transplanting.</p><p>3. Apply metsulfuron methyl 10% + chlorimuron methyl 10% WP @ 20 g/ha or anilophos 24% + 2, 4-D-ethyl ester 32% EC @ 1-1.5 l/ha at 3-10 days after transplanting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.">Nematode Management Practices</head><p>Important nematodes and their management approaches are as under:</p><p>1. White tip nematode (Aphalenchoides besseyi)</p><p>1.1 Sun drying of seeds for 6 hours for 4 days.</p><p>1.2 Pre-sowing of nursery bed treatment with carbofuran 3% CG @ 50000 g/ha, if nematode population crosses the ETL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Root knot nematode (Meloidogyne graminicola)</head><p>2.1 Rotation with the crops like sweet potato, sunflower, cowpea, sesamum, and onion.</p><p>2.2 Soil application of carbofuran 3% CG @ 50000 g/ha.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Rat Management Practices</head><p>(Working Index (ETL): Fifteen live burrows per hectare)</p><p>1. Rat management need to be adopted on community basis.</p><p>2. Employment of indigenous traps preferably one month after transplantation.</p><p>3. Application of bromodiolone (0.005% a.i) in baits six weeks after transplantation.</p><p>4. The residual live burrows may be treated with second application of bromodiolone (0.005%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.</head><p>The above control operations with rodenticides except Zinc phosphide (as rodents develop bait shyness) may be repeated if the rodent population exceeds working index.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Important:</head><p>i) Optimum period for undertaking control operation is six weeks after transplantation.</p><p>ii) Zinc phosphide (2.5%) in baits may be applied.</p><p>iii) For getting effective control, it is recommended that Zinc Phosphide with ISI mark in 10 g pouches preferably in manufacturers' package should be procured.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">SAFETY PARAMETERS IN PESTICIDES USAGE</head><p>Safety parameters inter alia classification of toxicity as per Insecticides Rules, 1971, WHO classification of hazards, colour of toxicity triangle, First aid measures, symptoms of poisoning and treatment of poisoning, the extension functionaries of the State Department of Agriculture have to make use of this information as under:i)</p><p>Basic precautions which are required to be taken as per classification of toxicity as well as hazard criteria by WHO may be seen as per Annexure -VIII &amp; IX.</p><p>ii) The extension functionaries are to educate the farmers on safety use of pesticides with the help of colour toxicity triangle as the farming community can follow the colour and corresponding safety precautions.</p><p>iii) The symptoms of poisoning must be known to the extension functionaries to enable them to extend first aid measures to affected persons to the extent possible.</p><p>iv) Basically, the information on first aid measures and treatment of poisoning is required to be passed on by the extension functionaries to the doctors at Primary Health Centres as well as to Private Doctors in the vicinity of spraying of pesticides.</p><p>v) Extension functionaries must ensure that names of common pesticides during plant protection measures along with a copy of the leaflet which is an integral part of a pesticide container must be made available to the doctors in the vicinity of plant protection operations.</p><p>vi) Extension functionaries are to request the doctors to intervene in procurement of antidotes for different pesticides as cited under "Treatment of poisoning". Avoid late sowing as this may lead to reduced yields and incidence of white grubs and diseases. Always treat the seeds with approved chemicals/bio products for the control of seed borne diseases/pests. Do not use seeds without seed treatment with biocides/ chemicals. Sow in rows at optimum depths under proper moisture conditions for better establishment.</p><p>Do not sow seeds beyond 5-7 cm depth. Apply only recommended herbicides at recommended dose, proper time as appropriate spray solution with standard equipment along with flat fan or flat jet nozzles.</p><p>Pre-emergence as well as soil incorporated herbicides should not be applied in dry soils. Do not apply herbicides along with irrigation water or by mixing with soil, sand or urea. Maintain optimum and healthy crop stand which would be capable of competing with weeds at a critical stage of crop weed competition Crops should not be exposed to moisture deficit stress at their critical growth stages. Use the NPK fertilizers as per the soil test Avoid imbalanced use of fertilizers.</p><p>10 Use micronutrient mixture after sowing based on the test recommendations.</p><p>Do not apply any micronutrient mixture after sowing without test 11 Conduct AESA weekly in the morning preferably before 9 a.m. Take decision on management practice based on AESA and P: D ratio only.</p><p>Take any management decision considering AESA and P: D ratio 12</p><p>Install pheromone traps at appropriate period.</p><p>Do not store the pheromone lures at normal room temperature (keep them in refrigerator).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>13</head><p>Release egg parasitoids only after noticing adult moth catches in the pheromone trap or as pheromone trap or as per field observation Do not apply chemical pesticides within seven days of release of parasitoids.</p><p>14 Apply short persistent pesticides to avoid pesticide residue in the soil and produce.</p><p>Do not apply pesticides during preceding 7 days before harvest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Operational, calibration and maintenance guidelines in brief</head><p>1.</p><p>For application rate and dosage see the label and leaflet of the particular pesticide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>It is advisable to check the output of the sprayer (calibration) before commencement of spraying under guidance of trained person.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Clean and wash the machines and nozzles and store in dry place after use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.</head><p>It is advisable to use protective clothing, face mask and gloves while preparing and applying pesticides. Do not apply pesticides without protective clothing and wash clothes immediately after spray application.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.</head><p>Do not apply in hot or windy conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.</head><p>Operator should maintain normal walking speed while undertaking application.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>7.</head><p>Do not smoke, chew or eat while undertaking the spraying operation 8.</p><p>Operator should take proper bath with soap after completing spraying 9.</p><p>Do not blow the nozzle with mouth for any blockages. Clean with water and a soft brush.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method for calculation of pesticides for application</head><p>(i) Solid formulations such as dust, wettable powder or gr anules, the active ingredient is mixed with inert material. The concentration is expressed as -Active ingredient (%) in the total weight of commercial product Active ingredient (%) in dust, WP. orgranules = Weiqht of a.i. x 100 Total weight of W P , dust, etc. Example. Carbendazim 50% WP means there are 50 g of carbendazim in every 100 g of commercial WP (50 % a.i.). Calculations when recommendation is in kg a.i. per litre For WP, dust, granules, etc. Specification required: 1) Area to be sprayed 2) Concentration of a.i in formulation 3) Recommended rate as kg a.i. ha -1 .</p><p>Formula: kg of WP/dust/granules = Recommended rate x spray area (sq.m) a.i (%) in W P x 100</p><p>Example: If Carbendazim 50% WP is used at the rate of 2 kg a.i ha = Recommended rate in kg a.i. ha -1 x area (ha) Concentration of a.i. in product (kg ha -1 )</p><p>Example: Acetamprid (0.01 kg a.i. L -1 ) is to be applied at t h e rate of 0.05 kg a.i. ha -1 How much will be required for 3 ha? ii) Emulsifiable concentrates (EC) Specification required:</p><p>1) Spray volume as L ha -1 2) Concentration as percentage of a.i desired.</p><p>3) Concentration of commercial EC as a.i. (%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Annexure-I</head><p>LIST OF RECOMMENDED PESTICIDES FOR RICE (As on 15-10-2013) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Dazomet</head><p>The use of Dazomet is not permitted on Tea.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Diazinon</head><p>Diazinon is banned for use in agriculture except for household use. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Fenitrothion</head><p>The use of Fenitrothion is banned in Agriculture except for locust control in scheduled desert area and public health.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Fenthion</head><p>The use of Fenthion is banned in Agriculture except for locust control, household and public health.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Methoxy Ethyl Mercuric Chloride (MEMC)</head><p>The use of MEMC is banned completely except for seed treatment of potato and sugarcane.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="10.">Methyl Bromide</head><p>Methyl Bromide may be used only by Govt./Govt. undertakings/Govt. Organizations / Pest control operators under the strict supervision of Govt. Experts or Experts whose expertise is approved by the Plant Protection Advisor to Govt. of India.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="11.">Methyl Parathion</head><p>Methyl Parathion 50 % EC and 2% DP formulations are banned for use on fruits and vegetables.</p><p>12.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monocrotophos</head><p>Monocrotophos is banned for use on vegetables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="13.">Sodium Cyanide</head><p>The use of Sodium Cyanide shall be restricted for Fumigation of Cotton bales under expert supervision approved by the Plant Protection Advisor to Govt. of India.  -Watch breathing closely, aspirate oxygen and/or artificial respiration, if needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Annexure-IX</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptoms</head><p>-Avoid oils, oil laxatives and epinephrine (Adrenalin) -do not give stimulants.</p><p>-Give calcium gluconate (19% in 10 ml Ampules) intravenously every four hours.</p><p>For extreme symptoms of O.P poisoning, injection of atropine (2-4 mg, for adults, 0/5-1.0 mg for children) is recommended, repeated at 5-10 minute intervals until signs of atropinization occur. Speed is imperative -Atropine injection -1 to 4 mg. Repeat 2 mg, when toxic symptoms begin to recur (15-16 minute intervals), Excessive salivation good sign, more atropine needed.</p><p>-Keep airways open, Aspirate, use oxygen, insert endotracheal tube. Do tracheotomy and give artificial respiration as needed.</p><p>-For ingestion lavage stomach with 5% sodium bicarbonate if not vomiting. For skin contact, wash with soap and water (eye wash with isotonic saline).</p><p>Wear rubber gloves while washing contact areas.</p><p>In addition to atropine give 2-PAM (2-pyridine aldoxime methiodide) 1g and 0.25 g for infants intravenously at a slow rate over a period of 5 minutes and administer again periodically as indicated. More than one injection may be required. Avoid morphine, theophylline, aminophyllin, barbituarates ofrphenothiazines.</p><p>Do not give atropine to a cyanotic patients. Give artificial respiration first then administer atropine. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monocrotophos</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig 1 .</head><label>1</label><figDesc>Fig 1. Diagrammatic representation of IPM components.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>3 .</head><label>3</label><figDesc>Pest and defender population dynamics. 4. Soil conditions. 5. Climatic factors. 6. Farmers past experience.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Liters of Acetamprid required = 0.05 x 3.0 = 15 liters 0.01 When recommendation is based on a.i (%) in the spray fluid i) Wettable powders ( when diluted with water) Specifications required: 1 Spray volume as L ha -1 2 Concentration desired as a.i. (%) in spray 3 Concentration of commercial product as a.i. (%) Formula : WP = a.i. (%) desired x spray volume a.i. (%) in commercial WP Example: To control stem borer in a plot. 2000 L of 2% Methyl Parathion DP is to be prepared. The commercial product to be used is Methyl parathion 50% EC. How much Methyl parathion is required? Litre of Methyl Parathion required = 2 x 2000 = 80 liters 50</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>DDT for the domestic Public Health Programme is restricted up to 10,000 Metric Tonnes per annum, except in case of any major outbreak of epidemic. M/s Hindustan Insecticides Ltd., the sole manufacturer of DDT in the country may manufacture DDT for export to other countries for use in vector control for public health purpose. The export of DDT to Parties and State non-Parties shall be strictly in accordance with the paragraph 2(b) article 3 of the Stockholm Convention on Persistent Organic Pollutants (POPs).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>of poisoning and the treatment of poisoning for different</head><label></label><figDesc>of water and soap. (b) Eye contamination Wash the eyes with plenty of cool and clean water; (c) Inhalation -Carry the person to the open fresh air, loosen the clothings around neck and chest, and (d) Indigestion -If the victim is fully conscious, induce vomiting by tickling back of the throat. Do not administer milk, alcohol and fatty substances. In case the person is unconscious make sure the breathing passage is kept clear without any obstruction. Victim's head should be little lowered and face should be turned to one side in the lying down position. In case of breathing difficulty, give mouth to mouth or mouth to nose breathing. Medical aid: Take the patient to the doctor/ Primary Health Centre immediately along with the original container, leaflet and label.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,131.63,136.37,347.18,427.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>situation (e.g. for AESA) Plant</head><label></label><figDesc>Farmers should record data in a notebook and drawing on a chartKeep records of what has happened Help us making an analysis and draw conclusions</figDesc><table><row><cell>Data to be recorded</cell></row><row><cell>Plant growth (weekly)</cell></row><row><cell>Height of hill</cell></row><row><cell>Number of tiller per hill</cell></row><row><cell>Number of leaves</cell></row><row><cell>Crop Natural enemies: Count parasitoids and predators</cell></row><row><cell>Soil condition</cell></row><row><cell>Irrigation</cell></row><row><cell>Weather conditions</cell></row><row><cell>Input costs</cell></row><row><cell>Seeds</cell></row><row><cell>Fertilizer</cell></row><row><cell>Pesticides</cell></row><row><cell>Labour</cell></row><row><cell>Harvest</cell></row><row><cell>Yield (kg/ha)</cell></row><row><cell>Price of produce ( /kg)</cell></row></table><note>health: Observe the crop stage and deficiency symptoms etc Pests, diseases, weeds: Count insect pests at different places on the plant, and identify any visible disease symptoms and severity. Observe weeds in the field and their intensity. For rats, count number of plants affected by rats.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Date: .................................... Village: ...................................................... Farmer:..............................................</figDesc><table><row><cell></cell><cell>Model AESA chart</cell><cell></cell></row><row><cell>1.</cell><cell>Carabid beetle</cell><cell>5 : 1</cell></row><row><cell>2.</cell><cell>Mirid bug</cell><cell>3 : 1</cell></row><row><cell>3.</cell><cell>Reduviid bug</cell><cell>6 : 1</cell></row><row><cell>4.</cell><cell>Wolf spider</cell><cell>15 : 1</cell></row><row><cell>5.</cell><cell>Lynx spider</cell><cell>2 : 1</cell></row><row><cell>6.</cell><cell>Jumping spider</cell><cell>8 : 1</cell></row><row><cell>7.</cell><cell>Dwarf spider</cell><cell>4 : 1</cell></row><row><cell>8.</cell><cell>Long jawed spider</cell><cell>2 : 1</cell></row><row><cell>9.</cell><cell>Long horned grass hopper</cell><cell>3 : 1</cell></row><row><cell>10.</cell><cell>Ear wig</cell><cell>20 : 1</cell></row><row><cell>11.</cell><cell>Wasp</cell><cell>30 : 1</cell></row><row><cell>12.</cell><cell>Preying mantid</cell><cell>4 : 1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Crop stage Pest/Disease Economic Threshold Level (ETLs)</head><label></label><figDesc></figDesc><table><row><cell cols="2">3.2. Cultural Practices</cell><cell></cell></row><row><cell cols="3">a. Raise pre-crop kharif grow Sesbania or sunhemp and incorporate 45 days old crop in soil during</cell></row><row><cell cols="2">land preparation wherever possible.</cell><cell></cell></row><row><cell cols="3">b. Select suitable resistant or moderately resistant variety.</cell></row><row><cell cols="2">c. Use disease and insect free pure seed.</cell><cell></cell></row><row><cell>Nursery</cell><cell>Yellow stem borer</cell><cell>1 egg-mass/m 2</cell></row><row><cell></cell><cell>Root-knot nematode</cell><cell>1 nematode/g soil</cell></row><row><cell></cell><cell>BLB: Kresek Phase</cell><cell>2-3 plants/m 2</cell></row><row><cell>Early to late</cell><cell>Leaf-folder</cell><cell>2 Fully damaged leaves (FDL) with larva/hill</cell></row><row><cell>tillering</cell><cell>Stem borer</cell><cell>2 egg-mass/m 2 or 10% dead heart or 1 moth/m 2 or 25 moths/</cell></row><row><cell></cell><cell></cell><cell>trap/week</cell></row><row><cell></cell><cell>Gall midge</cell><cell>1 gall/m 2 or 10% Silver shoot</cell></row><row><cell></cell><cell>Brown planthopper/WBPH</cell><cell>10-15 hoppers/hill</cell></row><row><cell></cell><cell>Rice hispa</cell><cell>2 adults or 2 dead leaf /hill</cell></row><row><cell></cell><cell>Rice caseworm</cell><cell>2 FDL/hill</cell></row><row><cell></cell><cell>Swarming caterpillar</cell><cell>1 damaged tiller/hill or 2 larvae/ m 2</cell></row><row><cell></cell><cell>Foliar blast</cell><cell>3-5 lesions/leaf</cell></row><row><cell></cell><cell>Brown spot</cell><cell>2-3 spots/leaf &amp; 2-3 infected plants/ m 2</cell></row><row><cell></cell><cell>Sheath blight</cell><cell>Lesions of 5-6 mm in length &amp; 2-3 infected plants/m 2</cell></row><row><cell></cell><cell>Sheath-rot</cell><cell>Lesion length 2-3 mm on sheath &amp; 3-5 infected plants/ m 2</cell></row><row><cell></cell><cell>BLB</cell><cell>2-3 infected leaves/m 2</cell></row><row><cell></cell><cell>Tungro</cell><cell>1 Tungro infected plants/m 2 &amp; 2 GLH/hill (in fungus endemic</cell></row><row><cell></cell><cell></cell><cell>areas)</cell></row><row><cell>Panicle initiation</cell><cell>Stem borers</cell><cell>2 egg-mass/m 2 or 1 moth/m2 or 25 moths / trap / week</cell></row><row><cell>to booting</cell><cell>Leaf-folders</cell><cell>2 FDL/hill</cell></row><row><cell></cell><cell>BPH/WBPH</cell><cell>15-20 hoppers/hill</cell></row><row><cell></cell><cell>Swarming caterpillar/cut</cell><cell>1 damaged tiller/hill or 2 larvae/ m 2</cell></row><row><cell></cell><cell>worm</cell><cell></cell></row><row><cell></cell><cell>Neck blast</cell><cell>2-5 neck infected plants/m 2</cell></row><row><cell></cell><cell>Sheath-rot</cell><cell>5 infected plants/m 2</cell></row><row><cell>Flowering to</cell><cell>Gundhi bug</cell><cell>2 bugs/hill</cell></row><row><cell>milky grain</cell><cell>Rice panicle mite</cell><cell>No ETL 1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>Gall midgeBhadrakali, Pavitra, Panchami, Triguna, lndursamba, Shiva, Vasundhara, Mahamaya, Ratnagiri 3, Erra Mallelu, Kavya, Oragallu, Sneha, Bhuban, Shaktiman, Abhaya, Divya, Ruchi, Vibhava, Kshira, Lalat, MDU 3, Pothana, Suraksha, Tara, Rashmi, Karna Mahavir, Neela, Rajendradhan 202, Sarsa, Udaya, Pratap, Daya, Dhanya Lakshmi, Kunti, IR 36, Asha, Samalei, Samariddhi, Pusa, Surekha, Phalguna, Vikram, Shakti, Jyoti, Kakatiya, Kanchan and Birsa Dhan 202.</figDesc><table><row><cell cols="2">Insect pests</cell><cell cols="2">Resistant/tolerant varieties</cell></row><row><cell cols="2">Brown plant</cell><cell cols="3">Vijetha, Chaitanay, Krishnaveni, Pratibha, Vajram, Makom, Pavizham, Mansarovar, CO 42,</cell></row><row><cell>hopper</cell><cell></cell><cell cols="3">Jyoti, Chandana, Nagarjuna, Sonasali, Rasmi, Neela, Annanga, Daya, Bhadra, Karthika, Aruna,</cell></row><row><cell></cell><cell></cell><cell cols="3">Remya, Kanakam, Bharathidasan, Remya, Triguna, IET 8116, Rajendra Mahsuri-l, Pant dhan</cell></row><row><cell></cell><cell></cell><cell cols="2">11, Rajshree, Bhudeb and Hanseshwari .</cell></row><row><cell cols="2">White backed</cell><cell cols="3">HKR 120, HKR 126, HKR 228, PR 108, Menher, Pant dhan 10, Pant dhan 11, Mahananda and</cell></row><row><cell cols="2">plant hopper</cell><cell cols="2">Hanseshwari.</cell></row><row><cell cols="5">Green leaf hopper Vikramarya, Nidhi, IR 24, Radha, Mahananda and Kunti.</cell></row><row><cell>Blast</cell><cell></cell><cell cols="3">Rasi, Vikas, Krishna Hamsa, Tulasi, IR 64, Aditya, Swarnadhan, Himalaya 1, Himalaya 2,</cell></row><row><cell></cell><cell></cell><cell cols="2">Himalaya 2216, Pant dhan 10, HKR 228 and PNR 519.</cell></row><row><cell cols="2">S. No. Variety</cell><cell></cell><cell>Released in</cell><cell>Resistant to*</cell></row><row><cell>1.</cell><cell>Udaya</cell><cell></cell><cell>Odisha</cell><cell>BPH, GM, GLH, RTD and RKN</cell></row><row><cell>2.</cell><cell>Suraksha</cell><cell></cell><cell>Andhra Pradesh, Odisha, and West Bengal</cell><cell>GM, BPK, WBPH and BL</cell></row><row><cell>3.</cell><cell cols="2">Vikramarya</cell><cell>Andhra Pradesh</cell><cell>GM, GLH and RTD</cell></row><row><cell>4.</cell><cell>Shaktiman</cell><cell></cell><cell>Odisha, and West Bengal</cell><cell>GM, BPH, WBPH and BL</cell></row><row><cell>5.</cell><cell>Rasmi</cell><cell></cell><cell>Kerala</cell><cell>GM, BPH and BL</cell></row><row><cell>6.</cell><cell>Daya</cell><cell></cell><cell>Odisha</cell><cell>GM, BPH, GLH and BLB</cell></row><row><cell>7.</cell><cell>Samalei</cell><cell></cell><cell>Odisha, and Madhya Pradesh</cell><cell>GM, BPH, GLH and BL</cell></row><row><cell>8.</cell><cell>Bhuban</cell><cell></cell><cell>Odisha</cell><cell>GM and BLB</cell></row><row><cell>9.</cell><cell>Kunti</cell><cell></cell><cell>West Bengal</cell><cell>GM and BL</cell></row><row><cell>10.</cell><cell>Lalat</cell><cell></cell><cell>Odisha</cell><cell>GM, BPH, GLH and BL</cell></row><row><cell>11.</cell><cell>Sneha</cell><cell></cell><cell>Odisha</cell><cell>GB and RTD</cell></row><row><cell cols="2">*Abbreviations</cell><cell></cell><cell></cell></row><row><cell cols="5">GM-Gall midge; BPH-Brown plant hopper; WBPH-White backed plant hopper; GLH-Green</cell></row><row><cell cols="5">leafhopper; BL-Blast; RTD-Rice Tungro Disease; RKN-Root-knot nematode; GB-Gundhi bug; BLB-</cell></row><row><cell cols="3">Bacterial leaf blight.</cell><cell></cell></row></table><note>Stem borerRatna, Sasyasree, Vikas, HKR 46, NDGR 21, Pantdhan 6, VLK 39, Prahlad, Birsadhan 201, Bhudeb Ainesh, Matangini, Radha, Sudha, Amulya, Bhagirathi, Jogan, Mandira, Nalini, Sabita, VL16 and VL 206. BLB Ajaya, IR 36, IR 64, Swarna, Bhumbleshwari, PR 111, PR 113, PR 114, PR 115, PR 116, PR 118, Rajendra Basmati, Pant dhan 11, Govind, Radha, Kamini, Pant dhan 10, Jayshree, Kanchan and improved sambha masouri. RTD Vikramarya, Nidhi, Amulya, Dinesh, Lakshmi and Nalini. Sheath blight PR 108, Bhudeb Dinesh, Jogan, Mandira, Nalini, Neeraj and Sabita. B. Varieties with resistance to more than one pest or disease</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Telenomus rowaniEgg parasitoid of yellow and white stem borer.A female parasitizes 20-40 eggs and lives 2-4 days or longer if nectar or sugar solution is provided.Both Tetrastichus and Telenomus may parasitize the same egg mass but not the same egg.</figDesc><table><row><cell cols="2">Natural enemy category Natural enemy</cell><cell>Pest attacked and feeding potential</cell></row><row><cell>I. Parasitoids</cell><cell></cell><cell></cell></row><row><cell>1. Egg parasitoids</cell><cell>Trichogramma japonicum</cell><cell>Egg parasitoid of yellow stem borer (YSB)</cell></row><row><cell></cell><cell>Trichogramma chilonis</cell><cell>Egg parasitoid of leaf folder,</cell></row><row><cell></cell><cell></cell><cell>Case worm, YSB etc.</cell></row><row><cell></cell><cell>Tetrastichus schoenobii</cell><cell>Egg parasitoid of yellow and white stem borer.</cell></row><row><cell></cell><cell></cell><cell>At least 3 stem borer eggs are needed for development</cell></row><row><cell></cell><cell></cell><cell>of each wasp.</cell></row><row><cell></cell><cell>Gonatocerus spp.</cell><cell>Egg parasitoid of leaf and plant hoppers.</cell></row><row><cell></cell><cell></cell><cell>Parasitize on an average 8 eggs per day.</cell></row><row><cell></cell><cell>Anagrus spp.</cell><cell>Egg parasitoids of leaf and plant hoppers.</cell></row><row><cell></cell><cell></cell><cell>Parasitizes 15 to 30 eggs/day.</cell></row><row><cell></cell><cell>Oligosita spp.</cell><cell>Egg parasitoid of leaf and plant hoppers.</cell></row><row><cell></cell><cell></cell><cell>Consume 2 to 8 eggs per day.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>Larval and pupal parasitoid of Rice skipper, leaf folder and green horned caterpillar. Adults of Brachymeria iasus are black and have a triangular cheek and yellow markings on tip of femur and ventral half of tibia. Brachymeria excarinata are black with yellow markings on both ends of hind tibia and no cheek.</figDesc><table><row><cell></cell><cell>Brachymeria lasus, B.</cell><cell></cell></row><row><cell></cell><cell>excarinata,</cell><cell></cell></row><row><cell></cell><cell>Opius sp.</cell><cell>Larval pupal parasitoid of whorl maggot larvae. Wasp</cell></row><row><cell></cell><cell></cell><cell>emerges from whorl maggot pupa.</cell></row><row><cell></cell><cell></cell><cell>Adults are small orange brown in colour with long</cell></row><row><cell></cell><cell></cell><cell>antennae, yellow legs and black ovipositor.</cell></row><row><cell>II. Predators</cell><cell></cell><cell></cell></row><row><cell>4. Coccinellid beetles</cell><cell>Micraspis hirashimai,</cell><cell>Preying on small hoppers, small larvae and exposed</cell></row><row><cell></cell><cell>Ladybird beetles</cell><cell>eggs</cell></row><row><cell></cell><cell>Harmonia octamaculata</cell><cell>Preying on small hoppers, small larvae and exposed</cell></row><row><cell></cell><cell></cell><cell>eggs</cell></row><row><cell>5. Carabid beetle</cell><cell>Ophionea nigrofasciata,</cell><cell>Preying leaf folder larvae and planthoppers</cell></row><row><cell></cell><cell>Ground beetle</cell><cell></cell></row><row><cell>6. Rove beetle</cell><cell>Paederus fuscipes</cell><cell>Preying leaf and planthoppers, eggs, and small moths</cell></row><row><cell></cell><cell>Rove beetle</cell><cell></cell></row><row><cell>7. Spiders</cell><cell>Pardosa psuedoannulata,</cell><cell>Prey stem borer and leaf folder moths, leaf-and plant</cell></row><row><cell></cell><cell>Wolf spider</cell><cell>hoppers, and whorl maggot flies.</cell></row><row><cell></cell><cell>Oxyopes javanus,</cell><cell>Prey moths of rice pests, adults of whorl maggots,</cell></row><row><cell></cell><cell>Lynx spider</cell><cell>leafhoppers and plant hoppers</cell></row><row><cell></cell><cell>Tetragnatha maxillosa,</cell><cell>Prey stem borer and leaf folder moths, leaf-and plant</cell></row><row><cell></cell><cell>Long-jawed spider</cell><cell>hoppers</cell></row><row><cell></cell><cell>Argiope catenulata,</cell><cell>Prey moths/adults of rice pests viz. grasshoppers</cell></row><row><cell></cell><cell>Orb spider</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Deep ploughing is to be done on bright sunny days during the months of May and June. The field should be kept exposed to sun light at least for 2-3 weeks Do not plant or irrigate the field after ploughing, at least for 2-3 weeks, to allow desiccation of weed's bulbs and/or rhizomes of perennial weeds</figDesc><table><row><cell cols="2">Do's and don't's in IPM</cell><cell></cell></row><row><cell>S, No.</cell><cell>Do's</cell><cell></cell><cell>Don'ts</cell></row><row><cell cols="3">Adopt crop rotation</cell><cell>Avoid growing monocrop.</cell></row><row><cell cols="3">Grow only recommended varieties.</cell><cell>Do not grow varieties not suitable for the season or the</cell></row><row><cell></cell><cell></cell><cell></cell><cell>region</cell></row><row><cell cols="3">Sow early in the season</cell></row><row><cell cols="3">Category A: Stationary, crawling pest/ disease</cell></row><row><cell cols="2">Vegetative stage</cell><cell>Insecticides and fungicides</cell><cell>Lever operated knapsack sprayer (Droplets of big</cell></row><row><cell cols="2">1. For crawling and soil borne pests</cell><cell></cell><cell>size) Hollow cone nozzle @ 35 to 40 psi</cell></row><row><cell cols="2">2. For small sucking leaf borne pests</cell><cell></cell><cell>Lever operating speed = 15 to 20 strokes/min Or</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Motorized knapsack sprayer or mist blower</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(Droplets of small size)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Air blast nozzle</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Operating speed: 2/3rd throttle</cell></row><row><cell cols="2">Reproductive stage</cell><cell>Insecticides and fungicides</cell><cell>Lever operated knapsack sprayer (Droplets of big</cell></row><row><cell></cell><cell></cell><cell></cell><cell>size)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Hollow cone nozzle @ 35 to 40 psi</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Lever operating speed = 15 to 20 strokes/min</cell></row><row><cell cols="3">Category B: Field flying pest/airborne pest</cell></row><row><cell cols="2">Vegetative stage</cell><cell>Insecticides and fungicides</cell><cell>Motorized knapsack sprayer or mist blower (Droplets</cell></row><row><cell cols="2">Reproductive stage (Field Pests)</cell><cell></cell><cell>of small size) Air blast nozzle</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Operating speed: 2/3rd throttle</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Or</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Battery operated low volume sprayer (Droplets of</cell></row><row><cell></cell><cell></cell><cell></cell><cell>small size) spinning disc nozzle</cell></row><row><cell cols="2">Category C: Weeds</cell><cell></cell></row><row><cell cols="2">Post-emergence</cell><cell>Weedicide</cell><cell>Lever operated knapsack sprayer (Droplets of big</cell></row><row><cell>application</cell><cell></cell><cell></cell><cell>size)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Flat fan or flood jet nozzle @ 15 to 20 psi</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Lever operating speed = 7 to 10 strokes/min</cell></row><row><cell cols="2">Pre-emergence</cell><cell></cell><cell>Trolley mounted low volume sprayer (Droplets of</cell></row><row><cell></cell><cell></cell><cell></cell><cell>small size)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Battery operated low volume sprayer (Droplets of</cell></row><row><cell></cell><cell></cell><cell></cell><cell>small size)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head></head><label></label><figDesc>Hexaconazole 5% EC to be sprayed at the rate of 2 kg a.i. ha -1 for 10000 m 2 and Hexaconazole 5% EC has 5 % a.i. How much liters of Hexaconazole is required?</figDesc><table><row><cell></cell><cell>=</cell><cell>Recommended rate x area (ha)</cell></row><row><cell></cell><cell></cell><cell>a.i. (%) in commercial EC x 100</cell></row><row><cell cols="3">Example: Liters of 5 % Hexaconazole required = 2 x 10000</cell><cell>= 40 L</cell></row><row><cell></cell><cell></cell><cell>5 x 100</cell></row><row><cell cols="3">When concentration expressed is in kg a.t. L -1</cell></row><row><cell>Formula:</cell><cell></cell></row><row><cell></cell><cell></cell><cell>-1 , then amount of Carbendazim</cell></row><row><cell cols="3">50% WP required for 1 ha (10000 m 2 ) is:</cell></row><row><cell cols="3">kg of Carbendazim 50% WP required = 2 x 10000 = 4 k g/ha</cell></row><row><cell></cell><cell></cell><cell>50 x 100</cell></row><row><cell cols="3">(ii) Liquid of formulation Here the a.i. is dissolved in a solvent with an emulsifying agent. It is expressed</cell></row><row><cell cols="3">as in emulsifiable concentrate (EC). The concentration can be expressed in two ways.</cell></row><row><cell>a)</cell><cell cols="2">Active ingredient (%) in EC = Weight of a.i. x 100</cell></row><row><cell></cell><cell></cell><cell>Volume of EC</cell></row><row><cell>b)</cell><cell>Grams L -1</cell></row><row><cell cols="3">Example: Hexaconazole 5% EC means, 100 mL of commercial product has 5 ml of pure Hexaconazole</cell></row><row><cell cols="3">For Emulsiflable Concentrates</cell></row><row><cell cols="2">Specification required:</cell></row><row><cell>i)</cell><cell cols="2">Area to be treated</cell></row><row><cell>ii)</cell><cell cols="2">Recommended rate as kg a.i. ha -1</cell></row><row><cell>iii)</cell><cell cols="2">Concentration of commercial EC as a.i (%) or kg ha -1</cell></row><row><cell cols="3">When concentration of EC is in a.i. (%)</cell></row><row><cell>Formula:</cell><cell></cell></row><row><cell cols="3">kg of EC required = Recommended rate x area (m 2 ) or</cell></row><row><cell></cell><cell></cell><cell>ai (%) in commercial EC x 100</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Commonly Available Formulations of Pesticides for Agricultural Use</head><label></label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell cols="3">INTEGRATED PEST MANAGEMENT PACKAGE FOR RICE</cell></row><row><cell cols="2">Herbicides Oxadiazon 25% EC Herbicides</cell><cell></cell><cell>Insecticides Clothianidin 50% WDG Insecticides Metaldehyde</cell><cell>Fungicides Trichoderma viride 1% WP Fungicides Annexure-II Annexure-IV</cell></row><row><cell cols="2">Oxyflourfen 0.35% GR</cell><cell></cell><cell>Chlorpyrifos 1.5% DP Methyl Bromide 98% W/W</cell><cell>Tricyclazole 70% WG</cell></row><row><cell cols="2">Herbicides Anilophos 2 % G Anilofos 30% EC Oxyflourfen 23.5% EC Pendimethalin 30% EC Pendimethalin 5 % G Class Type Dry Dust</cell><cell>Abbre-viation D</cell><cell cols="2">Insecticides Acephate 75% SP Acetamiprid 20% SP Chlorpyrifos 20% EC Deltamethrin 11% W/WEC Deltamethrin 1.8% EC Monocrotophos 36 % SL Oxydemeton-methyl 25% EC Ready to use, off shelf available Description Fungicides Aureofungin 46.15% w/v. SP Carbendazim 50% WP Tricyclazole 75% WP Validamycin 3% L Zineb 75% WP Phenthoate 50% EC Low percentage of active ingredients,</cell></row><row><cell cols="2">Anilofos 18% EC Pretilachlor 37% EW</cell><cell></cell><cell cols="2">Aluminum Phosphide 56% 3g tab, 10g pouch Deltamethrin 2.5% WP Phorate 10% CG Very fine dry inert carrier made from tale, chalk, clay, or ash Captan 75% WP Carbendazim 12% + Mancozeb 63% WP Phosalone 35% EC Prone to high level of pesticide drift</cell></row><row><cell cols="3">Azimsulfuron 50% DF Anilophos 24% + 2,4-D-ethyl ester Paraquat dichloride 24% SL Pyrazosulfuron Ethyl 10% WP Granule G</cell><cell cols="2">Aluminum Phosphide 15%, 12g tablet Aluminium Phosphide 77.5% GR Dichlorvos 76% EC Granule particles are larger and heavier Carpropamid 27.8% SC Copper Hydroxide 77% WP Iprodione 25% + Carbendazim 25% Phosphamidon 40% SL WP Dinotefuran 20% SG Propiconazole 13.9% + Granule particles are larger and heavier Quinalphos 5% granule Used for soil treatment and broadcasting to manage nematodes, weeds</cell></row><row><cell>32% EC</cell><cell></cell><cell></cell><cell>Quinalphos 20% AF and insect pests</cell><cell>Difenoconazole 13.9% EC</cell></row><row><cell cols="3">Anilophos 24% + 2, 4-D-ethyl ester Pretilachlor 50% EC Wettable WP</cell><cell>Azadirachtin 0.15%W/Wmin. Neem Endosulfan 35% EC Quinalphos 25% EC Finely grounded power</cell><cell>Copper oxychloride 50% WP Tebuconazole 50% + Trifloxystrobin</cell></row><row><cell>32% EC</cell><cell>Powder</cell><cell>W</cell><cell>seed kernel based EC Quinalphos 1.5% DP Finely grounded power</cell><cell>25% WG</cell></row><row><cell cols="5">Bensulfuron Methyl 60% DF Bensulfuron methyl 0.6% + Pretilachlor 6% GR Micro encapsulated Bispyribac Sodium 10% SC Clomazone 20% + 2,4-D EE 30% EC Ethofenoprox 10% EC Azadirachtin 0.03% min. Neem oil Endosulfan 4% DP M Mixed with water for spray application Difenoconazole 25% EC Quinalphos 25% Gel based EC Containing Azadirachtin 5%W/W min. Neem extract concentrate containing Thiacloprid 21.7% SC Liquid Emulsifiable EC Particles of active ingredients (liquid or dry) surrounded by a plastic Ediphenphos 50% EC Butachlor 50% EC Bacillus thuringiensis var. galleriae Flusilazole 40% EC Chlorimuron Ethyl 25% WP Bacillus thuringiensis var. kurstaki, serotype H-39, 3B, strain Z-52 Hexaconazole 5% EC Clomazone 50%EC Buprofezin 25% SC Hexaconazole 5 % SC Cyhalofop-butyl 10% EC Bifenthrin 10% EC Iprodione 50% WP 2,4-D Ethyl Ester 38 % EC (having 2,4-D acid 34 % w/w) Bromadiolone 0.25% CB Thiamethoxam 25% WG concentrate coating Ethiprole 40 + Imidacloprid 40% WG Ethylene Dichloride + CarbonTetrachloride 3:1 Fipronil 0.3% GR Fenobucarb (BPMC) 50% EC Fenpropathrin 30% EC Concentrate C Liquid active ingredients, dissolved in petroleum based solvents Triazophos 20% EC solution LC Easily absorbed through skin Triazophos 40% EC ULV Diluted with a liquid solvent before being applied Chlorpyrifos 50% + Cypermethrin F Very high percentage of active ingredient 5% EC L Used before dilution or diluted with small quantities of solvent Deltamethrin 0.72% W/W+ Fumi-Pellets liquids Finely grounded solid active ingredients suspended in the liquid with inert Buprofezin 5.65% W/W EC gants materials Isoprothiolan 40% EC 2,4-D Ethyl Ester 4.5 % GR (having Ethoxysulfuron 15% WDG Carbaryl 10% DP Fenoxaprop-p-ethyl 9.3% w/w EC (9% w/v) Carbaryl 5% DP Flubendiamide 39.35% m/m SC Kresoxim-methyl 44.3% SC Flubendiamide 20% WG Kitazin 48% EC Flonicamid 50% WG 20% EC 2,4-D acid 4 % w/w) Bromadiolone 0.005% RB Fipronil 80% WG Acetamiprid 0.4% + Chlorpyriphos Kasugamycin 3% SL Fipronil 5% SC Phosphamidon 40% + Imidacloprid 2% SP Solid or liquid that releases/vaporized into toxic gasses</cell></row><row><cell cols="3">Fenoxaprop-p-ethyl 6.7% w/w EC</cell><cell>Carbaryl 50% WP Imidacloprid 30.5% m/m SC</cell><cell>Mancozeb 75% WP</cell></row><row><cell cols="2">Flufenacet 60% DF</cell><cell></cell><cell>Carbaryl 85% WP Imidacloprid 70% WG</cell><cell>Pencycuron 22.9% SC</cell></row><row><cell cols="3">MCPA, Amine salt 40% WSC</cell><cell>Carbofuran 3% CG Imidacloprid 17.8% SL</cell><cell>Propiconazole 10.7% + tricyclazole</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Imidacloprid 0.3% GR</cell><cell>34.2% SE</cell></row><row><cell cols="3">Metsufluran methyl 20% WG</cell><cell>Cartap hydrochloride 50% SP Indoxacarb 15.8% EC</cell><cell>Propiconazole 25% EC</cell></row><row><cell cols="3">Metsulfuron Methyl 20% WP</cell><cell>Chlorantraniliprole 18.5% SC Lambda-cyhalothrin 4.9% CS</cell><cell>Propineb 70% WP</cell></row><row><cell cols="3">Metsulfuron methyl 10% + Chlorimuron methyl 10% WP Oxadiargyl 80% WP Orthosulfamuron 50% WG Oxadiargyl 6% EC</cell><cell>Chlorantraniliprole 0.4% GR Lambda-cyhalothrin 2.5% EC Chlorpyrifos 10% G Lambda-cyhalothrin 5% EC Chlorpyrifos 50% EC Malathion 5% DP Chromafenozide 80% WP Malathion 50% EC</cell><cell>Streptomycin sulphate 9% + tetracycline hydrochloride 1% SP Tebuconazole 25.9% m/m EC Thifluzamide 24% SC Thiram 75% WS</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Mechanisms of Actions of Major Pesticides Type of pesticide Target tissue or organ Mechanism</head><label></label><figDesc>Smoke Generator, is to be used only through Pest Control Operators and not allowed to be used by the General Public.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Annexure-VII</cell></row><row><cell cols="4">Pesticides Restricted for Use in the Country (As on 1 st Jan, 2014)</cell></row><row><cell>S.No.</cell><cell cols="2">Name of Pesticides</cell><cell>Details of Restrictions</cell></row><row><cell cols="3">Insecticide 1. Aluminium Phosphide Central nervous</cell><cell>Interfere with electron system of nervous system The Pest Control Operations with Aluminium Phosphide may be un-Inhibit acetyl cholinesterase the enzyme responsible for the regu-dertaken only by Govt./Govt. undertakings / Govt. Organizations / pest lating biological activity control operators under the strict supervision of Govt. Experts or experts</cell></row><row><cell></cell><cell></cell><cell>Cuticle</cell><cell>Inhibit growth and prevent cuticle formulations whose expertise is approved by the Plant Protection Advisor to Govt. of</cell></row><row><cell></cell><cell></cell><cell cols="2">Endocrine system India except 1. Aluminium Phosphide 15 % 12 g tablet and 2. Aluminum Disrupts hormonal metabolic system</cell></row><row><cell>Herbicide</cell><cell></cell><cell>Seed</cell><cell>Disrupts protein synthesis and inhibits germination Phosphide 6 % tablet.</cell></row><row><cell>2.</cell><cell>Captafol</cell><cell>Leaf, stem,</cell><cell>Prevent photosynthesis The use of Captafol as foliar spray is banned. Captafol shall be used only as</cell></row><row><cell></cell><cell></cell><cell>Leaf, stem, root Leaf, stem, root</cell><cell>seed dresser. Interferes with the mitosis process The manufacture of Captafol 80 % powder for dry seed treatment (DS) is Affects cell respiration and ATP synthesis banned for use in the country except manufacture for export. (S.O.679 (E)</cell></row><row><cell>Fungicide</cell><cell></cell><cell>Seed, leaf, stem</cell><cell>Inhibits liquid synthesis affecting cell wall and membrane dated 17thJuly, 2001)</cell></row><row><cell>3.</cell><cell cols="2">Root Cypermethrin</cell><cell>Inhibits synthesis of essential ribosomal proteins Inhibits mitosis, osmoregulation and mitochondrial respiration Cypermethrin 3 %</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head></head><label></label><figDesc>Gastric lavage with 2-4 L. tap water. Catharsis with 30 gm (10 oz) sodium sulphate in the cup of water -Barbiturates in appropriate dosages repeated as necessary for restlessness or convulsions.</figDesc><table><row><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nausea, vomiting,</cell><cell>restlessness, tremor,</cell><cell>apprehension,</cell><cell>convulsions, coma,</cell><cell>respiratory failure</cell><cell>and death</cell><cell>Mild -anorexia,</cell><cell>headache, dizziness,</cell><cell>weakness, anxiety,</cell><cell>tremors of tongue</cell><cell>and eyelids, miosis,</cell><cell>impairment of visual</cell><cell>acuity.</cell><cell>Moderate-nausea,</cell><cell>salivation,</cell><cell>lacrimation,</cell><cell>abdominal cramp,</cell><cell>vomiting, sweating,</cell><cell>slow pulse, muscular</cell><cell>tremors, miosis.</cell><cell>Severe -diarrhea,</cell><cell>pinpoint and non-</cell><cell>reactive pupils,</cell><cell>respiratory difficulty,</cell><cell>pulmonary edema,</cell><cell>cyanosis, loss of</cell><cell>sphincter control,</cell><cell>convulsions, coma</cell><cell>and heart block.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">Courtsey: NIPHM, Hyderabad</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1">If mite appeared in previous season, it requires prophylactic control measures in the current season.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2">Follow the recommended procedure of trap crop technology.Do not apply long persistent on trap crop, otherwise it may not attract the pests and natural</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3">www.cibrc.nic.in</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4">Source: www.cibrc.nic.in</note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A National Workshop on IPM for harmonization of Package of Practices was organized at the National Centre for Integrated Pest Management, New Delhi, during 25-26 th Feb., 2013 with a view to provide technical knowledge to the extension functionaries and farmers in the States. The IPM package has been developed with the technical inputs from the experts from the PI (AICRIP), Indian Council of Agricultural Research (NCIPM), State Agricultural Universities, and DPPQ &amp; S, Faridabad.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Formula:</head><p>Liter of EC = a. i. (%) desired x spray volume a.i. (%) in commercial EC</p><p>Example : 2000 L of 2 % Methyl Parathion spray is to be prepared. How much commercial 50 % EC is required?</p><p>Liters of Methyl Parathion = 2 x 2000 = 80 L 50 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Annexure-III</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pesticides and their Mode of Action</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Annexure-V</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General Guidelines for Management of Resistance</head><p>The general guidelines if adopted can prevent development of resistance by various pests in most of the agricultural situations. The general approaches to avoid them are as follows:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Insecticides</head><p>Maintain good plant health, Delay the spray of insecticide as far as possible.  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Agro Eco System Analysis</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Economic Threshold Levels (ETL) of major pests of</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">Generic IPM module based on Vegetative Stage Crop Stage/ Pest vis-a-vis IPM Practices</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">BIOTIC CONSTRAINTS</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Major Insect Pests: National Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">Yellow stem borer</title>
+				<imprint/>
+	</monogr>
+	<note>Scirpophaga incertulas Walker</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hopper</surname></persName>
+		</author>
+		<title level="m">Nilaparvata lugens Stal) and White backed plant hopper</title>
+				<imprint>
+			<publisher>Sogatella furcifera Horváth</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Leaf folder (Cnaphalocrocis medinalis Guenée)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Gundhi bug (Leptocorisa acuta Thunberg)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Gall Midge</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Orseolia oryzae Wood-Mason</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Major Insect Pests: Regional Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><surname>Termite</surname></persName>
+		</author>
+		<title level="m">Odontotermes obesus Rambur) -In rainfed upland areas</title>
+				<imprint/>
+	</monogr>
+	<note>irrigated rice-wheat system</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Swarming caterpillar (Spodoptera mauritia Boisduval) -Odisha</title>
+		<imprint>
+			<pubPlace>West Bengal, Jharkhand, Chhattisgarh and Punjab</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Climbing cutworm/Rice Ear Cutting Caterpillar/ Armyworm (Mythimna separata Walker) -In coastal rice growing areas</title>
+		<imprint>
+			<pubPlace>Haryana, Punjab and Uttar Pradesh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><surname>Caseworm</surname></persName>
+		</author>
+		<title level="m">Nymphula depunctalis Guenée) -In low lying and water logged areas in eastern India</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Stenchaetothrips biformis Bagnall) -In upland rice in Odisha</title>
+		<author>
+			<persName><surname>Thrips</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Andhra Pradesh, Madhya Pradesh, Punjab, Haryana, Assam and Tamil Nadu</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">White grub (Holotrichia spp.) -Hill rice</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Black bug (Scotinophara coaractata Fabricius</title>
+		<imprint>
+			<pubPlace>Andhra Pradesh, Tamil Nadu and Kerala</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Major Diseases of National Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Bacterial leaf blight (Xanthomonas campestris pv oryzae (Ishiyama Swings et al.))</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sheath blight (Rhizoctonia solani</title>
+	</analytic>
+	<monogr>
+		<title level="j">J.G. Kühn)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m">False smut (Ustilaginoidea virens (Cooke) Takah)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Brown spot (Helminthosporium oryzae Hiroë)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Major Diseases of Regional Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">Sheath rot (Sarocladium oryzae Sawada</title>
+				<imprint>
+			<publisher>Gams &amp; D. Hawksw</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Bakanae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Gibberella fujikuroi Nirenberg</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Stem rot (Sclerotium oryzae Catt</title>
+		<editor>R.A. Krause &amp; R.K. Webster</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Rice Tungro Virus</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m">Root knot nematode</title>
+				<imprint>
+			<publisher>Meloidogyne graminicola Golden &amp; Birchfield</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">White tip nematode</title>
+		<title level="s">Aphelehchoides besseyi Christie</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Major Nematodes of Regional Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ufra</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Dilylenchus angustus Buther</publisher>
+			<pubPlace>West Bengal, Assam and Tripura</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Rice root nematode (Hirschmanniella oryzae van brede de Haan) -Odisha</title>
+		<imprint>
+			<pubPlace>West Bengal, Bihar and Andhra Pradesh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Cyst nematode (Heterodera oryzae Luc &amp; Berdon) -in Kerala only</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Root lesion nematode (Pratylenchus indicus Das) -Upland and in SRI system</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Odisha and Jharkhand</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Major Weeds of National Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Weedy rice (Oryzae spp</title>
+		<imprint/>
+	</monogr>
+	<note>wild rice</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Major Weeds of Regional Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Eleusine indica L</title>
+		<imprint>
+			<publisher>Gaertn</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Amaranthus spinosus (L.)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m">Digitaria sanguinalis (Scop)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m">Fimbristylis littoralis (Vahl)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Paspalum spp</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Brachiaria spp</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Panicum spp</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Major Rodents of Regional Significance</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m">Smaller bandicoot</title>
+				<imprint/>
+	</monogr>
+	<note>Bandicota bengalensis Gray</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m">Soft furred field rat</title>
+				<imprint>
+			<publisher>Millardia meltada Gray</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Indian gerbil (Tatera indica Lataste)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m">Field mice (Mus spp</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Purchase only JUST required quantity e.g. 100, 250, 500 or 1000 g/ml for single application in specified area</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Do not purchase leaking containers, loose, unsealed or torn bags</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Avoid storage of pesticides in the house premises</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Keep only in original container with intact seal</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Do not transfer pesticides to other container</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Never keep them together with food or feed/fodder</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Keep away from the reach of children and livestock</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Do not expose to sun-light or rain water</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Do not store weedicides along with other pesticides</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Avoid carrying bulk -pesticides (dusts / granules) on head, shoulders or on the back. D. Precautions for Preparing Spray Solution 1</title>
+		<imprint/>
+	</monogr>
+	<note>Use clean water</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Always protect your NOSE, EYES, MOUTH, EARS and HANDS</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Use hand gloves, face mask and cover your head with cap</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Use polyethylene bags as hand gloves, handkerchiefs or piece of clean cloth as mask and a cap or towel to cover the head</title>
+		<imprint/>
+	</monogr>
+	<note>Do not use polyethylene bag contaminated with pesticides</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Read the label on the container before preparing spray solution</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">Prepare spray solution as per requirement</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Do not mix granules with water</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Concentrated pesticides must not fall on hands etc. while opening sealed containers. Do not smell the sprayer tank</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Avoid spilling of pesticide solution while filling the sprayer tank</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Do not eat, drink, smoke or chew while preparing solution</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">The operator should protect his bare feet and hands with polyethylene bags</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Select right kind of equipment</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Do not use leaky, defective equipment</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Select right kind of nozzle</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">Use old tooth-brushes tied with the sprayer and clean with water</title>
+		<imprint/>
+	</monogr>
+	<note>Don&apos;t blow/clean clogged-nozzle with mouth</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">Apply only at recommended dose and dilution</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Do not apply on hot sunny day or strong windy condition</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m">Do not apply just before the rains and also after the rains</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Do not apply against the wind direction</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Emulsifiable concentrate formulations should not be used for spraying with battery operated ULV sprayer</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">Wash the sprayer and bucket etc with soap water after spraying</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">used for mixing pesticides should not be used for domestic purposes</title>
+		<author>
+			<persName><surname>Containers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Etc</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m" type="main">Avoid entry of animals and workers in the fields immediately after the spraying</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Left over spray solution should not be drained in ponds or water lines etc. Throw it in barren isolated area</title>
+		<imprint/>
+	</monogr>
+	<note>if possible</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">The used/empty containers should be crushed with a stone / stick and burned deep into soil away from water source</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">Never re-use empty pesticide container for any purpose</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

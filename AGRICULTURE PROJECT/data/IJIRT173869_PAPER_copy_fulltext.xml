@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Multipurpose Equipment Used for Agricultural Processes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nandini</forename><surname>Dande</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Komal</forename><surname>Khule</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shivam</forename><surname>Vadaskar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tushar</forename><surname>Rathod</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Patil</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">JSPM&apos;s Rajarshi Shahu College of Engineering</orgName>
+								<address>
+									<settlement>Polytechnic</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Tathawade Dept. of Mechanical engineering</orgName>
+								<address>
+									<settlement>Pune</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Multipurpose Equipment Used for Agricultural Processes</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2349-6002</idno>
+					</monogr>
+					<idno type="MD5">99F983F95DE300FBEF23AFA4D0081CE9</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2025-12-19T09:39+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Multipurpose Tractor</term>
+					<term>Agriculture</term>
+					<term>Farming</term>
+					<term>Ploughing</term>
+					<term>digging</term>
+					<term>seed sowing</term>
+					<term>fertilizer pouring</term>
+					<term>and soil covering</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>India is an agriculture-based country, where a large portion of the population depends on farming for their livelihood. However, small-scale farmers face economic challenges that prevent them from affording expensive agricultural machinery like tractors and automated farming equipment. Due to this limitation, they continue to rely on traditional farming methods, which require intensive labour and time. To address this issue, a low-cost, multipurpose agricultural machine has been developed, aimed at reducing human effort, improving efficiency, and increasing productivity in farming operations. This project presents the design and fabrication of a multipurpose agricultural machine that integrates various farming processes into a single unit. The machine is capable of performing multiple agricultural tasks such as seed sowing, grass cutting (with two cutters), water drip irrigation, soil digging (ploughing), and soil planning after seed planting. By incorporating multiple functionalities into a single system, this innovation eliminates the need for separate costly machines, making modern mechanization accessible to small-scale farmers.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">INTRODUCTION</head><p>Agriculture plays a crucial role in India's economy, providing employment and livelihood to a large portion of the population. However, small-scale farmers face several challenges, primarily due to financial constraints that limit their access to modern agricultural machinery. The high cost of tractors, seed sowing machines, and soil plowing equipment makes it difficult for these farmers to adopt mechanized farming techniques. As a result, they continue to rely on traditional farming methods that are labour-intensive, time-consuming, and less efficient. To address these challenges, this project focuses on the design and development of a Multipurpose Agricultural Machine that integrates various essential farming operations into a single unit. This low-cost, efficient, and easy-to-use machine is designed to perform seed sowing, grass cutting (with two cutters), water drip irrigation, soil plowing (digging), and soil planning after seed planting. By combining multiple functions, the machine eliminates the need for separate farming equipment, reducing costs and improving productivity for small-scale farmers. The Multipurpose Agricultural Machine is powered by a 12V battery that drives different motors for various functions. The grass cutting mechanism operates using 555 motors, while the seed sowing mechanism is powered by a 10 RPM motor. The machine's movement is controlled by a wiper motor, which transmits power through a chain and sprocket system to the drive shaft and front wheels. A 20mm shaft and bearing arrangement ensure smooth rotation and efficient operation. The compact and lightweight design allows for easy manoeuvrability in small farming fields, making it an ideal solution for marginal farmers. This study focuses on the advantages of multipurpose agricultural vehicles for small-scale farms. It describes various operations, such as cutting, land levelling, and ploughing, that can be integrated into these machines. The research also offers insights into compact and efficient design, reducing manpower and labour costs. <ref type="bibr" target="#b5">6</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">LITERATURE REVIEW</head><p>Francesco Mocera et al., Multi-Body (MTB) Model of a Small Tracked Vehicle for Agricultural Applications[2019]: This paper presents a multibody (MTB) model of a small tracked vehicle designed for agricultural applications. These machines encounter various operational scenarios, especially in unpredictable terrains and slopes, which is critical for their design and functionality. 2. Material Preparation: Gather all necessary materials and components, including the 12-volt battery, 555 motor, 10 RPM motor, wiper motor, chain-sprocket system, 20mm shaft, bearings, and wheels. 3. Machine Assembly: Assemble the multipurpose machine, ensuring proper integration of the motors, driveshaft, chain-sprocket mechanism, and front wheels for smooth operation. 4. Power Connection: Connect the 12-volt battery to power the grass cutter motor, seed sowing motor, and wiper motor, ensuring efficient power distribution and management. 5. Soil Preparation: Use the plow attachment for soil digging and the soil planner for leveling, ensuring the ground is ready for seed planting. 6. Seed Sowing: Operate the 10 RPM motor to drive the seed sowing mechanism, ensuring consistent seed placement and spacing for optimal crop growth. 7. Grass Cutting: Activate the 555 motor to run the grass cutter, maintaining the field by trimming unwanted grass or vegetation. 8. Quality Check: Inspect the machine's performance after each operation, ensuring all components function correctly and adjustments are made as needed. 9. Maintenance and Storage: Perform regular maintenance on the machine, including cleaning, lubrication, and battery charging, and store it in a safe, dry place for future use. 10. Field Testing: Test the machine in real farming conditions to evaluate its efficiency, durability, and ease of use, making improvements based on feedback.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">OBJECTIVE OF THE PROJECT</head><p>4.1 Develop a multipurpose agricultural machine capable of performing multiple tasks including seed sowing, grass cutting, soil digging, and soil planning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.2</head><p>Incorporate a water drip system for efficient irrigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.3</head><p>Enable the use of a 12V battery to power various motors including a 555 motor for grass cutting, a 10 RPM motor for seed sowing, and a wiper motor for driving the system.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.4</head><p>Utilize chain sprockets connected to a driveshaft and front wheels (with 20mm shafts and bearings) to drive the entire machine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.5</head><p>Ensure cost-effectiveness and efficiency for small-scale agricultural operations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">OPERATION</head><p>The operation of the multipurpose agricultural machine is simple and efficient. The machine is capable of performing several tasks, including grass cutting, seed sowing, ploughing, soil planning, and irrigation, all with ease. 1. Grass Cutting: When the machine is in operation, the 555 motor is activated to power the grass cutters. As the motor turns, the cutters rotate, efficiently cutting the grass across the field. 2. Seed Sowing: For seed sowing, the 10 RPM motor operates the seed dispensing mechanism. The motor ensures that the seeds are evenly distributed in rows at the desired depth and spacing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Ploughing:</head><p>The plough is powered by the 555 motor, which drives the plough through the soil, preparing it for seed planting by loosening and aerating the ground.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Drip Irrigation:</head><p>The water tank is connected to the drip irrigation system, and when activated, it distributes water evenly across the soil, ensuring the crops receive adequate hydration. 5. Soil Planning: After sowing, the soil planner follows to level and compact the soil, covering the seeds and ensuring optimal conditions for germination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Movement of the Machine:</head><p>The machine is driven by the wiper motor, which powers the front wheels. The chain sprockets and driveshaft transfer power from the motor to the wheels, allowing the machine to move smoothly across the field.</p><p>The operation of the machine is driven manually with a simple control system. The motor-driven components perform their tasks with precision, making the machine versatile and effective for various agricultural operations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">DESIGN AND MECHANISM OF MULTIPURPOSE AGRICULTURAL EQUIPMENT</head><p>The proposed multipurpose agricultural machine consists of the following components:</p><p>6.1 Ploughing Mechanism</p><p>The ploughing system includes a reversible plough or rotary tiller to break and turn the soil before sowing. Adjustable depth settings ensure optimal soil preparation based on crop requirements. Operated through a tractor PTO (Power Take-Off) or selfpropelled motorized mechanism.  Multipurpose agricultural equipment has the potential to transform traditional farming by integrating ploughing, sowing, watering, and grass cutting into a single machine. The advantages of cost savings, efficiency, and sustainability make it a promising solution, especially for small and mediumscale farmers. However, challenges such as technical complexity and high initial costs must be addressed through innovation, government support, and farmer education. Future advancements in automation and renewable energy integration can further enhance the effectiveness and accessibility of such machines, paving the way for smarter, more sustainable agriculture.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>3. METHODOLOGY 1. Process Analysis: Analyze the current agricultural practices for seed sowing, grass cutting, soil digging, and leveling to identify inefficiencies and areas for automation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>This research emphasizes the design of the machine's chassis and frame, using lightweight materials to reduce costs. The vehicle is designed to perform various tasks, with the capability to work within specific rows and columns at predefined intervals, catering to different crop needs. 4.Ramesh D., Agriculture Seed Sowing Equipment: A Review [2019]: This paper reviews innovations in seed-sowing equipment, discussing methods to place seeds and fertilizers in rows at the desired depth and spacing. It also covers techniques to ensure proper compaction of soil over the seeds. 5.</figDesc><table><row><cell cols="5">the team developed a fertilizer distributor that</cell></row><row><cell cols="5">optimizes fertilizer application across fields. The</cell></row><row><cell cols="5">combination with a seed hopper ensures a</cell></row><row><cell cols="4">streamlined and efficient process.</cell></row><row><cell>2.</cell><cell cols="4">Dr. C.N. Sakhale et al., Review Paper on</cell></row><row><cell cols="2">"Multipurpose</cell><cell>Farm</cell><cell>Machine"</cell><cell>[2021]:</cell></row><row><cell cols="5">This paper discusses the mechanization of</cell></row><row><cell cols="5">agricultural machines, particularly focusing on the</cell></row><row><cell cols="5">ploughing tool. The research highlights how</cell></row><row><cell cols="5">replacing the ploughing teeth can extend the life of</cell></row><row><cell cols="5">the tool, offering valuable insights for improving</cell></row><row><cell cols="2">machine durability.</cell><cell></cell><cell></cell></row><row><cell>3.</cell><cell cols="4">Dhatchanamoorthy N. et al., Design and</cell></row><row><cell cols="5">Fabrication of Multipurpose Agriculture Vehicle</cell></row><row><cell cols="2">[2021]:</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.</cell><cell>Pratik Kumar V. Patel and Mukesh Ahuja,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Research and Design of Multipurpose Agriculture</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Equipment [2021]:</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>This research paper explores how traditional</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>agricultural machinery can be transformed into</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>modern, efficient tools. By integrating key findings,</cell></row></table><note>Aniruddha Autade et al., Multipurpose Agricultural Vehicles for Small-Scale Farms [2019]:</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">© March 2025 | IJIRT | Volume 11 Issue 10 | ISSN: 2349-6002</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Planters and their Components&quot; School of Agronomy and Horticulture</title>
+		<author>
+			<persName><forename type="first">J R</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tullberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bbasnet</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Australia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Queensland</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Hand Book of Agriculture</title>
+		<imprint>
+			<publisher>Indian Council Agricultural Research</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Chhidda</forename><surname>Singh</surname></persName>
+		</author>
+		<title level="m">Modern Techniques of Raising Field Crops</title>
+				<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford &amp; IBH Publ. Co</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Fundamentals of Agronomy</title>
+		<author>
+			<persName><forename type="first">Gopal</forename><surname>Chandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Oxford &amp; IBH Publ. Co</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Techniques and Management of Field Crop Production</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Rathore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agro bios</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Main Features of Indian Agriculture&quot; -Explained! -Article Shared by Pooja Mehta [7</title>
+		<editor>M.M.</editor>
+		<imprint>
+			<pubPlace>India</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Pandey Director Central Institute of Agricultural Engineering Bhopal</orgName>
+		</respStmt>
+	</monogr>
+	<note>Indian Agriculture -An Introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Dept. of Livestock &amp; Animal Husbandry, Ministry of Agriculture</title>
+	</analytic>
+	<monogr>
+		<title level="j">Livestock Census Report</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Govt. of India</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Indian Agricultural Statistics Research Institute</title>
+		<author>
+			<persName><forename type="first">Data</forename><surname>Book</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
